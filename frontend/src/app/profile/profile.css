@@ -1,0 +1,362 @@
+/* =========================================
+   PAGE
+========================================= */
+
+.profile-page {
+  min-height: 100vh;
+  width: 100%;
+  padding: 40px 20px;
+  overflow-x: hidden;
+
+  display: flex;
+  justify-content: center;
+
+  background:
+    radial-gradient(circle at top left,
+      rgba(99, 102, 241, 0.05),
+      transparent 30%),
+    radial-gradient(circle at bottom right,
+      rgba(59, 130, 246, 0.05),
+      transparent 35%),
+    linear-gradient(
+      135deg,
+      #f8fafc 0%,
+      #f1f5f9 45%,
+      #e2e8f0 100%
+    );
+}
+
+/* =========================================
+   CONTAINER
+========================================= */
+
+.profile-container {
+  width: 100%;
+  max-width: 860px;
+  position: relative;
+  z-index: 2;
+  animation: profileFadeUp 0.6s ease;
+}
+
+/* =========================================
+   BACK BUTTON
+========================================= */
+
+.profile-back-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+
+  margin-bottom: 28px;
+
+  border: none;
+  background: transparent;
+
+  color: #64748b;
+  font-size: 0.95rem;
+  font-weight: 500;
+
+  cursor: pointer;
+
+  transition: all 0.25s ease;
+}
+
+.profile-back-btn:hover {
+  color: #4f46e5;
+  transform: translateX(-2px);
+}
+
+/* =========================================
+   CARD
+========================================= */
+
+.profile-card {
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 30px;
+  padding: 38px;
+  box-shadow:
+    0 20px 40px rgba(15, 23, 42, 0.04),
+    inset 0 1px 1px rgba(255, 255, 255, 0.8);
+}
+
+/* =========================================
+   HEADER
+========================================= */
+
+.profile-header {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+
+  margin-bottom: 34px;
+}
+
+.profile-icon {
+  width: 64px;
+  height: 64px;
+
+  border-radius: 20px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  background: linear-gradient(
+    135deg,
+    #7c3aed,
+    #4f46e5
+  );
+
+  box-shadow:
+    0 12px 35px rgba(99, 102, 241, 0.2);
+}
+
+.profile-user-icon {
+  color: #ffffff;
+}
+
+.profile-title {
+  color: #1e293b;
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 6px;
+}
+
+.profile-subtitle {
+  color: #64748b;
+  font-size: 0.96rem;
+  line-height: 1.6;
+}
+
+/* =========================================
+   SECTION
+========================================= */
+
+.profile-list-section {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+/* =========================================
+   GRID
+========================================= */
+
+.profile-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+
+/* =========================================
+   FIELD
+========================================= */
+
+.profile-field {
+  display: flex;
+  flex-direction: column;
+}
+
+.profile-label {
+  color: #334155;
+  margin-bottom: 10px;
+  font-size: 0.95rem;
+  font-weight: 600;
+}
+
+.profile-hint {
+  color: #94a3b8;
+  margin-bottom: 8px;
+  font-size: 0.82rem;
+  line-height: 1.5;
+}
+
+/* =========================================
+   INPUT
+========================================= */
+
+.profile-input,
+.profile-select {
+  width: 100%;
+  min-height: 56px;
+
+  padding: 0 18px;
+
+  border-radius: 16px;
+
+  border: 1px solid #cbd5e1;
+
+  background: #ffffff;
+
+  color: #0f172a;
+  font-size: 0.96rem;
+
+  outline: none;
+
+  transition: all 0.25s ease;
+}
+
+.profile-input::placeholder {
+  color: #94a3b8;
+}
+
+.profile-input:focus,
+.profile-select:focus {
+  border-color: #6366f1;
+
+  box-shadow:
+    0 0 0 4px rgba(99, 102, 241, 0.1),
+    0 10px 30px rgba(99, 102, 241, 0.05);
+
+  transform: translateY(-1px);
+}
+
+/* =========================================
+   SELECT OPTION
+========================================= */
+
+.profile-select option {
+  background: #ffffff;
+  color: #0f172a;
+}
+
+/* =========================================
+   BUTTON
+========================================= */
+
+.profile-save-btn {
+  width: 100%;
+  height: 58px;
+
+  margin-top: 8px;
+
+  border: none;
+  border-radius: 18px;
+
+  background: linear-gradient(
+    135deg,
+    #7c3aed,
+    #4f46e5
+  );
+
+  color: #ffffff;
+  font-size: 1rem;
+  font-weight: 700;
+
+  cursor: pointer;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+
+  transition: all 0.3s ease;
+
+  box-shadow:
+    0 10px 30px rgba(99, 102, 241, 0.2);
+}
+
+.profile-save-btn:hover {
+  transform: translateY(-2px);
+
+  box-shadow:
+    0 18px 40px rgba(99, 102, 241, 0.3);
+}
+
+.profile-save-btn:disabled {
+  opacity: 0.7;
+  cursor: not-allowed;
+}
+
+/* =========================================
+   LOADER
+========================================= */
+
+.profile-loader {
+  width: 18px;
+  height: 18px;
+
+  border: 2px solid rgba(255,255,255,0.3);
+  border-top-color: #ffffff;
+
+  border-radius: 50%;
+
+  animation: profileSpin 0.7s linear infinite;
+}
+
+@keyframes profileSpin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* =========================================
+   LOADING
+========================================= */
+
+.profile-loading {
+  min-height: 100vh;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  background: #f8fafc;
+
+  color: #64748b;
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+/* =========================================
+   ANIMATION
+========================================= */
+
+@keyframes profileFadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(18px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* =========================================
+   RESPONSIVE
+========================================= */
+
+@media (max-width: 900px) {
+
+  .profile-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .profile-card {
+    padding: 30px 24px;
+  }
+}
+
+@media (max-width: 640px) {
+
+  .profile-header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .profile-title {
+    font-size: 1.7rem;
+  }
+
+  .profile-icon {
+    width: 58px;
+    height: 58px;
+  }
+
+  .profile-card {
+    padding: 26px 20px;
+  }
+}

@@ -1,0 +1,30 @@
+# Secrets
+.env
+.env.local
+.env.production
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.pytest_cache/
+*.pyd
+.Python
+dist/
+build/
+
+# ChromaDB
+chroma_db/
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# Alembic
+*.pyc

@@ -1,0 +1,271 @@
+DERMATOLOGY — COMPREHENSIVE MEDICAL REFERENCE
+==============================================
+Source: Medical Training Data for AIVARA Healthcare AI
+Category: Dermatology | Version: 1.0
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 1: APPROACH TO SKIN DISEASE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+MORPHOLOGICAL TERMINOLOGY:
+Primary lesions: macule (flat discolouration <1cm), patch (flat discolouration >1cm), papule (raised solid <1cm), plaque (raised solid >1cm — flat-topped), nodule (solid raised >1cm — depth), vesicle (fluid-filled blister <1cm), bulla (fluid-filled >1cm), pustule (pus-containing), wheal/urticaria (transient raised oedematous lesion — fleeting, no scale), comedone (follicular plug — open=blackhead, closed=whitehead), telangiectasia (dilated superficial blood vessel).
+Secondary lesions: scale (desquamated dead keratinocytes), crust (dried serum/blood/exudate), erosion (partial epidermal loss — heals without scar), ulcer (full-thickness skin loss — heals with scar), fissure (linear crack), lichenification (thickened skin with accentuated markings — from chronic scratching), excoriation (scratch mark), atrophy (thinning of epidermis or dermis), scar (fibrous tissue replacing skin), keloid (hypertrophic scar extending beyond original wound boundary).
+Distribution: localised vs generalised, symmetrical vs asymmetrical, flexural vs extensor, sun-exposed vs covered, follicular vs non-follicular, dermatomal.
+Colour: erythema (red — vascular), purpura/petechiae (non-blanching — extravasated RBCs), hyperpigmentation (increased melanin or haemosiderin), hypopigmentation (reduced melanin), vitiligo (absent melanocytes), jaundice (yellow — bilirubin), cyanosis (blue — deoxyhaemoglobin).
+Arrangement: grouped (herpetiform — HSV), linear (Koebner phenomenon — psoriasis, lichen planus, viral warts appearing at sites of trauma), annular (ring-shaped — tinea, erythema migrans, granuloma annulare), target (three-zone — erythema multiforme), reticulate (net-like — livedo reticularis).
+ABCDE of melanoma: Asymmetry, Border irregularity, Colour variation, Diameter >6mm, Evolution (change).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 2: ECZEMA / ATOPIC DERMATITIS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DEFINITION AND EPIDEMIOLOGY:
+Atopic dermatitis (AD) is a chronic, relapsing inflammatory skin condition characterised by intense pruritus, dry skin (xerosis), and eczematous lesions. Most common inflammatory skin disease — affects 15-20% of children and 2-3% of adults in developed countries. Strong genetic component (FLG — filaggrin gene mutations in 30-50% of European AD — loss of skin barrier function → allergen penetration and sensitisation). Part of the atopic march: AD → allergic rhinitis → asthma → food allergy.
+
+PATHOPHYSIOLOGY:
+Skin barrier defect (filaggrin mutation, reduced ceramides) → increased transepidermal water loss (TEWL) → dry skin → allergen penetration → Th2-skewed immune response (IL-4, IL-13 — type 2 inflammation) → IgE sensitisation → mast cell activation → itching → scratching → barrier damage (itch-scratch cycle). Chronic disease: Th2 → Th1/Th22 shift → lichenification. Microbiome dysbiosis: Staphylococcus aureus colonisation in >90% of AD (colonisation ≠ infection — drives inflammation via superantigens and proteases).
+
+CLINICAL FEATURES BY AGE:
+Infants (0-2 years): cheeks, scalp, extensor surfaces. Oozing, crusting vesicles. Napkin area usually spared.
+Children (2-12 years): flexural distribution — antecubital fossae, popliteal fossae, wrists, ankles, neck. Lichenification from chronic scratching.
+Adults: flexural, face/neck (especially eyelids), hands (hand eczema). Chronic lichenified plaques. Widespread distribution in severe disease.
+Features: xerosis (dry skin), pruritus (often worse at night), Dennie-Morgan fold (extra skin fold under lower eyelid), periorbital darkening, pityriasis alba (hypopigmented patches on face — especially in darker skin types), keratosis pilaris (follicular hyperkeratosis on upper arms/thighs — associated), white dermographism (pressure → white line instead of normal red — reduced histamine response), reduced sweating.
+Severity assessment: EASI (Eczema Area and Severity Index — validated, used in trials), SCORAD (SCORing Atopic Dermatitis), IGA (Investigator Global Assessment), POEM (Patient-Oriented Eczema Measure — patient self-report — validated).
+
+COMPLICATIONS:
+Infections: bacterial (impetigo — honey-coloured crusting superimposed on eczema — S. aureus most common; erythematous spreading = cellulitis; systemic sepsis rare), viral (eczema herpeticum — HSV disseminated — severe, painful erosions/punched-out lesions in clusters on eczematous skin — EMERGENCY — IV aciclovir; eczema molluscatum — molluscum contagiosum disseminated; eczema coxsackium — hand, foot, mouth disseminated).
+Psychological: depression (50%), anxiety, sleep disturbance, social isolation, poor school/work performance. AD significantly impairs quality of life — comparable to severe chronic diseases.
+Ocular: anterior subcapsular cataract (especially with frequent topical/systemic corticosteroids), keratoconus, blepharoconjunctivitis, corneal scarring (eczema herpeticum).
+
+MANAGEMENT:
+Emollients: cornerstone of AD management. Regular application (500g/week for adults, 250g/week for children — "prescribe by the bucket"). Leave-on emollients (apply 2-4× daily): ointments most effective (Epaderm, Hydromol — petroleum jelly-based) but greasy; creams acceptable; lotions least effective (high water content → evaporation → drying). Soap substitutes (replace soap/shower gel — Dermol 500, Aqueous cream — avoid as leave-on emollient: sodium lauryl sulphate irritant). Apply emollient 30 min before topical steroids (improves absorption). Emollients reduce trigger exposure and restore barrier.
+Topical corticosteroids (TCS): anti-inflammatory — mainstay of acute treatment. Potency: mild (hydrocortisone 1% — face, flexures, infants), moderate (clobetasone butyrate 0.05% — Eumovate), potent (betamethasone valerate 0.1% — Betnovate; mometasone furoate 0.1% — Elocon — once daily advantage), very potent (clobetasol propionate 0.05% — Dermovate — hands/feet, thick plaques; avoid face/flexures). Fingertip unit (FTU): amount squeezed from 2cm nozzle onto fingertip = 0.5g = covers 2 palms. Side effects: skin atrophy, striae, telangiectasia, purpura, perioral dermatitis, rosacea, steroid acne, hypopigmentation, tachyphylaxis — all with prolonged potent steroid use on thin skin. Systemic absorption (HPA axis suppression) minimal with low-potency TCS but caution with potent in infants/extensive disease. Steroid phobia: major barrier to treatment — address concerns, explain safety of appropriate use.
+Topical calcineurin inhibitors (TCIs): tacrolimus ointment (0.03% children, 0.1% adults — Protopic), pimecrolimus cream (1% — Elidel). CNI mechanism: inhibit calcineurin → block T cell activation → reduce IL-2/IL-4/IFN-γ. Steroid-sparing — particularly useful for face, eyelids, skin folds (where steroids cause most side effects). No skin atrophy. Burning/stinging on application (temporary). Previously black box warning for theoretical malignancy risk (not borne out in long-term studies — not clinically significant). Proactive therapy: intermittent 2×/week application to prone areas prevents flares (NICE recommends for moderate-severe AD).
+Phosphodiesterase 4 inhibitors:
+Crisaborole (Eucrisa/Staquis): topical PDE4 inhibitor. Mild-moderate AD. Reduces cAMP breakdown → anti-inflammatory. Licensed from 3 months. Stinging on application. Limited potency vs TCS.
+Roflumilast cream (Zoryve): more potent PDE4 inhibitor, lower irritancy. Licensed for mild-moderate AD.
+Antihistamines: non-sedating (loratadine, cetirizine) — limited evidence for AD itch (not histamine-mediated primarily). Sedating (chlorphenamine, hydroxyzine) — for nocturnal itch and sleep. Useful short-term.
+Wet wraps: wet cotton bandages applied over topical treatment and emollient — reduce itch, improve absorption, cool. Particularly for acute severe childhood AD.
+Systemic immunosuppressants (moderate-severe AD failing optimal topical therapy):
+Ciclosporin: most rapid onset (2 weeks) — calcineurin inhibitor. 2.5-5 mg/kg/day. Renal monitoring (creatinine, BP — 2-weekly initially), LFTs, lipids. Maximum 2 years continuous use (renal toxicity). Effective for rapid control or acute severe flares.
+Methotrexate: 10-25 mg/week SC/oral + folic acid. Slower onset (8-12 weeks). Hepatotoxicity, myelosuppression (monitor FBC/LFTs). Teratogenic.
+Azathioprine: 1-2.5 mg/kg/day. Check TPMT before starting. FBC monitoring. GI side effects. Useful maintenance.
+Mycophenolate mofetil: 1-3 g/day divided doses. Good tolerability, slower onset.
+Biologics for moderate-severe AD:
+Dupilumab (Dupixent): anti-IL-4Rα — blocks IL-4 AND IL-13 signalling (both key Th2 cytokines). SC injection every 2 weeks (loading 600mg, then 300mg). Approved from 6 months in UK. SOLO-1, SOLO-2, CHRONOS trials — dramatic improvement in EASI score, pruritus, sleep, QoL. Side effects: conjunctivitis (15% — most common — artificial tears, consider ophthalmology), injection site reactions, eosinophilia (usually transient). Safe long-term — no immunosuppression per se. Game-changer for severe AD.
+Tralokinumab (Adtralza): anti-IL-13 specifically. SC every 2 weeks. Comparable efficacy to dupilumab.
+Lebrikizumab (Ebglyss): anti-IL-13. Monthly after loading doses.
+Nemolizumab: anti-IL-31Rα — primarily antipruritic (IL-31 is "itch cytokine"). Reduces pruritus specifically.
+JAK inhibitors for AD:
+Upadacitinib (Rinvoq — 15mg, 30mg OD): oral JAK1 inhibitor. Very effective — MEASURE OF UP trials — faster and greater EASI improvement than dupilumab (HEAD-to-HEAD — Heads Up trial). Approved AD ≥12 years.
+Abrocitinib (Cibinqo — 100mg, 200mg OD): oral JAK1 inhibitor. JADE COMPARE — comparable to dupilumab.
+Baricitinib (Olumiant — 2mg, 4mg OD): oral JAK1/2 inhibitor. Approved AD ≥18 years.
+Safety class concerns (all JAK inhibitors): ORAL Surveillance data — VTE, MACE, malignancy, serious infections, herpes zoster (vaccination before starting). Apply particularly in older patients with CV risk factors — use with caution; dupilumab preferred if no urgent need for JAK inhibitor. Required boxed warning. Screen for TB/hepatitis before starting.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 3: PSORIASIS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DEFINITION AND EPIDEMIOLOGY:
+Chronic immune-mediated inflammatory disease affecting skin, nails, and joints. Affects 2-3% of population worldwide. Bimodal: early onset (16-22 years, HLA-Cw6 association — Type I, hereditary, severe, nail/joint involvement) and late onset (55-60 years — Type II, less severe). M=F. Significant comorbidities: psoriatic arthritis (30%), cardiovascular disease (1.5× increased risk — Framingham underestimates in psoriasis), metabolic syndrome, depression, inflammatory bowel disease, uveitis.
+
+PATHOPHYSIOLOGY:
+Genetic predisposition (PSORS1 locus — HLA-Cw6; IL-23 pathway genes; IL-17 pathway; NF-κB signalling) + environmental triggers (streptococcal infection — especially guttate psoriasis; HIV; drugs — lithium, beta-blockers, antimalarials, ACE inhibitors, NSAIDs, IFN-alpha; stress; alcohol; smoking; trauma — Koebner phenomenon). Dysregulated T cell activation: DC produces IL-23 → Th17 activation → IL-17A/F, IL-22 production → keratinocyte proliferation (reduced turnover from 28 to 4 days — incomplete maturation → parakeratosis → silvery scale), angiogenesis, neutrophil recruitment. TNF-alpha amplifies inflammation. Key therapeutic targets: IL-23, IL-17, TNF-alpha, PDE4, JAK.
+
+CLINICAL FEATURES:
+Plaque psoriasis (psoriasis vulgaris — 80-90%): well-demarcated erythematous plaques with adherent silvery-white scale. Extensor surfaces (elbows, knees — spares flexures — contrast eczema), scalp (30-50% — scalp psoriasis — thick scaly plaques on scalp ± ears), sacrum. Auspitz sign: removal of scale reveals pinpoint bleeding (dilated capillaries in dermal papillae). Koebner phenomenon: new plaques appearing at sites of trauma. Itch variable (30% severely itchy). Nail psoriasis (50%): pitting (most common), onycholysis (separation of nail from nail bed — oil stain sign — yellow-brown discolouration under nail), subungual hyperkeratosis, nail dystrophy, splinter haemorrhages. Nail involvement associated with psoriatic arthritis.
+Guttate psoriasis: acute eruption of small (<1cm) raindrop-shaped papules on trunk and limbs. Follows streptococcal pharyngitis (1-3 weeks after) — particularly in children/young adults. Often self-limiting (3-4 months). May progress to plaque psoriasis.
+Flexural/inverse psoriasis: smooth non-scaly erythematous patches in body folds (axillae, groins, submammary, perianal, umbilicus). No scale (humidity prevents scale accumulation). Candida infection may coexist.
+Palmoplantar psoriasis: thick hyperkeratotic plaques or pustulosis (sterile pustules — not infectious) on palms and soles. Significantly disabling (walking, manual work).
+Pustular psoriasis: generalised (von Zumbusch — acute, severe — sterile pustules on erythematous skin, systemic toxicity, fever, can be life-threatening — admit) vs localised (palmoplantar — PPPP).
+Erythrodermic psoriasis: generalised erythema >90% BSA — systemic toxicity (thermoregulation failure, fluid/protein loss, high-output cardiac failure, infection). Emergency management.
+Psoriatic arthritis: see rheumatology section.
+
+SEVERITY ASSESSMENT:
+BSA (body surface area): one hand palm = 1% BSA. Mild <10%, moderate 10-30%, severe >30%.
+PASI (Psoriasis Area and Severity Index): 0-72 scale assessing erythema, induration, scale across 4 body regions weighted for area. PASI 75/90/100 = 75/90/100% improvement from baseline — treatment response benchmark. PASI 90 now standard target.
+DLQI (Dermatology Life Quality Index): 10-item QoL measure — 0-30 (higher worse). Moderate-severe AD = DLQI ≥10.
+IGA (Investigator Global Assessment): 0 (clear) to 4 (severe).
+
+MANAGEMENT:
+Topical (mild-moderate psoriasis):
+Vitamin D analogues (calcipotriol/calcipotriene, calcitriol, tacalcitol): inhibit keratinocyte proliferation, normalise differentiation, anti-inflammatory. First-line for limited mild-moderate plaque psoriasis. Calcipotriol/betamethasone dipropionate combination (Dovobet/Enstilar foam — Xamiol gel for scalp): most effective topical — synergistic, once-daily, highly effective — DAIVOBET studies. Limit to <100g/week (systemic calcium absorption risk). Side effects: perilesional skin irritation, hypercalcaemia (overdose).
+Topical corticosteroids: as above (potent on body, mild on face/flexures). Limited to intermittent/short-term use to avoid tachyphylaxis, skin atrophy.
+Coal tar: reduces keratinocyte proliferation, anti-inflammatory, antipruritic. Cosmetically unacceptable (smell, staining) but effective. Combined Cocois (coal tar + salicylic acid + sulphur) for thick scalp plaques.
+Dithranol (anthralin): potent anti-proliferative. Short-contact therapy (30min, wash off). Stains skin/clothing purple-brown. Rarely used now.
+Salicylic acid: keratolytic — removes scale, improves penetration of other treatments.
+Tazarotene: topical retinoid. Effective but irritating.
+Tapinarof (Vtama): aryl hydrocarbon receptor agonist (AhR) — novel mechanism — once-daily cream — phase 3 PSOARING trials — effective for mild-moderate plaque psoriasis, no skin atrophy risk.
+Roflumilast cream 0.3% (Zoryve): PDE4 inhibitor — approved for mild-moderate plaque psoriasis including intertriginous areas — effective, well-tolerated.
+
+Phototherapy (moderate psoriasis, extensive, or failing topical):
+Narrowband UVB (NBUVB — 311-313nm): most widely used phototherapy. 3×/week sessions. Highly effective (60-70% PASI 75). Safe in pregnancy. Inhibits T cell proliferation, induces apoptosis, reduces IL-17. Cumulative UV dose concerns (skin cancer long-term — less risk than PUVA).
+PUVA (psoralen + UVA): 8-methoxypsoralen + UVA radiation. More effective than NBUVB but higher skin cancer risk (melanoma and NMSC) — limited cumulative doses. Oral or bath PUVA. Less commonly used now with effective biologics.
+Excimer laser: 308nm UVB — targeted lesional treatment. Good for limited stable plaques, palms/soles, scalp.
+Systemic non-biologic (moderate-severe):
+Methotrexate (MTX): 7.5-25mg weekly (SC preferred at higher doses). Hepatotoxicity (FIB-4 monitoring — liver biopsy if FIB-4 high or cumulative dose >1.5g), pulmonary toxicity, myelosuppression, teratogenic. Folic acid 5mg weekly. Monitor FBC/LFTs. Less effective than biologics but inexpensive — useful with adequate monitoring.
+Ciclosporin: rapid onset (2-4 weeks). 2.5-5 mg/kg/day. Renal toxicity, hypertension, malignancy risk (NMSC). Short-term courses (max 2 years). Not for psoriasis with personal/family history of malignancy.
+Acitretin: oral retinoid (vitamin A analogue). Useful for pustular/erythrodermic/palmoplantar psoriasis. Teratogenic (2 years contraception required after stopping — long tissue half-life). Hyperlipidaemia, hepatotoxicity, mucocutaneous side effects (dry lips, sticky skin, hair loss). Not combined with methotrexate (hepatotoxicity). Rarely monotherapy for plaque psoriasis.
+Apremilast (Otezla): oral PDE4 inhibitor. 30mg BD. GI side effects (nausea, diarrhoea — initiate titration pack). Depression/suicidal ideation (monitor). Weight loss. Moderate efficacy (PASI 50 in ~35%). No immunosuppression, no laboratory monitoring. Useful for mild-moderate or patients who cannot receive immunosuppressants/biologics.
+Biologics (moderate-severe psoriasis PASI ≥10 or DLQI ≥10):
+Anti-TNF:
+Adalimumab (Humira): SC fortnightly. PASI 75 in 70-75%. Onset 2-4 weeks.
+Infliximab (Remicade): IV infusion. Fastest onset — useful acute severe/erythrodermic. PASI 75 in 80%.
+Etanercept (Enbrel): SC twice-weekly. PASI 75 in 49% — less effective but safer. Useful in mild-moderate end of severe spectrum.
+Certolizumab (Cimzia): pregnancy-preferred (no Fc portion — minimal placental transfer).
+Anti-IL-17A:
+Secukinumab (Cosentyx): 150-300mg SC monthly (weekly loading). PASI 90 in 70%. Fastest complete skin clearance of any biologic. FIXTURE, ERASURE trials. Avoid if active IBD (may worsen). Candida mucocutaneous infections slightly increased.
+Ixekizumab (Taltz): 80mg SC biweekly then monthly. PASI 90 in 72%. Similar profile to secukinumab.
+Bimekizumab (Bimzelx): anti-IL-17A AND IL-17F (both isoforms). BE VIVID, BE SURE trials — superior PASI 90 and PASI 100 vs secukinumab and adalimumab. SC monthly after loading. PASI 90 in ~90%, PASI 100 in ~70%. Most effective biologic for skin clearance. Oral candidiasis more frequent than IL-17A-only.
+Anti-IL-23 (p19):
+Guselkumab (Tremfya): SC 100mg every 8 weeks after loading. PASI 90 in 73%. VOYAGE trials.
+Risankizumab (Skyrizi): SC 150mg every 12 weeks after loading. PASI 90 in 75%. UltIMMa trials. Every-12-week dosing advantage.
+Tildrakizumab (Ilumetri): SC 100mg every 12 weeks. reSURFACE trials.
+Anti-IL-23 (p40 — same as anti-IL-12/23):
+Ustekinumab (Stelara): SC 45mg (weight-based: ≥100kg → 90mg) at weeks 0, 4, then every 12 weeks. PASI 75 in 66-76%. Long dosing interval. Also licensed PsA, Crohn's, UC.
+Deucravacitinib (Sotyktu): oral selective TYK2 inhibitor. Blocks IL-23 and IL-12 signalling downstream. POETYK PSO-1, PSO-2 — PASI 75 in 53%, superior to apremilast, not quite anti-IL-17 level. Once-daily oral. Very favourable safety profile vs JAK inhibitors (no class warning — TYK2 not JAK1/2/3).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 4: ACNE VULGARIS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DEFINITION AND EPIDEMIOLOGY:
+Chronic inflammatory disease of the pilosebaceous unit. Affects 80-85% of teenagers, 15-30% of adults (adult female acne increasingly recognised). Peak 14-17 years (girls), 16-19 years (boys). Significant psychological impact — depression, anxiety, social withdrawal.
+
+PATHOGENESIS (four factors):
+1. Increased sebum production: androgens (dihydrotestosterone — DHT — most potent) stimulate sebaceous glands → excess sebum → comedone.
+2. Follicular hyperkeratinisation: abnormal shedding of follicular epithelium → keratinocyte plug → comedone formation.
+3. Propionibacterium acnes (now Cutibacterium acnes): anaerobic gram-positive rod colonising follicle → lipase activity → free fatty acids from sebum triglycerides → inflammatory cascade (TLR2 stimulation → IL-1β, TNF → inflammation).
+4. Inflammation: innate and adaptive immune activation → inflammatory papules, pustules, cysts.
+
+CLINICAL TYPES AND GRADING:
+Non-inflammatory: open comedones (blackheads — melanin oxidation — not dirt), closed comedones (whiteheads).
+Inflammatory: papules (<5mm, solid, red), pustules (<5mm, pus-filled), nodules (≥5mm, firm, deep), cysts (encapsulated pus — more correctly: nodulocystic acne — misnomer but widely used).
+Distribution: face (>99%), neck, chest, back, shoulders (upper body — sebaceous gland-rich areas).
+Grading: mild (predominant comedones + few papules/pustules), moderate (widespread papulopustular ± few nodules), severe (extensive nodules/cysts, widespread inflammation — risk of scarring).
+Complications: scarring (ice-pick, rolling, boxcar — atrophic; hypertrophic; keloid), post-inflammatory hyperpigmentation (especially in darker skin), psychological sequelae.
+
+MANAGEMENT:
+Topical (mild-moderate):
+Benzoyl peroxide (BPO): bactericidal (not bacteriostatic — no resistance), keratolytic, anti-comedonal. First-line. 2.5-10% gel/wash. Bleaches fabrics. May irritate — start low concentration. Combination with antibiotics reduces resistance.
+Retinoids (tretinoin, adapalene, tazarotene): vitamin A derivatives. Normalise follicular keratinisation, anti-comedonal, anti-inflammatory. First-line for comedonal acne. Adapalene 0.1%/0.3% — better tolerated, available OTC in some countries. Teratogenic (avoid in pregnancy). Photosensitivity — use sunscreen, apply at night. Irritation (dryness, peeling — start alternate nights).
+Antibiotics (topical — clindamycin 1%, erythromycin 2%): anti-inflammatory and antibacterial. ALWAYS combine with BPO (prevents resistance). Do NOT use topical antibiotic alone. Limited to 12 weeks continuous use. Clindamycin preferred (less resistance).
+Azelaic acid (15-20% cream/gel): anti-inflammatory, anti-comedonal, mild antibacterial. Safe in pregnancy. Good for PIH (pigment-reducing). Well tolerated.
+Dapsone 5%/7.5% gel: anti-inflammatory. Particularly effective for inflammatory adult female acne (ROSACEA overlap). No resistance concerns.
+Niacinamide (nicotinamide): anti-inflammatory, sebostatic. OTC, evidence growing for mild acne.
+Clascoterone 1% (Winlevi/Cassiopea): topical androgen receptor antagonist — targets sebaceous gland androgen stimulation at local level. Effective for hormonal acne. No systemic anti-androgenic effects.
+
+Oral systemic (moderate-severe, truncal acne, failure of topical):
+Oral antibiotics: doxycycline 50-100mg OD (most used — anti-inflammatory at low dose, not just antibacterial) or lymecycline 408mg OD (UK commonly prescribed) or minocycline 100mg OD (pigmentation risk with prolonged use — autoimmune reactions). Duration: maximum 12-16 weeks (reduce resistance; must combine with topical BPO + retinoid throughout and after antibiotic to prevent resistance). No more than 2 antibiotic courses without review.
+Combined oral contraceptive pill (COCP — women): oestrogen component suppresses sebum production (reduces androgen binding), also increases SHBG (binds androgens). Any combined OCP helps acne to some degree. Most evidence: co-cyprindiol (Dianette — cyproterone acetate — anti-androgen + ethinyloestradiol — most effective but higher VTE risk — use short-term for acne, switch after clearing). Others: norgestimate, desogestrel, drospirenone (anti-androgenic progestogens) containing pills. Avoid progestogen-only pill if acne (may worsen).
+Spironolactone (off-label for acne in women): aldosterone antagonist with anti-androgenic properties. 25-150mg daily. Reduces sebum. SACI trial — effective for moderate-severe female adult acne. Side effects: hyperkalaemia (avoid if renal impairment), menstrual irregularity (combine with COCP), potassium-raising drugs. Monitor potassium. Not licensed for acne in UK (off-label) but NICE 2021 recommends as option.
+Isotretinoin (Roaccutane/Accutane — oral retinoid): most effective acne treatment — achieves long-term remission in 80%. Reduces all four pathogenic factors: sebum production (-80%), follicular keratinisation, C. acnes colonisation, inflammation. Dose: 0.5-1 mg/kg/day cumulative target dose 120-150 mg/kg (total course). Duration: typically 4-6 months.
+ABSOLUTE CONTRAINDICATION: pregnancy (category X — major teratogen: craniofacial defects, cardiac malformations, microcephaly, microtia). UK: MHRA/NICE Pregnancy Prevention Programme (iPLEDGE equivalent) — mandatory for all women of childbearing potential. Requirements: two forms of contraception started 1 month before, during, and 1 month after treatment; pregnancy test before each monthly prescription; monthly blood test (LFTs, lipids); prescriber must be registered; dispense 30-day supply maximum.
+Side effects: very common — dry lips (cheilitis — 100%), dry skin, dry eyes (lubricating drops), dry nasal mucosa (epistaxis — petroleum jelly to nasal passages), transient acne flare (first month — especially nodulocystic — can co-prescribe prednisolone short course), photosensitivity. Musculoskeletal: myalgia, arthralgia (dose-dependent), CK elevation (avoid intensive exercise — rhabdomyolysis rare). Lipids: hypertriglyceridaemia, hypercholesterolaemia (monitor — reduce dose if severe). Hepatotoxicity (transaminase elevation — common but usually mild — monitor LFTs). Night blindness (rare — reduced adaptation to dark). Hair thinning (rare, reversible). Mental health: depression, suicidal ideation (controversial — acne itself causes depression; isotretinoin may improve QoL in some; monitor; prescribe cautiously with active psychiatric illness).
+Acne flare management: initial dose 0.25-0.5 mg/kg, short-course prednisolone (30-40mg × 2 weeks) for severe nodulocystic acne before/with isotretinoin.
+
+ACNE SPECIAL SITUATIONS:
+Hormonal acne (women): later onset, perimenstrual flares, jaw/chin distribution — anti-androgen therapy (COCP, spironolactone, clascoterone).
+Acne rosacea: distinct condition — mid-face flushing/erythema, papulopustules, telangiectasia, rhinophyma (enlarged nose), ocular rosacea — ABSENCE of comedones (key feature distinguishing from acne). Triggered by heat, alcohol, spicy food, UV, stress. Treatment: topical ivermectin 1% (Soolantra — anti-mite, anti-inflammatory — most effective topical), topical brimonidine/oxymetazoline (vasoconstriction — flushing), topical metronidazole, azelaic acid; oral doxycycline (anti-inflammatory dose 40mg MR — subantimicrobial — Oracea), isotretinoin (severe/rhinophyma).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 5: SKIN CANCER
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+BASAL CELL CARCINOMA (BCC):
+Most common skin cancer (and most common cancer in humans) — 75% of skin cancers. Incidence increasing. Caused by UV damage → sonic hedgehog pathway activation (PTCH1 mutation). Slow-growing, locally invasive but VERY RARELY metastasises (<0.1%). Occurs on sun-exposed skin (face — especially nose, periorbital; ears, scalp, upper body). Risk: fair skin, UV exposure, immunosuppression, Gorlin syndrome (PTCH1 germline — multiple BCCs, medulloblastoma, jaw keratocysts).
+Subtypes:
+Nodular BCC (most common — 70%): pearlescent/translucent papule with rolled border and telangiectasia, may ulcerate centrally ("rodent ulcer"). Pink/skin-coloured on fair skin; pigmented variant.
+Superficial BCC: scaly erythematous patch, ill-defined margins, on trunk/shoulders. Multiple lesions, difficult to fully excise.
+Morphoeic/sclerosing/infiltrative BCC: flat scar-like plaque with ill-defined margins — most aggressive subtype, extends beyond visible margins, high recurrence rate.
+Micronodular, basosquamous (more aggressive).
+Diagnosis: clinical + dermoscopy (spoke wheel pattern, arborising vessels, blue-grey ovoid nests, maple-leaf areas, shiny white structures). Biopsy if uncertain.
+Treatment: surgical excision (4-6mm margins for nodular; 5mm + Mohs for high-risk). Mohs micrographic surgery: staged excision with immediate histological margin assessment — highest cure rate, tissue-sparing — recommended for high-risk sites (face — nose, eyelids, ears, lips), large tumours, infiltrative/morphoeic, recurrent BCCs. Superficial BCC — alternatives: topical imiquimod (immune response modifier — cream × 5 nights/week × 6 weeks — good for multiple/large/inconvenient location), photodynamic therapy (PDT — 5-ALA cream + red light — good cosmesis), cryotherapy (simple superficial lesions), curettage and cautery. Radiotherapy: poor surgical candidates, positive margins not amenable to further surgery. Vismodegib/sonidegib (hedgehog pathway inhibitor): oral, for locally advanced or metastatic BCC not amenable to surgery — ERIVANCE trial. Side effects: muscle cramps, alopecia, taste loss, fatigue, weight loss — significant, often require treatment breaks.
+
+SQUAMOUS CELL CARCINOMA (SCC):
+Second most common skin cancer (~20%). Can metastasise (5-10% overall, higher for high-risk features). Risk: UV exposure, fair skin, immunosuppression (organ transplant patients — 100× increased risk — aggressive — reduced immunosuppression, close surveillance, retinoids for prevention), chronic inflammation/scarring (Marjolin's ulcer — SCC in chronic wound/burn scar), HPV (anogenital SCC, oropharyngeal, periungual), arsenic exposure, radiation, PUVA.
+Precursor: actinic keratosis (AK — rough scaly erythematous papule/patch on sun-exposed skin — risk of progression to SCC 0.1-1%/year per lesion; field change — widespread subclinical AKs — field cancerisation). SCC in situ (Bowen's disease): full-thickness epidermal dysplasia, not invasive. Pink scaly plaque — resembles eczema/psoriasis patch. Erythroplasia of Queyrat (Bowen's disease on glans penis — red velvety patch).
+Clinical: indurated/keratinotic papule or plaque, may ulcerate, growing. Crusted bleeding lesion. Tender. High-risk features: diameter >2cm, depth >2mm, poor differentiation (histology), perineural invasion, high-risk site (face — especially lip, ear, temple; genitalia, hands), immunosuppression, arising in scar/chronic wound.
+Diagnosis: excision biopsy or incision biopsy with histology (grade, depth, margins, perineural invasion).
+Treatment: surgical excision (4-6mm margins for low-risk; 6-10mm for high-risk), Mohs for high-risk site. Sentinel lymph node biopsy (SLNB) for high-risk SCC — evidence growing. Radiotherapy: adjuvant for perineural invasion, large tumours, positive margins not amenable to surgery; primary RT for inoperable. Immunotherapy: cemiplimab (anti-PD-1 — first PD-1 inhibitor for CSCC — EMPOWER-CSCC-1 — ORR 47% in advanced/metastatic — FDA approved). Pembrolizumab also approved.
+Actinic keratosis treatment: topical 5-fluorouracil (Efudix cream — 5% 5-FU × 3-4 weeks — field treatment), imiquimod (field treatment), ingenol mebutate (discontinued in EU — no longer available), diclofenac gel 3% (mild AKs), cryotherapy (individual lesions), PDT (excellent cosmesis — MAL-PDT), tirbanibulin (Klisyri — novel mechanism — KSP inhibitor + Src inhibitor — topical field treatment).
+
+MELANOMA:
+Most serious skin cancer — 5th most common UK cancer. 17,000 cases/year UK. Melanocyte transformation → uncontrolled melanocyte proliferation. UV exposure (blistering sunburns especially in childhood), fair skin, multiple naevi (>50 common naevi or any dysplastic), family history, CDKN2A mutation, giant congenital naevi. Arising in existing mole or de novo.
+Subtypes:
+Superficial spreading melanoma (SSM — 70%): radial growth phase first. Flat/slightly raised, asymmetric, irregular border, colour variation (tan, brown, black, red, blue, white), enlarging. May have regression areas (pale pink areas in central lesion). Most common on legs (women), back (men).
+Nodular melanoma (NM — 15%): vertical growth phase from outset. Rapid growth. Dome-shaped nodule — may be amelanotic (pink). Most aggressive at presentation. Any area.
+Lentigo maligna melanoma (LMM — 10%): sun-damaged facial skin in elderly. Slow-growing macular pigmented lesion. Lentigo maligna (in situ) for years/decades before invasion.
+Acral lentiginous melanoma (ALM — 5%): palms, soles, under nails. Equal incidence across skin types (overrepresented in darker skin — accounts for larger % of melanoma in Black/Asian patients). Subungual melanoma — pigment in nail plate (melanonychia) ± Hutchinson's sign (pigment extending onto proximal nail fold — specific for subungual melanoma).
+Staging: Breslow thickness (depth of invasion in mm — most important prognostic factor), ulceration, mitotic rate, Clark level, satellite lesions, lymphovascular invasion. SLNB for Breslow ≥1mm (or 0.8-1mm with high-risk features). Systemic staging for Stage III/IV: CT chest/abdomen/pelvis ± PET-CT, MRI brain.
+Treatment:
+Wide local excision: margins based on Breslow thickness — in situ: 5mm; ≤1mm: 1cm; 1-2mm: 1-2cm; >2mm: 2cm. Under local anaesthetic, same day or second stage after diagnostic excision.
+SLNB: staging procedure, does NOT improve survival (MSLT-II — completion lymphadenectomy no survival benefit) — but prognostic, guides adjuvant therapy decision.
+Adjuvant therapy (Stage III — node-positive after resection):
+BRAF V600E/K mutated: dabrafenib + trametinib (BRAF + MEK inhibitor) — COMBI-AD trial — 52% vs 36% 5-year RFS (recurrence-free survival).
+Any stage III: pembrolizumab (KEYNOTE-054) or nivolumab (CheckMate 238) — 1 year treatment — 50% reduction in recurrence. Anti-PD-1 effective regardless of BRAF status.
+High-risk Stage IIB/IIC: pembrolizumab adjuvant approved (KEYNOTE-716).
+Metastatic melanoma (Stage IV):
+BRAF V600-mutated (50% of melanoma): BRAF inhibitor (vemurafenib, dabrafenib) + MEK inhibitor (trametinib, cobimetinib) — response rate 65-70%, median PFS 12-14 months. High initial response but resistance develops. Add anti-PD-1 (BRAF + MEK + immune checkpoint triple): combination in trials.
+Immunotherapy (all): nivolumab + ipilimumab (anti-PD-1 + anti-CTLA-4 — CheckMate 067 — 5-year OS 52% vs 26% chemotherapy; 58% at 7.5 years — durable remissions = functional cure in subset; toxicity: immune-related AEs — colitis, hepatitis, pneumonitis, endocrinopathies — manage with steroids ± immunosuppressants). Pembrolizumab monotherapy (KEYNOTE-006 — comparable to nivo/ipi with less toxicity — 5-year OS 43%). Nivolumab monotherapy.
+Relatlimab + nivolumab (Opdualag — LAG-3 + PD-1 dual blockade — RELATIVITY-047 — superior PFS vs nivolumab alone — median PFS 10.1 vs 4.6 months).
+Talimogene laherparepvec (T-VEC): oncolytic virus (modified HSV-1) — injected directly into accessible melanoma lesions — stimulates systemic immune response. OPTiM trial. Used in Stage IIIB-IVM1a (accessible metastases). Synergy with ipilimumab (MASTERKEY-265).
+Tumour infiltrating lymphocytes (TILs — lifileucel): FDA approved 2024 (Amtagvi) — autologous TILs expanded ex vivo — single infusion — ORR 31.4% in heavily pretreated advanced melanoma — first TIL therapy approved in oncology.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 6: BULLOUS (BLISTERING) DISEASES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PEMPHIGUS VULGARIS (PV):
+Autoimmune intraepidermal blistering disease. Autoantibodies (IgG) against desmoglein 3 (oral mucosa — all patients) and desmogleins 3+1 (skin — most patients). Suprabasal acantholysis → flaccid easily ruptured blisters → erosions. Nikolsky sign positive (lateral pressure on skin → bulla formation or extension of existing lesion by shearing forces). Oral involvement in 90% (often first and most persistent — painful erosions, difficulty eating). Nasal, conjunctival, oesophageal, genital mucosa. Skin blisters on scalp, face, trunk. Rare: uncommon drug-induced (penicillamine, captopril, rifampicin).
+Diagnosis: biopsy (perilesional skin) — H&E: intraepidermal blister, acantholysis, tombstone cells at base. DIF (direct immunofluorescence — perilesional): IgG + C3 in intercellular spaces of epidermis (chicken wire pattern — pathognomonic). Serum anti-desmoglein 1 and 3 ELISA (titre correlates with disease activity).
+Treatment: prednisolone 1-1.5 mg/kg/day initially + steroid-sparing agent (azathioprine or MMF — first-line adjunct; ciclosporin; cyclophosphamide for severe). Rituximab (anti-CD20 — PEMPHIX, RITUX3 trials) — increasingly first-line for moderate-severe (combined with prednisolone) — targets B cells producing anti-desmoglein antibodies; very effective long-term remission. Dapsone, gold (historical). Monitor for infections (candidiasis — nystatin prophylaxis; PCP prophylaxis if on cyclophosphamide; TB screening before rituximab).
+
+BULLOUS PEMPHIGOID (BP):
+Most common autoimmune blistering disease (elderly — >70 years). Autoantibodies (IgG) against hemidesmosomal proteins BP180 (NC16A domain — most important) and BP230 → subepidermal blistering + eosinophilic inflammation → pruritus (often precedes blisters by months — pruritic urticarial prodrome). Tense blisters (subepidermal — contrast flaccid in PV — more resistant to rupture), excoriations, urticarial plaques. Distribution: flexures (inner thighs, axillae, abdomen), groin — typically spares mucosae (10-30% have oral involvement, minor). Nikolsky negative. Pruritus often very severe. Associated with drugs (furosemide, ACE inhibitors, DPP4 inhibitors — gliptins causing BP — stop drug), neurological disease (Parkinson's, dementia, CVA).
+Diagnosis: biopsy (H&E: subepidermal blister, eosinophils in dermis). DIF (perilesional): linear IgG + C3 along DEJ (dermoepidermal junction). Serum anti-BP180 ELISA — titre correlates with disease activity.
+Treatment: topical clobetasol propionate 40g/day (very potent TCS applied to entire skin surface — VALIABP/TACABP trials — as effective as oral prednisolone with fewer systemic side effects) — feasible for localised disease. Oral prednisolone (0.5-0.75 mg/kg/day — taper over 12 months). Doxycycline (100-200mg/day) + nicotinamide — mild-moderate disease — fewer side effects than prednisolone. Immunosuppressants (azathioprine/MMF) as steroid-sparing. Rituximab for severe/refractory. Omalizumab (anti-IgE — reduces total IgE → reduces IgE-mediated mast cell activation contributing to BP). Dupilumab (anti-IL-4/13 — BP shows Th2 inflammation — case series suggest benefit). Bertilimumab (anti-IL-5 — reduces eosinophils). Fibrillin-targeted agents in trials.
+
+DERMATITIS HERPETIFORMIS (DH):
+Intensely pruritic blistering disease associated with gluten sensitivity. Actually manifestation of coeliac disease in skin — occurs in 10% of coeliacs. IgA antibodies against epidermal transglutaminase (TG3). DIF: granular IgA in dermal papillae (pathognomonic). Lesions: tiny vesicles/erosions on extensor surfaces (elbows, knees, scalp, buttocks) — so itchy, scratched off before blister forms. Gluten-free diet heals skin (months to years) AND reduces GI disease and intestinal lymphoma risk. Dapsone: rapid relief of itch within 24-48h while diet takes effect (check G6PD); maintenance with gluten-free diet alone usually possible in time.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 7: COMMON SKIN INFECTIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+IMPETIGO:
+Most common bacterial skin infection in children. S. aureus (most common worldwide including UK) or Group A Strep (S. pyogenes). Non-bullous (crusted): golden/honey-coloured crusted lesions — face, extremities. Bullous: large fragile blisters (S. aureus exfoliative toxin A/B — phage type 71 — cleaves desmoglein 1) — neonates, young children. Highly contagious.
+Treatment: topical fusidic acid (2-3×/day × 5-7 days — for limited localised disease) or topical retapamulin/ozenoxacin/mupirocin. Oral flucloxacillin or cefalexin for extensive, bullous, or not responding to topical.
+
+CELLULITIS/ERYSIPELAS:
+Cellulitis: spreading infection of deeper dermis and subcutaneous fat. Erysipelas: superficial dermis ± lymphatics — raised demarcated edge (more common in children, elderly), fever, systemic upset, rapidly spreading. Causes: S. pyogenes (most common for erysipelas), S. aureus (especially with wound/puncture). Non-classical: H. influenzae (children — buccal cellulitis, purple discolouration), Vibrio vulnificus (seawater/shellfish — very aggressive — diabetics, liver disease — mortality 30%), Aeromonas hydrophila (freshwater exposure).
+Risk factors: skin breach (wound, athlete's foot — treat tinea pedis to prevent cellulitis), lymphoedema (recurrent), obesity, chronic venous insufficiency, immunosuppression.
+Diagnosis: clinical. Bloods (raised WBC, CRP). Blood cultures (positive in <5%). Mark skin margin with pen to monitor progression. Elevate affected limb. Differential: DVT (Doppler USS), lipodermatosclerosis, chronic venous insufficiency, contact dermatitis, necrotising fasciitis (EMERGENCY — rapid progression, extreme pain, crepitus, skin necrosis, systemic sepsis — surgical debridement urgently).
+Treatment: amoxicillin/flucloxacillin (non-severe, oral) or co-amoxiclav. IV flucloxacillin or benzylpenicillin for severe/non-responding. MRSA: IV vancomycin or daptomycin. Prophylactic penicillin V (250-500mg BD) for ≥2 episodes of cellulitis/erysipelas — reduces recurrence 50% (UK Dermatology/PROVENT trial).
+
+HERPES ZOSTER (SHINGLES):
+Reactivation of latent VZV (varicella-zoster virus) from dorsal root ganglia. Risk increases with: age, immunosuppression, stress. Dermatomal distribution (typically thoracic T1-L2 or trigeminal ophthalmic division). Prodrome: burning/tingling pain → macular erythema → grouped vesicles on erythematous base → crusting → healing 2-4 weeks. Extremely painful.
+Complications: postherpetic neuralgia (PHN — pain persisting >3 months after healing — major morbidity in elderly — affects 15-20%); Ramsay-Hunt syndrome (VZV reactivation in geniculate ganglion — triad: ear pain + vesicles in/around ear + ipsilateral facial palsy; also VIII nerve — vertigo, tinnitus, hearing loss); VZV ophthalmicus (ophthalmic branch of V1 — vesicles on tip of nose = Hutchinson's sign — indicates nasociliary branch involvement = corneal involvement risk — URGENT ophthalmology referral); VZV encephalitis (immunocompromised); disseminated VZV (immunocompromised — >20 dermatomes, visceral — life-threatening).
+Treatment: antivirals within 72h of rash onset (up to 7 days if new lesions still appearing or immunocompromised). Aciclovir 800mg 5×/day × 7 days (oral — good but multiple dosing). Valaciclovir 1g TDS × 7 days (prodrug — higher bioavailability — fewer doses). Famciclovir 500mg TDS × 7 days. IV aciclovir for: ophthalmic zoster, immunocompromised, encephalitis, disseminated. Analgesia: regular paracetamol ± NSAIDs ± codeine; amitriptyline or gabapentin for neuropathic component.
+Prevention — vaccination:
+Zostavax (live attenuated): single SC dose. Reduces zoster by 51%, PHN by 67%. Contraindicated in immunosuppressed.
+Shingrix (RZV — recombinant subunit — preferred): 2-dose IM schedule (0, 2-6 months). Efficacy >90% in adults ≥50; >89% in immunocompromised. No live virus — can be given to immunosuppressed. UK: Shingrix from 70 years (and 50+ if immunosuppressed). SHINGRIX: game-changer for zoster prevention.
+
+TINEA (DERMATOPHYTOSIS):
+Fungal infection of keratinised tissue (skin, hair, nails) by dermatophytes (Trichophyton, Microsporum, Epidermophyton). Named by body site:
+Tinea pedis (athlete's foot): between toes (maceration, fissuring — most common); moccasin pattern (scaly, dry, hyperkeratotic — sole of foot); vesicular (T. mentagrophytes — blisters). Most common fungal skin infection.
+Tinea cruris (jock itch): groin/inner thighs. Annular scaly erythematous lesion — spares scrotum (distinguishes from candidiasis — candida involves scrotum).
+Tinea corporis (ringworm): circular/annular erythematous scaly plaque with central clearing and raised active advancing border. Tinea incognito — TCS applied → atypical appearance (no scale, no border).
+Tinea capitis: scalp — especially children. Broken hairs, scaly patches, cervical/occipital lymphadenopathy. Kerion: severe inflammatory tinea capitis (boggy tender plaques, pustules, scarring alopecia). Requires oral antifungal (topical ineffective — hair follicle reservoir).
+Tinea unguium (onychomycosis): nail involvement (starts distally — subungual hyperkeratosis, onycholysis, nail thickening, discolouration yellow/brown/white).
+Diagnosis: skin scrapings, nail clippings, hair plucking → microscopy (KOH preparation — branching hyphae) and culture (2-6 weeks). Wood's light (UV) — Microsporum species fluoresce green (NOT Trichophyton — most UK isolates).
+Treatment: topical (most tinea except capitis and nail): clotrimazole, miconazole, terbinafine cream × 1-4 weeks. Terbinafine most effective (fungicidal). Nail (onychomycosis): oral terbinafine 250mg × 6 weeks (fingernails), 12 weeks (toenails) — most effective; itraconazole pulse (400mg/day × 1 week/month × 2 (finger) or 3 (toe) cycles); topical amorolfine nail lacquer (weekly application for months — less effective, for single nail). Tinea capitis: griseofulvin (8 weeks) or terbinafine (UK) or itraconazole.
+
+SCABIES:
+Sarcoptes scabiei var. hominis mite infestation. Highly contagious — direct prolonged skin contact. Intense pruritus (worse at night — hypersensitivity to mite/eggs/faeces — takes 4-6 weeks to develop in primary infestation; <24h in re-infestation). Distribution: interdigital web spaces (classic), wrists, ankles, genitalia (men — highly characteristic — nodular scabies on penis/scrotum), axillae, areolae (women), umbilicus, buttocks. Spares face (adults) and neck (adults). Burrow: pathognomonic — short linear track ~5mm (female mite burrows through stratum corneum, laying eggs).
+Norwegian/crusted scabies: massive hyperkeratotic crust (thousands of mites — highly infectious) — immunosuppressed, elderly, learning difficulties. May lack pruritus.
+Diagnosis: clinical. Dermoscopy (jet with contrail sign — mite body). Skin scraping — mite/eggs/faeces on microscopy.
+Treatment: permethrin 5% cream (first-line — applied from neck down, including skin folds, genitalia, under nails; leave 8-12h; repeat after 7 days). Malathion 0.5% aqueous (alternative). Oral ivermectin 200 μg/kg (2 doses 7-14 days apart) — off-label in UK but preferred for Norwegian scabies and institutional outbreaks; convenient. ALL household contacts and sexual contacts treated simultaneously (avoids ping-pong reinfection). Wash clothing, bedding (hot wash), vacuum. Itch may persist 2-6 weeks after treatment (hypersensitivity reaction to dead mites) — NOT treatment failure; use emollients, crotamiton, antihistamines/TCS for symptom control.
+
+END OF DERMATOLOGY TRAINING DATA
+Total: ~11,500 words | Sections: 7 | Estimated chunks: ~94

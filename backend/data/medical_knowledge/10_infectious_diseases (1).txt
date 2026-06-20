@@ -1,0 +1,280 @@
+INFECTIOUS DISEASES — COMPREHENSIVE MEDICAL REFERENCE
+======================================================
+Source: Medical Training Data for AIVARA Healthcare AI
+Category: Infectious Diseases | Version: 1.0
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 1: MICROBIOLOGY PRINCIPLES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+BACTERIAL CLASSIFICATION:
+Gram-positive cocci: Staphylococcus aureus (coagulase-positive — skin, SSTI, bacteraemia, endocarditis, toxic shock, MRSA), Staph epidermidis (coagulase-negative — prosthetic devices, immunocompromised), Streptococcus pneumoniae (pneumonia, meningitis, otitis — capsulated, penicillin-sensitive mostly), Streptococcus pyogenes (Group A Strep — pharyngitis, cellulitis, necrotising fasciitis, rheumatic fever, glomerulonephritis), Streptococcus agalactiae (Group B — neonatal meningitis/sepsis, UTI in elderly), Enterococcus faecalis/faecium (UTI, endocarditis, hospital-acquired — VRE = vancomycin-resistant Enterococcus).
+
+Gram-positive rods: Listeria monocytogenes (foodborne — meningitis in immunocompromised/neonatal/elderly/pregnant — raw milk, soft cheese, deli meats — treat with ampicillin), Clostridioides difficile (pseudomembranous colitis — antibiotic-associated diarrhoea — spore-forming — treat with vancomycin oral or fidaxomicin), Clostridium perfringens (gas gangrene), Clostridium tetani (tetanus — toxin blocks inhibitory neurons → spastic paralysis), Clostridium botulinum (botulism — toxin blocks ACh release → flaccid paralysis), Bacillus anthracis (anthrax — cutaneous/inhalation/GI — bioterrorism concern — ciprofloxacin/doxycycline), Corynebacterium diphtheriae (diphtheria — pseudomembrane throat, exotoxin → cardiac/neurological damage), Mycobacterium tuberculosis, Mycobacterium leprae (leprosy).
+
+Gram-negative cocci: Neisseria meningitidis (meningococcal meningitis/septicaemia — petechial/purpuric rash — penicillin IM immediately on suspicion), Neisseria gonorrhoeae (gonorrhoea), Moraxella catarrhalis (LRTI — COPD exacerbations).
+
+Gram-negative rods (Enterobacteriaceae): Escherichia coli (UTI, bacteraemia, neonatal meningitis, traveller's diarrhoea, STEC O157:H7 — HUS), Klebsiella pneumoniae (hospital pneumonia, UTI, liver abscess — hypermucoviscous — SE Asian), Proteus mirabilis (UTI — struvite stones), Enterobacter, Serratia, Citrobacter (opportunistic — ICU), Salmonella typhi (typhoid — enteric fever), Salmonella non-typhi (gastroenteritis), Shigella (dysentery — invasive, bloody diarrhoea), Yersinia (enterocolitis, mesenteric adenitis — appendicitis mimic, plague — Y. pestis), Helicobacter pylori (gastric ulcers, gastric cancer).
+
+Gram-negative non-fermenters: Pseudomonas aeruginosa (hospital-acquired, CF, burns, neutropenic — intrinsically resistant to many antibiotics — piperacillin-tazobactam, ceftazidime, ciprofloxacin, carbapenems), Acinetobacter baumannii (hospital-acquired, MDR, environment survivor), Stenotrophomonas maltophilia (co-trimoxazole).
+
+Atypical/intracellular organisms: Mycoplasma pneumoniae (atypical pneumonia, haemolysis), Chlamydophila pneumoniae (community pneumonia), Chlamydia trachomatis (STI, trachoma, reactive arthritis, LGV), Chlamydophila psittaci (psittacosis — birds), Coxiella burnetii (Q fever — livestock), Legionella pneumophila (Legionnaire's — urinary antigen), Rickettsia (tick-borne — RMSF, typhus), Borrelia burgdorferi (Lyme disease — tick-borne — erythema migrans), Treponema pallidum (syphilis), Leptospira (leptospirosis — animal urine exposure — Weil's disease).
+
+Antibiotic mechanisms and resistance:
+Beta-lactams (penicillins, cephalosporins, carbapenems, monobactams): inhibit penicillin-binding proteins (PBPs) → cell wall synthesis inhibition. Resistance: beta-lactamases (ESBL — extended spectrum beta-lactamase; MBL — metallo-beta-lactamase/carbapenemase — KPC, NDM, OXA-48 — treat with ceftazidime-avibactam, meropenem-vaborbactam, cefiderocol, aztreonam-avibactam), altered PBPs (MRSA — mecA gene encodes PBP2a).
+Aminoglycosides (gentamicin, amikacin, tobramycin): bind 30S ribosome → mistranslation. Ototoxicity, nephrotoxicity (monitor levels). Resistance: aminoglycoside-modifying enzymes.
+Macrolides (azithromycin, clarithromycin, erythromycin): bind 23S rRNA of 50S ribosome → protein synthesis inhibition. Useful for atypicals. QTc prolongation.
+Tetracyclines (doxycycline, minocycline, tigecycline): bind 30S ribosome → inhibit aminoacyl-tRNA binding. Broad spectrum. Avoid in pregnancy/children (teeth staining, bone effects). Doxycycline: Lyme, malaria prophylaxis, atypical pneumonia, RMSF, Q fever, brucellosis, chlamydia.
+Glycopeptides (vancomycin, teicoplanin): inhibit cell wall synthesis (D-Ala-D-Lac — different to beta-lactams — no cross resistance). Only for gram-positives. VRE: vanA/vanB genes. Vancomycin: monitor trough levels (AUC/MIC target 400-600).
+Fluoroquinolones (ciprofloxacin, levofloxacin, moxifloxacin): inhibit DNA gyrase/topoisomerase IV → DNA strand breaks. Broad spectrum including atypicals. Resistance: topoisomerase mutations, efflux pumps — increasing resistance in many bacteria. Side effects: tendinopathy (Achilles rupture — avoid in elderly), QTc prolongation, CNS effects (seizures, psychosis), peripheral neuropathy, aortic aneurysm.
+Carbapenems (meropenem, imipenem-cilastatin, ertapenem): broadest spectrum beta-lactams. For ESBL, AmpC, serious hospital infections. Carbapenem-resistant organisms (CRE/CRKP) — major threat — limited treatment options (ceftazidime-avibactam, meropenem-vaborbactam, cefiderocol, imipenem-cilastatin-relebactam, aztreonam-avibactam).
+Colistin/polymyxins: last resort for pan-resistant gram-negatives. Nephrotoxicity, neurotoxicity. Inhaled for Pseudomonas in CF.
+Linezolid (oxazolidinone): MRSA, VRE — 50S ribosome inhibition. Bacteriostatic. Serotonin syndrome with MAOIs/SSRIs. Bone marrow suppression (monitor FBC weekly). Daptomycin: lipopeptide — disrupts gram-positive membrane. MRSA, VRE endocarditis. Inactivated by pulmonary surfactant — do NOT use for pneumonia.
+Metronidazole: anaerobes, C. difficile (oral), protozoa (Giardia, amoeba, Trichomonas). Disulfiram-like reaction with alcohol.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 2: SEPSIS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DEFINITION (Sepsis-3, 2016):
+Sepsis: life-threatening organ dysfunction caused by a dysregulated host response to infection. Organ dysfunction identified by SOFA score increase ≥2 points.
+Septic shock: subset of sepsis with circulatory, cellular, and metabolic abnormalities — vasopressor requirement to maintain MAP ≥65 mmHg AND serum lactate >2 mmol/L despite adequate fluid resuscitation. Hospital mortality >40%.
+Quick SOFA (qSOFA): bedside screening — respiratory rate ≥22, altered mentation, systolic BP ≤100. ≥2 criteria = high risk — trigger further assessment and aggressive management.
+SOFA score: PaO2/FiO2 ratio (respiratory), platelets (coagulation), bilirubin (hepatic), MAP/vasopressors (cardiovascular), GCS (neurological), creatinine (renal). Each 0-4. Total 0-24.
+
+PATHOPHYSIOLOGY:
+Infection → pattern recognition receptors (PRRs — TLRs, NOD receptors) recognise PAMPs (pathogen-associated molecular patterns — LPS, peptidoglycan, flagellin) and DAMPs (damage-associated molecular patterns — HMGB1, mtDNA) → massive innate immune activation → cytokine storm (TNF-α, IL-1β, IL-6, IL-8) → endothelial dysfunction → capillary leak → distributive shock (vasodilation, hypotension) → microvascular dysfunction → tissue hypoperfusion → organ failure. Simultaneously: coagulation activation → microvascular thrombosis → consumption of clotting factors → DIC → haemorrhage. Immunosuppression phase (days): lymphocyte apoptosis, monocyte deactivation → increased susceptibility to secondary infections.
+
+COMMON SOURCES AND ORGANISMS:
+Respiratory (30-40%): S. pneumoniae, K. pneumoniae, Legionella, H. influenzae, Pseudomonas (ICU/bronchiectasis), MRSA (hospital-acquired pneumonia).
+Urinary (20-30%): E. coli (most common), Klebsiella, Pseudomonas, Enterococcus (indwelling catheter).
+Abdominal (15-20%): E. coli, Klebsiella, Bacteroides fragilis, Enterococcus, Streptococcus milleri group (abscesses).
+Skin/soft tissue (10%): S. aureus, GAS (Strep pyogenes), anaerobes.
+Bloodstream (primary): Staph aureus (MSSA/MRSA — line infections), Enterococcus, Candida (immunocompromised, prolonged antibiotics, GI surgery).
+CNS: S. pneumoniae, N. meningitidis, L. monocytogenes (immunocompromised/elderly).
+Endocarditis: Staph aureus, Streptococcus, Enterococcus.
+
+MANAGEMENT — SURVIVING SEPSIS CAMPAIGN (SSC 2021):
+Hour 1 bundle:
+1. Measure lactate — remeasure if >2 mmol/L. Lactate >4 = high mortality, often indicates tissue hypoperfusion even if BP preserved.
+2. Blood cultures before antibiotics (≥2 sets — peripheral ± central line; send within 45 minutes of sepsis recognition — do NOT delay antibiotics >45 min to obtain cultures).
+3. Broad-spectrum antibiotics within 1 hour (within 3 hours if not shocked). Empiric antibiotic choice based on suspected source, local resistance patterns, patient risk factors (immunocompromised, recent healthcare exposure, MRSA risk, travel).
+4. IV crystalloid 30 mL/kg for hypotension (MAP <65) or lactate ≥4. Reassess frequently. SMART trial: balanced crystalloids (Hartmann's/PlasmaLyte) superior to normal saline (reduces AKI, MAKE events).
+5. Vasopressors if MAP <65 despite fluid resuscitation: noradrenaline first-line (arterial line — monitoring; central line if possible). MAP target ≥65 (higher target 80-85 may benefit patients with chronic hypertension or AKI — SEPSISPAM trial). Vasopressin (0.03 units/min) add-on to noradrenaline (reduces noradrenaline dose — VASST trial). Dopamine: avoid in septic shock (higher mortality vs noradrenaline — SOAP II trial). Phenylephrine: pure alpha-agonist — avoid (reduces cardiac output). Adrenaline (epinephrine): add-on in refractory shock (causes tachycardia, hyperglycaemia, hyperlactataemia). Angiotensin II (ATHOS-3): for catecholamine-refractory vasodilatory shock.
+Fluid strategy: restrictive fluid approach after initial resuscitation (CLASSIC trial — conservative vs liberal — no difference but less fluid in conservative arm). Dynamic assessment of fluid responsiveness (pulse pressure variation, straight leg raise, stroke volume variation — guides further fluid — avoids overload → pulmonary oedema, worsens outcomes).
+Corticosteroids: hydrocortisone 200 mg/day IV (continuous infusion or 50mg QDS) for septic shock refractory to vasopressors — APROCCHSS trial — reduces vasopressor duration, shorter ICU time, no clear mortality benefit. ADRENAL trial: similar. Adjunct fludrocortisone (50 μg/day oral) as per APROCCHSS.
+Antibiotic stewardship: de-escalate when cultures available (within 48-72h) — narrow-spectrum based on susceptibility. Procalcitonin-guided stopping (PRORATA, SAPS trials) — reduces antibiotic duration without worsening outcomes. Duration: typically 5-7 days for most sepsis (non-endocarditis, non-osteomyelitis).
+Source control: drain abscess, remove infected device (central line — change within 24h or remove if infected — catheter-associated BSI), debride necrotic tissue, surgical control of peritonitis. Critical — antibiotics alone insufficient if source not controlled.
+Glycaemic control: target glucose 7.8-10 mmol/L (140-180 mg/dL) — NICE-SUGAR trial — intensive insulin (<6.1) increases mortality and hypoglycaemia.
+Nutrition: early enteral nutrition (within 48h — if haemodynamically stable). Avoid early parenteral nutrition (EPANIC trial — increased infections). Trophic feeding initially in ARDS patients acceptable.
+DVT prophylaxis: LMWH (unfractionated heparin if renal failure) + compression stockings.
+Stress ulcer prophylaxis: PPI or H2RA (if risk factors — coagulopathy, mechanical ventilation >48h).
+Renal replacement therapy: see AKI section. CRRT preferred for haemodynamically unstable.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 3: TUBERCULOSIS (TB)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+EPIDEMIOLOGY:
+TB remains one of the top 10 causes of death worldwide (1.6 million deaths/year — WHO 2021). 10 million new cases/year. Highest burden: South-East Asia (44%), Africa (25%), Western Pacific (18%). India, Indonesia, China, Philippines, Pakistan, Nigeria, Bangladesh, DRC — account for 87% of global burden. UK: 4,625 cases (2021) — declining. Risk groups: foreign-born (73% UK cases), HIV, homeless, prisoners, alcohol/drug use, diabetes, silicosis, TNF-inhibitor therapy.
+
+MYCOBACTERIUM TUBERCULOSIS:
+Aerobic, acid-fast bacillus (Ziehl-Neelsen stain — red on blue background). Slow growing (doubling time 15-20 hours — culture takes 2-6 weeks on solid media; MGIT liquid culture 1-3 weeks). Cell wall rich in mycolic acids → acid-fastness. Transmitted primarily by inhalation of droplet nuclei (<5 μm — remain airborne hours). Infectious dose low (10-200 bacilli). Only pulmonary TB and laryngeal TB are highly infectious. Extrapulmonary TB not infectious (except miliary or lymph node with draining sinus).
+
+PATHOGENESIS:
+Primary infection: inhaled bacilli reach alveoli → macrophage phagocytosis → some evade killing → multiply within macrophages → Ghon focus (subpleural, lower lobe) → spread to hilar nodes → Ghon complex/primary complex → either: host immunity contains (90% — latent TB infection LTBI) or progressive primary disease (10% — immunocompromised, malnourished, infants). Latent TB: viable bacilli in granulomas (caseous necrosis at centre) — indefinite survival — risk of reactivation.
+Reactivation: most adult TB is reactivation. Triggers: immunosuppression (HIV most important — CD4 <200 → dissemination; TNF inhibitors — biologic screening mandatory; corticosteroids, transplant), malnutrition, diabetes, silicosis, aging, stress. Upper lobe predominance (high O2 tension favours growth).
+Granuloma: central caseation → liquefaction → cavitation (cavity = high bacillary load, highly infectious). Spread via bronchial tree (endobronchial spread → lower lobes, contralateral lung), lymphatic, haematogenous (miliary).
+
+PRIMARY TB (CHILDHOOD/IMMUNOCOMPROMISED):
+Lower/mid-zone infiltrate + hilar lymphadenopathy (primary complex). May be asymptomatic or mild illness. Complications: primary progressive TB, pleural effusion, pericarditis, miliary TB, TB meningitis (especially under 5), lymph node disease.
+
+PULMONARY TB (ADULT):
+Symptoms: chronic productive cough (>3 weeks — most common symptom), haemoptysis (cavity erosion into blood vessel — streaky to massive), fever (low-grade, typically afternoon), night sweats, weight loss, fatigue, dyspnoea (extensive disease). Constitutional symptoms: 6 Ws — Weakness, Weight loss, sweating at night (Wet sheets), cough.
+Signs: apical crackles, signs of consolidation/cavitation, tracheal deviation (fibrothorax), lymphadenopathy (cervical), finger clubbing (rare), erythema nodosum (primary).
+CXR: upper lobe infiltrates (apical and posterior segments of upper lobes, superior segment of lower lobes), cavitation (thick-walled, no air-fluid level), fibrosis (stellate/nodular), calcification (old healed TB — Ghon focus), hilar lymphadenopathy (primary, children), miliary pattern (1-2mm nodules throughout both lungs — haematogenous spread).
+
+EXTRAPULMONARY TB:
+Lymphadenopathy (35% of extrapulmonary in UK): most common site — cervical, axillary. Painless enlargement → matting → collar-stud abscess (breakdown through deep cervical fascia). Fine needle aspiration (FNA): AFB smear, culture, PCR. Excision biopsy if FNA non-diagnostic.
+Pleural TB: unilateral exudate — lymphocyte-predominant, low glucose, low pH. ADA (adenosine deaminase) elevated (>40 IU/L highly specific). Pleural biopsy (blind or thoracoscopic): caseating granulomas, AFB culture positive in 30%.
+TB meningitis: subacute onset (days-weeks), headache, fever, altered consciousness, meningism. CN palsies (III, VI, VII), focal neurological deficits, papilloedema (hydrocephalus). CSF: lymphocyte-predominant pleocytosis, low glucose (<60% serum, or <2.5 mmol/L), high protein (>1 g/L), AFB smear positive in 20-40%, culture positive in 50-80% (slow), PCR (Xpert MTB/RIF) — most rapid. CT head: hydrocephalus, basal meningeal enhancement, infarcts (basal ganglia). Mortality 20-30%; neurological sequelae in survivors. Dexamethasone (adjunctive — reduces mortality and disability in HIV-negative — Meta-analysis, MRCVN trial). Duration of treatment: 12 months.
+Spinal TB (Pott's disease): vertebral body destruction (disc usually spared initially — distinguishes from pyogenic spondylodiscitis), anterior wedge collapse → kyphosis (gibbus), paravertebral abscess (cold abscess — tracks along psoas sheath → psoas abscess → groin). MRI spine: best investigation. Paraplegia from cord compression or vascular compromise → emergency — surgical decompression.
+Pericardial TB: constrictive pericarditis (calcification on CXR/CT). Pericardiectomy may be needed.
+Abdominal TB: peritoneal (ascites — lymphocytic, high ADA, doughy abdomen, omental thickening on USS/CT), ileocaecal (string sign on barium studies, right iliac fossa mass mimicking Crohn's or caecal cancer — biopsy essential), liver, spleen.
+Renal/genitourinary TB: sterile pyuria (WBCs in urine without bacterial growth on standard culture — "sterile pyuria" → think TB UTI, genitourinary TB). Early morning urine × 3 for AFB. Ureteric stricture, bladder contracture. Epididymo-orchitis (males), endometritis/salpingitis (infertility).
+Adrenal TB: bilateral adrenal calcification on CT. Addison's disease. TB historically most common cause of Addison's worldwide.
+Miliary TB: haematogenous dissemination — nodules throughout lungs (1-2mm), liver, spleen, bone marrow, choroid. Military appearance on CXR. CSF involvement common. Uveitis (choroidal tubercles). BM biopsy may diagnose. High mortality without treatment.
+
+DIAGNOSIS:
+Microbiological: gold standard — culture of M. tuberculosis. AFB microscopy (ZN or auramine stain) — rapid but low sensitivity (~50% for pulmonary TB); 3 early morning sputum specimens. Sputum induction (hypertonic saline) or bronchoscopy (BAL) if no spontaneous sputum. MGIT liquid culture (1-3 weeks) + drug susceptibility testing (DST). Solid media (LJ/Middlebrook — 4-8 weeks).
+Molecular: Xpert MTB/RIF (WHO-endorsed, point-of-care PCR — detects TB AND rifampicin resistance simultaneously — 2 hours, sensitivity 85% pulmonary TB smear-positive, 68% smear-negative). Xpert Ultra: improved sensitivity (sensitivity 90%). Line probe assays (GenoType MTBDRplus) — rapid detection of isoniazid/rifampicin resistance — genotypic DST.
+Latent TB: Mantoux test (tuberculin skin test — TST — 5 TU PPD, read 48-72h, ≥5mm = positive if HIV/immunosuppressed; ≥10mm = positive high-risk; false positive: BCG vaccination, NTM; false negative: immunosuppression, acute TB, recent viral illness). IGRA (interferon-gamma release assay — QuantiFERON-TB Gold Plus, T-SPOT.TB — more specific than Mantoux — not affected by BCG, better for BCG-vaccinated individuals — preferred UK for most situations).
+Histology: caseating granulomas (central necrosis + epithelioid macrophages + Langhans giant cells + lymphocytes) — suggestive, not pathognomonic (sarcoid, fungal can mimic). AFB on Ziehl-Neelsen staining.
+
+TREATMENT:
+Standard regimen (drug-sensitive TB — 2HRZE/4HR): Initial phase 2 months (Rifampicin H + Isoniazid H + Pyrazinamide Z + Ethambutol E) → Continuation phase 4 months (Rifampicin + Isoniazid). Total 6 months for drug-sensitive pulmonary TB and most extrapulmonary.
+Extended treatment: TB meningitis (12 months), bone/joint TB (12 months), miliary (12 months), HIV co-infection — 9 months total recommended by some guidelines.
+Directly observed therapy (DOT): recommended in UK/global guidelines for all TB patients — ensures adherence, reduces resistance emergence.
+HRZE drug profiles:
+Rifampicin (R): induces hepatic CYP enzymes extensively — reduces efficacy of many drugs (warfarin, OCP, HIV antiretrovirals, tacrolimus, methadone — dose adjustments required). Hepatotoxicity. Orange-red urine/secretions (harmless — warn patients). Flu-like syndrome (intermittent dosing — switch to daily).
+Isoniazid (H): peripheral neuropathy (inhibits pyridoxine/B6 metabolism — give pyridoxine 10-25mg/day routinely in UK). Hepatotoxicity (baseline LFTs; monitor if abnormal or symptoms; do NOT discontinue for isolated ALT rise <3× ULN if asymptomatic — check regularly). Drug-induced lupus. Fast vs slow acetylators (NAT2 gene — affects half-life).
+Pyrazinamide (Z): hepatotoxicity (most hepatotoxic TB drug), gout (inhibits uric acid excretion — can precipitate acute gout), polyarthralgia (non-gouty arthralgia — common), rash.
+Ethambutol (E): optic neuritis (dose-dependent — check visual acuity and colour vision before treatment and monthly — use Ishihara charts; STOP if visual changes; avoid or use cautiously in renal impairment).
+Side effects requiring stopping: Hepatotoxicity (ALT >5× ULN — stop all drugs, monitor LFTs, reintroduce one at a time), severe rash (Stevens-Johnson syndrome — stop all), visual toxicity (stop ethambutol).
+Drug-resistant TB:
+MDR-TB (multidrug-resistant): resistant to rifampicin AND isoniazid. Treatment: 18-20 months historically; now BPaL regimen (BPaLM): bedaquiline (Diarylquinoline — inhibits mycobacterial ATP synthase) + pretomanid + linezolid (+ moxifloxacin — BPaLM) — 6 months — TB-PRACTECAL, ZeNix trials — highly effective even for XDR-TB. No longer aminoglycosides (ototoxicity).
+XDR-TB (extensively drug-resistant): MDR-TB + resistance to fluoroquinolone AND at least one injectable. Now redefined (WHO 2021): MDR/RR-TB + resistance to fluoroquinolone + bedaquiline and/or linezolid. BPaL: excellent results even in XDR.
+Latent TB treatment (LTBI): recommended for all contacts with positive IGRA/Mantoux, immunocompromised, HIV, pre-biologic therapy, healthcare workers, migrants from high-burden countries. Options: 3HP (isoniazid + rifapentine weekly × 12 weeks — most convenient, good completion rates), 3HR (isoniazid + rifampicin × 3 months — UK standard), 6H (isoniazid × 6 months — HIV patients), 4R (rifampicin × 4 months — if isoniazid intolerant).
+
+HIV AND TB CO-INFECTION:
+TB is the leading cause of death in people with HIV. PLHIV have 20-30× increased TB risk. All HIV-positive patients should be screened for TB (WHO recommendation). All TB patients should be offered HIV testing.
+CD4 <200: risk of disseminated/atypical TB — miliary, extrapulmonary, smear-negative. CXR may be atypical (lower lobe predominance, diffuse infiltrates, no cavitation — CD4 <200 less likely to form cavity).
+ART timing: start ART within 2 weeks of TB treatment if CD4 <50 (CAMELIA, SAPiT trials). CD4 50-500: start within 8-12 weeks (reduces IRIS risk). Paradoxical IRIS (immune reconstitution inflammatory syndrome): worsening of TB symptoms/signs after ART initiation due to restored immunity → excessive inflammation → treat with NSAIDs, then prednisolone if severe.
+Drug interactions: rifampicin dramatically reduces levels of many ARVs (induces CYP3A4, P-gp). Use efavirenz (EFV) or dolutegravir with rifampicin (need dose adjustment). Avoid protease inhibitors with rifampicin — use rifabutin instead (less CYP induction) if PI-based ART required.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 4: HIV/AIDS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+EPIDEMIOLOGY:
+38.4 million people living with HIV (PLHIV) globally (2021 — UNAIDS). Sub-Saharan Africa: 70% of global burden. UK: approximately 105,200 PLHIV (2021); 4,700 new diagnoses/year; 6,600 undiagnosed (6%). Global mortality dramatically reduced by ART: AIDS-related deaths 1.5 million (2010) → 650,000 (2021). With early treatment, PLHIV can have near-normal life expectancy.
+
+VIROLOGY:
+HIV-1 (most common globally) and HIV-2 (West Africa — lower transmissibility, slower progression, some ARVs less active). Retrovirus — single-stranded RNA → reverse transcriptase → DNA → integrates into host genome (latent reservoir). CD4+ T lymphocyte primary target (also macrophages, dendritic cells). Viral entry: gp120 binds CD4 receptor → co-receptor binding (CCR5 — most HIV strains use CCR5; CXCR4 — X4 tropic, associated with disease progression) → membrane fusion (gp41).
+
+TRANSMISSION:
+Sexual: unprotected anal intercourse highest risk (receptive partner 1.4% per act), unprotected vaginal intercourse (0.1-0.2%). STIs (especially ulcerative — HSV, syphilis) dramatically increase transmission risk. Higher viral load = higher transmission risk (undetectable = untransmittable — U=U).
+Blood-borne: sharing injection equipment (0.63% per needle-sharing event), needle-stick injury (0.3% risk per percutaneous exposure), transfusion (very high risk — now essentially eliminated in developed countries with blood screening), organ transplantation.
+Mother-to-child (vertical): intrauterine, intrapartum (most common), breastfeeding. Risk without interventions 15-45%; with ART + infant prophylaxis + formula feeding: <1%.
+Not transmitted by: casual contact, saliva, tears, urine, sharing utensils/toilet.
+
+NATURAL HISTORY:
+Acute HIV infection (seroconversion): 2-4 weeks post-exposure. Mononucleosis-like illness: fever, lymphadenopathy, pharyngitis, rash (macular/maculopapular — trunk, arms), myalgia, oral ulcers, diarrhoea, headache. HIV RNA extremely high (viral load >10⁶). CD4 falls transiently. Lasts 2-6 weeks. Very high infectivity. Window period: 20 days (4th generation Ag/Ab test) to 45 days (3rd generation Ab test).
+Chronic/clinical latency: CD4 slowly declines (~50-100 cells/μL/year untreated). Persistent generalised lymphadenopathy (PGL) common. HIV p24 antigen positive. Lasts 8-10 years without ART (faster progressors 2-3 years, long-term non-progressors 20+ years). Continued viral replication at low level throughout.
+AIDS: CD4 <200 cells/μL (WHO/CDC definition) OR AIDS-defining illness (regardless of CD4). AIDS-defining illnesses: Pneumocystis jirovecii pneumonia (PCP), CMV retinitis, oesophageal candidiasis, CNS toxoplasmosis, cryptococcal meningitis, MAC (disseminated), Kaposi's sarcoma, non-Hodgkin lymphoma, primary CNS lymphoma, progressive multifocal leukoencephalopathy (PML), invasive cervical cancer, cryptosporidiosis, wasting syndrome, HIV encephalopathy, extrapulmonary TB, isosporiasis, recurrent Salmonella bacteraemia.
+
+CD4 COUNT AND OPPORTUNISTIC INFECTIONS:
+CD4 >500: low risk (PGL, skin manifestations).
+CD4 200-500: bacterial pneumonia, TB, herpes zoster, oral candidiasis, constitutional symptoms.
+CD4 100-200: PCP (most common AIDS-defining OI in developed world), toxoplasmosis, HSV/VZV severe.
+CD4 50-100: Cryptococcus, CMV retinitis, miliary TB, primary CNS lymphoma.
+CD4 <50: MAC (Mycobacterium avium complex), CMV (colitis, pneumonitis, retinitis), PML (JC virus), disseminated fungal infection (histoplasmosis, coccidioidomycosis in endemic areas).
+
+DIAGNOSIS:
+4th generation Ag/Ab combined test: detects HIV-1/2 antibodies AND p24 antigen (detectable from 18 days post-infection). NHS standard diagnostic test. Reactive → confirmatory tests (HIV-1/2 differentiation, WB).
+HIV RNA PCR (viral load): detects HIV RNA (as low as <20 copies/mL). Used for: diagnosis in window period (detectable from 10 days), monitoring ART, infants of HIV+ mothers (maternal antibodies persist 18 months — Ab test unreliable).
+CD4 count and percentage: absolute CD4 cells/μL. Stage disease, guide prophylaxis, monitor response.
+Baseline investigations on new HIV diagnosis: HIV VL, CD4, genotypic resistance testing (transmitted resistance), HBV/HCV serology, syphilis/gonorrhoea/chlamydia, LFTs, renal function, FBC, glucose, lipids, HLA-B*5701 (before abacavir — pharmacogenomic testing prevents hypersensitivity), urine ACR, STI screen, CXR, cervical smear (women), anal cancer screening in MSM.
+
+ANTIRETROVIRAL THERAPY (ART):
+When to start: ALL PLHIV regardless of CD4 count (U=U evidence; START trial — early treatment reduces morbidity/mortality; immediate treatment reduces transmission). Even higher urgency if: CD4 <350, AIDS-defining illness, pregnancy, TB co-infection, HBV/HCV co-infection, cardiovascular risk.
+Treatment goals: suppress HIV VL to undetectable (<50 copies/mL) — achieved in >95% with modern ART. Increase/preserve CD4 count. Prevent OIs. Maintain QoL. Prevent transmission (U=U).
+Drug classes:
+NRTIs (nucleoside reverse transcriptase inhibitors): backbone of most ART regimens. Tenofovir alafenamide (TAF — preferred renal/bone safety over TDF — tenofovir disoproxil fumarate), emtricitabine (FTC), lamivudine (3TC), abacavir (ABC — HLA-B*5701 required before prescribing — hypersensitivity reaction if HLA-B*5701+; contraindicated in high CVD risk — small increased MI risk), zidovudine (AZT — haematological toxicity, mitochondrial toxicity — rarely used now), stavudine (d4T — significant toxicity, phased out in most countries).
+NNRTIs (non-nucleoside reverse transcriptase inhibitors): efavirenz (EFV — once daily, cheap, CNS side effects especially first 2 weeks — vivid dreams, dizziness; teratogenic — avoid in first trimester; rifampicin-compatible with dose adjustment), rilpivirine (RPV — requires food, no antacids within 4h; lower barrier than EFV; only if VL <100,000 — not for high VL; excellent tolerability), doravirine (DOR — rifampicin not compatible).
+Integrase strand transfer inhibitors (INSTIs — now preferred first-line): raltegravir (RAL — twice daily), elvitegravir (EVG — with cobicistat booster, multiple drug interactions — largely replaced), dolutegravir (DTG — once daily, high barrier to resistance, excellent tolerability, very effective — risk of neural tube defects in periconceptional exposure — discuss with women who may become pregnant; rifampicin compatible with dose adjustment), bictegravir (BIC — once daily, high barrier, no food/timing restrictions — preferred in many patients), cabotegravir (CAB — long-acting injectable monthly or 2-monthly).
+PIs (protease inhibitors): darunavir (DRV — boosted with ritonavir or cobicistat — high barrier to resistance, boosting required — many drug interactions via CYP3A4 — ritonavir/cobicistat used specifically as pharmacokinetic booster), lopinavir/ritonavir (LPV/r — older, metabolic side effects). GI side effects, lipid abnormalities, fat redistribution, insulin resistance.
+Entry inhibitors: enfuvirtide (T-20 — fusion inhibitor — SC injection, used in MDR HIV), maraviroc (CCR5 antagonist — only effective for CCR5-tropic virus — tropism testing required; rare CXCR4 variants — maraviroc inactive).
+Attachment inhibitor: fostemsavir (FTR — gp120 attachment inhibitor — highly treatment-experienced patients — BRIGHTE trial).
+Capsid inhibitor: lenacapavir (LEN — long-acting SC injection every 6 months — CAPELLA, ATLAS-2M — approved for MDR HIV and increasingly for long-acting prevention — HPTN 083B).
+
+Preferred first-line regimens (BHIVA 2022, IAS-USA 2022):
+DTG/3TC (dolutegravir + lamivudine — GEMINI trials — non-inferior to TDF/FTC/DTG if VL <500,000 and no HBV). BIC/TAF/FTC (bictegravir/tenofovir alafenamide/emtricitabine — GILEAD, single pill, excellent safety/efficacy profile). DTG/ABC/3TC (TRIUMEQ — if HLA-B*5701 negative; no food restriction). TAF/FTC/EVG/cobicistat (Genvoya — multiple drug interactions via cobicistat — less preferred now).
+Long-acting injectable ART: CAB/RPV (cabotegravir + rilpivirine) monthly or 2-monthly IM injection (ATLAS, FLAIR trials) — equivalent to oral ART if virologically suppressed. Expanding access. Lenacapavir 6-monthly + islatravir (NRTTI) or + bictegravir — in development. Represents future paradigm shift.
+
+MONITORING ON ART:
+HIV VL: 4 weeks after ART start → 12 weeks → 6-monthly when stable on ART. Aim: undetectable <50 copies/mL within 24 weeks.
+CD4 count: 3-6 monthly until >350 → annually when stable.
+Renal function (TAF/TDF), bone density (TDF/PI), lipids, glucose (all ARVs): 6-12 monthly.
+Opportunistic infection prophylaxis: PCP prophylaxis (co-trimoxazole) when CD4 <200 — STOP when CD4 >200 on ART for 3 months. Toxoplasmosis prophylaxis: co-trimoxazole (same as PCP — two for one). MAC prophylaxis (azithromycin 1250mg weekly) when CD4 <50 — STOP with CD4 >100 on ART for 3 months.
+
+PRE-EXPOSURE PROPHYLAXIS (PrEP):
+Oral tenofovir disoproxil fumarate/emtricitabine (Truvada/generic) — daily or event-driven (2+1+1 — IPERGAY protocol — 2 pills 2-24h before sex, 1 pill 24h after, 1 pill 48h after). Reduces HIV acquisition >90% with good adherence. Recommended for all at substantial ongoing risk. Available free on NHS (England — PrEP Impact Trial 2020; now routine commissioning). Monthly monitoring: HIV test (rule out HIV before each prescription — seroconversion on PrEP = severe resistance risk), renal function (TDF nephrotoxic), STI screen.
+Cabotegravir LA injectable PrEP (2-monthly injection): HPTN 083 (MSM/TGW), HPTN 084 (African women) — superior to oral TDF/FTC for HIV prevention. Approved FDA 2022 (Apretude). Expanding availability.
+
+POST-EXPOSURE PROPHYLAXIS (PEP):
+Tenofovir/emtricitabine (Truvada) + dolutegravir (or raltegravir). Start ASAP within 72 hours (ideally <4 hours, more effective). 28 days. Occupational (nPEP — needlestick) and non-occupational (nPEP — sexual/IVDU). Reduces transmission risk ~80%.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 5: SEXUALLY TRANSMITTED INFECTIONS (STIs)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GONORRHOEA:
+Causative agent: Neisseria gonorrhoeae (gram-negative intracellular diplococci). Incubation: 2-7 days. Increasing antimicrobial resistance — cephalosporin resistance emerging (major global concern).
+Clinical:
+Men: urethral discharge (purulent yellow/green — "the clap"), dysuria. Asymptomatic in 10%.
+Women: asymptomatic in 50-70%. Cervicitis (discharge, postcoital bleeding), urethritis, Bartholin's gland infection. Ascending infection → PID (see below).
+Both: pharyngeal (oral sex, mostly asymptomatic), rectal (insertive/receptive — discharge, pain, tenesmus; asymptomatic in MSM).
+Disseminated gonococcal infection (DGI): <1% — triad: tenosynovitis (wrist, Achilles), dermatitis (pustular/papular rash on hands/feet/ankles), polyarthralgia. Or septic arthritis (purulent).
+Diagnosis: NAAT (nucleic acid amplification test — most sensitive/specific; urine, endocervical/vaginal swab, rectal/pharyngeal swab). Culture + sensitivity (required for resistance monitoring).
+Treatment: ceftriaxone 1g IM/IV single dose (dual therapy previously with azithromycin — BASHH 2019 — now ceftriaxone 1g monotherapy as resistance to azithromycin increasing). Test of cure: recommended for pharyngeal gonorrhoea (2 weeks after treatment — harder to cure) and if symptoms persist.
+Partner notification: treat all partners within 60 days.
+
+SYPHILIS:
+Causative agent: Treponema pallidum (spirochaete — cannot be cultured). Re-emerging epidemic in UK/Europe/USA — particularly MSM, pregnant women. Incubation: 10-90 days (primary syphilis).
+Stages:
+Primary: painless hard chancre at site of inoculation (genitals, anus, mouth, fingers) + non-tender regional lymphadenopathy. Heals spontaneously 3-6 weeks.
+Secondary: 4-8 weeks after primary (25% still have chancre). Bacteraemia. Maculopapular rash (hallmark — "great imitator" — classically includes palms and soles, truncal, generalised), condylomata lata (broad flat warts at mucocutaneous junctions), mucous patches (painless white plaques in mouth, genitalia), snail-track ulcers, generalised lymphadenopathy, "moth-eaten" alopecia, fever, malaise, hepatitis, meningism. Highly infectious. Resolves spontaneously.
+Latent: early latent (<2 years post-infection — infectious if bloodborne; non-infectious sexually), late latent (>2 years — non-infectious).
+Tertiary (15-30% untreated): cardiovascular syphilis (aortitis — ascending aortic aneurysm, aortic regurgitation, coronary ostial stenosis — 10-30 years post-infection), gummatous syphilis (granulomatous lesions — skin, bone, liver, testes — destructive but inflammatory, not ischaemic), neurosyphilis.
+Neurosyphilis: meningitis (early — aseptic, acute); meningovascular (months-years — stroke in young patient); general paresis of the insane (GPI — dementia, seizures, psychosis — late); tabes dorsalis (lightning pains, Argyll-Robertson pupils — react to accommodation but NOT to light, sensory ataxia, Charcot joints).
+Congenital syphilis: early (before 2 years — anaemia, hepatosplenomegaly, rhinitis/snuffles, maculopapular rash, periostitis), late (>2 years — Hutchinson's triad: interstitial keratitis, notched incisors [Hutchinson's teeth], VIII nerve deafness; saddle nose, sabre shins, frontal bossing).
+Serology: non-treponemal tests (RPR, VDRL — used for treatment monitoring — titres fall with treatment; biological false positives — pregnancy, autoimmune, infections, liver disease); treponemal tests (TPHA, FTA-ABS, specific EIA/CLIA — remain positive lifelong — confirm diagnosis). TPHA: sensitive and specific. RPR/VDRL: activity marker.
+Treatment: penicillin remains universally effective. Primary/secondary/early latent: benzathine penicillin G 2.4 million units IM × single dose (or 3 doses weekly for 3 weeks if >1 year duration or unknown duration). Late latent, cardiovascular: benzathine penicillin × 3 weekly doses. Neurosyphilis: benzylpenicillin IV 18-24 million units/day × 10-14 days. Penicillin allergy: doxycycline 100mg BD × 14-28 days. NAAT for T. pallidum from lesion (primary/secondary).
+Jarisch-Herxheimer reaction: acute febrile illness 2-12 hours after first penicillin dose — spirochaetal lysis → cytokine release — particularly in secondary syphilis. Manage with antipyretics; does NOT indicate allergy.
+
+CHLAMYDIA:
+Causative agent: Chlamydia trachomatis (serovars D-K — genital; L1-L3 — lymphogranuloma venereum LGV). Most common bacterial STI in UK. Incidence: 190,000/year UK. Predominantly 16-24 years. Most asymptomatic.
+Clinical:
+Men: urethral discharge (clear/white — milder than gonorrhoea), dysuria, epididymo-orchitis (unilateral scrotal pain/swelling — red, hot, tender — testicular torsion emergency must be excluded — USS Doppler).
+Women: cervicitis (often asymptomatic), PID, endometritis. Ascending: salpingitis → ectopic pregnancy risk, infertility, chronic pelvic pain. Bartholin's abscess.
+Neonatal: conjunctivitis (ophthalmia neonatorum — day 5-14; contrast gonorrhoeal — day 1-4), pneumonitis (afebrile, staccato cough, 4-12 weeks).
+Reactive arthritis (Reiter's syndrome): chlamydia-triggered reactive arthritis (see rheumatology section).
+LGV (lymphogranuloma venereum — L1-L3): anorectal syndrome in MSM (proctitis — bloody mucopurulent discharge, tenesmus; inguinal bubo in genital infection). Epidemic among MSM in Europe. Diagnose by NAAT + LGV serovar confirmation by PCR or serology. Treatment: doxycycline 100mg BD × 3 weeks (vs 7 days for genital chlamydia).
+Diagnosis: NAAT (urine, vulvovaginal swab — self-taken highly acceptable, endocervical swab, rectal swab if indicated). Annual testing recommended for sexually active <25 years (NHS screening).
+Treatment: doxycycline 100mg BD × 7 days (superior to single-dose azithromycin — NIHR AZI trial — particularly for rectal chlamydia). Azithromycin 1g single dose (alternative for genital chlamydia if compliance concern). Treatment in pregnancy: azithromycin or erythromycin (doxycycline contraindicated).
+
+PELVIC INFLAMMATORY DISEASE (PID):
+Ascending infection from cervix/vagina to uterus, fallopian tubes, ovaries. Causes: C. trachomatis, N. gonorrhoeae, bacterial vaginosis-associated organisms (Bacteroides, Prevotella, M. hominis, G. vaginalis), enteric gram-negatives.
+Criteria: pelvic/lower abdominal pain + at least ONE: cervical motion tenderness, uterine tenderness, adnexal tenderness. No other cause identified.
+Investigations: high vaginal swab, endocervical swab for gonorrhoea/chlamydia, urine βhCG (exclude ectopic), FBC, CRP, USS pelvis (exclude tubo-ovarian abscess). Laparoscopy: definitive but rarely done (clinical diagnosis).
+Complications: tubo-ovarian abscess, chronic pelvic pain, ectopic pregnancy (10× increased risk), infertility (tubal occlusion — one episode 10%, two episodes 25%, three episodes 50% infertility). Fitz-Hugh-Curtis syndrome (perihepatitis — right upper quadrant pain, tenderness, violin-string adhesions between liver and anterior abdominal wall on laparoscopy).
+Treatment: outpatient (mild-moderate) — ofloxacin 400mg BD + metronidazole 400mg BD × 14 days (BASHH); or doxycycline 100mg BD + metronidazole 400mg BD × 14 days (if gonorrhoea excluded/unlikely); or ceftriaxone 500mg IM single dose + doxycycline 100mg BD + metronidazole 400mg BD × 14 days. Inpatient (severe, TOA, pregnant, surgical emergency excluded, failed outpatient) — IV cefoxitin/ceftriaxone + doxycycline + metronidazole.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 6: TROPICAL AND TRAVEL MEDICINE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+MALARIA:
+Causative agent: Plasmodium species (P. falciparum — most lethal, Sub-Saharan Africa, SE Asia, Americas; P. vivax — widest distribution, relapsing (hypnozoites in liver); P. ovale — relapsing; P. malariae — quartan malaria; P. knowlesi — zoonosis SE Asia, potentially severe). Transmitted by Anopheles mosquito (female, night-biting).
+Pathogenesis: sporozoites → liver (schizogony — silent, no symptoms) → merozoites → RBC invasion → RBC rupture (every 48-72h → fever paroxysm — febrile fits) → gametocytes (infectious stage for mosquito).
+P. falciparum uniquely causes: cytoadherence (rosetting, sequestration in deep capillaries) → cerebral malaria, severe anaemia, respiratory failure, renal failure, hypoglycaemia.
+Clinical: fever (classically periodic — 48h quotidian P. falciparum; tertian P. vivax/ovale; quartan P. malariae — but paroxysmal pattern unreliable early in falciparum), chills and rigors, sweats, headache, myalgia, splenomegaly, nausea/vomiting, diarrhoea. Jaundice (haemolysis).
+Severe malaria (P. falciparum — WHO criteria): cerebral malaria (impaired consciousness, seizures, GCS ≤11, unarousable coma), severe anaemia (Hb <70 g/L), respiratory distress (ARDS), hypoglycaemia (<2.2 mmol/L), renal failure (creatinine >265 μmol/L), hyperparasitaemia (>2%), circulatory collapse/shock, DIC, haemoglobinuria ("blackwater fever" — massive haemolysis, dark urine).
+Diagnosis: thick and thin blood films (gold standard — quantify parasitaemia, identify species; repeat × 3 at 12-24h intervals if initial negative and suspicion remains). Rapid diagnostic tests (RDT — HRP2 antigen for P. falciparum; aldolase for all Plasmodium — point-of-care, rapid). PCR (most sensitive — epidemiological reference, not for routine clinical).
+Management: P. falciparum malaria — MEDICAL EMERGENCY. Admit all patients. IV artesunate (WHO first-line for severe malaria — superior to quinine in AQUAMAT, SEAQUAMAT trials — reduces mortality 30%). Oral artemether-lumefantrine (Coartem/Riamet) for uncomplicated falciparum (most used globally). Artesunate-amodiaquine, ASAQ. Atovaquone-proguanil (Malarone) for uncomplicated. Quinine + doxycycline: second-line. Monitor glucose (hypoglycaemia risk — especially with quinine and in pregnancy). Antipyretics (paracetamol — do NOT use aspirin/ibuprofen). Transfusion for severe anaemia.
+P. vivax/ovale: chloroquine (most regions) + primaquine (14 days) to eradicate liver hypnozoites and prevent relapse. Check G6PD before primaquine (haemolysis risk). Tafenoquine (single dose) — alternative for relapse prevention; also requires G6PD screening.
+Chemoprophylaxis for travel: atovaquone-proguanil (Malarone) — start 1-2 days before, stop 7 days after — good for last-minute travel, no resistance; doxycycline 100mg — start 1 day before, stop 4 weeks after — cheap; mefloquine (Lariam) — weekly, start 2.5 weeks before, stop 4 weeks after — psychiatric/neurological side effects (avoid in anxiety, depression, seizures), good for P. falciparum-endemic areas; chloroquine + proguanil — for areas with chloroquine-sensitive malaria only (increasingly restricted to P. vivax only zones). Mosquito bite prevention: DEET-containing repellent, long-sleeved clothing, insecticide-treated bed nets, appropriate accommodation.
+
+DENGUE:
+Flavivirus — 4 serotypes (DENV1-4). Aedes aegypti (day-biting) mosquito. Tropical/subtropical. 400 million infections/year — most common arboviral infection. No effective antiviral. Vaccine (Dengvaxia) — licensed but only for seropositive individuals (worsens disease in seronegative).
+Clinical: sudden onset high fever + severe headache + retro-orbital pain + severe myalgia/arthralgia ("breakbone fever") + rash (maculopapular, spares palms/soles — appears day 3-5 as fever defervesces). Leucopenia, thrombocytopenia, elevated transaminases. "Saddleback fever" — biphasic fever curve.
+Dengue haemorrhagic fever (DHF)/dengue shock syndrome (DSS): second infection with different serotype → antibody-dependent enhancement → severe disease. Plasma leakage (haematocrit rise ≥20%, pleural effusion, ascites), bleeding (petechiae, gum bleeding, haematemesis), shock (DSS).
+Management: supportive — IV fluids for plasma leakage/shock, paracetamol (avoid NSAIDs/aspirin — platelet dysfunction, bleeding risk), transfusion if severe bleeding. Monitor FBC daily during defervescence (day 4-6 — most dangerous period — plasma leakage → haemoconcentration, then rapid reversal → fluid overload → pulmonary oedema).
+
+ENTERIC FEVER (TYPHOID):
+Salmonella typhi (typhoid) or S. paratyphi A, B, C (paratyphoid). Faecal-oral transmission — contaminated food/water — South Asia, sub-Saharan Africa, South-East Asia.
+Clinical: stepwise rising fever (week 1 — fever, headache, malaise, relative bradycardia — Faget sign), week 2 (sustained high fever, rose spots — salmon-coloured macules on abdomen — 1-2cm; splenomegaly; diarrhoea or constipation), week 3 (complications — intestinal perforation, haemorrhage, toxic megacolon, hepatitis, encephalopathy). Typhoid state (coma, extreme toxicity).
+Investigations: blood culture (positive in 70-80% in first week — BEST sample in week 1), stool culture (positive in 30-40% — weeks 2-3), urine culture, Widal test (agglutination of O and H antigens — poor sensitivity/specificity — NOT recommended but still used in endemic countries), bone marrow culture (most sensitive — 90% but invasive).
+Treatment: azithromycin (oral — drug of choice for uncomplicated typhoid — good efficacy, excellent bioavailability, few side effects — SEAQUAMAT data). Cefixime (oral — moderate efficacy). IV ceftriaxone for severe typhoid. Fluoroquinolone resistance widespread (South Asia) — avoid unless susceptibility confirmed. Chloramphenicol, ampicillin, co-trimoxazole — increased resistance — historical. Duration: 7-10 days oral azithromycin; 10-14 days IV ceftriaxone.
+Prevention: Vi polysaccharide vaccine (Typhim Vi — IM, protects adults) or Ty21a oral live vaccine (Vivotif — 3 capsules alternate days — protects adults + children >6 years). Typhoid conjugate vaccine (TCV — Typbar TCV — single dose, protects from 6 months, long-lasting immunity — WHO preferred for national immunisation programmes in endemic countries).
+
+NEGLECTED TROPICAL DISEASES (OVERVIEW):
+Leishmaniasis: protozoan (Leishmania spp.), sandfly vector. Cutaneous (skin ulcer — "Baghdad boil"), mucocutaneous (destructive — oro-nasal lesions), visceral (kala-azar — splenomegaly, fever, weight loss, pancytopenia — fatal if untreated). Diagnosis: tissue biopsy/aspirate, serology (rK39 RDT for VL), PCR. Treatment: liposomal amphotericin B (VL — single dose AmBisome increasingly used; miltefosine — oral, teratogenic).
+Schistosomiasis (bilharzia): trematode flatworm. Cercariae penetrate skin in contaminated water (Africa, South America, SE Asia). Acute (Katayama fever — eosinophilia, urticaria, fever). Chronic: urogenital (S. haematobium — haematuria, bladder cancer risk), intestinal/hepatosplenic (S. mansoni, S. japonicum — portal hypertension). Treatment: praziquantel 40mg/kg single dose.
+Lymphatic filariasis (elephantiasis): filarial worms (Wuchereria bancrofti, Brugia spp.), mosquito-transmitted. Lymphoedema, hydrocele, chyluria. Treatment: diethylcarbamazine (DEC) + albendazole ± doxycycline (anti-Wolbachia).
+Onchocerciasis (river blindness): Onchocerca volvulus, Simulium black fly vector (rivers). Skin nodules, intense pruritus, sclerosing keratitis → blindness. Treatment: ivermectin annually (does not kill adult worms — microfilaricidal only).
+Chagas disease: Trypanosoma cruzi, triatomine "kissing bug" vector (Latin America). Acute (Romaña's sign — unilateral painless periorbital oedema from conjunctival inoculation), chronic cardiomyopathy (arrhythmias, heart failure, sudden death), megaoesophagus, megacolon. Treatment: benznidazole or nifurtimox (acute effective; chronic — limited benefit for established cardiomyopathy).
+
+END OF INFECTIOUS DISEASES TRAINING DATA
+Total: ~12,600 words | Sections: 6 | Estimated chunks: ~102

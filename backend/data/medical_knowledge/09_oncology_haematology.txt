@@ -1,0 +1,245 @@
+ONCOLOGY & HAEMATOLOGY — COMPREHENSIVE MEDICAL REFERENCE
+==========================================================
+Source: Medical Training Data for AIVARA Healthcare AI
+Category: Oncology & Haematology | Version: 1.0
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 1: CANCER BIOLOGY AND PRINCIPLES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+HALLMARKS OF CANCER (Hanahan & Weinberg):
+1. Sustaining proliferative signalling: oncogene activation (RAS, EGFR, HER2 mutations)
+2. Evading growth suppressors: tumour suppressor gene loss (TP53, RB1, BRCA1/2)
+3. Resisting cell death: BCL-2 overexpression, TP53 mutation
+4. Enabling replicative immortality: telomerase activation (hTERT)
+5. Inducing angiogenesis: VEGF overexpression
+6. Activating invasion and metastasis: E-cadherin loss, matrix metalloprotease activation
+7. Reprogramming energy metabolism: Warburg effect (aerobic glycolysis)
+8. Evading immune destruction: PD-L1 expression, immunosuppressive microenvironment
+9. Tumour-promoting inflammation: NF-κB activation, cytokine production
+10. Genome instability and mutation: DNA repair defects, chromosomal instability
+
+ONCOGENES AND TUMOUR SUPPRESSORS:
+Proto-oncogenes (normal → oncogene via gain-of-function mutation): RAS (KRAS in 30% of all cancers — colorectal, pancreatic, lung; NRAS, HRAS), EGFR (lung adenocarcinoma, head/neck), HER2/ERBB2 (breast, gastric — amplification), MYC (lymphoma, various — amplification), BCR-ABL (CML — translocation t(9;22)), ALK (lung, lymphoma — rearrangement), BRAF (melanoma, colorectal, thyroid — V600E mutation), FLT3 (AML), CDK4/6 (breast cancer — amplification), PIK3CA (breast, colorectal, endometrial).
+Tumour suppressors (loss-of-function → cancer): TP53 (guardian of genome — mutated in 50% of all cancers; Li-Fraumeni syndrome), RB1 (retinoblastoma — regulates G1/S checkpoint), BRCA1/BRCA2 (hereditary breast/ovarian cancer — DNA repair), APC (FAP/colorectal cancer — Wnt signalling), PTEN (breast, endometrial, prostate), VHL (renal cell carcinoma), CDKN2A (melanoma, pancreatic), NF1/NF2 (neurofibromatosis), MLH1/MSH2 (Lynch syndrome — mismatch repair), STK11 (Peutz-Jeghers — LKB1), SMAD4/SMAD2 (colorectal, pancreatic), WT1 (Wilms tumour).
+
+CANCER STAGING:
+TNM system: T (primary tumour size/extent 0-4), N (regional lymph node involvement 0-3), M (distant metastasis 0-1). Combine into Stage I-IV. Clinical (cTNM — pre-treatment imaging/exam) vs pathological (pTNM — post-surgery histology). yTNM — post-neoadjuvant therapy.
+
+TUMOUR MARKERS (selected):
+PSA: prostate cancer (not specific).
+AFP (alpha-fetoprotein): hepatocellular carcinoma (>400 ng/mL strongly suggestive), non-seminomatous germ cell tumours.
+Beta-hCG: choriocarcinoma, non-seminomatous GCT, seminoma (mild elevation).
+CEA (carcinoembryonic antigen): colorectal, gastric, breast, lung — monitoring, not screening (low specificity).
+CA125: ovarian cancer (monitoring, not screening — elevated in endometriosis, fibroids, PID, pregnancy — low specificity). CA19-9: pancreatic, biliary tract cancer. CA15-3: breast cancer monitoring. CA72-4: gastric cancer.
+LDH: aggressive lymphomas, germ cell tumours, melanoma — prognostic.
+Chromogranin A: neuroendocrine tumours.
+Calcitonin: medullary thyroid cancer.
+Thyroglobulin: differentiated thyroid cancer (monitoring post-thyroidectomy).
+
+CANCER TREATMENT MODALITIES:
+Surgery: curative (complete resection), debulking (cytoreduction), palliative (obstruction relief), prophylactic (colectomy in FAP, mastectomy in BRCA), reconstructive. Margins: R0 (clear), R1 (microscopic residual), R2 (macroscopic residual).
+Radiotherapy: ionising radiation → DNA double-strand breaks → cell death. Fractionation (divide dose to allow normal tissue repair between fractions). External beam RT (EBRT — IMRT, VMAT, proton beam). Stereotactic body RT (SBRT/SABR) — high dose per fraction, precise targeting — oligometastatic disease, lung, prostate. Brachytherapy — internal RT (seeds, wires — prostate LDR, gynaecological HDR). Side effects: acute (fatigue, mucositis, skin reactions, diarrhoea, pneumonitis) vs late (fibrosis, secondary malignancy — especially leukaemia after childhood RT, hypothyroidism after neck RT).
+Chemotherapy: cytotoxic agents. Mechanisms: alkylating agents (cyclophosphamide, cisplatin, carboplatin — crosslink DNA strands → replication failure), antimetabolites (methotrexate — DHFR inhibitor; 5-FU — thymidylate synthase inhibitor; gemcitabine; capecitabine — oral 5-FU prodrug; pemetrexed), topoisomerase inhibitors (doxorubicin, epirubicin — II inhibitors; irinotecan, topotecan — I inhibitors), vinca alkaloids (vincristine, vinorelbine — microtubule depolymerisation), taxanes (paclitaxel, docetaxel — microtubule stabilisation → mitotic arrest), antitumour antibiotics (bleomycin — DNA strand breaks).
+Targeted therapy: molecularly targeted agents against specific oncogenic drivers (EGFR TKIs — erlotinib, gefitinib, osimertinib; HER2 — trastuzumab, pertuzumab, T-DM1, trastuzumab deruxtecan; VEGFR — bevacizumab, ramucirumab, sunitinib, sorafenib, lenvatinib, cabozantinib; BCR-ABL — imatinib, dasatinib, nilotinib; BRAF — vemurafenib, dabrafenib; MEK — trametinib, cobimetinib; CDK4/6 — palbociclib, ribociclib, abemaciclib; PARP — olaparib, rucaparib, niraparib; IDH1/2 — enasidenib, ivosidenib; FLT3 — midostaurin, gilteritinib; BTK — ibrutinib, acalabrutinib; BCL-2 — venetoclax; mTOR — everolimus, temsirolimus; ALK/ROS1 — crizotinib, alectinib, brigatinib, lorlatinib; RET — selpercatinib, pralsetinib; NTRK — larotrectinib, entrectinib; KRAS G12C — sotorasib, adagrasib).
+Immunotherapy: checkpoint inhibitors (anti-PD-1: pembrolizumab, nivolumab, cemiplimab; anti-PD-L1: atezolizumab, durvalumab, avelumab; anti-CTLA-4: ipilimumab, tremelimumab), CAR-T cells (chimeric antigen receptor T cells — axicabtagene ciloleucel, tisagenlecleucel — B-ALL, DLBCL; lisocabtagene maraleucel; idecabtagene vicleucel, ciltacabtagene autoleucel — myeloma), bispecific antibodies (blinatumomab — CD19×CD3 BiTE; mosunetuzumab, epcoritamab, glofitamab — CD20×CD3), cancer vaccines, adoptive cell therapy.
+Endocrine/hormone therapy: breast cancer (tamoxifen, aromatase inhibitors — anastrozole, letrozole, exemestane; fulvestrant — ER+ disease), prostate cancer (LHRH agonists/antagonists, antiandrogens — enzalutamide, apalutamide, darolutamide; abiraterone), thyroid cancer (levothyroxine TSH suppression), endometrial (medroxyprogesterone), adrenal (mitotane).
+Antibody-drug conjugates (ADCs): antibody delivers cytotoxic payload directly to tumour cells. Trastuzumab deruxtecan (T-DXd — Enhertu — HER2-targeted, top-isomerase I payload — DESTINY-Breast trials — major advances in HER2+ and HER2-low breast cancer), sacituzumab govitecan (Trop-2-targeted, SN-38 payload — triple negative breast cancer, urothelial), enfortumab vedotin (Nectin4-targeted, MMAE — urothelial), belantamab mafodotin (BCMA-targeted — myeloma), polatuzumab vedotin (CD79b-targeted — DLBCL), gemtuzumab ozogamicin (CD33-targeted — AML).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 2: BREAST CANCER
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+EPIDEMIOLOGY:
+Most common cancer in women globally (2.3 million cases/year). 1 in 7-8 lifetime risk in UK women. Second most common cause of cancer death in women (lung now first in many countries). M:F 1:100 (male breast cancer 1% of all breast cancers — typically later stage, worse prognosis partly due to diagnostic delay). Peak incidence 50-70 years. Incidence increasing in low-income countries.
+
+RISK FACTORS:
+Non-modifiable: female sex, increasing age, family history (first-degree relative 2× risk; BRCA1 — 70% lifetime risk; BRCA2 — 60% lifetime risk), previous breast cancer, previous radiotherapy (mantle radiation — Hodgkin's lymphoma treatment), LCIS/ADH (lobular carcinoma in situ/atypical ductal hyperplasia).
+Hormonal/reproductive: early menarche (<12 years), late menopause (>55 years), nulliparity or late first pregnancy (>35 years), HRT (combined oestrogen/progestogen — 1.3× increased risk, returns to baseline after cessation; oestrogen-only — no increased risk), oral contraceptive pill (very small increased risk, returns to baseline 10 years after cessation).
+Lifestyle: obesity (postmenopausal — adipose tissue produces oestrogen), alcohol (dose-dependent — 7% increased risk per unit alcohol per day), physical inactivity (protective effect of exercise), dense breast tissue (increases both risk and difficulty of detection).
+
+PATHOLOGY:
+Invasive ductal carcinoma/NST (no special type): 75-80% — most common.
+Invasive lobular carcinoma: 10-15% — loss of E-cadherin (CDH1 mutation), bilateral risk, difficult to detect on mammography, predilection for unusual metastatic sites (GI tract, uterus, meninges).
+Special types: mucinous, tubular, medullary, cribriform — better prognosis generally.
+Ductal carcinoma in situ (DCIS): pre-invasive. Screen-detected or presents as microcalcifications on mammography. Grade (low, intermediate, high). Comedonecrosis (high-grade feature). Treatment: surgery (wide local excision ± radiotherapy), ± endocrine therapy.
+
+MOLECULAR SUBTYPES:
+Luminal A (ER+/PR+, HER2-, low Ki67 — low grade): most common, 50-60%, best prognosis. Treated with endocrine therapy ± chemotherapy.
+Luminal B (ER+/PR±, HER2-, high Ki67 OR ER+, HER2+): higher proliferation, worse prognosis than Luminal A. Endocrine therapy + chemotherapy ± HER2-targeted.
+HER2-enriched (ER-, PR-, HER2+): 15-20%, more aggressive, responds to HER2-targeted therapy.
+Triple-negative (TNBC — ER-, PR-, HER2-): 15-20%, most aggressive, no hormone/HER2 targets, BRCA1-associated (30-40% of BRCA1 carriers develop TNBC), immunotherapy responsive (high TILs, PD-L1+), chemotherapy backbone, PARP inhibitors (BRCA-mutated), sacituzumab govitecan.
+PAM50 (Prosigna): gene expression subtyping — Luminal A, Luminal B, HER2-enriched, Basal-like.
+Genomic assays (prognostic/predictive): Oncotype DX (21-gene recurrence score — ER+ HER2- N0/N1 — TAILORx, RxPONDER trials — guides chemotherapy decision; score ≤25: endocrine therapy alone; score 26-100: benefit from chemotherapy), MammaPrint (70-gene — MINDACT trial), Prosigna.
+
+STAGING AND INVESTIGATIONS:
+Triple assessment: clinical examination, imaging (mammography ± USS ± MRI), core needle biopsy (histology + ER/PR/HER2 IHC ± FISH).
+Staging: T1 ≤2cm, T2 2-5cm, T3 >5cm, T4 skin/chest wall involvement. N0-N3 (axillary, internal mammary, supraclavicular). M0-M1. Staging CT chest/abdomen/pelvis + bone scan (or FDG-PET) for Stage III, any M1 features, inflammatory breast cancer, symptoms suggesting metastasis.
+Sentinel lymph node biopsy (SLNB): for clinically node-negative — identifies sentinel node for histological assessment, avoids full axillary clearance if negative.
+
+TREATMENT — EARLY BREAST CANCER:
+Surgery: breast-conserving surgery (BCS — wide local excision/lumpectomy) + radiotherapy = equivalent survival to mastectomy for most tumours ≤4cm. Mastectomy (simple or skin-sparing or nipple-sparing) + immediate reconstruction (implant, DIEP flap, LD flap) for large tumours, multifocal, BRCA carriers (bilateral risk-reducing mastectomy), preference. Axillary management: SLNB (1-2 positive sentinel nodes — ACOSOG Z0011 — ALND not required for most patients with BCS and SLNB 1-2 positive nodes treated with systemic therapy + RT).
+Radiotherapy: after BCS (reduces local recurrence from 30% to 10% at 10 years — EBCTCG). Post-mastectomy RT: T3/T4, ≥4 positive nodes, close margins. Regional nodal RT (internal mammary, supraclavicular chain) for high-risk nodal disease.
+Chemotherapy: neoadjuvant (pre-operative — allows in vivo assessment of response, converts to BCS, pathological complete response — pCR — correlates with survival), adjuvant (post-operative). Regimens: anthracycline-based (EC — epirubicin + cyclophosphamide; AC) × 4 cycles → taxane (paclitaxel or docetaxel) × 4 cycles (AC-T or FEC-T). Dose-dense schedules (2-weekly with G-CSF) superior in high-risk disease.
+Endocrine therapy: ER+ disease. Pre/perimenopausal: tamoxifen (SERM — ER antagonist in breast, agonist in bone/uterus) × 5 years → consider extended to 10 years (ATLAS, aTTom trials — additional survival benefit; risk of endometrial cancer <1%). OFS (ovarian function suppression — GnRH agonist — goserelin) + AI: for high-risk premenopausal patients (SOFT, TEXT trials — OFS + exemestane superior to tamoxifen in high-risk premenopausal). Postmenopausal: aromatase inhibitors (anastrozole, letrozole, exemestane) × 5 years (superior to tamoxifen — ATAC, BIG1-98 trials; joint pain/osteoporosis — bisphosphonate prophylaxis, monitoring). Extended AI: 10 years total for high-risk (MA17R). CDK4/6 inhibitors: abemaciclib × 2 years adjuvant in high-risk ER+ HER2- EBC (monarchE trial — 33% reduction in distant recurrence).
+HER2-targeted therapy: trastuzumab (Herceptin) IV ×1 year adjuvant (HERA, NSABP B-31 — 50% reduction in recurrence). Pertuzumab + trastuzumab × 1 year for high-risk HER2+ (APHINITY). Neoadjuvant: pertuzumab + trastuzumab + chemotherapy → surgery. Non-pCR: ado-trastuzumab emtansine (T-DM1 — KATHERINE trial — reduces recurrence 50% vs trastuzumab after neoadjuvant failure).
+PARP inhibitors: olaparib × 1 year adjuvant for germline BRCA1/2-mutated HER2- EBC (OlympiA trial — 42% reduction in distant recurrence — TNBC and ER+ both benefit).
+Bisphosphonates: zoledronic acid or clodronate adjuvant for postmenopausal women (or premenopausal on OFS) — reduces bone and distant metastasis recurrence (EBCTCG meta-analysis — zone of benefit in postmenopausal only).
+
+TREATMENT — METASTATIC BREAST CANCER (MBC):
+Goal: prolong survival, maintain QoL — not curative (rare exceptions: oligometastatic disease). Most common sites: bone (most common), liver, lung, brain.
+ER+ HER2- MBC:
+First-line: CDK4/6 inhibitor (palbociclib/ribociclib/abemaciclib) + AI (anastrozole/letrozole) — PALOMA-2, MONALEESA-2, MONARCH-3 — doubles PFS from ~14 to ~28 months. Premenopausal: OFS + AI + CDK4/6i. Second-line: CDK4/6i + fulvestrant OR fulvestrant ± CDK4/6i ± mTOR inhibitor (everolimus + exemestane — BOLERO-2). PIK3CA-mutated: alpelisib (PI3Kα inhibitor) + fulvestrant — SOLAR-1. ESR1-mutated (acquired AI resistance): elacestrant (oral SERD — selective ER degrader — EMERALD trial) or camizestrant — novel SERDs.
+HER2+ MBC:
+First-line: pertuzumab + trastuzumab + docetaxel (CLEOPATRA — major OS improvement). Second-line: trastuzumab deruxtecan (T-DXd — DESTINY-Breast03 — superior to T-DM1 in HER2+ MBC — major advance). Third-line+: T-DM1 or lapatinib + capecitabine or tucatinib + trastuzumab + capecitabine (HER2CLIMB).
+HER2-low (IHC 1+ or 2+ FISH-negative): T-DXd (DESTINY-Breast04 — OS improvement in HER2-low — unprecedented expansion of HER2-targeted therapy population; previously classified as HER2-negative, now a treatable subgroup).
+TNBC: first-line immunotherapy-eligible (PD-L1+ CPS≥10 or CPS≥1 depending on agent): pembrolizumab + chemotherapy (KEYNOTE-522 pCR improvement + EFS in neoadjuvant; KEYNOTE-355 PFS in metastatic PD-L1+), atezolizumab + nab-paclitaxel (IMpassion130). Sacituzumab govitecan (Trop-2 ADC — ASCENT — PFS/OS improvement vs chemotherapy in 2L+ TNBC). Olaparib or talazoparib (gBRCA1/2-mutated TNBC — OlympiAD, EMBRACA trials). Pembrolizumab monotherapy (MSI-H/TMB-high — tumour agnostic).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 3: COLORECTAL CANCER (CRC)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+EPIDEMIOLOGY:
+Third most common cancer worldwide (1.9 million cases/year). Second most common cause of cancer death (900,000/year). UK: 42,000 new cases/year. M:F 1.3:1. Lifetime risk approximately 1 in 14 (men), 1 in 19 (women). 5-year survival overall: 60% (Stage I: 90%, Stage IV: 10%).
+
+RISK FACTORS:
+Non-modifiable: age (>50), family history (first-degree relative — 2-3× risk; familial adenomatous polyposis — FAP — APC mutation — 100% lifetime CRC risk without colectomy; Lynch syndrome/HNPCC — MLH1, MSH2, MSH6, PMS2 — 70-80% lifetime CRC risk), personal history of colorectal adenomas or CRC, IBD (UC/Crohn's — proportional to disease extent and duration — pancolitis 8-10× increased risk).
+Modifiable/dietary: obesity (1.5× risk), red/processed meat (1.2-1.5×), physical inactivity, smoking, alcohol, low fibre diet, low calcium/vitamin D. Protective: aspirin (reduces CRC by 15-20% with 10 years use — insufficient evidence to recommend universally), fibre, exercise, calcium.
+
+MOLECULAR PATHWAYS:
+Chromosomal instability (CIN — 85%): sequential mutation acquisition — APC → KRAS → SMAD4 → TP53 (Vogelstein adenoma-carcinoma sequence). Adenoma → carcinoma over 5-10 years.
+Microsatellite instability (MSI/dMMR — 15%): mismatch repair gene mutations/hypermethylation → rapid mutation accumulation → distinct biology, right-sided, mucinous, infiltrating lymphocytes. MSI-H tumours: better prognosis in Stage II, response to immunotherapy (pembrolizumab first-line mCRC). Lynch syndrome: germline MMR mutation.
+KRAS/NRAS mutations: 50-60% of CRC — predictive of non-response to anti-EGFR therapy (cetuximab, panitumumab — only effective in RAS wild-type).
+BRAF V600E: 10-15%, poor prognosis, right-sided, microsatellite unstable (sporadic MSI-H), Lynch MSS (Lynch syndrome CRC less commonly BRAF-mutated). Encorafenib + cetuximab (BEACON CRC trial) for BRAF V600E mCRC.
+HER2 amplification/overexpression: 3-5% — trastuzumab + pertuzumab or tucatinib active.
+
+PRESENTATION:
+Right-sided CRC: iron-deficiency anaemia (occult bleeding from exophytic tumour), weight loss, RIF mass, change in bowel habit less prominent (liquid stool in right colon). Often presents later.
+Left-sided CRC: rectal bleeding (bright red or dark), change in bowel habit (alternating constipation and diarrhoea, narrower stool), tenesmus (incomplete evacuation), colicky abdominal pain, bowel obstruction.
+Rectal cancer: rectal bleeding (commonest symptom), mucous discharge, tenesmus, perineal pain, constipation, incontinence.
+Systemic: weight loss, anorexia, fatigue (anaemia), liver involvement (right upper quadrant pain, jaundice — liver metastases present in 20% at diagnosis).
+
+SCREENING:
+UK Bowel Cancer Screening Programme (NHS): faecal immunochemical test (FIT — measures human haemoglobin in stool) offered every 2 years, ages 50-74. Positive FIT → colonoscopy. FIT superior to guaiac FOBt (more specific, easier to use). One-off flexible sigmoidoscopy at age 55 (Bowel Scope Screening). Colonoscopy for surveillance of high-risk adenomas, IBD, hereditary CRC syndromes.
+Colonoscopy: gold standard — allows visualisation and polypectomy. Sensitivity >95% for cancer and advanced adenomas. Complications: perforation (1:1000), bleeding (1:500). Virtual colonoscopy (CT colonography) — alternative for incomplete colonoscopy.
+
+TREATMENT:
+Localised (Stage I-III): curative surgery. Colon: right hemicolectomy (caecum, ascending, hepatic flexure), left hemicolectomy (splenic flexure to sigmoid), anterior resection (sigmoid + upper rectum), sigmoid colectomy. Laparoscopic preferred (equivalent oncological outcomes, faster recovery). Aim R0 resection (clear margins). D3 lymphadenectomy (complete mesocolic excision — CME) improves survival vs conventional surgery.
+Rectal cancer: total mesorectal excision (TME — sharp dissection around intact mesorectal envelope → reduces local recurrence from 25% to <10%). Anterior resection (AR) for upper/mid rectum. Abdominoperineal resection (APR) for low rectal cancer — permanent colostomy. Transanal TME (TaTME) — laparoscopic approach from below — narrow pelvis.
+Neoadjuvant (rectal cancer): short-course radiotherapy (25 Gy in 5 fractions — SCRT — delays surgery 4-8 weeks for response; or immediate surgery), or long-course chemoradiotherapy (45-50 Gy over 5 weeks + concurrent capecitabine or 5-FU — for locally advanced T3/T4 or N+). Total neoadjuvant therapy (TNT — all systemic + RT before surgery) — RAPIDO, PRODIGE 23 — improves pCR, organ preservation.
+Adjuvant chemotherapy: Stage III (node-positive — FOLFOX or CapeOx — 6 months — reduces recurrence 25-30%; IDEA trial — 3 months sufficient for N1 low-risk). Stage II high-risk (T4, obstruction/perforation, inadequate nodal harvest, BRAF V600E — consider adjuvant chemo, though benefit uncertain). MSI-H Stage II/III — no benefit from 5-FU; consider immunotherapy (pembrolizumab/nivolumab in trials).
+Metastatic CRC (mCRC):
+First-line: FOLFOX (5-FU + leucovorin + oxaliplatin) or FOLFIRI (5-FU + leucovorin + irinotecan) or FOLFOXIRI (triplet) ± bevacizumab (anti-VEGF — adds ~4 months OS) or cetuximab/panitumumab (anti-EGFR — only for RAS/BRAF WT left-sided tumours — superior in left-sided RAS WT; TRIBE, FIRE-3). Triplet FOLFOXIRI + bevacizumab: high tumour burden/liver-limited disease where conversion surgery possible.
+Second-line: FOLFIRI → FOLFOX (switch backbone), ± angiogenesis agents (bevacizumab continuation, ramucirumab, aflibercept — Ziv-aflibercept), ± anti-EGFR (if RAS/BRAF WT and not used first-line).
+Targeted: BRAF V600E — encorafenib + cetuximab (BEACON) after 1 prior line. RAS WT → anti-EGFR in later lines. MSI-H/dMMR — pembrolizumab first-line (KEYNOTE-177 — superior to chemotherapy). HER2-amplified RAS/RAF WT — trastuzumab + pertuzumab, tucatinib + trastuzumab (MOUNTAINEER). NTRK — larotrectinib, entrectinib. RET — selpercatinib. Fruquintinib (multi-kinase inhibitor — FRESCO-2) — 4th+ line. Trifluridine/tipiracil (TAS-102) — later line. Cetuximab + regorafenib (REVERCE Japanese trial).
+Oligometastatic disease: resection of liver/lung metastases potentially curative — 5-year survival 30-40% for resected liver metastases. RFA (radiofrequency ablation), SIRT (selective internal RT with Y90), SBRT for liver mets.
+CEA monitoring: post-resection (every 3-6 months for 3 years) — rising CEA prompts CT for recurrence.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 4: HAEMATOLOGICAL MALIGNANCIES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ACUTE MYELOID LEUKAEMIA (AML):
+Most common acute leukaemia in adults. Annual incidence 4-5/100,000. Median age 68. Rapidly progressive — without treatment: survival days-weeks.
+Pathogenesis: clonal expansion of myeloid progenitors with blocked differentiation. Driver mutations: NPM1 (25-35% — good prognosis), FLT3 (ITD 25-30% — poor prognosis; TKD 7%; midostaurin, gilteritinib, quizartinib), DNMT3A, IDH1/IDH2 (15-20% — ivosidenib, enasidenib), CEBPA (biallelic — good prognosis), TP53 (5-10% — very poor), RUNX1-RUNX1T1 (t(8;21) — AML M2, good prognosis), CBFB-MYH11 (inv(16)/t(16;16) — AML M4eo, good prognosis), KMT2A (MLL) rearrangements (poor prognosis), complex karyotype (≥3 abnormalities — very poor).
+Presentation: bone marrow failure features — anaemia (fatigue, pallor), thrombocytopenia (bleeding, bruising, petechiae, mucosal haemorrhage), neutropenia (infections — fever, pneumonia). Leucostasis (WBC >100 × 10⁹/L — hyperviscosity — pulmonary symptoms, CNS). DIC (acute promyelocytic leukaemia AML M3 — ATRA emergency). Extramedullary infiltration (gingival hyperplasia — M5 monocytic, skin nodules, CNS).
+Diagnosis: FBC (anaemia, thrombocytopenia, WBC variable — high or low), peripheral blood film (blast cells), bone marrow aspirate/biopsy (≥20% blasts = AML), cytogenetics (karyotype), FISH, molecular studies (NPM1, FLT3, CEBPA, IDH1/2, TP53, DNMT3A, RUNX1, WT1, BCR-ABL1 — exclude CML in blast crisis).
+WHO classification: integrates morphology, cytogenetics, molecular genetics.
+ELN risk stratification (2022): favourable (RUNX1-RUNX1T1, CBFB-MYH11, NPM1 mut without FLT3-ITD, CEBPA biallelic mut), adverse (TP53, RUNX1, ASXL1, FLT3-ITD high allelic ratio, complex karyotype, monosomy 5/7), intermediate (rest).
+Treatment (fit patients):
+Induction: 7+3 (cytarabine 7 days + daunorubicin/idarubicin 3 days). CPX-351 (liposomal cytarabine + daunorubicin) for sAML (secondary AML from MDS or therapy-related). + Midostaurin (FLT3 inhibitor) added to 7+3 for FLT3-mutated AML (RATIFY trial). + Venetoclax combinations (increasingly used in induction — strong activity in IDH-mutated and other subsets).
+AML M3 (APL — acute promyelocytic leukaemia): MEDICAL EMERGENCY — DIC can be fatal. PML-RARA fusion from t(15;17). All-trans-retinoic acid (ATRA) + arsenic trioxide (ATO) — replaces chemotherapy in standard-risk (LPA2012 — equivalent OS with far less toxicity). High-risk (WBC >10): ATRA + ATO + gemtuzumab ozogamicin. Differentiation syndrome (ATRA syndrome — fever, dyspnoea, weight gain, pulmonary infiltrates — treat with dexamethasone 10mg IV BD and continue ATRA).
+Consolidation: cytarabine-based consolidation courses (high-dose cytarabine — HiDAC). Allogeneic SCT (alloSCT) for intermediate/adverse risk in CR1 if suitable donor (reduces relapse but transplant-related mortality). Auto-SCT less commonly used.
+Maintenance: oral azacitidine (CC-486) for adults in CR/CRi post-consolidation — OS benefit (QUAZAR trial). Gilteritinib maintenance for FLT3-mutated AML.
+Targeted therapy: venetoclax + azacitidine/decitabine (Ven/Aza — VIALE-A trial — first-line for elderly/unfit — CR rate 65% vs 22%, OS doubled — now standard for unfit patients). Enasidenib (IDH2), ivosidenib (IDH1) — monotherapy for relapsed/refractory, increasingly as frontline additions. Gilteritinib — FLT3 mutations. Magrolimab (anti-CD47 — "don't eat me" signal) + azacitidine. Revumenib (KMT2A rearrangements/NPM1 mutations — menin inhibitor), ziftomenib — exciting emerging agents.
+Older/unfit patients: Ven/Aza (standard), azacitidine monotherapy (less efficacy), glasdegib + LDAC, LDAC (low-dose cytarabine) alone. Supportive care (transfusions, antibiotics) remains an option for very frail patients.
+Relapsed/refractory AML: gilteritinib (FLT3+), enasidenib (IDH2+), ivosidenib (IDH1+), CPX-351, FLAG-IDA (fludarabine + cytarabine + G-CSF + idarubicin), MEC (mitoxantrone + etoposide + cytarabine), alloSCT if achieved remission. Gemtuzumab ozogamicin (CD33+ — adds to reinduction). CAR-T and bispecific antibodies (flotetuzumab, talacotuzumab) in trials.
+
+CHRONIC MYELOID LEUKAEMIA (CML):
+Myeloproliferative neoplasm driven by BCR-ABL1 fusion gene from t(9;22) — Philadelphia chromosome. Annual incidence 1-2/100,000. Median age 50-60. Triphasic: chronic phase (CP) → accelerated phase (AP) → blast phase (BP). Most diagnosed in CP.
+Presentation: often asymptomatic (incidental FBC). Symptoms: fatigue, weight loss, sweating, splenomegaly (50-90% — left upper quadrant discomfort, early satiety), abdominal fullness, gout (high cell turnover).
+Blood: markedly elevated WBC (median 100 × 10⁹/L), left shift (metamyelocytes, myelocytes, promyelocytes, blasts <5% in CP), basophilia, eosinophilia, mild thrombocytosis. Haematocrit normal early.
+BCR-ABL1: PCR (most sensitive — detect minimal residual disease), FISH (Philadelphia chromosome), karyotype.
+Treatment: TKIs (tyrosine kinase inhibitors) — imatinib (Gleevec — original — 400 mg/day, CR in >90%, 5-year OS 90% — transformed CML prognosis), nilotinib (faster, deeper molecular response — ENESTnd trial), dasatinib (also crosses BBB — activity in CNS relapse — DASISION), bosutinib, ponatinib (T315I mutation — "gatekeeper mutation" — resistant to all other TKIs). Second-generation TKIs (nilotinib, dasatinib) recommended first-line if intermediate/high Sokal score risk — deeper faster responses, potentially higher treatment-free remission rates. Asciminib (STAMP inhibitor — myristoyl pocket — ASCEMBL — superior to bosutinib in 3rd line). Treatment-free remission (TFR): stopping TKI after sustained deep molecular response (MR4 or MR4.5) — 50% of suitable patients achieve stable TFR ("functional cure"). Allogeneic SCT: reserved for blast phase or TKI resistance — no longer first-line.
+
+LYMPHOMAS:
+NON-HODGKIN LYMPHOMA (NHL):
+Most common haematological malignancy. >90 subtypes (WHO classification). Indolent vs aggressive. B-cell (85%) vs T-cell (15%).
+
+Diffuse Large B-Cell Lymphoma (DLBCL): most common aggressive NHL (25-30% of NHL). Median age 65. ABC vs GCB subtypes (Hans algorithm — CD10, BCL6, MUM1). TP53, MYC, BCL2 mutations. Double/triple hit lymphoma (MYC + BCL2 ± BCL6 rearrangements — very aggressive, poor prognosis — treat with DA-R-EPOCH not R-CHOP).
+Treatment: R-CHOP (rituximab + cyclophosphamide + doxorubicin + vincristine + prednisolone) × 6 cycles — standard of care for most patients. 60-65% cure. CNS prophylaxis: intrathecal MTX or high-dose MTX IV for high CNS risk (≥4 sites, elevated LDH, kidney, adrenal, testicular involvement — high CNS IPI). Consolidation auto-SCT in first remission — no proven benefit in standard risk. R-CHOP + polatuzumab vedotin (POLARIX trial — PFS benefit in IPI ≥2). Relapsed/refractory: RICE, RDHAP, RGDP salvage → auto-SCT if chemosensitive. Car-T cells (axi-cel, liso-cel — ZUMA-7, TRANSFORM — superior to auto-SCT in early relapse >3-12 months after 1st line). Epcoritamab, glofitamab (CD20×CD3 bispecific antibodies) for multiply relapsed disease.
+
+Follicular Lymphoma (FL): most common indolent NHL (20% NHL). Incurable with chemotherapy (median OS 12-15 years). BCL2 overexpression from t(14;18). Clinical: painless lymphadenopathy, marrow involvement, waxing/waning lymph nodes. FLIPI score (prognostic). Watch and wait for asymptomatic low-burden disease (Ardeshna study). Treatment when indicated: R-CHOP/R-CVP/BR (bendamustine + rituximab — BRIGHT, StiL trials — superior PFS) → rituximab maintenance × 2 years. Obinutuzumab (type II anti-CD20 — superior to rituximab in GALLIUM trial). Lenalidomide + rituximab (R2 — RELEVANCE trial). Late transformations to DLBCL (3% per year). Novel agents: umbralisib (PI3K-δ inhibitor), copanlisib (IV PI3K), idelalisib (caution — autoimmune toxicities), parsaclisib. CAR-T (axicel — ZUMA-5) for relapsed FL.
+
+Mantle Cell Lymphoma (MCL): t(11;14) → cyclin D1 overexpression → SOX11. Aggressive (median OS 4-5 years), rare indolent variant. Blastoid/pleomorphic = very aggressive. Ibrutinib (BTK inhibitor) ± rituximab for relapsed/refractory (RESONATE). Young fit patients: R-CHOP/R-DHAP alternating → auto-SCT → rituximab maintenance (MCL Young trial). Elderly: BR + rituximab maintenance. Venetoclax + ibrutinib. Zanubrutinib (next-gen BTKi). KTE-X19 (brexucabtagene autoleucel — CAR-T for 2nd line MCL — ZUMA-2).
+
+Burkitt Lymphoma: highly aggressive (doubling time 24-48h), MYC translocation t(8;14), endemic (EBV-related, jaw), sporadic (abdominal), immunodeficiency-related (HIV). Treat urgently: tumour lysis syndrome (TLS) prophylaxis essential (allopurinol/rasburicase, hydration, electrolyte monitoring). DA-R-EPOCH or BFM-based regimens. High CNS relapse rate → CNS prophylaxis. Cure rate >70% with modern intensive regimens.
+
+HODGKIN LYMPHOMA (HL):
+30% of lymphomas, peak incidence 15-35 and >55 years. M>F. EBV association in ~50%. Reed-Sternberg cells (CD30+, CD15+) in reactive background (lymphocytes, eosinophils, plasma cells, macrophages). Classical HL: 4 subtypes (nodular sclerosis most common, mixed cellularity, lymphocyte-rich, lymphocyte-depleted). Nodular lymphocyte-predominant HL (NLPHL): different biology (CD20+, CD30-), better prognosis.
+Presentation: painless cervical/supraclavicular lymphadenopathy (70%), mediastinal mass (dyspnoea, cough — large mediastinal HL on CXR), constitutional "B symptoms" (fever >38°C, night sweats drenching, weight loss >10% in 6 months), pruritus, alcohol-induced lymph node pain (pathognomonic but rare).
+Staging: Ann Arbor (I-IV) + A (no B symptoms) or B (B symptoms). Bulky disease (mass >10cm or >1/3 mediastinal diameter). PET-CT staging (standard — identifies active disease, guides radiotherapy field).
+Treatment:
+Early (Stage I-II, non-bulky): ABVD (doxorubicin + bleomycin + vinblastine + dacarbazine) × 2-4 cycles → involved field RT (IFRT/INRT). Interim PET (after 2 cycles) guides escalation/de-escalation. PET-negative: de-escalate (omit RT or reduce chemo). GHSG HD16, RAPID, H10 trials.
+Early bulky/advanced (Stage II bulky, III-IV): ABVD × 6 cycles (standard — PET2-guided escalation to eBEACOPP if PET positive after 2 cycles). BrECADD (brentuximab vedotin + BEACOPP backbone — HD21 trial — superior PFS to eBEACOPP). eBEACOPP: more intensive, more effective but more toxic (fertility impairment, secondary leukaemia — reserve for high-risk PET2-positive). A+AVD (brentuximab vedotin + AVD — ECHELON-1 trial — superior PFS to ABVD, approved for advanced HL).
+Relapsed/refractory: salvage chemotherapy (IGEV, ICE, DHAP) → auto-SCT. Brentuximab vedotin (anti-CD30 ADC — excellent activity). Pembrolizumab, nivolumab (anti-PD-1 — very high response rates in R/R HL — CD30+ RS cells amplify PD-L1 expression — 65-90% ORR). Allogeneic SCT for multiply relapsed. BV-nivolumab combinations.
+
+MULTIPLE MYELOMA (MM):
+Plasma cell neoplasm (clonal plasma cells ≥10% in BM) producing a monoclonal protein (M protein). Annual incidence 6-7/100,000. Median age 70. Incurable (with current therapy) but increasingly chronic disease with survival now median 5-7 years.
+Precursor conditions: MGUS (monoclonal gammopathy of uncertain significance — M protein <30g/L, plasma cells <10% BM, no CRAB criteria — 1% per year progression risk — observe only) → smouldering MM (M protein ≥30g/L OR plasma cells ≥10% but no CRAB or biomarkers) → active MM.
+CRAB criteria (organ damage requiring treatment): hyperCalcaemia (>2.75 mmol/L), Renal impairment (creatinine >177 μmol/L), Anaemia (Hb <100g/L), Bone disease (lytic lesions, osteoporosis with compression fracture). SLiM CRAB adds biomarkers: 60% plasma cells, involved:uninvolved sFLC ratio >100, >1 focal lesion on MRI.
+Cytogenetic risk: high-risk (del(17p) — TP53; t(4;14); t(14;16); t(14;20); gain(1q); amp(1q)) — shorter PFS/OS. Standard risk: t(11;14) (BCL-2 high — venetoclax responsive — but also CCND1; may be targetable), hyperdiploidy.
+Clinical features: bone pain (back/ribs — 70%), pathological fractures, spinal cord compression, anaemia, infections (hypogammaglobulinaemia — pneumococcal, H. influenzae), renal failure (cast nephropathy, hypercalcaemia, light chains, contrast), hypercalcaemia (confusion, constipation, polyuria), peripheral neuropathy (both disease and treatment-related), amyloidosis (AL — deposits in heart, kidneys, nerves, liver, tongue macroglossia).
+Diagnosis: serum protein electrophoresis (SPE — M band), serum immunofixation (M protein type — IgG most common 50%, IgA 25%, light chain only 20%, IgD/IgM rare), serum free light chains (κ or λ — involved:uninvolved ratio), 24h urine immunofixation (Bence-Jones protein), BM aspirate + trephine biopsy (morphology, flow cytometry — aberrant CD38+, CD138+, CD56+, CD19-, CD45-; FISH; cytogenetics), MRI whole body (bone disease, cord compression — superior to plain skeletal survey), PET-CT or low-dose whole body CT.
+
+Treatment:
+Transplant-eligible (age <70-75, fit): VRd (bortezomib + lenalidomide + dexamethasone) × 3-4 cycles induction → stem cell collection → melphalan HDT/auto-SCT → VRd or lenalidomide maintenance. CASSIOPEIA: daratumumab (Dara) + VTd induction → SCT → Dara ± thalidomide consolidation — superior PFS. IsKia: ixazomib + carfilzomib + daratumumab quadruplet. FORTE: KRd (carfilzomib + lenalidomide + dexamethasone) → SCT. GRIFFIN: Dara-VRd → SCT. Lenalidomide maintenance (CALGB 100104, IFM2009) significantly improves PFS and OS.
+Transplant-ineligible: Dara-VRd (MAIA — Dara-Rd vs Rd — superior PFS/OS; ALCYONE — Dara-VMP vs VMP). VMP (bortezomib + melphalan + prednisolone), Rd (lenalidomide + dexamethasone), VCd (bortezomib + cyclophosphamide + dex).
+Relapsed/refractory: Numerous active agents. Key drugs: daratumumab (CD38 — subcutaneous available), elotuzumab (SLAMF7), carfilzomib (2nd-gen proteasome inhibitor — irreversible, superior to bortezomib in relapse), ixazomib (oral proteasome inhibitor), pomalidomide (3rd-gen IMiD), venetoclax (t(11;14) — BELLINI trial — BCL-2 overexpression). Combinations: Dara-Kd (CANDOR), Dara-Pd (APOLLO), KPd, PVd, etc. BCMA-targeted: belantamab mafodotin (BCMA ADC — DREAMM-2), idecabtagene vicleucel (ide-cel — BCMA CAR-T — KarMMa), ciltacabtagene autoleucel (cilta-cel — CARTITUDE — very high ORR >90%, sustained remissions), teclistamab (BCMA×CD3 bispecific — MajesTEC-1 — ORR 63%), talquetamab (GPRC5D×CD3 bispecific), elranatamab (BCMA bispecific). CD38 bispecific: isatuximab. Treatment of bone disease: bisphosphonates (zoledronic acid or pamidronate monthly × 2 years), denosumab, orthopaedic intervention, RT for focal pain/cord compression.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 5: ANAEMIAS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+CLASSIFICATION:
+By MCV (mean corpuscular volume):
+Microcytic (MCV <80 fL): iron deficiency anaemia (most common worldwide), thalassaemia, anaemia of chronic disease (usually normocytic but can be microcytic), sideroblastic anaemia (congenital or acquired — lead poisoning, alcohol, isoniazid — ring sideroblasts in BM), copper deficiency.
+Normocytic (MCV 80-100 fL): anaemia of chronic disease, haemolytic anaemia, aplastic anaemia, renal anaemia, acute blood loss, hypothyroidism, marrow infiltration (leukaemia, lymphoma, myeloma, solid tumour, myelofibrosis).
+Macrocytic (MCV >100 fL): megaloblastic (B12 deficiency, folate deficiency — nuclear maturation defect — hypersegmented neutrophils), non-megaloblastic (alcohol, hypothyroidism, liver disease, reticulocytosis, drugs — hydroxyurea, azathioprine, methotrexate).
+
+IRON DEFICIENCY ANAEMIA (IDA):
+Most common nutritional deficiency worldwide. Causes: blood loss (GI most important in adults — peptic ulcer, NSAIDs, oesophagitis, colorectal cancer, colonic polyps, angiodysplasia; menorrhagia in women; haematuria — rare), inadequate intake (infants, adolescents, pregnancy), malabsorption (coeliac disease — most important cause to exclude in UK; post-gastrectomy, achlorhydria).
+Symptoms: fatigue, dyspnoea on exertion, pallor, palpitations, headache, poor concentration, cold intolerance. Pica (iron deficiency-specific — craving for ice, clay, dirt — pagophagia). Restless legs syndrome.
+Signs: pallor (conjunctivae, palmar creases), koilonychia (spoon-shaped nails), glossitis (smooth red tongue), angular cheilitis, tachycardia. Plummer-Vinson syndrome: IDA + oesophageal web + glossitis/dysphagia in middle-aged women → increased risk of post-cricoid carcinoma.
+Investigations: FBC (low Hb, low MCV, low MCH, high RDW), peripheral blood film (hypochromic microcytic red cells, target cells, pencil cells), iron studies (low serum ferritin — <12 μg/L diagnostic; caveat: ferritin is acute phase protein — can be normal/high with IDA + inflammation; low serum iron, high TIBC/transferrin, low transferrin saturation <16%), reticulocyte Hb content. If ferritin equivocal: bone marrow iron stores (gold standard — absent stainable iron). In men and postmenopausal women: ALWAYS investigate cause (endoscopy mandatory — GI cancer until excluded).
+Treatment: investigate and treat underlying cause. Oral iron: ferrous sulphate 200mg TDS or ferrous fumarate 210mg TDS (elemental iron 65-68mg per tablet). Take on empty stomach (better absorption), vitamin C enhances absorption, avoid antacids/tea/coffee/dairy (inhibit). GI side effects (constipation, nausea, black stools) — dose reduce or change formulation (ferrous gluconate). Duration: replenish stores after Hb normalises (3 months). IV iron (ferric carboxymaltose, iron sucrose, low molecular weight iron dextran): for intolerance/malabsorption/ongoing blood loss/IBD/pre-operatively/dialysis. Ferric carboxymaltose (Ferinject) — single large dose (1000 mg); very convenient. Reactions: rare anaphylaxis (resuscitation available), flushing, hypophosphataemia (ferric carboxymaltose — monitor phosphate especially if repeated infusions).
+
+VITAMIN B12 AND FOLATE DEFICIENCY:
+B12 deficiency — causes:
+Pernicious anaemia (PA): autoimmune destruction of gastric parietal cells → reduced intrinsic factor (IF) → reduced ileal B12 absorption. Most common cause in developed world. Anti-parietal cell antibodies (90%), anti-IF antibodies (50% — more specific). Associated with other autoimmune diseases (thyroid, Addison's, T1DM, vitiligo). Higher gastric cancer risk.
+Dietary (vegans/strict vegetarians — no animal products).
+Malabsorption (terminal ileal disease/resection — Crohn's, ileal bypass, bacterial overgrowth).
+Drugs: metformin (reduces B12 absorption — check B12 annually), PPI (mild effect), nitrous oxide (oxidises B12 rapidly — acute severe deficiency — subacute combined degeneration).
+Clinical: macrocytic anaemia, glossitis, peripheral neuropathy (subacute combined degeneration of spinal cord — posterior + lateral column — paraesthesiae, weakness, ataxia, Lhermitte's sign — can occur WITHOUT anaemia), cognitive impairment, optic atrophy, psychiatric features. High homocysteine (CVD risk).
+Investigations: B12 <150 ng/L (deficiency); 150-200 grey zone. Folate. MCV elevated. Peripheral blood smear: oval macrocytes, hypersegmented neutrophils (≥5 lobes in >5% = megaloblastic). Schilling test (historical). Anti-parietal cell/anti-IF antibodies. Methylmalonic acid (elevated in B12 deficiency — more sensitive marker). Homocysteine (elevated in B12 and folate deficiency).
+Treatment: hydroxocobalamin IM 1mg (3×/week × 2 weeks → monthly lifelong for PA or malabsorption). Oral B12 (1000 μg/day) — very high dose oral B12 sufficient even for PA (passive absorption — 1% of any oral dose absorbed — sufficient at high doses). Folate supplementation: 5mg daily × 4 months. NOTE: NEVER give folate alone in suspected B12 deficiency — can precipitate/worsen subacute combined degeneration (neurological deterioration).
+
+HAEMOLYTIC ANAEMIA:
+Premature destruction of red blood cells. Intrinsic (intracorpuscular defects — usually hereditary) vs extrinsic (extracorpuscular — acquired).
+Investigations: haemolysis markers — elevated LDH, elevated indirect bilirubin (jaundice), low haptoglobin (binds free Hb — consumed), elevated reticulocyte count (compensatory erythropoiesis), urinary urobilinogen elevated, haemosiderinuria (intravascular haemolysis). Blood film: specific findings depend on cause.
+
+Hereditary:
+Hereditary spherocytosis (HS): most common hereditary haemolytic anaemia in Northern Europeans (1/2000). Defective cytoskeletal proteins (spectrin, ankyrin, band 3). Autosomal dominant (75%). Spherocytes on film. Jaundice (neonatal), anaemia, splenomegaly, gallstones (pigment — cholecystectomy may be needed). Osmotic fragility test (historically) → now EMA binding test (flow cytometry). Treatment: folic acid, transfusion for aplastic crisis (parvovirus B19 → transient red cell aplasia — acute severe anaemia — may need urgent transfusion); splenectomy (resolves anaemia in most — laparoscopic; pneumococcal/Hib/meningococcal vaccination before; lifelong penicillin prophylaxis post-splenectomy).
+G6PD deficiency: X-linked. Most common enzyme defect. G6PD protects RBCs from oxidative stress. Haemolysis triggered by: drugs (primaquine, dapsone, rasburicase, nitrofurantoin, high-dose aspirin, sulphonamides), fava beans, infections, acidosis. Bite cells, Heinz bodies (denatured Hb) on film. Neonatal jaundice. Avoid triggering agents.
+Sickle cell disease (SCD): autosomal recessive, β-globin glutamic acid → valine (Glu6Val) mutation → HbS. On deoxygenation → polymerisation → sickling → vaso-occlusion. HbSS most severe. HbSC, HbS/β-thal — milder.
+Complications: vaso-occlusive crisis (bone pain — most common; chest syndrome — fever, chest pain, hypoxia, new CXR infiltrate — most common cause of death; abdominal crisis; priapism; stroke); sequestration crisis (sudden splenic/hepatic pooling of blood — hypotension, shock — especially young children); aplastic crisis (parvovirus B19); haemolytic crisis; dactylitis (infants); avascular necrosis (femoral head — steroids and sickling); retinopathy; renal papillary necrosis; chronic organ damage.
+Management: folic acid daily, hydroxyurea (increases HbF — reduces sickling frequency — reduces pain crises, ACS, transfusion requirements; indicated for frequent crises, severe disease), L-glutamine (reduces oxidative stress — FDA-approved), crizanlizumab (anti-P-selectin — reduces vaso-occlusive crises — SUSTAIN trial), voxelotor (Hb polymerisation inhibitor — increases HbO2 affinity), penicillin prophylaxis lifelong (post-functional asplenia — susceptible to encapsulated organisms), vaccinations (pneumococcal, Hib, meningococcal, influenza), exchange transfusion (acute stroke, acute chest syndrome unresponsive to treatment, pre-op for major surgery). Allogeneic SCT (curative — limited by donor availability and toxicity — suitable for children with severe disease and matched sibling). Gene therapy (betibeglogene autologous autotransplant — lovotibeglogene autotemcel — FDA-approved 2023 for SCD in adults — lentiviral vector introduces functional β-globin gene; CRISPR-based therapy — exa-cel — approved 2023 — reactivates γ-globin/fetal haemoglobin).
+
+Acquired haemolytic:
+Autoimmune haemolytic anaemia (AIHA): warm (IgG — red cells destroyed in spleen — Coombs+, spherocytes, idiopathic or secondary to SLE, CLL, drugs) vs cold (IgM — complement-mediated, intravascular, cold agglutinin disease — mycoplasma, EBV, lymphoma). Warm AIHA: corticosteroids first-line, rituximab (second-line), splenectomy. Cold AIHA: avoid cold, treat underlying cause, rituximab.
+Drug-induced: many mechanisms (immune complex, drug adsorption, autoantibody induction — α-methyldopa, high-dose penicillin, quinidine).
+Microangiopathic haemolytic anaemia (MAHA): mechanical fragmentation of RBCs. Schistocytes (fragmented red cells) on film. Elevated LDH, low Hb, low platelets. Causes: TTP (plasma exchange urgently), HUS (E. coli O157 — supportive ± eculizumab), DIC, malignant hypertension, pre-eclampsia/HELLP, vasculitis, prosthetic heart valve.
+TTP: ADAMTS13 deficiency (acquired — autoantibody; congenital — Upshaw-Schulman syndrome). Fever, MAHA, thrombocytopenia, renal impairment, neurological symptoms (pentad — not all required). URGENT: plasma exchange (removes autoantibody + replaces ADAMTS13) + rituximab (reduces relapse rate) + corticosteroids + caplacizumab (anti-vWF nanobody — HERCULES trial — rapid platelet recovery, reduces refractory disease). Do NOT transfuse platelets unless life-threatening haemorrhage (worsens microthrombosis).
+
+END OF ONCOLOGY & HAEMATOLOGY TRAINING DATA
+Total: ~12,800 words | Sections: 5 | Estimated chunks: ~105

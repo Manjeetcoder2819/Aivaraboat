@@ -1,0 +1,375 @@
+MUSCULOSKELETAL & RHEUMATOLOGY — COMPREHENSIVE MEDICAL REFERENCE
+==================================================================
+Source: Medical Training Data for AIVARA Healthcare AI
+Category: Rheumatology | Version: 1.0
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 1: APPROACH TO JOINT DISEASE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+JOINT ANATOMY:
+Synovial joints contain articular cartilage (hyaline cartilage covering bony surfaces), synovial membrane (produces synovial fluid — lubricates and nourishes avascular cartilage), joint capsule (fibrous — stability), and ligaments. Synovial fluid is normally viscous, straw-coloured, <200 WBC/mL, and sterile. Cartilage is composed of type II collagen, proteoglycans (aggrecan — highly hydrophilic, maintains hydration), and chondrocytes (maintain matrix — limited capacity for repair).
+
+INFLAMMATORY VS DEGENERATIVE JOINT DISEASE:
+Inflammatory arthritis: morning stiffness >1 hour (improves with activity), joint swelling (synovitis — warmth, erythema, tenderness, effusion), systemic features (fatigue, fever, weight loss), elevated inflammatory markers (ESR, CRP), blood markers (rheumatoid factor, anti-CCP, ANA, ANCA). Examples: rheumatoid arthritis, psoriatic arthritis, ankylosing spondylitis, reactive arthritis, crystal arthropathy.
+Degenerative/osteoarthritis: morning stiffness <30 minutes, stiffness after inactivity (gelling), worse with activity/better with rest, Heberden's/Bouchard's nodes, crepitus, no systemic features, normal or mildly elevated inflammatory markers.
+
+SYNOVIAL FLUID ANALYSIS:
+Normal: clear, viscous, <200 WBC/mL, <25% PMN.
+Non-inflammatory (OA, trauma): clear/yellow, <2000 WBC, <25% PMN.
+Inflammatory (RA, crystal, reactive): turbid/yellow, 2000-50,000 WBC, >50% PMN.
+Septic arthritis: turbid/purulent, >50,000 WBC (often >100,000), >90% PMN, low glucose, positive Gram stain/culture.
+Crystal identification: polarised light microscopy — negatively birefringent needle-shaped crystals (gout — monosodium urate); positively birefringent rhomboid crystals (pseudogout — calcium pyrophosphate dihydrate).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 2: RHEUMATOID ARTHRITIS (RA)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DEFINITION AND EPIDEMIOLOGY:
+RA is a chronic systemic autoimmune disease characterised by synovial inflammation leading to joint destruction and extra-articular manifestations. Prevalence 0.5-1% worldwide (UK: approximately 400,000). F:M 3:1. Peak onset 40-60 years. Significant mortality: 5-10 year life expectancy reduction (cardiovascular disease major cause).
+
+PATHOPHYSIOLOGY:
+Genetic predisposition: HLA-DRB1 shared epitope (strongest genetic risk, present in 70% of RA). PTPN22 gene. Smoking: major environmental risk factor — induces protein citrullination → anti-CCP antibodies in HLA-SE carriers (gene-environment interaction). Synovial pathology: CD4+ T cells activate B cells → autoantibodies (RF, anti-CCP) → immune complexes activate complement → synovial inflammation → macrophage/fibroblast activation → cytokine production (TNF-α, IL-1, IL-6, IL-17) → synovial hyperplasia (pannus formation) → cartilage erosion (MMP, aggrecanases) → subchondral bone erosion (osteoclast activation via RANKL). Systemic inflammation: cardiovascular risk, extra-articular features.
+
+CLINICAL FEATURES:
+Joint involvement: symmetrical small joint polyarthritis (MCPs, PIPs, MTPs, wrists). Characteristically spares DIP joints (if involved, think psoriatic arthritis). Morning stiffness >1 hour. Soft tissue swelling (synovitis), warmth, tenderness. Ulnar deviation (MCP dislocation), swan neck deformity (PIP hyperextension + DIP flexion), boutonnière deformity (PIP flexion + DIP hyperextension), piano key sign (dorsal subluxation of ulnar head), Z-deformity of thumb. Atlantoaxial subluxation (C1/C2 instability — neurological risk, screen before general anaesthesia).
+Extra-articular features:
+Rheumatoid nodules (20-30%): subcutaneous, firm, non-tender, over pressure points (olecranon, occiput, Achilles). Accelerated by methotrexate (paradoxically).
+Pulmonary: interstitial lung disease (ILD — UIP pattern, NSIP; most serious extra-articular complication), pleural effusion/pleuritis, pulmonary nodules (Caplan syndrome — coal workers), pulmonary hypertension, bronchiolitis obliterans.
+Cardiovascular: accelerated atherosclerosis, increased MI/stroke risk, pericarditis, myocarditis. Treat CV risk factors aggressively. Statin use in RA reduces CV events.
+Eyes: keratoconjunctivitis sicca (secondary Sjögren's — most common), episcleritis (superficial — benign), scleritis (deep — painful, potentially sight-threatening, may indicate systemic flare).
+Haematological: anaemia of chronic disease (normochromic normocytic — most common), iron deficiency (NSAID-induced GI bleeding), Felty's syndrome (splenomegaly + neutropenia in severe longstanding RA — increased infection risk). Lymphoma risk increased 2-3×.
+Skin: vasculitis (small vessel — nailfold infarcts, digital gangrene — indicates severe disease), pyoderma gangrenosum, livedo reticularis.
+Neurological: peripheral neuropathy, carpal tunnel syndrome, atlanto-axial subluxation.
+Renal: secondary amyloid (AA amyloidosis — complication of chronic inflammation; proteinuria, nephrotic syndrome — check urinalysis annually in longstanding RA; treat with colchicine/DMARDs to suppress inflammation).
+
+DIAGNOSIS (ACR/EULAR 2010 CRITERIA):
+Score-based: ≥6/10 points = definite RA.
+A. Joint involvement (0-5): 1 medium-large joint = 0; 2-10 medium-large = 1; 1-3 small joints = 2; 4-10 small joints = 3; >10 joints (at least 1 small) = 5.
+B. Serology (0-3): negative RF AND anti-CCP = 0; low positive RF OR anti-CCP = 2; high positive (>3× ULN) RF OR anti-CCP = 3.
+C. Acute phase reactants (0-1): normal CRP AND ESR = 0; abnormal = 1.
+D. Duration (0-1): <6 weeks = 0; ≥6 weeks = 1.
+
+SEROLOGICAL MARKERS:
+Rheumatoid factor (RF): IgM antibody against Fc portion of IgG. Sensitivity 70-80%, specificity 80-85%. Present in: RA, SLE, Sjögren's, SBE, hepatitis C, TB, sarcoidosis. RF-positive RA: worse prognosis, more erosive, more extra-articular features.
+Anti-cyclic citrullinated peptide antibodies (anti-CCP/ACPA): highly specific for RA (>95%). Sensitivity 65-75%. Present up to 10 years before clinical onset. Predicts erosive disease, ILD risk. Anti-CCP and RF together: 99% positive predictive value for RA development.
+Other: elevated ESR/CRP (activity), anaemia of chronic disease, thrombocytosis, low albumin (severe disease), anti-mutated citrullinated vimentin (anti-MCV).
+
+DISEASE ACTIVITY ASSESSMENT:
+DAS28 (Disease Activity Score — 28 joints): swollen joint count (28 joints), tender joint count, patient global assessment (VAS 0-100), ESR or CRP. DAS28 <2.6 = remission; 2.6-3.2 = low activity; 3.2-5.1 = moderate; >5.1 = high.
+CDAI (Clinical Disease Activity Index): simpler, no lab, useful in clinic.
+SDAI (Simplified DAI): similar to CDAI.
+Target: remission (DAS28 <2.6) or low disease activity as treatment goal ("treat-to-target" strategy).
+
+MANAGEMENT:
+Early intervention: within 3 months of symptom onset significantly improves long-term outcomes ("window of opportunity"). Refer urgently to rheumatology if suspicious of RA.
+General: patient education, smoking cessation (reduces disease activity and drug response), physiotherapy, occupational therapy, podiatry. CVD risk management (aggressive — statin, hypertension treatment).
+
+DMARDs (Disease-Modifying Anti-Rheumatic Drugs):
+Conventional synthetic DMARDs (csDMARDs):
+Methotrexate (MTX): anchor drug — first-line DMARD in RA. Mechanism: inhibits dihydrofolate reductase → reduced tetrahydrofolate → impaired purine/pyrimidine synthesis → antiproliferative; other anti-inflammatory mechanisms (adenosine release). Dose: 7.5-25 mg once weekly (oral or SC — SC better bioavailability at higher doses). Folic acid 5mg once weekly (48h after MTX) — reduces side effects without reducing efficacy.
+Monitoring: LFTs, FBC, creatinine every 1-3 months. Baseline LFTs, FBC, hepatitis B/C serology, U&E, CXR.
+Side effects: nausea/GI (take at night, divide dose, SC route), oral ulcers (folic acid), hepatotoxicity (cumulative dose — liver biopsy if risk factors for fibrosis; FIB-4 monitoring), bone marrow suppression (cytopenias — stop if WBC <3 or platelets <100), pulmonary toxicity (methotrexate pneumonitis — cough, dyspnoea, bilateral infiltrates — stop immediately, steroids — rare but serious), teratogenicity (both sexes — discontinue 3-6 months before conception).
+Contraindications: pregnancy/breastfeeding, renal impairment eGFR<30, hepatic disease, significant alcohol use, poor adherence.
+
+Sulfasalazine (SSZ): DMARD for RA, also spondyloarthropathy in pregnancy. Mechanism: unclear — anti-inflammatory. Dose: 500mg → 3g/day divided doses with food. Side effects: GI (take with food, use enteric-coated), headache, rash, oligospermia (reversible), haematological (haemolytic anaemia in G6PD deficiency — screen — CBC monitoring). Contraindications: sulfonamide allergy, G6PD deficiency, pregnancy (avoid near term).
+
+Hydroxychloroquine (HCQ): antimalarial — anti-inflammatory. Dose 200-400mg/day (maximum 5 mg/kg/day). Side effects: retinopathy (rare with proper dosing — baseline ophthalmology at 5 years, then annually; screen with 10-2 threshold test ± OCT; higher risk with renal impairment). Diarrhoea, rash. No immunosuppression — safest in pregnancy. Cardiotoxicity at high doses (QTc prolongation).
+
+Leflunomide: dihydroorotate dehydrogenase inhibitor → inhibits pyrimidine synthesis → anti-proliferative. Dose 10-20mg/day. Loading dose 100mg (causes GI toxicity — avoid). Side effects: GI, hepatotoxicity, hypertension, alopecia, peripheral neuropathy. Teratogenic (both sexes — cholestyramine washout required, ensure blood level undetectable). Monitoring: LFTs, FBC.
+
+Combination csDMARDs: MTX + SSZ + HCQ (triple therapy) — as effective as biologic + MTX in MTX-naive patients (O'Dell trial) and cheaper. DMARD combination superior to monotherapy.
+
+Biological DMARDs (bDMARDs):
+TNF inhibitors: etanercept (soluble TNF receptor), infliximab (chimeric monoclonal antibody — IV), adalimumab (human monoclonal — SC fortnightly), certolizumab pegol (PEGylated Fab fragment — no Fc portion, lowest transplacental transfer — preferred in pregnancy if biologic needed), golimumab (SC monthly). Most effective with MTX combination (reduces immunogenicity, enhances efficacy). NICE: approved for moderate-severe RA (DAS28 >5.1) failing 2 csDMARDs including MTX.
+Key safety: TB reactivation — screen ALL patients before any biologic (Mantoux/IGRA, CXR; treat latent TB with isoniazid 6 months before biologic); serious infections; exclude active infection before each injection; hold for surgery; demyelinating disorders (avoid in MS, optic neuritis); heart failure (avoid anti-TNF in NYHA III/IV — can worsen HF); malignancy risk (lymphoma — small but real, NMSC); immunogenicity (anti-drug antibodies — adalimumab most immunogenic — combination MTX reduces).
+
+Abatacept (CTLA-4-Ig): blocks T cell co-stimulation (CD80/86 — CD28 interaction). IV infusion or SC weekly injection. Effective as first biologic especially in anti-CCP+ patients. Lower infection risk vs anti-TNF. Use caution with live vaccines.
+
+Rituximab (anti-CD20): depletes B cells. IV infusion ×2 doses 2 weeks apart, repeated 6-monthly. Preferred in: lymphoma history (anti-TNF increase lymphoma risk), demyelination, history of TB (no reactivation risk), COPD, solid organ malignancy, certain other ILD. Requires hepatitis B screening (reactivation risk). Monitor immunoglobulins — can cause hypogammaglobulinaemia.
+
+Tocilizumab (anti-IL-6 receptor): blocks IL-6 signalling. IV monthly or SC weekly. Unique — can be used as monotherapy (without MTX) — equivalent to MTX combination. Particularly useful when MTX intolerant or for GCA (giant cell arteritis). Side effects: elevated cholesterol, neutropenia, elevated liver enzymes, GI perforation (caution diverticular disease). Mask fever and CRP (suppress acute phase response — may mask infection signs).
+
+Sarilumab (anti-IL-6 receptor): SC biweekly, similar to tocilizumab.
+
+Baricitinib, upadacitinib, tofacitinib, filgotinib (JAK inhibitors — targeted synthetic DMARDs): oral, once-daily. Inhibit Janus kinase signalling (downstream of multiple cytokine receptors). Rapid onset (weeks). Effective as monotherapy or with MTX. Baricitinib superior to adalimumab + MTX in RA (RA-BEAM). Upadacitinib superior to adalimumab in some endpoints.
+Safety: VTE (particularly tofacitinib at higher doses — PE and deep vein thrombosis risk), cardiovascular events (ORAL Surveillance — tofacitinib vs TNFi in high-CV risk patients — increased MACE and cancer), infections (herpes zoster — vaccinate before starting; opportunistic infections), malignancy. NICE: approved for moderate-severe RA failing bDMARDs or unsuitable for bDMARDs. Black box warning for CV events, thrombosis, malignancy, death. Use caution in: age >65, smoking, CV history, malignancy history.
+
+Glucocorticoids: prednisolone. Short-term bridging at DMARD initiation. Intra-articular (IACS — triamcinolone, methylprednisolone) for flares — temporary relief while adjusting DMARDs. Long-term use causes significant harm: osteoporosis (use bisphosphonate prophylaxis — FRAX risk), diabetes, hypertension, weight gain, cataracts, HPA suppression, avascular necrosis. Aim to wean and stop. GIOP (glucocorticoid-induced osteoporosis) prevention: calcium + vitamin D supplementation, bisphosphonate if taking >7.5 mg/day for >3 months (FRAX-guided).
+
+NSAIDs: symptomatic relief only, no disease modification. GI protection with PPI. Avoid in cardiovascular disease, renal impairment, heart failure.
+
+TREAT-TO-TARGET (T2T):
+Monthly monitoring → adjust therapy → target remission (DAS28 <2.6) or LDA within 3-6 months. If not at target: increase DMARD dose, add DMARD, switch DMARD, or add biologic. Frequent assessment and rapid escalation improves outcomes vs delayed treatment.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 3: SERONEGATIVE SPONDYLOARTHROPATHIES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+OVERVIEW:
+Group of inflammatory arthritides with shared features: HLA-B27 association, seronegative (RF negative), axial involvement (sacroiliitis, spondylitis), asymmetric peripheral oligoarthritis, enthesitis (inflammation at tendon/ligament insertions), dactylitis (diffuse digit swelling "sausage digit"), and extra-articular features (uveitis, skin, bowel, genital). Includes: ankylosing spondylitis (AS), psoriatic arthritis (PsA), reactive arthritis, enteropathic arthritis (IBD-associated).
+
+HLA-B27: present in 8% of general population, 90% of AS patients, 50-75% of other SpA.
+
+ANKYLOSING SPONDYLITIS (AS) / AXIAL SPONDYLOARTHROPATHY (axSpA):
+Chronic inflammatory arthritis primarily affecting the axial skeleton (sacroiliac joints, spine). Radiographic axSpA (r-axSpA = classical AS) vs non-radiographic axSpA (nr-axSpA — sacroiliitis on MRI but not plain X-ray). M:F 3:1 for r-axSpA but equal in nr-axSpA. Peak onset 20-30 years.
+Symptoms: insidious onset inflammatory back pain (>3 months, onset <45 years, worse in morning >30 min stiffness, improves with exercise NOT rest, nocturnal awakening in second half of night, alternating buttock pain), peripheral arthritis, enthesitis (Achilles tendonitis, plantar fasciitis), dactylitis.
+Signs: reduced lumbar flexion (Schober's test <5 cm increase from 10 cm below to 5 cm above L5 on forward flexion), reduced chest expansion (<5 cm), reduced cervical rotation, sacroiliac joint tenderness (FABER test, Gaenslen's test).
+Extra-articular: anterior uveitis (30% — acute, painful, red eye, photophobia — treat with topical steroids/mydriatics), psoriasis, IBD, aortic regurgitation, cardiac conduction defects, pulmonary apical fibrosis (upper lobe cavitation — TB mimicry, late disease).
+Imaging: plain pelvis X-ray (sacroiliitis — erosions, sclerosis, ankylosis — grade 0-4 both SI joints), spine (bamboo spine — syndesmophytes fusing vertebrae end-to-end; squaring of vertebrae; Romanus lesion — anterior corner erosions). MRI SI joints/spine: active sacroiliitis (bone marrow oedema — STIR sequences, gadolinium enhancement) in nr-axSpA and early disease. CT SI joints: subchondral sclerosis, erosions, ankylosis.
+ASDAS (Ankylosing Spondylitis Disease Activity Score) and BASDAI (Bath Ankylosing Spondylitis Disease Activity Index): patient-reported outcome measures.
+Treatment: NSAIDs (first-line — naproxen, diclofenac — reduce pain and inflammation, may retard radiographic progression if taken continuously). Physiotherapy and exercise (crucial — maintains mobility, reduces ankylosis — hydrotherapy, swimming). No evidence for csDMARDs (MTX, SSZ) in axial disease (SSZ helps peripheral joints). Biologics: anti-TNF (etanercept, adalimumab, certolizumab, golimumab, infliximab — all approved for AS; indicated if active disease BASDAI ≥4 despite NSAIDs), anti-IL-17A (secukinumab, ixekizumab — bimekizumab anti-IL-17A/F — better for skin psoriasis and enthesitis; no increased IBD risk with secukinumab or ixekizumab, but avoid if active IBD), JAK inhibitors (tofacitinib, upadacitinib, filgotinib — approved for nr-axSpA and r-axSpA).
+
+PSORIATIC ARTHRITIS (PsA):
+Inflammatory arthritis associated with psoriasis. Prevalence: 20-30% of psoriasis patients. M=F. Onset 30-50 years. Seronegative (RF negative). HLA-Cw6 (psoriasis), HLA-B27 (axial disease).
+Skin psoriasis: precedes arthritis in 70%, concurrent in 15%, follows in 15%. Nail involvement (pitting, onycholysis, subungual hyperkeratosis, oil spots) strongly associated with PsA.
+Patterns of arthritis (multiple):
+1. Oligoarthritis (asymmetric, <5 joints) — most common
+2. Polyarthritis (symmetric, RA-like — RF negative, DIP involvement distinguishes from RA)
+3. DIP predominant (distal interphalangeal joints — pathognomonic for PsA, nail involvement coexists)
+4. Spondyloarthritis (axial — sacroiliitis, spondylitis — often asymmetric/non-contiguous unlike AS)
+5. Arthritis mutilans (severe destructive — osteolysis, "pencil-in-cup" deformity, telescoping digits — rare but severe)
+Enthesitis: Achilles, plantar fascia, epicondyles, patellar tendon. Dactylitis: "sausage digits" (diffuse swelling of whole digit from tenosynovitis).
+Extra-articular: uveitis (typically more chronic/posterior vs acute in AS), IBD, cardiovascular (metabolic syndrome), depression.
+Investigations: X-ray (erosive arthritis with periosteal new bone formation — "whittling" of bone ends → "pencil in cup"; osteolysis in arthritis mutilans), MRI (enthesitis, sacroiliitis), USS (enthesitis, synovitis).
+CASPAR criteria for diagnosis: inflammatory articular disease + ≥3 of — current psoriasis (2 pts), history of psoriasis, family history of psoriasis, nail dystrophy, RF negative, dactylitis current or history, juxta-articular new bone formation on hand/foot X-ray.
+Treatment: NSAIDs (mild peripheral arthritis), csDMARDs (MTX — preferred for polyarthritis, also helps skin — SSZ, leflunomide — less skin benefit; NOTE: no proven benefit in axial or enthesitis), biologics (for moderate-severe disease or inadequate response to csDMARDs): anti-TNF (adalimumab, etanercept, certolizumab, golimumab, infliximab — all approved), anti-IL-17A (secukinumab, ixekizumab, bimekizumab — FUTURE, SPIRIT trials — superior to anti-TNF for skin clearance in head-to-head trials), anti-IL-12/23 (ustekinumab), anti-IL-23 (guselkumab, risankizumab), JAK inhibitors (tofacitinib, upadacitinib, filgotinib — oral), PDE4 inhibitor (apremilast — oral, modest efficacy, useful in mild-moderate disease or when biologics contra-indicated — GI side effects, depression).
+
+REACTIVE ARTHRITIS (formerly Reiter's syndrome):
+Sterile inflammatory arthritis following genitourinary (Chlamydia trachomatis) or gastrointestinal infection (Salmonella, Shigella, Campylobacter, Yersinia, E. coli O157). HLA-B27 positive in 80% (increases susceptibility and severity). Classical triad: urethritis + conjunctivitis + arthritis ("can't see, can't pee, can't climb a tree") — present together in <30%.
+Presentation: 1-4 weeks post-infection. Asymmetric oligoarthritis (knees, ankles, feet), enthesitis, dactylitis, circinate balanitis (painless penile erosions), keratoderma blennorrhagica (hyperkeratotic skin lesions on soles/palms — psoriasiform), oral ulcers, uveitis.
+Most self-limiting (3-6 months). Chronic course in 30-50% (especially HLA-B27+).
+Treatment: NSAIDs (first-line), corticosteroids (intra-articular or oral short-term), SSZ or MTX for chronic arthritis. Antibiotics: treat active Chlamydia infection (azithromycin single dose or doxycycline 7 days — reduces duration), antibiotic treatment of GI infection does NOT clearly prevent reactive arthritis.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 4: CRYSTAL ARTHROPATHIES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GOUT:
+Gout is caused by deposition of monosodium urate (MSU) crystals in joints and soft tissues from persistent hyperuricaemia. Most common inflammatory arthritis in men over 40. Prevalence increasing globally (dietary factors, obesity, diuretics, CKD). M:F 4:1 (premenopausal oestrogen is uricosuric).
+
+PATHOPHYSIOLOGY:
+Uric acid: end product of purine metabolism in humans (lack of uricase enzyme). Produced by breakdown of nucleic acids (endogenous) and dietary purines (exogenous — red meat, shellfish, organ meats). Excreted primarily by kidneys (70%) and gut (30%). Normal serum urate: males <420 μmol/L (7 mg/dL), females <360 μmol/L (6 mg/dL). Saturation point approximately 408 μmol/L — above this, risk of crystal formation increases dramatically.
+Crystal deposition: MSU crystals form in avascular tissue (cartilage, tendons) and joints. Crystal-induced neutrophil activation → IL-1β release (via NLRP3 inflammasome) → intense acute inflammation.
+
+HYPERURICAEMIA CAUSES:
+Underexcretion (90% of primary gout): reduced renal urate clearance. Risk factors: CKD, hypertension (reduced renal blood flow), thiazide and loop diuretics (reduce urate excretion), ciclosporin, low-dose aspirin (competes with urate secretion at proximal tubule — avoid or change to alternative antiplatelet), alcohol (lactic acid from alcohol metabolism inhibits urate excretion + ethanol is converted to acetaldehyde → promotes urate production).
+Overproduction (10%): increased cell turnover (haematological malignancies — leukaemia, lymphoma; psoriasis; haemolytic anaemia), tumour lysis syndrome, rare enzyme defects (HGPRT deficiency — Lesch-Nyhan syndrome; PRPP synthetase superactivity — X-linked, gout + renal stones + sometimes neurological).
+Dietary: red meat, organ meats (liver, kidney), shellfish, fructose (HFCs — high fructose corn syrup → increases purine synthesis), alcohol (especially beer — high purine content + impairs urate excretion; spirits — impairs excretion; wine — minimal).
+
+CLINICAL STAGES:
+Asymptomatic hyperuricaemia: elevated urate without clinical features. Treatment not recommended unless very high levels or prophylaxis before chemotherapy.
+Acute gout attack: sudden onset (often nocturnal) excruciating pain, swelling, erythema, warmth in single joint (monarthritis 80%). Podagra (first MTP joint — 50-70% of first attacks), also ankle, knee, wrist, elbow, fingers. Erythema may extend beyond joint (can resemble cellulitis). Fever (leukocytosis) in severe attacks. Resolves spontaneously in 7-14 days (even untreated).
+Intercritical gout: asymptomatic periods between attacks. Crystal deposition continues. Duration shortens with more severe/frequent attacks.
+Chronic tophaceous gout: tophi (urate crystal deposits in soft tissue) — classic locations: helix of ear, extensor surfaces of fingers/toes, olecranon bursa, Achilles tendon, patella tendon. Chronic synovitis, erosive joint damage ("overhanging edge" erosions on X-ray — periarticular, asymmetric). Indicates inadequate urate lowering.
+
+DIAGNOSIS:
+Clinical diagnosis often sufficient in classic presentation (podagra, hyperuricaemia, rapid response to colchicine).
+Synovial fluid analysis: gold standard — negatively birefringent needle-shaped crystals under polarised light microscopy. Note: normal urate levels during acute attack (70% of acute attacks — urate shifts from blood to joint during flare).
+Serum urate: elevated (>420 μmol/L in men) — but can be normal during acute attack. Baseline for monitoring ULT.
+Imaging: plain X-ray (normal early; late — asymmetric erosions with overhanging edges and sclerotic margins, maintained joint space unlike RA); USS (double contour sign — urate deposition on cartilage surface; tophus — hyperechoic — doppler flow in inflamed tophi); dual energy CT (DECT) — maps urate crystal deposits, useful for diagnosis in atypical/complex cases; MRI (tophi, bone erosion).
+Investigations to assess comorbidities: renal function (CKD increases urate, reduced drug clearance), lipids, glucose (metabolic syndrome), blood count (leukaemia), LFTs (alcohol).
+
+ACUTE GOUT TREATMENT:
+Early treatment (within 24-48 hours of onset) most effective. Options (all equally effective if started early):
+NSAIDs (first-line if no contraindication): naproxen 500mg BD, indomethacin 25-50mg TDS, diclofenac 50mg TDS × 5-7 days. Add PPI gastroprotection. Avoid in: peptic ulcer disease, CKD, heart failure, anticoagulation.
+Colchicine: inhibits microtubule assembly → inhibits neutrophil migration and IL-1β processing. Low dose colchicine (0.5mg BD or TDS — AGREE trial — equally effective as high dose with less GI toxicity) preferred over older high-dose protocol. Duration: 5-7 days. GI side effects dose-dependent (diarrhoea most common). Caution: renal/hepatic impairment (reduced clearance), ciclosporin (severe toxicity), statins (myopathy). Drug interactions: P-gp and CYP3A4 substrates/inhibitors (clarithromycin, ciclosporin — toxic concentrations).
+Systemic corticosteroids (prednisolone 30-40mg/day × 5 days): for patients with contraindications to NSAIDs and colchicine (renal failure, elderly, anticoagulated). Intra-articular triamcinolone: very effective for single large joint.
+IL-1 inhibitors (anakinra, canakinumab): for refractory/contraindicated patients. Particularly canakinumab (single SC dose) for frequent recurrent attacks where standard therapy not tolerated. Expensive.
+
+URATE-LOWERING THERAPY (ULT):
+Indications (British Society for Rheumatology 2017): ≥2 attacks/year, tophi, chronic gouty arthropathy, uric acid renal stones, urate nephropathy, gout with CKD stage ≥3, gout in transplant patients (allopurinol + ciclosporin dose adjustment), urate >540 μmol/L (very high levels warrant treatment even after first attack).
+Target serum urate: <360 μmol/L (6 mg/dL) for most patients; <300 μmol/L (5 mg/dL) for tophaceous or severe/frequent gout. Urate should be monitored monthly during dose titration then 6-monthly.
+Do not start ULT during acute attack (initiating ULT during acute attack prolongs the attack). Start 2-4 weeks after acute attack settles. Paradox: gout flares more frequent in first 3-6 months of ULT (crystal mobilisation from dissolving deposits) → prophylaxis with colchicine 0.5mg BD or low-dose NSAID for first 3-6 months of ULT.
+
+Allopurinol: xanthine oxidase inhibitor — reduces uric acid production. First-line ULT. Start 50-100 mg/day, titrate by 50-100 mg every 2-4 weeks, maximum 900 mg/day. Start low, go slow (reduces flare risk). Most patients require 300 mg/day but dose based on response. Dose-adjust in CKD (reduced clearance — use lower doses). HLA-B*5801: genetic marker for allopurinol hypersensitivity syndrome (AHS) — severe skin reactions (SJS/TEN, DRESS) — prevalence in Han Chinese, Korean, Thai populations — screen before prescribing in these ethnic groups (1% prevalence vs 0.01% in Europeans). AHS: fever, severe rash, eosinophilia, hepatitis, renal failure — mortality 20-25% — STOP immediately if rash. Minor rash from allopurinol (5-10%): often tolerable, desensitisation protocols exist for mild rash.
+
+Febuxostat: non-purine selective xanthine oxidase inhibitor. More potent than allopurinol. Not renally excreted (hepatic metabolism — safer in mild-moderate CKD than allopurinol). FACT, APEX, CONFIRMS trials — superior urate lowering. CARES trial: cardiovascular deaths numerically higher vs allopurinol (MACE). FDA black box warning — avoid in established MACE history. FAST trial (UK/Denmark): no CV excess vs allopurinol. Dose: 80-120 mg/day. Gout flare prophylaxis required initially.
+
+Uricosurics (probenecid, lesinurad, benzbromarone): increase renal urate excretion. Not suitable if CKD or uric acid stones. Probenecid not available UK. Lesinurad (RDEA594) — URAT1 inhibitor — used in combination with XOI (risk of AKI if used alone). Benzbromarone available in some countries (hepatotoxicity risk).
+
+Pegloticase (Krystexxa): recombinant PEGylated uricase — converts uric acid to allantoin (soluble). Very effective (sUA drops to near zero). IV infusion every 2 weeks. Use: severe tophaceous gout failing all other treatments. Immunogenicity: anti-drug antibodies develop in ~40% → loss of efficacy and infusion reactions. Monitor urate — if not dropping, antibodies present, stop (prevents anaphylaxis). Combination with MTX or MMF reduces immunogenicity (MIRROR trial).
+
+CALCIUM PYROPHOSPHATE DEPOSITION (CPPD) / PSEUDOGOUT:
+Deposition of calcium pyrophosphate dihydrate (CPPD) crystals in cartilage and synovial fluid. F:M 2:1. Prevalence increases with age (50% of over 80s have radiographic chondrocalcinosis).
+Associations: metabolic disorders (hyperparathyroidism, haemochromatosis, hypomagnesaemia, hypophosphatasia, hypothyroidism, Wilson's disease — "HAHHW"). Screen especially if age <55 or polyarticular presentation.
+Clinical presentations:
+Acute CPP crystal arthritis (pseudogout): acute monoarthritis (most commonly knee — 50%; wrist, MCP joints), similar to gout but typically older patients, larger joints. Systemic features (fever, leukocytosis) may be pronounced. Triggers: illness, surgery, dehydration.
+Chronic CPP crystal inflammatory arthritis: polyarticular — resembles RA (MCPs, wrists), or OA with superimposed inflammation (knee, hip).
+Asymptomatic chondrocalcinosis: incidental finding on X-ray.
+Diagnosis: synovial fluid — rhomboid or rectangular positively birefringent crystals. X-ray: chondrocalcinosis (calcification in fibrocartilage — menisci of knee, triangular fibrocartilage of wrist, symphysis pubis, intervertebral discs; hyaline cartilage calcification also). USS: hyperechoic deposits within cartilage.
+Treatment: acute attacks — as for gout (NSAIDs, colchicine, intra-articular steroids). No effective ULT equivalent. Colchicine 0.5mg BD for prophylaxis in frequent flares. Treat underlying metabolic conditions (hyperparathyroidism, haemochromatosis). IL-1 inhibitors for refractory.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 5: SYSTEMIC LUPUS ERYTHEMATOSUS (SLE)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DEFINITION AND EPIDEMIOLOGY:
+SLE is a systemic autoimmune disease characterised by immune complex deposition and widespread organ inflammation. Prevalence 20-150 per 100,000 (varies by ethnicity). F:M 9:1. Peak onset 15-40 years. Higher prevalence and severity in African-American, African-Caribbean, Hispanic, and Asian women.
+
+PATHOPHYSIOLOGY:
+Defective clearance of apoptotic debris → nuclear antigens exposed → break in self-tolerance → autoantibody production (anti-dsDNA, anti-Sm, anti-Ro, anti-La, anti-phospholipid) → immune complex formation → complement activation → tissue injury. NETosis (neutrophil extracellular traps) contributes to autoantigen release. Type I interferon pathway dysregulation (IFN signature in 75% of SLE).
+
+CLINICAL FEATURES (SLICC/ACR 2019 criteria — score-based):
+Constitutional: fatigue (most common, >90%), fever, weight loss, lymphadenopathy.
+Mucocutaneous:
+Malar rash ("butterfly rash"): erythema over cheeks and nose bridge, spares nasolabial folds (cf. rosacea). Photosensitive. Fixed erythematous rash.
+Discoid lupus erythematosus (DLE): chronic scarring rash with central hypopigmentation, follicular plugging, peripheral hyperpigmentation. Can occur without systemic disease (10%).
+Photosensitivity: rash exacerbated by UV exposure.
+Subacute cutaneous LE (SCLE): papulosquamous or annular polycyclic lesions on sun-exposed areas. Associated with anti-Ro antibodies.
+Oral/nasal ulcers: painless (contrast with aphthous ulcers).
+Alopecia: non-scarring (diffuse thinning) or scarring (discoid lesions on scalp).
+Raynaud's phenomenon: vasospasm of digits (white → blue → red on rewarming — triphasic).
+Musculoskeletal: non-erosive arthritis/arthralgia (90% — migratory, symmetrical, small and large joints; Jaccoud's arthropathy — deformity from lax ligaments without erosion), myositis, tendon rupture (steroid-related).
+Renal (lupus nephritis): present in 30-50%. Most serious manifestation — major cause of morbidity. WHO/ISN classification: Class I-VI. Class III (focal proliferative) and IV (diffuse proliferative) — most aggressive, require immunosuppression. Class V (membranous) — nephrotic syndrome. Presentation: haematuria, proteinuria, hypertension, AKI. Biopsy essential for classification and treatment. Monitoring: urinalysis (RBC casts = active nephritis), ACR, serum creatinine, complement (C3/C4 — low in active nephritis), anti-dsDNA (rises with flare).
+Neuropsychiatric (NPSLE): 25-75% (mild forms included). Headache, cognitive impairment, mood disorders, psychosis, seizures, stroke, transverse myelitis, aseptic meningitis, cranial nerve palsies, peripheral neuropathy, chorea.
+Cardiovascular: Libman-Sacks endocarditis (non-bacterial thrombotic vegetations — on valve leaflets, both surfaces; systemic embolism, valve regurgitation), pericarditis (most common cardiac manifestation), myocarditis, accelerated atherosclerosis (major cause of late mortality — Manzi data — young women with SLE have 50× increased MI risk), Raynaud's, APS-related.
+Pulmonary: pleuritis/pleural effusion, pneumonitis (rare — diffuse alveolar haemorrhage — very rare, life-threatening), ILD, pulmonary hypertension, shrinking lung syndrome (diaphragm weakness/pleuritis → reduced lung volumes), pulmonary embolism (APS).
+Haematological: haemolytic anaemia (Coombs+), leucopenia (lymphopenia most common — target organ for SLE attack), thrombocytopenia (ITP-like), antiphospholipid antibodies (thrombosis risk).
+Gastrointestinal: serositis (peritonitis, ascites), mesenteric vasculitis (abdominal angina — rare, serious), hepatitis, pancreatitis.
+
+LABORATORY:
+ANA (antinuclear antibody): screening test, >99% sensitive but not specific (positive in RA, Sjögren's, inflammatory myopathy, normal population 5%). Titre ≥1:80 significant.
+Anti-dsDNA (double-stranded DNA): 60-70% sensitive, >95% specific for SLE. Titres correlate with disease activity (rises before flare). Used to monitor disease.
+Anti-Smith (Sm): 25-30% sensitive, 99% specific — virtually pathognomonic for SLE. Does not fluctuate with disease activity.
+Anti-Ro/SSA: Sjögren's, SLE (SCLE), neonatal lupus (maternal anti-Ro crosses placenta → neonatal rash, congenital heart block — screen anti-Ro+ mothers at 16-24 weeks foetal echo). Present in 40% of SLE.
+Anti-La/SSB: Sjögren's, SLE.
+Anti-histone: drug-induced lupus (hydralazine, procainamide, isoniazid, minocycline, anti-TNF — particularly infliximab).
+Anti-phospholipid antibodies: lupus anticoagulant (paradoxically prolongs aPTT in vitro but causes thrombosis in vivo), anti-cardiolipin IgG/IgM, anti-β2GPI.
+Complement: C3, C4, CH50 — low in active disease (consumed by immune complex activation). Useful monitoring.
+FBC: lymphopenia, thrombocytopenia, haemolytic anaemia (Coombs+), leukopenia.
+Urinalysis: RBC casts (active nephritis), proteinuria.
+
+DIAGNOSIS:
+SLICC 2012 criteria: ≥4 criteria (including ≥1 clinical + ≥1 immunological) OR biopsy-proven lupus nephritis with ANA/anti-dsDNA.
+EULAR/ACR 2019 criteria: ANA ≥1:80 as entry criterion + additional weighted criteria (maximum 93 points). ≥10 = classified SLE.
+
+MANAGEMENT:
+General: sun protection (SPF 50+, physical block, protective clothing — key for photosensitive flares), smoking cessation (atherosclerosis, discoid lupus). Exercise. Avoid progestogen-only pill if APS (estrogen-containing OCP acceptable with low APS titres). Vitamin D supplementation (steroid use, sun avoidance — deficiency common).
+
+Hydroxychloroquine (HCQ): universal therapy — all SLE patients unless contraindicated. Reduces flare frequency 50%, reduces damage accrual, reduces mortality, reduces thrombosis (anti-platelet effects), safe in pregnancy (reduces neonatal lupus). Dose 200-400mg/day (≤5 mg/kg/day). Retinopathy screening mandatory.
+
+NSAIDs: arthralgia, pleuritis, fever. Short-term. GI/renal/cardiovascular caution.
+
+Corticosteroids: acute flares (prednisolone 0.5-1 mg/kg; IV methylprednisolone pulses for severe nephritis, CNS, haemolytic crisis). Topical steroids for skin. Aim to taper and minimise. Osteoporosis prevention.
+
+Immunosuppressants (steroid-sparing):
+Azathioprine: maintenance therapy (lupus nephritis, ITP, AIHA, CNS lupus). Check TPMT. Dose 1.5-2.5 mg/kg. Pregnancy safe (purine analogue — cat C UK, used for disease control in pregnancy).
+Mycophenolate mofetil (MMF): preferred for lupus nephritis (ALMS trial — equivalent to cyclophosphamide for induction in Class III/IV, superior for Class V). Maintenance therapy. Teratogenic — effective contraception required. GI side effects. Dose 2-3g/day.
+Cyclophosphamide: induction for severe/proliferative lupus nephritis (Euro-Lupus protocol — low dose — 500mg IV ×6 fortnightly — equivalent to high-dose NIH protocol with less toxicity), severe CNS lupus. Toxicity: haemorrhagic cystitis (MESNA prophylaxis, hydration), bladder cancer (cumulative dose), premature ovarian failure/infertility (GnRH agonist co-prescription), bone marrow suppression, infections.
+Rituximab: for refractory SLE (B cell depletion). Not FDA-approved but widely used off-label. Successful for refractory lupus nephritis, haematological manifestations, CNS lupus.
+Calcineurin inhibitors (tacrolimus, voclosporin): for Class V (membranous) lupus nephritis. Voclosporin (Aurora LN trial) + MMF + steroids — approved for active lupus nephritis in USA 2021.
+
+Biologics specifically approved for SLE:
+Belimumab (Blys/BAFF inhibitor): reduces B cell survival and autoantibody production. SC weekly or IV monthly. Reduces flares 30%, reduces steroid use, preserves renal function. BLISS-52, BLISS-76. Also approved for active lupus nephritis (BLISS-LN). Contra-indicated in severe active CNS lupus or active nephritis in some protocols.
+Anifrolumab (anti-type I interferon receptor): blocks IFN-α/β/ω signalling. TULIP-1, TULIP-2 trials — reduces disease activity, steroid sparing. Approved for moderate-severe SLE (excluding severe active nephritis or CNS).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 6: OSTEOARTHRITIS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DEFINITION AND EPIDEMIOLOGY:
+OA is the most common joint disease worldwide — a progressive condition characterised by cartilage degradation, subchondral bone changes, osteophyte formation, and synovial inflammation. Not simply "wear and tear" — complex metabolic and inflammatory process. Prevalence: 10-15% of adults worldwide, 50% over 60. Radiographic OA much higher than symptomatic OA. Knee OA most common. Affects 10 million in UK. Most common cause of disability in elderly.
+
+PATHOPHYSIOLOGY:
+Cartilage: chondrocyte dysfunction → imbalance between anabolism (IGF-1, TGF-β) and catabolism (MMPs, aggrecanases, cytokines IL-1β, TNF) → proteoglycan loss → cartilage fibrillation → full thickness erosion. Subchondral bone: sclerosis (hardening → reduces shock absorption → increases cartilage damage), subchondral cysts (trabecular fractures), osteophyte formation (periosteal bone at joint margins). Synovium: low-grade synovitis (macrophage infiltration, IL-1β, IL-6, IL-8) → joint effusion, pain amplification.
+
+RISK FACTORS:
+Non-modifiable: age (most important), female sex, genetic predisposition (hereditary hand OA), prior joint injury.
+Modifiable: obesity (most important modifiable — knee OA risk 4-5× higher in obese; mechanical loading + adipokine-mediated inflammation), occupation (repetitive joint loading — farmers, construction, athletes), joint malalignment (varus/valgus increases compartmental loading), muscle weakness (quadriceps weakness → knee OA), prior joint injury (ACL tear → knee OA in 50% over 10 years).
+
+CLINICAL FEATURES:
+Symptoms: joint pain (worse with activity, relieved by rest — opposite to inflammatory arthritis), short-duration morning stiffness (<30 minutes), stiffness after inactivity (gelling — on initiation of movement after rest), reduced joint function and range of motion, crepitus (felt/heard on joint movement), joint instability (giving way — quadriceps weakness in knee OA).
+Signs: bony swelling (osteophytes), bony crepitus on movement, joint-line tenderness, reduced ROM, mild soft tissue swelling (effusion), muscle wasting, deformity (varus or valgus — knee, Heberden's/Bouchard's — hand).
+Heberden's nodes: DIP joint osteophytes (characteristic of hand OA).
+Bouchard's nodes: PIP joint osteophytes.
+First CMC (carpometacarpal) joint OA: "squaring" of thumb base, pain with pinch grip, very common.
+Knee OA: medial (most common — varus deformity), lateral, patellofemoral (anterior knee pain — stairs, rising from sitting). Radiographic severity does not always correlate with symptoms.
+Hip OA: groin pain (internal/anterior), limited internal rotation (earliest sign), antalgic gait, leg-length discrepancy.
+
+INVESTIGATIONS:
+Plain X-ray (weight-bearing views for knee and hip): four features — joint space narrowing (cartilage loss), subchondral sclerosis, subchondral cysts, osteophytes ("JSSO"). Kellgren-Lawrence grade 0-4.
+MRI: cartilage mapping, meniscal pathology, bone marrow oedema (pain source), ligament injury — more sensitive than X-ray for early changes. Not routine.
+Blood tests: normal. ESR/CRP may be mildly elevated (synovial inflammation) but not markedly raised. Useful to exclude inflammatory arthritis (RF, anti-CCP, ANA — negative in OA).
+Synovial fluid: non-inflammatory (WBC <2000, no crystals) — but check for crystal arthritis superimposed on OA (very common).
+
+MANAGEMENT:
+Core treatments (ALL patients — OARSI, EULAR guidelines):
+Patient education and self-management: understanding condition, activity modification, realistic expectations.
+Exercise: most important intervention — reduces pain and improves function comparably to analgesics. Land-based (strengthening — quadriceps strengthening for knee OA particularly important, aerobic walking); water-based (hydrotherapy). Supervised physiotherapy superior to unsupervised. Exercise does NOT worsen OA.
+Weight loss: 5-10% weight loss reduces knee OA pain 50% (each pound reduces knee force by 4 pounds — Felson data). Diet + exercise combined most effective.
+Biomechanical interventions: walking aids (reduces load), knee bracing (unloader brace for medial compartment), lateral wedge insoles (for medial knee OA — modest evidence), orthoses for foot OA.
+
+Pharmacological:
+Topical NSAIDs (diclofenac gel, ibuprofen gel): first-line for hand and knee OA. Effective with minimal systemic side effects. Preferred over oral NSAIDs in elderly.
+Oral NSAIDs (naproxen, ibuprofen, etoricoxib — COX-2 selective): effective for pain, add PPI, use lowest dose shortest duration. Cardiovascular/renal/GI risks. Avoid in elderly where possible.
+Paracetamol (acetaminophen): modest efficacy — meta-analyses show minimal benefit over placebo for OA pain. Still used (safe profile). No anti-inflammatory effect.
+Topical capsaicin: depletes substance P from sensory nerve terminals. Moderate evidence for hand/knee OA. Burning sensation initially.
+Duloxetine (SNRI): effective for OA pain — central sensitisation component. 60-120mg. FDA-approved for chronic musculoskeletal pain.
+Intra-articular corticosteroids (IACS): triamcinolone, methylprednisolone. Short-term benefit (4-12 weeks). Useful as "bridge" while awaiting surgery, or before procedures. Concern: IACS may accelerate cartilage loss with repeated injections (limit 3-4 per year per joint). Beneficial short-term, limited long-term use.
+Intra-articular hyaluronic acid (viscosupplementation): modest evidence, variable across trials. NICE does not recommend for knee OA (2022). Some national guidelines still support. Better evidence for hip OA in some studies.
+Tramadol: weak opioid, short-term for moderate-severe pain not controlled otherwise. Dependence/tolerance risk. Avoid as long-term treatment.
+Strong opioids: NOT recommended for OA. High side-effect burden, addiction risk, falls risk in elderly — harms outweigh modest benefits.
+Hydroxychloroquine, methotrexate: no evidence in OA. Strontium ranelate: modest evidence for knee and hip OA (not widely available).
+
+Surgical:
+Total knee/hip replacement: most successful elective surgical procedure in medicine — excellent outcomes. Indications: severe pain unresponsive to conservative treatment, significant functional limitation. Total hip arthroplasty (THA) and total knee arthroplasty (TKA) — 90% 10-year survival (implant). Unicompartmental knee replacement: for medial compartment OA in appropriate candidates. Complications: infection (1-2% — deep prosthetic joint infection — devastating, requires washout/revision/Girdlestone); DVT/PE (thromboprophylaxis mandatory — LMWH/aspirin); dislocation (hip — mainly posterior approach); nerve injury; periprosthetic fracture; aseptic loosening (most common late complication — requires revision); bearing surface wear.
+Arthroscopy: not recommended for OA (NICE, AAOS) — controlled trials (METEOR, Kirkley) show no benefit over exercise/sham procedure. Exception: locked knee from loose body.
+Tibial/femoral osteotomy: selected younger patients with compartmental OA and malalignment — offloads damaged compartment. Delays need for arthroplasty.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 7: OSTEOPOROSIS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DEFINITION:
+WHO definition: bone mineral density (BMD) T-score ≤ -2.5 at any site (lumbar spine, femoral neck, total hip, distal 1/3 radius). T-score = comparison to young adult mean peak BMD. Osteopenia: T-score -1.0 to -2.5. Fracture risk increases exponentially with declining BMD and age.
+
+EPIDEMIOLOGY:
+200 million people affected worldwide. 1 in 2 women and 1 in 5 men over 50 will have an osteoporosis-related fracture. UK: 3.5 million have osteoporosis. Annual cost of fragility fractures: >£4.4 billion. Hip fracture: 30-day mortality 5-10%, 1-year mortality 20-30%.
+
+RISK FACTORS:
+Non-modifiable: age, female sex, family history (parental hip fracture), previous fragility fracture (most powerful clinical predictor), early menopause (<45 years), height loss >4 cm.
+Modifiable: glucocorticoid use (most important secondary cause), smoking, alcohol (>3 units/day), low body weight (BMI <18.5), physical inactivity, low calcium/vitamin D intake, vitamin D deficiency.
+Secondary causes: glucocorticoid-induced (GIOP), hypogonadism (testosterone in men), hyperthyroidism, hyperparathyroidism, malabsorption (coeliac, IBD, gastric bypass), renal disease, liver disease, rheumatoid arthritis, multiple myeloma, mastocytosis, medications (aromatase inhibitors, androgen deprivation therapy, anticonvulsants, PPIs, SSRIs, thiazolidinediones — pioglitazone).
+
+FRACTURE RISK ASSESSMENT:
+FRAX (Fracture Risk Assessment Tool — WHO): calculates 10-year probability of major osteoporotic fracture (hip, wrist, shoulder, spine) using clinical risk factors ± BMD. Used to guide treatment decisions. Threshold varies by country and age.
+NOGG (National Osteoporosis Guideline Group — UK): intervention threshold based on FRAX ± DXA. Above upper threshold: treat without DXA. Between thresholds: DXA to refine risk. Below lower threshold: reassure.
+QFracture: UK-specific tool, includes more risk factors than FRAX.
+DXA (Dual Energy X-ray Absorptiometry): gold standard for BMD measurement. T-score and Z-score (Z-score compares to age/sex-matched controls — low Z-score suggests secondary cause). Sites: lumbar spine (L1-L4), femoral neck, total hip, distal radius (forearm). Indications: all fragility fractures, glucocorticoid use >3 months, chronic conditions associated with osteoporosis, monitoring treatment.
+DEXA limitations: obesity (technical difficulty), vertebral osteoarthritis (falsely elevated spine BMD — artefact from sclerosis/osteophytes), aortic calcification, previous spinal surgery.
+Trabecular bone score (TBS): software adjunct to DXA — assesses bone microarchitecture quality. Low TBS adds fracture risk beyond T-score alone.
+
+INVESTIGATIONS:
+Blood tests (to exclude secondary causes): calcium (hypercalcaemia — hyperparathyroidism, malignancy), phosphate, ALP (elevated in Paget's disease, bone metastases, healing fractures — normal in osteoporosis unless recent fracture), vitamin D (25-OHD), PTH, TFTs, LFTs, testosterone (men), FSH/LH (premature menopause), protein electrophoresis/serum free light chains (myeloma), FBC, ESR/CRP, coeliac antibodies (anti-tTG), 24h urine calcium (hyperparathyroidism, malabsorption).
+Bone turnover markers: CTX (C-terminal telopeptide — bone resorption marker — suppressed by bisphosphonates), P1NP (procollagen type I N-propeptide — bone formation marker — elevated by anabolic therapy — teriparatide, romosozumab). Used to monitor treatment response and adherence.
+Vertebral fracture assessment (VFA) by DXA: identifies vertebral fractures (common, often asymptomatic) which significantly increase future fracture risk.
+
+TREATMENT:
+Non-pharmacological: calcium (1000-1200 mg/day dietary + supplementation to reach target — dairy, fortified foods, green vegetables), vitamin D (800-1000 IU/day supplementation — aim serum 25-OHD >50 nmol/L), weight-bearing exercise (walking, dancing, resistance training — maintains BMD, reduces falls), balance training and fall prevention (physiotherapy, tai chi, home hazard assessment, footwear, eye/hearing tests), smoking cessation, alcohol reduction.
+
+Bisphosphonates (first-line pharmacological treatment):
+Mechanism: inhibit osteoclast activity (bind to hydroxyapatite, inhibit farnesyl diphosphate synthase in cholesterol biosynthesis → osteoclast apoptosis). Reduce vertebral fractures 50-70%, non-vertebral fractures 20-40%, hip fractures 40-50%.
+Alendronate (70mg weekly oral): most commonly used. Very poorly absorbed (0.5-1%) — take 30 min before food/drink with full glass of water, remain upright for 30 min (oesophageal irritation/ulceration). Generic, cheap. FIT trial.
+Risedronate (35mg weekly or 75mg twice monthly oral): similar efficacy.
+Ibandronate (150mg monthly oral or 3mg IV quarterly): less hip fracture data than alendronate.
+Zoledronic acid (5mg IV annual infusion): most convenient (once yearly, adherence advantage). HORIZON trial — 35% hip fracture reduction, mortality reduction after hip fracture. Acute phase reaction (flu-like symptoms 24-48h after first infusion — NSAIDs, paracetamol, hydration). Avoid if eGFR <35. Osteonecrosis of jaw (ONJ) risk (rare but serious — dental review before starting high-intensity BP, avoid invasive dental procedures during treatment, maintain good dental hygiene).
+Duration: review at 5 years (oral) or 3 years (IV). Drug holiday consideration for low-risk patients. Atypical femoral fractures (AFF): rare, cortical stress fractures at femoral subtrochanteric region — increasing risk with >5-10 years use. Radiographic surveillance for thigh pain. Subtrochanteric aching pain → investigate with X-ray/bone scan.
+
+SERM (Selective Oestrogen Receptor Modulator):
+Raloxifene: agonist at bone and cardiovascular (reduces LDL) — antagonist at breast and uterus. Reduces vertebral fractures 30-40%, does NOT reduce non-vertebral or hip fractures. Also reduces breast cancer risk (invasive ER+ breast cancer). Hot flushes (side effect), increases VTE risk (similar to HRT). Preferred for women with breast cancer risk and primarily axial osteoporosis.
+
+HRT (hormone replacement therapy): prevents bone loss, reduces fracture risk. Use in women with menopausal symptoms — osteoporosis benefit is secondary benefit. Not first-line for osteoporosis alone. WHI trial data: combined oestrogen/progestogen increases breast cancer, DVT, stroke risks but reduces hip fracture and colon cancer. Risk-benefit based on individual patient.
+
+Denosumab (60mg SC 6-monthly): RANK ligand inhibitor — prevents osteoclast formation and activation. Very effective: reduces vertebral fractures 68%, hip fractures 40%, non-vertebral 20% (FREEDOM trial). Preferred for: renal impairment (not renally excreted, safe at any eGFR), compliance (6-monthly injection). Hypocalcaemia risk — ensure vitamin D/calcium adequate before injection. CRITICAL: must not stop abruptly — rebound vertebral fractures occur within months of discontinuation (multiple vertebral fractures — vertebral fracture cascade). Transition to bisphosphonate on stopping.
+
+Anabolic agents (bone-building):
+Teriparatide (PTH 1-34): daily SC injection for 24 months. Stimulates osteoblasts. Reduces vertebral fractures 65%, non-vertebral 53% (FRACTURE prevention trial). Preferred for: very high fracture risk, failed bisphosphonates, glucocorticoid-induced osteoporosis. Followed by antiresorptive (bisphosphonate) to maintain gains. Contraindicated in: Paget's disease, prior radiation to skeleton, hypercalcaemia, hyperparathyroidism, prior bone malignancy. Black box warning: osteosarcoma in rat studies at 60× human dose — not reproduced in humans after >20 years of use. Cost: expensive. Risk of hypercalcaemia.
+Abaloparatide (PTHrP analogue): similar to teriparatide, available in USA.
+Romosozumab (sclerostin inhibitor): monthly SC injections (210mg) for 12 months. Dual mechanism — stimulates bone formation (osteoblasts) AND inhibits bone resorption (osteoclasts). Most potent fracture reduction agent — reduces vertebral fractures 75%, non-vertebral 25% (ARCH trial). Followed by bisphosphonate or denosumab. ARCH trial cardiovascular signal (more MACEs vs alendronate) — contraindicated in prior MI or stroke within 1 year.
+
+GLUCOCORTICOID-INDUCED OSTEOPOROSIS (GIOP):
+Fractures occur at higher T-scores than postmenopausal osteoporosis (fracture risk underestimated by DXA alone — FRAX-adjusted for glucocorticoid dose). Prevention: prescribe calcium + vitamin D for all patients on glucocorticoids >3 months. FRAX-guided: start bisphosphonate if risk above intervention threshold. Most guidelines recommend bisphosphonate for prednisolone ≥7.5 mg/day for ≥3 months (especially if >70 years or previous fracture). Teriparatide superior to bisphosphonates specifically in GIOP.
+
+END OF MUSCULOSKELETAL & RHEUMATOLOGY TRAINING DATA
+Total: ~12,400 words | Sections: 7 | Estimated chunks: ~100

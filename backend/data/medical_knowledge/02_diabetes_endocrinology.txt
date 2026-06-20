@@ -1,0 +1,444 @@
+DIABETES MELLITUS & ENDOCRINOLOGY — COMPREHENSIVE MEDICAL REFERENCE
+======================================================================
+Source: Medical Training Data for AIVARA Healthcare AI
+Category: Endocrinology | Version: 1.0
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 1: DIABETES MELLITUS — OVERVIEW
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DEFINITION:
+Diabetes mellitus is a group of metabolic diseases characterised by hyperglycaemia resulting from defects in insulin secretion, insulin action, or both. Chronic hyperglycaemia leads to long-term damage, dysfunction, and failure of various organs — especially eyes, kidneys, nerves, heart, and blood vessels.
+
+EPIDEMIOLOGY:
+537 million adults (20–79 years) live with diabetes globally (IDF 2021). Expected to rise to 643 million by 2030 and 783 million by 2045. Type 2 diabetes accounts for approximately 90–95% of all cases. India, China, and the USA have the highest absolute numbers. Low- and middle-income countries carry 75% of the global burden. Annual deaths attributable to diabetes: ~6.7 million. Direct costs: US$966 billion globally.
+
+CLASSIFICATION:
+Type 1 Diabetes Mellitus (T1DM):
+Autoimmune destruction of pancreatic beta cells leading to absolute insulin deficiency. Accounts for 5–10% of all diabetes. Classically presents in childhood/adolescence but can occur at any age. Latent Autoimmune Diabetes of Adults (LADA) is a slowly progressive form in adults initially misdiagnosed as T2DM. Genetic predisposition: HLA-DR3 and HLA-DR4 associations. Environmental triggers: viral infections (Coxsackievirus B4), dietary factors. Requires lifelong insulin therapy.
+
+Type 2 Diabetes Mellitus (T2DM):
+Complex metabolic disorder characterised by insulin resistance (peripheral tissues fail to respond normally to insulin) and progressive beta-cell dysfunction (declining insulin secretion). Multiple genes and environmental factors. Strongly associated with obesity, physical inactivity, and aging. Often asymptomatic for years. Can be prevented or delayed by lifestyle intervention.
+
+Gestational Diabetes Mellitus (GDM):
+Glucose intolerance first diagnosed in pregnancy. Affects 7–14% of pregnancies. Risk factors: obesity, family history, previous GDM, previous macrosomic baby, polycystic ovary syndrome, South/East Asian ethnicity. Complications: macrosomia, birth trauma, neonatal hypoglycaemia, stillbirth (rare), maternal pre-eclampsia, increased future T2DM risk (50% develop T2DM within 10 years). Management: dietary modification, metformin, insulin if targets not met. Resolves postpartum (but may persist in some women).
+
+Other Specific Types:
+MODY (Maturity-Onset Diabetes of the Young): monogenic diabetes due to single gene defects. MODY 2 (glucokinase mutation) — mild stable hyperglycaemia, often no treatment needed. MODY 3 (HNF1α mutation) — progressive, responds well to sulphonylureas. Usually diagnosed <25, strong family history (autosomal dominant).
+Secondary diabetes: pancreatitis, pancreatectomy, haemochromatosis ("bronze diabetes"), Cushing's syndrome, acromegaly, phaeochromocytoma, glucagonoma, drug-induced (corticosteroids, thiazides, antipsychotics — olanzapine, clozapine, HIV medications, tacrolimus).
+Neonatal diabetes: rare, diagnosed <6 months of age, often monogenic (KCNJ11 mutations — responds to sulphonylureas).
+
+DIAGNOSIS:
+WHO/ADA criteria (2023). Diagnosis requires one of the following in the absence of hyperglycaemic symptoms, confirmed on a second occasion:
+1. Fasting plasma glucose (FPG) ≥7.0 mmol/L (126 mg/dL) — fasting = no caloric intake for ≥8 hours
+2. 2-hour plasma glucose ≥11.1 mmol/L (200 mg/dL) during 75g oral glucose tolerance test (OGTT)
+3. HbA1c ≥48 mmol/mol (≥6.5%)
+4. Random plasma glucose ≥11.1 mmol/L (200 mg/dL) with symptoms of hyperglycaemia
+
+With classical symptoms (polyuria, polydipsia, unexplained weight loss) + random glucose ≥11.1 mmol/L — single test sufficient.
+HbA1c: reflects average blood glucose over preceding 2–3 months (lifespan of red blood cells). Not reliable in haemoglobinopathies, haemolytic anaemia, iron deficiency anaemia, recent blood transfusion, pregnancy.
+
+PREDIABETES:
+HbA1c 39–47 mmol/mol (5.7–6.4%) or FPG 5.6–6.9 mmol/L or 2h OGTT glucose 7.8–11.0 mmol/L.
+Risk of progression to T2DM: 5–10% per year. Lifestyle intervention (Mediterranean diet, weight loss 5–7%, 150 min/week moderate exercise) reduces progression by 58% (Diabetes Prevention Programme).
+Metformin reduces progression by 31% in high-risk prediabetes (BMI ≥35, age <60, or history of GDM).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 2: TYPE 1 DIABETES — MANAGEMENT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+INSULIN TYPES:
+Rapid-acting (bolus): used with meals to cover carbohydrate intake. Aspart (Novorapid), lispro (Humalog), glulisine (Apidra). Onset 10–15 min, peak 1–2h, duration 3–5h.
+Ultra-rapid acting: faster-acting aspart (Fiasp), technosphere insulin (Afrezza inhaled). Onset 5 min.
+Short-acting (regular/soluble): older formulation. Onset 30 min, peak 2–4h, duration 5–8h. Mainly used in IV insulin infusion.
+Intermediate-acting: NPH/isophane insulin. Onset 1–3h, peak 4–12h, duration 18–24h.
+Long-acting (basal): detemir (Levemir), glargine (Lantus, Toujeo). Onset 1–2h, relatively peakless, duration 20–24h. Given once or twice daily.
+Ultra-long acting: degludec (Tresiba). Duration >42 hours. Lower hypoglycaemia risk than glargine.
+Mixed/biphasic: pre-mixed rapid and intermediate (e.g., 70/30, 75/25). Convenient but less flexible.
+
+INSULIN REGIMENS:
+Basal-bolus (multiple daily injections/MDI): gold standard for T1DM. One injection of long-acting basal insulin + rapid-acting bolus with each meal. Requires carbohydrate counting and dose adjustment. HbA1c target 48 mmol/mol (<6.5%) for T1DM (with awareness of hypoglycaemia risk — DCCT trial).
+Continuous Subcutaneous Insulin Infusion (CSII/insulin pump): delivers programmable basal rate + bolus via subcutaneous catheter. Better HbA1c, reduced hypoglycaemia, improved quality of life for selected patients.
+Continuous Glucose Monitoring (CGM): measures interstitial glucose every 1–5 minutes. Flash glucose monitoring (FreeStyle Libre) — scanned by user. Real-time CGM (Dexcom, Medtronic) — alarms for high/low glucose. CGM reduces HbA1c and hypoglycaemia in T1DM. Time in Range (TIR) 3.9–10.0 mmol/L target >70%.
+Closed-loop systems (artificial pancreas): CGM + pump + algorithm automatically adjusts basal insulin. Available commercially (CamAPS FX, Omnipod 5, Tandem Control-IQ). Reduces hypoglycaemia and improves TIR dramatically.
+
+GLYCAEMIC TARGETS FOR T1DM:
+HbA1c: ≤48 mmol/mol (6.5%) — NICE, or ≤53 mmol/mol (7%) if problematic hypoglycaemia.
+Time in Range: >70% (3.9–10 mmol/L)
+Time below range: <4% (<3.9 mmol/L), <1% (<3.0 mmol/L)
+Time above range: <25% (>10 mmol/L)
+
+ADJUNCT THERAPIES IN T1DM:
+SGLT2 inhibitors (dapagliflozin): licensed as adjunct to insulin in T1DM. Modest HbA1c reduction, weight loss. Risk of diabetic ketoacidosis even at normal blood glucose (euglycaemic DKA) — requires education and sick day rules. Use with caution.
+Pramlintide: amylin analogue, reduces post-meal glucose. Not widely used.
+
+DIABETIC KETOACIDOSIS (DKA):
+Life-threatening complication of T1DM (less common in T2DM). Precipitants: new-onset T1DM, missed insulin, infection, illness, surgery, alcohol, eating disorders.
+Pathophysiology: insulin deficiency → unchecked lipolysis → fatty acid oxidation → ketone body production (acetoacetate, beta-hydroxybutyrate) → metabolic acidosis. Hyperglycaemia from reduced glucose uptake and increased hepatic gluconeogenesis. Osmotic diuresis → dehydration and electrolyte loss.
+Diagnostic criteria:
+- Ketonaemia ≥3.0 mmol/L OR ketonuria 2+ on dipstick
+- Blood glucose >11 mmol/L OR known diabetes
+- Bicarbonate <15 mmol/L AND/OR venous pH <7.3
+Severity: mild pH 7.25–7.30; moderate pH 7.0–7.25; severe pH <7.0.
+Symptoms: polyuria, polydipsia, nausea, vomiting, abdominal pain, Kussmaul breathing (deep sighing — compensatory respiratory alkalosis), fruity/ketotic breath, altered consciousness (severe).
+Management (JBDS DKA guidelines):
+1. IV fluid resuscitation: 0.9% NaCl 1L over 1 hour, then 1L over 2 hours, then 1L over 2 hours, then 1L over 4 hours.
+2. IV insulin infusion: fixed rate 0.1 units/kg/hour. Do NOT stop long-acting insulin.
+3. Potassium replacement: DKA causes total body potassium depletion despite apparent normal/high serum K+. Add KCl to IV fluids once K+ <5.5 mmol/L.
+4. When blood glucose <14 mmol/L: add 10% dextrose to prevent hypoglycaemia while continuing insulin infusion until ketones cleared.
+5. Bicarbonate: only if pH <6.9 (controversial).
+6. Treat precipitant. Monitor hourly glucose and 2-hourly ketones.
+Target: blood ketones <0.3 mmol/L, glucose 6–10 mmol/L, venous pH >7.3.
+Resolution: when eating and drinking, switch to subcutaneous insulin before stopping IV.
+Complications: cerebral oedema (especially children — risk with over-rapid fluid administration), hypokalaemia, hypoglycaemia, thromboembolism.
+
+HYPEROSMOLAR HYPERGLYCAEMIC STATE (HHS):
+More common in T2DM. Severe hyperglycaemia (>30 mmol/L) + hyperosmolality (>320 mOsm/kg) without significant ketonaemia. Often elderly, gradual onset over days-weeks. Dehydration severe (8–10L deficit). Serum sodium initially low (glucose dilutes Na+), may rise as fluids given (osmotic effect). High mortality (5–20%). Management: careful slow rehydration (0.9% NaCl — avoid rapid correction of glucose/osmolality to prevent cerebral oedema), insulin only if ketones present or glucose not falling adequately with fluids alone, anticoagulation (high VTE risk), treat precipitant.
+
+HYPOGLYCAEMIA:
+Blood glucose <3.9 mmol/L (clinically significant <3.0 mmol/L, requiring assistance <2.8 mmol/L).
+Level 1: <3.9 mmol/L — treat immediately
+Level 2: <3.0 mmol/L — serious hypoglycaemia
+Level 3: severe cognitive impairment requiring third-party assistance
+Symptoms: adrenergic (tremor, sweating, palpitations, anxiety, hunger — activate at ~3.5 mmol/L) and neuroglycopenic (confusion, slurred speech, blurred vision, seizure, coma — at <2.5 mmol/L). Hypoglycaemia unawareness: repeated hypoglycaemia blunts adrenergic response, threshold shifts lower — dangerous.
+Causes: too much insulin/oral hypoglycaemic, missed/delayed meal, unexpected exercise, alcohol.
+Treatment:
+- Conscious: 15–20g fast-acting carbohydrate (150mL fruit juice, 5–6 glucose tablets, 4–5 jelly babies). Recheck in 15 minutes. Repeat if still <4 mmol/L. Follow with long-acting carbohydrate to prevent recurrence.
+- Unconscious/unable to swallow: IM glucagon 1mg (Glucagen) — acts within 10–15 minutes; IV 75–100mL 20% glucose (preferred if IV access available).
+- Recovery: recheck glucose, assess driving safety, ensure eats meal.
+Driving and hypoglycaemia: never drive with glucose <5 mmol/L. Check glucose before and every 2 hours on long journeys.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 3: TYPE 2 DIABETES — MANAGEMENT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GLYCAEMIC TARGETS:
+HbA1c targets should be individualised:
+- 48 mmol/mol (6.5%): for those likely to achieve with lifestyle/single medication, no risk of hypoglycaemia
+- 53 mmol/mol (7%): if on medication causing hypoglycaemia or complex needs
+- 58 mmol/mol (7.5%): if tight control causes harm (elderly, multiple comorbidities, short life expectancy)
+- Relaxed target (58–64 mmol/mol, 7.5–8%): frail elderly, limited life expectancy, hypoglycaemia risk
+ADA 2023: general target <53 mmol/mol (7%), more stringent 48 mmol/mol (6.5%) for young/newly diagnosed, less stringent 64 mmol/mol (8%) for elderly/complex patients.
+
+STEP-WISE PHARMACOLOGICAL MANAGEMENT:
+Step 1: Lifestyle intervention + Metformin (if not contraindicated)
+Metformin:
+- Mechanism: inhibits hepatic gluconeogenesis (AMPK activation), reduces insulin resistance, mild GI-related effects reduce appetite.
+- Reduces HbA1c by 1.0–1.5%
+- Weight neutral or modest weight loss
+- Does not cause hypoglycaemia
+- Cardiovascular benefit: UKPDS trial showed CV mortality reduction in obese T2DM
+- Renal dosing: reduce dose if eGFR 30–45 mL/min/1.73m²; withhold if eGFR <30. Withhold before IV contrast (risk of contrast nephropathy → metformin accumulation → lactic acidosis — restart 48 hours after if creatinine stable).
+- GI side effects (30–50%): nausea, diarrhoea, abdominal discomfort — reduced by taking with food, using modified-release formulation.
+- Long-term use depletes vitamin B12 — check annually.
+- Rare: lactic acidosis risk (1 per 30,000 patient-years) especially with hepatic/renal impairment, hypoxia, alcohol excess.
+
+Step 2 (if HbA1c above target on metformin): Add one of:
+
+SULPHONYLUREAS (SUs) — gliclazide, glipizide, glibenclamide:
+- Mechanism: stimulate insulin secretion by closing ATP-sensitive K+ channels in beta cells
+- Reduce HbA1c 1.0–1.5%
+- Inexpensive, widely available
+- Limitations: hypoglycaemia (significant risk — gliclazide safest), weight gain (2–5kg), loss of efficacy over time (beta-cell failure)
+- Avoid in severe renal/hepatic impairment (hypoglycaemia risk)
+- Caution: elderly patients (unpredictable eating habits, impaired awareness)
+- Not used in pregnancy (risk of neonatal hypoglycaemia)
+
+DPP-4 INHIBITORS ("gliptins") — sitagliptin, saxagliptin, linagliptin, alogliptin:
+- Mechanism: inhibit dipeptidyl peptidase-4, prolonging GLP-1 and GIP activity, enhancing glucose-dependent insulin release and suppressing glucagon
+- Reduce HbA1c 0.5–0.9%
+- Weight neutral
+- No hypoglycaemia (glucose-dependent mechanism)
+- Generally well tolerated — minor risk of nasopharyngitis, UTI
+- Saxagliptin: possible increased hospitalisation for heart failure (SAVOR-TIMI trial) — avoid in HF
+- Linagliptin: no renal dose adjustment required
+- Not preferred if cardiovascular benefit needed (choose SGLT2i or GLP-1 RA instead)
+
+SGLT2 INHIBITORS — dapagliflozin, empagliflozin, canagliflozin, ertugliflozin:
+- Mechanism: inhibit sodium-glucose cotransporter 2 in proximal renal tubule, causing glycosuria (urinary glucose excretion 60–80g/day)
+- Reduce HbA1c 0.5–1.0%
+- Weight loss: 2–3kg
+- Blood pressure reduction: 3–5 mmHg systolic (osmotic diuresis effect)
+- Cardiovascular benefits (game-changing):
+  * EMPA-REG OUTCOME: empagliflozin reduced CV death by 38% and hospitalisation for HF by 35% in T2DM + established CVD
+  * CANVAS: canagliflozin reduced CV events, HF, and renal progression
+  * DECLARE-TIMI 58: dapagliflozin reduced HF hospitalisation and renal events
+- Now recommended regardless of diabetes if established HF or CKD
+- Renal protection: reduce proteinuria, delay CKD progression (independent of glucose lowering)
+- Side effects: genital mycotic infections (thrush — 10% women, 5% men), UTIs, DKA (rare, usually with stress/surgery — euglycaemic DKA risk), volume depletion, increased amputations (canagliflozin — uncertain mechanism, skin infections), Fournier's gangrene (rare, perineal necrotising fasciitis)
+- Hold before surgery and during illness (sick day rules)
+- Avoid if eGFR <30 (glycaemic effect lost, but HF/CKD indication maintained for dapagliflozin/empagliflozin with eGFR ≥25)
+
+GLP-1 RECEPTOR AGONISTS — semaglutide, liraglutide, dulaglutide, exenatide, lixisenatide:
+- Mechanism: mimic glucagon-like peptide-1, enhancing glucose-dependent insulin secretion, suppressing glucagon, slowing gastric emptying, reducing appetite
+- Reduce HbA1c 0.8–1.8% (semaglutide most potent)
+- Weight loss: 3–6kg (injectable), up to 15% with high-dose semaglutide (Ozempic, Wegovy)
+- No hypoglycaemia (glucose-dependent)
+- Cardiovascular benefits:
+  * LEADER: liraglutide reduced CV death by 22%, stroke by 39%
+  * SUSTAIN-6: semaglutide reduced CV events
+  * REWIND: dulaglutide reduced CV events in broader population
+- Renal protection: reduce proteinuria, delay GFR decline
+- Side effects: nausea, vomiting, diarrhoea (especially when initiating — dose escalation important), injection site reactions, pancreatitis (rare, discontinue if suspected), medullary thyroid carcinoma (animal data only — avoid if personal/family history), gallstone formation
+- Weekly injections (semaglutide, dulaglutide, exenatide extended-release) or once-daily injection (liraglutide) or twice-daily (exenatide)
+- Oral semaglutide (Rybelsus): 14mg once daily, taken 30 minutes before first food/drink
+- Tirzepatide (Mounjaro): dual GIP+GLP-1 agonist — more potent weight loss and glucose lowering than GLP-1 alone (SURMOUNT-1: up to 22.5% weight loss)
+
+THIAZOLIDINEDIONES (TZDs) — pioglitazone:
+- Mechanism: PPAR-gamma agonist, increases insulin sensitivity in peripheral tissues and liver
+- Reduce HbA1c 0.8–1.2%
+- Benefits: reduces triglycerides, raises HDL, reduces hepatic fat (NAFLD), modest anti-inflammatory effect
+- Cardiovascular benefit: PROactive trial showed reduction in secondary CV endpoints
+- Side effects: weight gain (3–5kg, fluid retention), peripheral oedema, heart failure exacerbation (contraindicated in HF), bone fractures (increased risk in women — post-menopausal), bladder cancer (pioglitazone — avoid in bladder cancer history, ≥1 year use)
+- Long onset of action (months)
+
+ALPHA-GLUCOSIDASE INHIBITORS — acarbose:
+- Mechanism: inhibit intestinal alpha-glucosidase, slowing carbohydrate absorption, reducing post-meal glucose
+- Reduce HbA1c 0.5–0.7%
+- No hypoglycaemia, weight neutral
+- Side effects: significant GI side effects (flatulence, diarrhoea, bloating) limiting tolerability
+- Not widely used in UK/US; more popular in Asia
+
+INSULIN IN T2DM:
+Initiation indications: failure of oral agents to achieve targets, HbA1c very high at diagnosis (>80 mmol/mol / >9.5%), symptomatic hyperglycaemia, acute illness, perioperative, pregnancy.
+Starting insulin: usually begin with basal insulin (long-acting) once daily, typically at night (reduce nocturnal hepatic glucose output). Starting dose: 10 units or 0.1–0.2 units/kg. Titrate by 2 units every 3 days if fasting glucose >7 mmol/L.
+Progression: basal insulin + GLP-1 RA combination (reduces weight gain vs. adding bolus insulin), or basal-bolus if still not at target.
+Insulin plus oral agents: continue metformin (reduces total insulin dose), continue SGLT2 inhibitor (caution DKA risk), stop sulphonylurea when adding prandial insulin.
+
+BARIATRIC/METABOLIC SURGERY:
+Roux-en-Y gastric bypass and sleeve gastrectomy induce T2DM remission in 50–80% of patients. Recommended in T2DM with BMI ≥35 (BMI ≥30 in Asian populations) inadequately controlled by medical therapy. Mechanisms include weight loss, caloric restriction, hormonal changes (increased GLP-1, changes in gut microbiome, reduced ghrelin), improved insulin sensitivity.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 4: DIABETES COMPLICATIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+MICROVASCULAR COMPLICATIONS:
+Caused by chronic hyperglycaemia → advanced glycation end products (AGEs), polyol pathway activation, oxidative stress, protein kinase C activation → endothelial dysfunction, basement membrane thickening, capillary occlusion.
+
+DIABETIC RETINOPATHY:
+Most common cause of blindness in working-age adults worldwide. Present in 35% of diabetics globally. Nearly universal after 20 years of T1DM.
+Pathophysiology: pericyte loss, microaneurysms, capillary occlusion, neovascularisation (fragile new vessels at risk of haemorrhage).
+Stages:
+Non-proliferative diabetic retinopathy (NPDR):
+- Mild: microaneurysms only
+- Moderate: microaneurysms + haemorrhages/exudates/cotton wool spots
+- Severe: >20 haemorrhages in each quadrant, venous beading in 2+ quadrants, IRMA (intraretinal microvascular abnormalities) — "4-2-1 rule"
+Proliferative diabetic retinopathy (PDR): neovascularisation → vitreous haemorrhage, traction retinal detachment, rubeosis iridis.
+Diabetic macular oedema (DMO): fluid accumulation at macula → central vision loss. Can occur at any stage.
+Screening: annual dilated fundoscopy or digital retinal photography from diagnosis (T2DM) or 5 years after diagnosis (T1DM) and annually thereafter. NICE recommends digital fundus photography.
+Treatment: optimal glycaemic and BP control (most important). Laser photocoagulation (panretinal for PDR, focal/grid for DMO). Anti-VEGF agents (ranibizumab, bevacizumab, aflibercept) injected intravitreally for DMO and active PDR — first-line. Vitrectomy for vitreous haemorrhage, traction detachment.
+
+DIABETIC NEPHROPATHY (DIABETIC KIDNEY DISEASE):
+Affects 40% of diabetics. Leading cause of end-stage renal disease worldwide.
+Natural history:
+Stage 1: hyperfiltration and hypertrophy (eGFR elevated)
+Stage 2: normal eGFR, microalbuminuria begins (ACR 3–30 mg/mmol)
+Stage 3: macroalbuminuria (ACR >30 mg/mmol), eGFR declining
+Stage 4: overt nephropathy, significant proteinuria, eGFR declining
+Stage 5: end-stage renal disease (eGFR <15 mL/min/1.73m²)
+Screening: urine albumin-creatinine ratio (ACR) and eGFR annually.
+Prevention/treatment: tight glycaemic control (DCCT/UKPDS), blood pressure control <130/80 (RAAS blockade — ACE inhibitor or ARB first-line, reduces proteinuria and slows progression independently of BP effect), SGLT2 inhibitors (CREDENCE, DAPA-CKD, EMPA-KIDNEY trials — significant renoprotection regardless of diabetes), finerenone (mineralocorticoid receptor antagonist — reduces CKD progression and CV events in T2DM with CKD, FIDELIO-DKA trial), GLP-1 RAs (modest renoprotection).
+
+DIABETIC NEUROPATHY:
+Affects 50% of diabetics with long duration. Most common complication.
+Peripheral sensorimotor neuropathy ("length-dependent"): distal symmetric polyneuropathy. Loss of sensation (vibration → pressure → pain/temperature), paraesthesiae, neuropathic pain. Stocking-glove distribution. Increased risk of foot ulceration, falls.
+Screening: annual foot examination (10g monofilament test, vibration with 128 Hz tuning fork, ankle reflexes), neuropathic pain assessment.
+Painful neuropathy treatment: duloxetine (first-line, NNT ~5), pregabalin (first-line, NNT ~5), amitriptyline (evidence-based, cheap, NNT ~3 but side effects), gabapentin, tapentadol (opioid-like, for severe refractory), capsaicin patch/cream, TENS, specialist pain services.
+Autonomic neuropathy: broad spectrum — cardiovascular (orthostatic hypotension, resting tachycardia, reduced heart rate variability, silent MI), GI (gastroparesis — delayed gastric emptying causing nausea, vomiting, erratic glycaemia; treat with metoclopramide, domperidone, erythromycin; consider Botox injection into pylorus), GU (erectile dysfunction — 50% of men with diabetes >10 years; retrograde ejaculation; neurogenic bladder), sudomotor (anhidrosis, gustatory sweating), hypoglycaemia unawareness.
+Mononeuropathy: cranial nerve palsies (CN III most common — painful, pupil-sparing — due to microvascular ischaemia of nerve trunk; typically resolves in 3 months), carpal tunnel syndrome, lateral cutaneous nerve of thigh (meralgia paraesthetica).
+Diabetic amyotrophy (Bruns-Garland syndrome): proximal motor neuropathy — severe asymmetric thigh pain and weakness, weight loss. Due to ischaemic lumbosacral plexopathy. Painful, but most patients recover over months-years.
+
+DIABETIC FOOT:
+Combination of neuropathy (reduced sensation → unrecognised injury → callus, ulceration) + peripheral arterial disease (impaired healing) + infection (Staphylococcus, Streptococcus, Gram-negatives, anaerobes in polymicrobial deep infections).
+Annual foot examination: inspection (deformity, callus, ulceration), sensation (10g monofilament, vibration), circulation (pedal pulses, ABI), footwear assessment.
+Ulcer classification: Wagner (0–5, depth/extent) or University of Texas (graded by depth and presence of ischaemia/infection).
+Charcot neuroarthropathy: neuropathic destructive joint disease. Warm swollen foot in diabetic neuropathy — must distinguish from infection. Radiographs show bone reabsorption and fragmentation. Total contact cast for offloading.
+Multidisciplinary diabetic foot team: physician, vascular surgeon, podiatrist, orthotist, nurse specialist, infectious diseases specialist.
+Management of infected foot ulcer: wound debridement, antibiotic therapy (mild: co-amoxiclav oral; moderate-severe: IV broad spectrum), revascularisation if ischaemic, hospitalisation for septic foot, amputation as last resort.
+
+MACROVASCULAR COMPLICATIONS:
+Diabetes increases risk of cardiovascular disease 2–4 fold. Risk factors cluster (insulin resistance syndrome/metabolic syndrome: central obesity, hypertension, dyslipidaemia, hyperglycaemia).
+Atherogenic dyslipidaemia in diabetes: elevated triglycerides, low HDL, small dense LDL (more atherogenic despite normal LDL level).
+Prevention: statin therapy (all T2DM >40 or T1DM with additional risk factors), blood pressure control <130/80, aspirin (secondary prevention only), SGLT2 inhibitor or GLP-1 RA for CV risk reduction.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 5: THYROID DISEASE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+THYROID PHYSIOLOGY:
+The thyroid gland weighs 15–25g. Produces thyroxine (T4) and triiodothyronine (T3), regulated by pituitary TSH (thyroid-stimulating hormone) under hypothalamic TRH control (negative feedback loop). T4 is the main circulating form, converted peripherally to active T3. T3 is 3–4 times more potent than T4.
+Functions: regulate basal metabolic rate, thermogenesis, heart rate, GI motility, growth and development (critical in fetal brain development), protein synthesis.
+Laboratory tests: TSH (most sensitive screening test), free T4 (fT4), free T3 (fT3). Thyroid antibodies: anti-TPO (thyroid peroxidase — present in Hashimoto's 90%, Graves' 70%), anti-thyroglobulin, TSH receptor antibodies (TRAb — Graves' — both stimulating and blocking forms).
+
+HYPOTHYROIDISM:
+TSH elevated, fT4 low (overt) or fT4 normal (subclinical — TSH 4.5–10 mIU/L).
+Prevalence: 2% of women, 0.2% of men. Subclinical: 4–8%.
+Primary causes (thyroid itself):
+- Hashimoto's thyroiditis: autoimmune, anti-TPO antibodies, lymphocytic infiltration, fibrosis. Most common cause in iodine-sufficient countries. Associated with other autoimmune diseases (T1DM, coeliac, Addison's, vitiligo, pernicious anaemia).
+- Iodine deficiency: most common worldwide.
+- Post-radioiodine or post-thyroidectomy: permanent.
+- Drug-induced: amiodarone (contains 37% iodine — can cause both hypo and hyperthyroidism), lithium, interferon-alpha, checkpoint inhibitors.
+- Postpartum thyroiditis: transient hypo (4–8 months postpartum) after initial hyperthyroid phase; most resolve, 20% permanent.
+Secondary (pituitary): TSH deficiency — both TSH and fT4 low.
+Tertiary (hypothalamic): TRH deficiency.
+Subclinical hypothyroidism: TSH 4.5–10, normal fT4. Treatment controversial — treat if TSH >10, symptomatic, or positive antibodies (risk of progression). Definitely treat in pregnancy (even mild TSH elevation impairs fetal neurodevelopment).
+
+Symptoms: fatigue, weight gain, cold intolerance, constipation, dry skin, hair loss, bradycardia, oedema (periorbital, hands, feet), myalgia, depression, cognitive impairment ("brain fog"), menorrhagia, infertility, hoarseness (recurrent laryngeal nerve compression from thyroid enlargement), hypercholesterolaemia, carpal tunnel syndrome.
+Signs: bradycardia, goitre (in Hashimoto's), dry coarse skin, non-pitting oedema (myxoedema), delayed relaxation phase of reflexes (hung-up reflexes), periorbital oedema, pallor.
+Myxoedema coma: life-threatening. Hypothermia, altered consciousness, hypoventilation. Precipitated by cold, infection, sedatives. Mortality 20–50%. Treatment: IV T3 or T4, hydrocortisone (underlying adrenal insufficiency), supportive care.
+Treatment: levothyroxine (T4) replacement. Starting dose: 25–50 mcg (lower in elderly and cardiac patients). Titrate every 6–8 weeks by 25 mcg increments. Target TSH 0.5–2.5 mIU/L. Take on empty stomach 30–60 min before food, 4 hours from iron/calcium/PPIs (reduced absorption). T4 + T3 combination therapy: controversial, some patients with continuing symptoms on T4 monotherapy benefit from adding small amount liothyronine (T3).
+
+HYPERTHYROIDISM:
+TSH suppressed (<0.1 mIU/L), fT4 and/or fT3 elevated.
+Prevalence: 0.5–2% of women, 0.05–0.2% of men.
+Causes:
+- Graves' disease: most common (70–80%). Autoimmune — TRAb stimulate TSH receptors → autonomous thyroid hormone production. Features unique to Graves': ophthalmopathy (exophthalmos, proptosis — due to retro-orbital inflammation), pretibial myxoedema (orange-skin plaque deposits over shins), thyroid acropachy (clubbing with periosteal new bone formation). Associated with HLA-DR3.
+- Toxic multinodular goitre: autonomous nodules. Older patients. Rarely associated with ophthalmopathy.
+- Toxic adenoma (Plummer's disease): single autonomous nodule.
+- Thyroiditis (subacute/De Quervain's, postpartum, silent): transient hyperthyroidism from thyroid inflammation releasing stored hormone. No TSI. Pain in subacute thyroiditis. Antithyroid drugs ineffective (not increased synthesis).
+- Iodine-induced (Jod-Basedow): exposure to large iodine load (amiodarone, contrast media) in predisposed patients.
+- Amiodarone: causes both hypo and hyperthyroidism. Type 1 (underlying thyroid disease — increased synthesis, treat with thionamides) vs. Type 2 (destructive thyroiditis — use steroids).
+- TSH-secreting pituitary adenoma: very rare, TSH elevated.
+- Factitious: exogenous T4/T3 ingestion.
+
+Symptoms: weight loss (despite increased appetite), heat intolerance, sweating, palpitations, tremor, anxiety, irritability, insomnia, diarrhoea, oligomenorrhoea, fatigue, muscle weakness, frequent bowel movements.
+Signs: tachycardia (±AF), fine tremor, warm moist skin, weight loss, goitre (with bruit in Graves'), lid lag, lid retraction, exophthalmos (Graves'), hyperreflexia, thyroid acropachy.
+Thyroid storm (thyrotoxic crisis): life-threatening. Fever >38.5°C, tachycardia >140, hypertension, agitation, vomiting, diarrhoea, cardiac failure, coma. Precipitated by surgery, infection, iodinated contrast. Mortality 10–20%. Treatment: propranolol (large doses — 80–120mg 6-hourly), carbimazole/PTU (PTU preferred — blocks peripheral T4→T3 conversion), Lugol's iodine (1 hour after antithyroid drugs — inhibits thyroid hormone release), hydrocortisone, supportive care.
+
+Investigations: TFTs (TSH, fT4, fT3), TRAb (Graves' diagnosis), thyroid scan (uptake studies — differentiate Graves' from thyroiditis: increased uptake in Graves', decreased in thyroiditis).
+Treatment options:
+1. Antithyroid drugs (thionamides): carbimazole (or methimazole) or propylthiouracil (PTU). Mechanism: inhibit thyroid peroxidase, blocking hormone synthesis. PTU also blocks peripheral T4→T3 conversion. Used for 12–18 months in Graves' (remission 50% in Europeans, lower in Asians). Side effects: agranulocytosis (0.5% — STOP drug if sore throat/fever, urgent FBC), hepatotoxicity (PTU more than carbimazole), rash, arthralgia. PTU preferred in first trimester pregnancy (carbimazole associated with aplasia cutis/choanal atresia). Both cross placenta — fetal goitre/hypothyroidism risk with high doses.
+Block and replace: carbimazole (block thyroid function) + levothyroxine (replace). Used in Graves' during pregnancy to minimise carbimazole dose.
+2. Radioiodine (I-131): definitive treatment. Concentrated in thyroid, causes cell death. Contraindicated in pregnancy/breastfeeding, active Graves' ophthalmopathy (may worsen). Most patients become hypothyroid (intended outcome) — requires lifelong levothyroxine. Effective, cheap, permanent. Pregnancy should be deferred 6 months post-treatment.
+3. Thyroidectomy (total or near-total): definitive, immediate. Indications: large goitre with pressure symptoms, suspected malignancy, pregnancy planning (avoids radioiodine in fertile women), patient preference, failed medical therapy. Complications: temporary hypocalcaemia (recurrent laryngeal nerve injury <1%, permanent hypoparathyroidism 1–2%, scar).
+
+THYROID NODULES AND CANCER:
+Thyroid nodules: very common (50–70% of adults on ultrasound). 5–10% malignant. Risk factors for malignancy: age <20 or >70, male, head/neck radiation history, family history MTC or MEN2, rapid growth, hoarseness (recurrent laryngeal nerve involvement), fixity.
+Investigation: ultrasound (characterise nodule — echo, size, calcification, margins, vascularity), thyroid function tests (functioning "hot" nodule on scan = almost always benign), fine needle aspiration cytology (FNAC) for ≥1 cm suspicious nodules.
+Ultrasound classification (ACR TIRADS): TR1–TR5, guides need for FNA.
+Thyroid cancer types:
+Papillary (85%): most common, young women, excellent prognosis (>95% 10-year survival), lymph node metastasis common but not necessarily bad prognosis. Associated with BRAF V600E mutation and radiation exposure. RET/PTC rearrangements.
+Follicular (10%): older patients, haematogenous spread (lung, bone), FNA cannot distinguish from follicular adenoma (requires histology). Associated with RAS mutations, PAX8-PPAR-gamma rearrangements.
+Hurthle cell (5%): variant of follicular, less RAI-avid.
+Medullary (2–4%): arises from C cells (calcitonin-secreting). 25% familial (RET mutations — MEN 2A, MEN 2B, FMTC). Screen first-degree relatives. Serum calcitonin elevated. Not RAI-avid. Genetic testing of RET proto-oncogene. Prophylactic thyroidectomy in RET mutation carriers.
+Anaplastic (<2%): elderly, highly aggressive, near 100% mortality within months. Usually arises from dedifferentiation of existing thyroid cancer.
+Treatment: surgery (total thyroidectomy for >1 cm differentiated cancer, lobectomy for low-risk microcarcinoma), radioactive iodine ablation (for differentiated cancer — destroys remnant and metastases), TSH suppression (levothyroxine to suppress TSH — growth factor for differentiated thyroid cancer; target TSH <0.1 in high-risk, 0.1–0.5 in low-risk), external beam radiotherapy (for anaplastic, locally invasive), tyrosine kinase inhibitors (lenvatinib, sorafenib — for RAI-refractory differentiated or progressive medullary cancer), RET inhibitors (selpercatinib, pralsetinib — for RET-mutant medullary thyroid cancer).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 6: ADRENAL DISORDERS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ADRENAL GLANDS:
+Paired retroperitoneal organs, each ~4g. Cortex (outer): produces glucocorticoids (cortisol — zona fasciculata), mineralocorticoids (aldosterone — zona glomerulosa), and androgens (DHEA — zona reticularis). Medulla (inner): chromaffin cells produce catecholamines (adrenaline 80%, noradrenaline 20%).
+
+ADRENAL INSUFFICIENCY:
+Primary (Addison's disease): destruction/dysfunction of adrenal cortex. Cortisol AND aldosterone deficient.
+Causes: autoimmune (70–90% in developed countries, anti-21-hydroxylase antibodies), tuberculosis (most common worldwide historically, still significant), other infections (HIV, histoplasmosis), metastatic cancer, bilateral adrenalectomy, drugs (ketoconazole, etomidate, rifampicin — enhance cortisol metabolism), adrenal haemorrhage (Waterhouse-Friderichsen syndrome — bilateral adrenal haemorrhage in meningococcal septicaemia, anticoagulation), adrenoleukodystrophy (X-linked, boys/young men).
+Secondary: ACTH deficiency from pituitary/hypothalamic disease (pituitary tumour, apoplexy, surgery, radiation, Sheehan's syndrome).
+Tertiary: exogenous steroid use → hypothalamic-pituitary suppression — most common cause overall. Takes months to recover after steroid withdrawal.
+
+Symptoms: fatigue (90%), weight loss, anorexia, nausea, abdominal pain, myalgia, dizziness (postural hypotension), salt craving, depression, arthralgias.
+Signs: hyperpigmentation (ACTH-mediated, only in primary — tan in sun-exposed areas, palmar creases, buccal mucosa, scars, nipples, pressure points), postural hypotension, loss of secondary sexual hair in women (adrenal androgen deficiency).
+Biochemistry: hyponatraemia, hyperkalaemia (only in primary — mineralocorticoid deficiency), hypoglycaemia, eosinophilia.
+Diagnosis:
+Short Synacthen test (gold standard for primary): 250 mcg synthetic ACTH IV/IM → cortisol measured at 0 and 30 minutes. Normal: peak cortisol >550 nmol/L. Low peak confirms adrenal insufficiency.
+9am cortisol: <100 nmol/L strongly suggests AI; >450 nmol/L effectively excludes it; 100–450 needs further testing.
+ACTH level: high in primary (lost feedback), low/normal in secondary/tertiary.
+Aldosterone and renin: aldosterone low + renin high = primary.
+
+Treatment:
+Glucocorticoid replacement: hydrocortisone 15–20 mg/day in 2–3 divided doses (e.g., 10mg morning, 5mg noon, 5mg early afternoon — mimics diurnal rhythm). OR prednisolone 3–5 mg once daily.
+Mineralocorticoid replacement (primary only): fludrocortisone 50–200 mcg once daily (adjust by BP, electrolytes, renin).
+DHEA replacement: considered in women with adrenal androgen deficiency — may improve mood, libido, wellbeing.
+Sick day rules (steroid sick day rules): double or triple glucocorticoid dose with fever, illness, or surgery. Cannot fast pre-operatively without IV hydrocortisone. Carry medical alert card/bracelet, carry hydrocortisone 100mg IM for emergency self-injection.
+Adrenal crisis: acute, life-threatening — hypotension, vomiting, abdominal pain, confusion. Precipitated by intercurrent illness, surgery, missed medication. Treatment: IMMEDIATE IV hydrocortisone 100mg bolus, then 200mg/24h by infusion or 50mg IM/IV 6-hourly, IV fluids (0.9% NaCl + 5% dextrose), treat precipitant.
+
+CUSHING'S SYNDROME:
+Excess glucocorticoid from any cause.
+Exogenous (most common): corticosteroid treatment. Endogenous causes:
+ACTH-dependent (80%): Cushing's disease (pituitary ACTH-secreting adenoma, 70% of endogenous), ectopic ACTH syndrome (small cell lung cancer, carcinoid, thymic tumour, phaeochromocytoma — 10%).
+ACTH-independent (20%): adrenal adenoma, adrenal carcinoma, bilateral adrenal hyperplasia.
+
+Symptoms and signs:
+Central obesity (moon face, buffalo hump, truncal obesity, purple striae >1cm especially on abdomen/thighs), thin skin and easy bruising, proximal myopathy (difficulty rising from chair, climbing stairs), hypertension, diabetes, osteoporosis (vertebral fractures), hirsutism, irregular menses/oligomenorrhoea (in women), acne, poor wound healing, psychological changes (depression, psychosis, insomnia), hypokalaemia (especially ectopic ACTH — high ACTH cortisol overwhelms 11β-HSD2).
+
+Diagnosis:
+Screening tests (high sensitivity needed — rule out Cushing's):
+1. Late-night salivary cortisol (×2): elevated (normal diurnal rhythm lost in Cushing's)
+2. 24-hour urinary free cortisol (×2): elevated
+3. Low-dose dexamethasone suppression test (LDDST): 1mg dexamethasone at 11pm → 9am cortisol >50 nmol/L = abnormal (failure to suppress)
+Confirmatory test if screening abnormal: 48-hour LDDST (0.5mg 6-hourly × 48h), CRH stimulation.
+Localisation (once diagnosis confirmed):
+ACTH level: suppressed (<1.1 pmol/L) = ACTH-independent (adrenal); elevated or normal = ACTH-dependent.
+If ACTH-dependent: pituitary MRI (may be small, missed in 50%), inferior petrosal sinus sampling (IPSS, gold standard for distinguishing pituitary from ectopic ACTH).
+Whole body CT for ectopic source.
+Treatment:
+Cushing's disease: transsphenoidal surgery (TSS) — 70–80% remission. Radiotherapy if failed/recurrent. Medical: metyrapone, ketoconazole, cabergoline, pasireotide (somatostatin analogue), mifepristone (glucocorticoid receptor antagonist, useful in diabetes/psychosis).
+Adrenal adenoma: laparoscopic adrenalectomy. Contralateral adrenal atrophied — need temporary glucocorticoid cover post-op.
+Ectopic ACTH: treat underlying tumour. Medical management if inoperable.
+
+PHAEOCHROMOCYTOMA / PARAGANGLIOMA:
+Catecholamine-secreting tumour. 80–85% adrenal (phaeochromocytoma), 15–20% extra-adrenal paraganglioma.
+10% rule (historical approximation, less accurate with better genetics): 10% bilateral, 10% extra-adrenal, 10% malignant, 10% in children. With genetic testing, >40% associated with germline mutations (VHL, RET, NF1, SDH genes). Screen all for hereditary syndrome.
+Symptoms: "paroxysmal hypertensive crises" — episodes of severe headache, sweating, palpitations (tachycardia), pallor, anxiety — the classic triad + hypertension. Hypertension may be sustained (50%) or paroxysmal. Thin, hypermetabolic. Provocative stimuli: abdominal palpation, micturition (bladder paraganglioma), anaesthesia, surgery, medications (TCA, metoclopramide, glucagon).
+Diagnosis: plasma metanephrines (normetadrenaline, metadrenaline) — sensitivity 97%, specificity 85%. 24-hour urinary catecholamines and metanephrines — slightly less sensitive. MRI adrenals preferred over CT. Functional imaging: 123I-MIBG scan or 68Ga-DOTATATE PET for extra-adrenal/metastatic disease.
+Pre-operative preparation: ESSENTIAL — without preparation, surgery carries risk of hypertensive crisis, arrhythmias, death. Alpha-blockade first (phenoxybenzamine — irreversible, or doxazosin — reversible) for 2–4 weeks → then beta-blockade (never beta-block first — unopposed alpha-stimulation → crisis). High-salt diet to expand volume.
+Treatment: laparoscopic adrenalectomy (open if large or malignant). Malignant (metastatic) disease: 131I-MIBG therapy, sunitinib, chemotherapy (CVD regimen).
+
+PRIMARY HYPERALDOSTERONISM (CONN'S SYNDROME):
+Autonomous aldosterone excess from adrenal gland. Most common cause of secondary hypertension (5–10% of hypertension). Causes: bilateral adrenal hyperplasia (most common, ~65%), aldosterone-producing adenoma (Conn's adenoma, ~30%), rare: unilateral hyperplasia, carcinoma.
+Consequences: hypertension, hypokalaemia (30–40% — rest normokalaemic), metabolic alkalosis, polyuria, muscle weakness, cramps, cardiac effects (aldosterone increases CV risk independently of BP).
+Diagnosis: aldosterone-to-renin ratio (ARR) screening test — elevated aldosterone with suppressed renin. Confirmatory: salt loading test or fludrocortisone suppression test — aldosterone not suppressed.
+Lateralisation: adrenal CT (identifies adenoma >1cm but misses small adenomas), adrenal venous sampling (gold standard — lateralises aldosterone excess, guides surgery vs. medical management; essential if surgery considered).
+Treatment: adenoma (unilateral) → laparoscopic adrenalectomy (cures hypertension in 30–50%, improves in rest, always resolves hypokalaemia). Bilateral hyperplasia → medical — spironolactone (first line, blocks mineralocorticoid receptor, most evidence) or eplerenone (fewer sexual side effects). Amiloride for K-sparing if intolerant.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 7: PITUITARY DISORDERS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PITUITARY ANATOMY:
+Located in sella turcica, weighs ~0.5g. Anterior pituitary (adenohypophysis): produces GH, TSH, ACTH, LH, FSH, prolactin. Posterior pituitary (neurohypophysis): stores and releases ADH (vasopressin) and oxytocin (produced in hypothalamus).
+
+PITUITARY ADENOMAS:
+Most common pituitary tumour. Microadenoma <10mm, macroadenoma ≥10mm.
+Functioning (secreting):
+- Prolactinoma: most common (40%). Prolactin excess → inhibits GnRH → hypogonadism. Women: amenorrhoea, galactorrhoea, infertility, osteoporosis. Men: erectile dysfunction, loss of libido, galactorrhoea, visual disturbance (macroadenoma). Diagnosis: serum prolactin (normal <600 mIU/L). Exclude drug causes (dopamine antagonists: metoclopramide, antipsychotics, domperidone; opioids; methyldopa; antidepressants). Treatment: dopamine agonist (cabergoline first choice — effective in 85–90%, normalises prolactin and shrinks tumour; bromocriptine less preferred). Surgery (transsphenoidal) if drug-resistant or intolerant.
+- Acromegaly: GH-secreting adenoma (>95% GH-secreting adenoma). GH stimulates IGF-1 from liver. In adults (after growth plates closed): acral and soft tissue growth. In children (gigantism): tall stature.
+  Features: acral enlargement (hands, feet — ring and shoe size change), coarse facial features (frontal bossing, prominent jaw/prognathism, macroglossia), skin changes (oily, thickened), carpal tunnel syndrome, arthropathy, organomegaly (heart — cardiomyopathy is leading cause of death, thyroid, liver), hypertension, diabetes/IGT (40%), sleep apnoea (80%), colonic polyps/cancer risk, headache, visual field defect.
+  Diagnosis: GH not suppressed to <0.4 mcg/L during 75g OGTT (GH >0.3 mcg/L = diagnostic of acromegaly). IGF-1 elevated for age/sex. MRI pituitary.
+  Treatment: transsphenoidal surgery (first line if accessible, cure ~50% microadenomas, ~30% macroadenomas). Somatostatin analogues (octreotide LAR, lanreotide autogel) — normalise GH/IGF-1 in 50–60%, shrink tumour. Pegvisomant (GH receptor antagonist) — most effective at normalising IGF-1 (>90%), does not shrink tumour. Cabergoline — modest benefit for mixed GH+PRL adenomas. Radiotherapy (stereotactic radiosurgery/LINAC) for residual/recurrent disease.
+- Cushing's disease: ACTH-secreting adenoma (covered above).
+
+Non-functioning adenomas: cause symptoms by mass effect — headache, visual disturbance (bitemporal hemianopia from optic chiasm compression, diplopia from cranial nerve involvement), hypopituitarism (pressure on normal pituitary).
+
+HYPOPITUITARISM:
+Deficiency of one or more pituitary hormones. Causes: pituitary adenoma (most common), surgery, radiotherapy, head trauma, pituitary apoplexy (sudden haemorrhage/infarction into pituitary — severe headache, visual loss, altered consciousness, hormonal crisis — emergency transsphenoidal decompression), Sheehan's syndrome (postpartum pituitary infarction from haemorrhagic shock), infiltrative (sarcoidosis, haemochromatosis, Langerhans cell histiocytosis), lymphocytic hypophysitis (autoimmune, especially postpartum).
+Clinical effects by hormone:
+GH deficiency: adults — reduced muscle, increased fat, poor quality of life, dyslipidaemia, cardiovascular risk. Children — growth failure.
+LH/FSH deficiency (hypogonadotrophic hypogonadism): men — erectile dysfunction, infertility, osteoporosis, muscle loss. Women — amenorrhoea, infertility, osteoporosis.
+TSH deficiency (secondary hypothyroidism): as for hypothyroidism but TSH not elevated (unlike primary).
+ACTH deficiency (secondary adrenal insufficiency): cortisol deficiency. NO mineralocorticoid deficiency (aldosterone regulated by renin-angiotensin, not ACTH). No hyperpigmentation. Hyponatraemia (dilutional — cortisol needed for free water excretion). Risk of adrenal crisis with stress.
+Prolactin deficiency: failure of lactation postpartum (clue to Sheehan's).
+ADH deficiency: diabetes insipidus (see below).
+Treatment: replace deficient hormones (hydrocortisone for ACTH deficiency — always replace cortisol before thyroxine, as thyroid replacement can precipitate adrenal crisis; levothyroxine for TSH deficiency; sex hormones for LH/FSH deficiency; GH replacement for adults with significant QoL impairment; desmopressin for ADH deficiency).
+
+DIABETES INSIPIDUS (DI):
+Inability to concentrate urine due to ADH (vasopressin) deficiency (cranial/central DI) or renal insensitivity to ADH (nephrogenic DI).
+Cranial DI: ADH deficiency. Causes: idiopathic (50%, likely autoimmune), pituitary surgery/trauma, tumours, infiltration (sarcoid, Langerhans), Wolfram syndrome (DIDMOAD — DI, Diabetes Mellitus, Optic Atrophy, Deafness).
+Nephrogenic DI: ADH insensitivity. Causes: chronic renal disease, hypercalcaemia, hypokalaemia, drugs (lithium — most common drug cause, demeclocycline, amphotericin).
+Symptoms: polyuria (>3L/day), polydipsia, nocturia, dilute urine.
+Diagnosis: water deprivation test (fluid restriction → urine osmolality fails to rise >600 mOsm/kg in DI). After dehydration: give desmopressin — cranial DI responds (urine concentrates), nephrogenic does not. Plasma copeptin (AVP precursor) useful adjunct.
+Treatment: cranial DI — desmopressin (DDAVP) nasal spray, tablets, or injection. Nephrogenic DI — treat underlying cause; thiazide diuretics + low sodium diet (paradoxical effect); NSAIDs or amiloride.
+
+SYNDROME OF INAPPROPRIATE ADH (SIADH):
+ADH excess → water retention → dilutional hyponatraemia without oedema.
+Causes: CNS (stroke, SAH, meningitis, head injury, psychosis), pulmonary (SCLC — ectopic ADH production, pneumonia, TB, CPAP), drugs (SSRIs, carbamazepine, cyclophosphamide, vincristine, NSAIDs, PPIs), pain, nausea, hypothyroidism (exclude first), adrenal insufficiency (exclude first).
+Diagnosis (Bartter-Schwartz criteria): serum Na <130 mmol/L, plasma osmolality <275 mOsm/kg, urine osmolality >100 mOsm/kg (inappropriately concentrated), urine Na >20 mmol/L (inappropriate sodium excretion), euvolaemic (no oedema, normal skin turgor), normal renal/adrenal/thyroid function.
+Treatment:
+Mild/chronic: fluid restriction (500–1000 mL/day), treat underlying cause.
+Moderate: urea (oral) or salt tablets, demeclocycline (inhibits ADH action — takes days, hepatotoxic).
+Severe (Na <120 or symptomatic): 3% NaCl (hypertonic saline) slowly. Correct Na by no more than 10 mmol/L in first 24h (max 8 mmol/L in first 24h if chronic — risk of osmotic demyelination syndrome/central pontine myelinolysis if too rapid).
+Vaptans (tolvaptan — V2 receptor antagonist, aquaretic): licensed for SIADH; effective but expensive and risk of overly rapid correction — use only in specialist settings.
+
+END OF DIABETES & ENDOCRINOLOGY TRAINING DATA DOCUMENT
+Total: ~11,500 words | Sections: 7 | Chunks estimated: ~95

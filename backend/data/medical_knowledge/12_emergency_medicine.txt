@@ -1,0 +1,247 @@
+EMERGENCY MEDICINE — COMPREHENSIVE MEDICAL REFERENCE
+=====================================================
+Source: Medical Training Data for AIVARA Healthcare AI
+Category: Emergency Medicine | Version: 1.0
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 1: RESUSCITATION AND BASIC LIFE SUPPORT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+CARDIAC ARREST:
+Cardiac arrest is cessation of effective cardiac mechanical activity confirmed by absence of signs of circulation. In the UK, approximately 30,000 out-of-hospital cardiac arrests occur annually with survival to hospital discharge approximately 8-10%. In-hospital cardiac arrest survival approximately 20-25%. Early CPR and defibrillation are the most critical interventions.
+
+ADULT BASIC LIFE SUPPORT (BLS — Resuscitation Council UK 2021):
+Safety first: ensure scene safety before approaching.
+Unresponsive: shout for help, assess responsiveness (shake shoulders, shout).
+Open airway: head-tilt chin-lift (jaw-thrust if suspected cervical spine injury).
+Check for breathing: look, listen, feel for normal breathing for no more than 10 seconds. Agonal breathing (occasional gasps) = NOT normal breathing.
+Call for help: dial 999 (UK)/112, ask for defibrillator.
+Start CPR: 30 chest compressions (rate 100-120/min, depth 5-6cm, allow full chest recoil, minimise interruptions), then 2 rescue breaths (if trained and willing — compression-only CPR acceptable if untrained or unwilling to give breaths). Compression-only CPR: 100-120/min, continue until AED arrives or patient recovers.
+AED: attach as soon as available, follow prompts, minimise interruption to CPR.
+Ratio: 30:2 (adult and child >8 years), 15:2 (child <8 years — 2 rescuers), 30:2 (child <8 years — 1 rescuer). Infant (<1 year): 2 fingers chest compressions, 1/3 depth of chest.
+
+ADVANCED LIFE SUPPORT (ALS — RCUK 2021):
+Shockable rhythms (VF/pVT):
+1. CPR 2 minutes while charging defibrillator.
+2. Deliver shock (biphasic 150-200J initial; monophasic 360J). Resume CPR immediately — do NOT check rhythm.
+3. After 2 minutes CPR: rhythm check → if still VF/pVT → second shock.
+4. After third shock: adrenaline (epinephrine) 1mg IV/IO + amiodarone 300mg IV/IO.
+5. Adrenaline 1mg every 3-5 minutes (alternate loops). Amiodarone 150mg after fifth shock.
+Non-shockable rhythms (PEA/asystole):
+1. CPR 2 minutes (no shock).
+2. Adrenaline 1mg IV/IO as soon as IV/IO access — then every 3-5 minutes.
+3. Rhythm check every 2 minutes — if VF/pVT appears, switch to shockable algorithm.
+4H4T: IDENTIFY AND TREAT REVERSIBLE CAUSES:
+4Hs: Hypoxia (ventilate with 100% O2), Hypovolaemia (fluid resuscitation), Hypo/hyperkalaemia and metabolic disorders (bloods, ECG), Hypothermia (warming).
+4Ts: Tension pneumothorax (needle decompression → chest drain), Tamponade (pericardiocentesis), Toxins (antidotes), Thrombosis — coronary (PCI if STEMI) or pulmonary (thrombolysis).
+
+POST-RESUSCITATION CARE:
+Targeted Temperature Management (TTM): previously hypothermia at 33°C — TTM2 trial: 33°C vs 37.5°C — no difference in neurological outcome. Current guidance: avoid fever (>37.7°C) for 72 hours post-arrest. Maintain normothermia (36-37.5°C) actively. Sedation during TTM.
+Coronary angiography: STEMI post-arrest → immediate PCI. No ST elevation → delayed angiography (not immediate unless haemodynamically unstable — COACT, TOMAHAWK trials).
+Prognostication: not before 72 hours (EEG, CT brain, SSEP, NSE biomarker — multimodal approach).
+Brain death criteria (UK): absent brainstem reflexes (pupillary, corneal, vestibulo-ocular, gag/cough, respiratory — apnoea test) × 2 physicians, diagnosed on 2 separate occasions. Preconditions met: known structural brain damage, irreversible, all reversible causes excluded.
+
+PAEDIATRIC ADVANCED LIFE SUPPORT:
+Cardiac arrest in children usually secondary to respiratory arrest (vs VF in adults — arrhythmic). Hypoxia and airway obstruction most common causes. Prevention crucial.
+Recognition: unresponsive + not breathing normally + no pulse (< 1 min — if uncertain, start CPR). Rescuer-to-patient airway technique differs: infant (head neutral/slightly extended — large occiput flexes neck if too extended), child (head-tilt chin-lift as adult).
+Paediatric CPR: 5 initial rescue breaths (highly important — hypoxic arrest — contrast adult compression-only priority). Then 15:2 compressions:breaths. Depth: 1/3 AP diameter (≈4cm infant, 5cm child).
+Defibrillation: 4J/kg (initial and subsequent — paediatric pads if <25kg). Adrenaline: 10 μg/kg (0.1mL/kg of 1:10,000) IV/IO. Amiodarone: 5 mg/kg after 3rd shock.
+IO (intraosseous) access: if IV access not achieved within 60 seconds — tibia, distal femur, humeral head.
+PEARS (Paediatric Emergency Assessment, Recognition, and Stabilisation): systematic approach to sick child.
+
+CHOKING:
+Adult conscious choking: 5 back blows (between shoulder blades) → 5 abdominal thrusts (Heimlich manoeuvre — subdiaphragmatic). Repeat cycle until dislodged or unconscious. If unconscious: start CPR (chest compressions may dislodge — check mouth each time).
+Infant (<1 year) conscious choking: 5 back blows (face-down over arm) → 5 chest thrusts (NOT abdominal thrusts — risk of visceral injury in infants). If unconscious: infant CPR.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 2: SHOCK
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DEFINITION:
+Shock is a state of generalised circulatory failure resulting in inadequate oxygen delivery to meet cellular metabolic demands, leading to cellular dysfunction and organ failure. Not defined solely by blood pressure — hypoperfusion can occur with normal BP (compensated shock).
+
+CLASSIFICATION AND CAUSES:
+Hypovolaemic shock: reduced circulating volume. Haemorrhagic (trauma, GI bleed, AAA rupture, ectopic pregnancy rupture, post-partum haemorrhage). Non-haemorrhagic (burns, severe vomiting/diarrhoea, third-space losses — pancreatitis, bowel obstruction). Characterised by: tachycardia, hypotension, cool/clammy peripheries, reduced JVP, oliguria.
+Distributive shock: maldistribution of blood flow — vasodilation + capillary leak. Septic shock (most common cause of distributive shock — see infectious diseases), anaphylactic shock, neurogenic shock (spinal cord injury — loss of sympathetic tone → vasodilation + bradycardia — paradoxical bradycardia with hypotension), adrenal crisis (acute Addison's).
+Cardiogenic shock: pump failure. AMI (most common cause), severe heart failure, arrhythmias, myocarditis, acute valvular pathology. Cold and wet (pulmonary oedema + poor cardiac output). Raised JVP, S3, crackles. Treat underlying cause (PCI for MI, anti-arrhythmics, balloon pump).
+Obstructive shock: mechanical obstruction to cardiac output. Massive PE (right heart failure, acute cor pulmonale — tachycardia, elevated JVP, right heart strain ECG), tension pneumothorax (deviated trachea, absent breath sounds, elevated JVP — needle decompression immediately), cardiac tamponade (Beck's triad: hypotension + raised JVP + muffled heart sounds; Kussmaul's sign — JVP rises on inspiration; pulsus paradoxus >10mmHg; pericardiocentesis).
+
+HAEMORRHAGIC SHOCK CLASSIFICATION (ATLS):
+Class I: up to 750mL blood loss (up to 15% blood volume). HR <100, normal BP, normal pulse pressure, normal RR, anxious.
+Class II: 750-1500mL (15-30%). HR 100-120, normal SBP, reduced pulse pressure (diastolic rises — peripheral vasoconstriction), RR 20-30, anxious/confused.
+Class III: 1500-2000mL (30-40%). HR 120-140, reduced SBP (<90), RR 30-40, confused/lethargic, reduced urine output.
+Class IV: >2000mL (>40%). HR >140, markedly reduced SBP, RR >35, comatose, negligible urine output. Immediately life-threatening.
+
+FLUID RESUSCITATION:
+Crystalloids: 0.9% NaCl, Hartmann's (lactated Ringer's — balanced crystalloid), PlasmaLyte. Balanced crystalloids (Hartmann's) preferred — reduce hyperchloraemic acidosis, AKI risk. Initial bolus 250-500mL (assess response — avoid over-resuscitation).
+Haemorrhagic shock: permissive hypotension (target SBP 80-90mmHg until surgical haemostasis — avoids coagulopathy, hypothermia, acidosis worsening — "lethal triad"). Damage control resuscitation: 1:1:1 ratio packed RBCs:FFP:platelets (MTP — massive transfusion protocol). Tranexamic acid (TXA): 1g IV within 3 hours of trauma (CRASH-2 trial — reduces mortality 15%); 2nd dose 1g over 8 hours. Early blood products, minimise crystalloid.
+Anaphylactic shock: IM adrenaline (epinephrine) 0.5mg IM (1:1000 concentration) — outer thigh — most important first treatment. IV fluids (crystalloid 500mL-1L rapid). IV chlorphenamine 10mg, IV hydrocortisone 200mg (adjuncts — slower, less critical). Nebulised salbutamol (bronchospasm). IV adrenaline infusion for refractory anaphylaxis. Observe minimum 6-12 hours (biphasic reaction risk — 5-20% relapse 1-72 hours later). Prescribe adrenaline auto-injector (EpiPen) on discharge. Referral to allergy clinic.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 3: MAJOR TRAUMA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PRIMARY SURVEY (ABCDE):
+The structured ATLS (Advanced Trauma Life Support) primary survey aims to identify and simultaneously treat immediately life-threatening injuries.
+
+A — AIRWAY WITH CERVICAL SPINE PROTECTION:
+Assess: can patient speak? Any stridor, gurgling, snoring (airway compromise). Foreign body, blood, vomit, teeth — suction. Manual in-line stabilisation (MILS) of cervical spine.
+Airway adjuncts: nasopharyngeal airway (NPA — better tolerated in semi-conscious), oropharyngeal airway (Guedel — unconscious only — vomiting risk), supraglottic airway (LMA, i-gel — rapid insertion). Definitive airway: RSI (rapid sequence induction — pre-oxygenate, cricoid pressure, induction agent [ketamine or thiopentone] + suxamethonium/rocuronium → laryngoscopy + cuffed ETT). Surgical airway: cricothyrotomy (scalpel or needle — if "can't intubate, can't oxygenate" scenario — 4th minute oxygen extraction — absolute emergency).
+
+B — BREATHING AND VENTILATION:
+Inspect: respiratory rate, symmetry of chest expansion, accessory muscle use, tracheal deviation, cyanosis, open chest wound.
+Percuss: dullness (haemothorax, haemopneumothorax), hyperresonance (pneumothorax).
+Auscultate: absent breath sounds (pneumo/haemothorax), air entry bilaterally.
+Immediately life-threatening chest injuries (treated in primary survey):
+Tension pneumothorax: needle decompression (14G cannula 2nd ICS MCL or 4th/5th ICS AAL) → finger thoracostomy → chest drain. Clinical diagnosis — do NOT wait for CXR.
+Open pneumothorax (sucking chest wound): cover with three-sided dressing (one-way valve effect — prevents tension pneumothorax). Chest drain insertion at separate site.
+Massive haemothorax: chest drain (large bore — 28-32Fr — low 4th-5th ICS AAL or 5th ICS midaxillary line — never nipple line in women), autotransfusion. Thoracotomy if >1500mL initial drainage or >200mL/hour.
+Flail chest: two or more adjacent ribs fractured in two or more places → paradoxical movement. Pain management, positive pressure ventilation if respiratory failure.
+Life-threatening cardiac: cardiac tamponade (pericardiocentesis or emergency thoracotomy), aortic disruption.
+
+C — CIRCULATION AND HAEMORRHAGE CONTROL:
+Major haemorrhage: direct pressure (wound packing with haemostatic gauze — QuikClot, Celox), tourniquets (limb haemorrhage — apply proximal, note time), pelvic binder (pelvic fracture — reduces pelvic volume → tamponade). Control external haemorrhage FIRST.
+IV access: 2 large-bore (14-16G) peripheral IV cannulae. IO if venous access impossible.
+Massive transfusion protocol (MTP): activate if predicted >10 units pRBC/24h. 1:1:1 pRBC:FFP:Plt. Add cryoprecipitate (fibrinogen). Tranexamic acid. Calcium (ionised calcium falls with massive transfusion — give CaCl2 or calcium gluconate with each 4 units FFP). Aim: Hb 70-90 g/L, platelets >50×10⁹, fibrinogen >1.5g/L, PT/APTT <1.5× normal. Damage control surgery — haemorrhage control only, pack abdomen, reassess in ITU, delayed definitive repair.
+
+D — DISABILITY (NEUROLOGICAL STATUS):
+GCS (Glasgow Coma Scale): Eyes (1-4), Verbal (1-5), Motor (1-6). Total 3-15. GCS 14-15 = mild, 9-13 = moderate, ≤8 = severe TBI (intubate — protect airway).
+AVPU (rapid bedside): Alert, Voice response, Pain response, Unresponsive.
+Pupils: size, symmetry, reactivity. Unequal pupils (anisocoria) — blown pupil (mydriasis) indicates transtentorial herniation, CNIII compression (posterior communicating artery aneurysm if no trauma).
+Blood glucose (fingerprick): correct hypoglycaemia.
+Lateralising signs, limb posturing.
+
+E — EXPOSURE AND ENVIRONMENTAL CONTROL:
+Fully undress patient. Log-roll (maintain spinal precautions): inspect back, perineum, axillae. Haemorrhage, wounds, deformities, burns. Prevent hypothermia: warmed blankets, warmed IV fluids, warm environment. Temperature monitoring.
+
+SECONDARY SURVEY:
+Complete head-to-toe examination. History (AMPLE: Allergies, Medications, Past history, Last ate/drank, Events). Inspect/palpate/percuss all body regions. FAST examination (Focused Assessment with Sonography in Trauma): RUQ (Morrison's pouch — liver/kidney), LUQ (splenorenal), pelvic (bladder/pelvis), pericardial windows. Free fluid = haemoperitoneum. E-FAST adds thoracic: pneumothorax, haemothorax. Adjuncts: CXR, pelvis XR, CT Trauma Survey (whole body CT — "trauma pan-scan" — gold standard for definitive assessment in haemodynamically stable patients — reduces missed injuries, mortality in major trauma).
+
+SPECIFIC TRAUMA:
+Head injury: scalp — highly vascular → significant blood loss possible, apply firm direct pressure. Skull fracture: base of skull signs (Battle's sign — bruising behind ear, 24-48h post-injury; raccoon eyes/periorbital bruising; CSF rhinorrhoea/otorrhoea; haemotympanum). Linear skull fracture: often asymptomatic on plain XR. Depressed fracture: may need elevation. EDH (extradural haematoma): arterial bleeding (MMA — middle meningeal artery), lenticular/biconvex on CT, lucid interval (loss of consciousness → recovery → secondary deterioration as haematoma expands). SDH (subdural haematoma): bridging veins, elderly (atrophy), crescent-shaped on CT, often poor outcome. ICH (intracerebral haematoma): high mortality. Management: neurosurgical consultation, evacuation of EDH (surgical emergency), ICP monitoring, avoid hypo/hyperglycaemia, hypoxia, fever, hypercapnia (all worsen ICP), maintain CPP (cerebral perfusion pressure = MAP - ICP, target >60mmHg), mannitol/hypertonic saline for ICP crisis, decompressive craniectomy.
+
+Spinal trauma: immobilise until injury excluded (hard collar, head blocks, long board if required for movement). NEXUS criteria and Canadian C-Spine Rule — guide imaging decisions. CT cervical spine (standard — more sensitive than plain films), MRI for cord injury/soft tissue. Complete spinal cord injury: complete motor and sensory loss below level. Incomplete: partial preservation. Methylprednisolone (NASCIS trials): no longer recommended (harms > benefits). Early surgical decompression if incomplete injury.
+
+Burns: rule of nines (adult BSA): head 9%, each arm 9%, front trunk 18%, back trunk 18%, each leg 18%, perineum 1%. Parkland formula: 4mL × weight(kg) × %BSA Hartmann's — first half in first 8 hours, second half in next 16 hours (guide only — titrate to urine output 0.5-1 mL/kg/h). Circumferential burns → escharotomy (prevents compartment syndrome, restricted ventilation for chest). Airway burns: singed nasal hair, hoarseness, stridor, soot in mouth/sputum → early intubation (before oedema obstructs airway — window closes rapidly). Smoke inhalation: CO poisoning (carboxyhaemoglobin — pulse oximetry unreliable — appears SpO2 normal despite hypoxia; 100% O2, co-oximetry; HBO if severe), cyanide poisoning (inhaled combustion products — hydroxocobalamin 5g IV).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 4: ACUTE POISONING AND OVERDOSE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GENERAL APPROACH:
+Safety: personal protective equipment (some chemical exposures), toxicological history (substance, amount, time, co-ingestions, route), GCS/airway assessment.
+Supportive care: ABCDE resuscitation, 12-lead ECG (QTc prolongation, AV block, arrhythmias), blood glucose, bloods (FBC, U&E, LFTs, paracetamol/salicylate levels, ABG, COHb, ethanol level, clotting), ECG monitoring. TOXBASE (UK National Poisons Database — invaluable clinical resource — toxicology guidelines for all substances): www.toxbase.org (24h: 0344 892 0111 NPIS — National Poisons Information Service).
+Activated charcoal (AC): 50g (adult), 1g/kg (child) orally. Most effective within 1 hour of ingestion (some value up to 2 hours for slow-release preparations, substances that delay gastric emptying). Reduces absorption ~50%. Contraindications: reduced consciousness (aspiration risk — ensure airway protected), petroleum distillates, corrosives, alcohols, metals (iron, lithium). Not effective for: cyanide, methanol, ethanol, iron, lithium, electrolytes.
+Urinary alkalinisation: sodium bicarbonate IV to pH urine >7.5-8. Increases ionisation of weak acids (salicylates — trapping in tubule → increased renal excretion). Not for paracetamol.
+Haemodialysis: for dialysable toxins (salicylates, lithium, methanol, ethylene glycol, theophylline, valproate, metformin — lactic acidosis).
+Whole bowel irrigation: polyethylene glycol solution — for iron, lithium, sustained-release preparations, drug packets ("body packing"). Not recommended for most overdoses.
+
+SPECIFIC OVERDOSES:
+PARACETAMOL OVERDOSE:
+Most common cause of ALF in UK. Dose-dependent hepatotoxicity. Safe: <75mg/kg in most. Risk factors for toxicity at lower doses: malnutrition, chronic alcohol use, enzyme inducers (carbamazepine, rifampicin, phenytoin — increase NAPQI production), chronic liver disease.
+Timing crucial: paracetamol levels measured at 4 hours post-ingestion (earlier levels unreliable). Plot on Rumack-Matthew nomogram (treatment line starting at 150 mg/L at 4h) — if level above treatment line → N-acetylcysteine (NAC).
+Staggered/unknown time: check 4-hour level if possible, if not → treat with NAC if in doubt.
+NAC regimen (UK 2020 simplified): 200mg/kg IV in 200mL 5% dextrose over 4 hours → 100mg/kg IV in 1L 5% dextrose over 16 hours. ADR (anaphylactoid reaction, not true allergy — more common in first bag): rash, bronchospasm, hypotension — slow infusion, antihistamine, usually manageable. Continue NAC until INR <1.3 and AST falling.
+Criteria for liver transplant assessment (King's College criteria):
+pH <7.3 after resuscitation (24h post-ingestion), OR: all three of prothrombin time >100s (INR >6.5) + creatinine >300 μmol/L + grade III/IV encephalopathy.
+Late presentation (>24h) without levels: NAC if uncertain.
+
+TRICYCLIC ANTIDEPRESSANT (TCA) OVERDOSE:
+Life-threatening: cardiac toxicity (sodium channel blockade → broad complex tachycardia, VT, VF), anticholinergic syndrome, seizures, coma, hypotension.
+ECG: widened QRS (>100ms — risk of arrhythmia; >160ms — high risk VF), right axis deviation, R in aVR >3mm, terminal 40ms rightward axis. Tachycardia common. QTc prolongation.
+Management: sodium bicarbonate (1-2 mEq/kg IV bolus then infusion — target blood pH 7.45-7.55 — sodium overcomes Na channel blockade AND alkalosis reduces drug-protein binding to Na channels — most important treatment for TCA cardiac toxicity). Lipid emulsion (intralipid 20% — 1.5mL/kg bolus, then 0.25mL/kg/min — for refractory cardiac toxicity — lipid sink effect). Avoid physostigmine (risk of asystole), flumazenil (lowers seizure threshold), Class IA/IC antiarrhythmics, beta-blockers.
+Physostigmine contraindicated: reserved for pure antimuscarinic syndrome without cardiac toxicity.
+
+OPIATE/OPIOID OVERDOSE:
+Classic triad: respiratory depression + miosis (pinpoint pupils) + reduced consciousness. Peripheral: peripheral oedema, hypothermia.
+Management: basic airway support, supplemental O2. Naloxone: IV 400 μg (0.4mg) → titrate to restore breathing (NOT full reversal — avoids acute withdrawal, agitation, pulmonary oedema from pain stress response). Can give 0.1-0.2mg aliquots IV. IM or intranasal if no IV access (PARAMEDIC2 trial supports IN naloxone). Duration of naloxone (~45-90 min) shorter than most opioids — repeat doses or infusion may be needed (start at 2/3 of the initial resuscitative dose per hour). Methadone, slow-release opioids — prolonged naloxone infusion required (often 24 hours).
+
+BENZODIAZEPINE OVERDOSE:
+CNS depression, respiratory depression (rarely severe in isolation). Safe in therapeutic doses. Dangerous in combination with alcohol/opioids.
+Flumazenil: reverses benzodiazepine effect. Rarely needed — supportive care usually sufficient. Risks: precipitate seizures (if chronic BDZ use — lowers seizure threshold; if seizures being treated with BDZ), short duration of action → resedation. Contraindicated if: mixed overdose with TCAs, chronic BDZ dependence, seizure history, unknown overdose.
+
+BETA-BLOCKER OVERDOSE:
+Bradycardia, hypotension, cardiac conduction abnormalities, hypoglycaemia, bronchospasm (non-cardioselective). Severe: cardiogenic shock, complete heart block.
+Management: atropine (1-3mg IV — often inadequate — vagolytic). Glucagon (5-10mg IV bolus then 1-10mg/hour infusion — increases cAMP independently of beta-receptors — positive chronotropic/inotropic — first specific antidote). High-dose insulin euglycaemia therapy (HIET): insulin 1-10 units/kg/hour + glucose — improves myocardial contractility in cardiac toxicity — evidence growing, increasingly preferred. Vasopressors (noradrenaline). Calcium (especially for calcium channel blocker co-ingestion). Lipid emulsion for refractory toxicity. Pacing (transcutaneous or transvenous). ECMO (extracorporeal membrane oxygenation) for refractory cardiogenic shock.
+
+CALCIUM CHANNEL BLOCKER (CCB) OVERDOSE:
+Bradycardia + hypotension + hyperglycaemia (insulin resistance from CCB effect on pancreatic beta cells). Dihydropyridines (nifedipine, amlodipine) — mainly vasodilation → hypotension + reflex tachycardia. Non-dihydropyridines (verapamil, diltiazem) — cardiac effects more prominent (bradycardia, AV block) + vasodilation.
+Management: calcium (CaCl2 10% or calcium gluconate 10% IV — may improve contractility and conduction transiently), atropine, glucagon, HIET (high-dose insulin — first-line in many toxicology centres), vasopressors (noradrenaline), lipid emulsion, pacing, ECMO.
+
+SALICYLATE (ASPIRIN) OVERDOSE:
+Complex acid-base disturbance: initial respiratory alkalosis (salicylate stimulates respiratory centre) → metabolic acidosis (uncoupling oxidative phosphorylation, lactic acid). Dangerous: cerebral and pulmonary oedema (salicylate increases vascular permeability). Hyperthermia (uncoupled thermogenesis).
+Symptoms: tinnitus, deafness (early), nausea/vomiting, fever, hyperventilation, confusion, coma.
+Management: supportive, urinary alkalinisation (sodium bicarbonate IV — increases renal salicylate excretion), haemodialysis for severe toxicity (level >700mg/L [UK] or >500mg/L [USA] in adult; clinical criteria override level — encephalopathy, pulmonary oedema, renal failure, metabolic acidosis despite treatment). Avoid intubation if possible (dangerous — rapid loss of compensatory respiratory alkalosis during RSI → acute acidaemia → worsening CNS toxicity and cardiac arrest risk; if must intubate, extreme care with ventilation settings, maintain hyperventilation).
+
+CYANIDE POISONING:
+Inhibits cytochrome c oxidase → cellular oxygen utilisation failure → lactic acidosis → cell death despite adequate O2 delivery. Sources: smoke inhalation (cyanide + CO most common cause), industrial exposure, cassava, amygdalin (apricot kernels), nitroprusside infusion (metabolised to cyanide). Clinical: sudden unconsciousness, coma, seizures, cardiovascular collapse, high-anion-gap lactic acidosis (out of proportion to apparent cause), cherry-red skin (oxygenated venous blood — like CO poisoning), bitter almond smell (50% cannot detect genetically).
+Management: 100% O2, supportive care. Antidote: hydroxocobalamin (Cyanokit) — 5g IV over 15 minutes (binds cyanide → cyanocobalamin — excreted in urine; skin/mucous membranes turn red — harmless; interferes with some blood tests for hours). Sodium nitrite + sodium thiosulfate (alternative — forms methaemoglobin which competes with cytochrome c for cyanide — not appropriate if concurrent CO poisoning as further reduces O2 carrying capacity). Dicobalt edetate (historical — high toxicity, use only if diagnosis certain).
+
+CO POISONING:
+CO binds haemoglobin (200× affinity vs O2) → carboxyhaemoglobin (COHb) → tissue hypoxia. Also binds cytochrome c oxidase (direct cellular toxicity independent of Hb binding). Sources: car exhaust, faulty boilers/heaters, fires, charcoal. Pulse oximetry unreliable (SpO2 reads falsely normal — COHb absorbs same wavelength as OxyHb). Must use CO-oximetry (ABG with co-oximeter).
+Symptoms: headache (most common — "everyone in household affected"), dizziness, nausea, confusion, syncope, chest pain (cardiac ischaemia), neurological (seizures, coma). Delayed neurological sequelae (DNS): 2-3 weeks after apparent recovery — parkinsonism, personality change, cognitive impairment (white matter demyelination on MRI). Cherry-red skin (late, unreliable).
+Management: remove from source, 100% O2 immediately (via tight-fitting non-rebreathe mask — reduces COHb half-life from ~5h on room air to ~60-90 min). Intubate/ventilate if GCS <8. Hyperbaric oxygen (HBO): 100% O2 at 2-3 atmospheres → further reduces COHb half-life to 15-30 min AND provides dissolved O2 in plasma (independent of Hb). Indications: COHb >25%, neurological symptoms, loss of consciousness, cardiac arrhythmias, pregnancy (fetal Hb has higher CO affinity). HBO centres limited — transfer considerations. Evidence for DNS prevention mixed (Weaver trial suggests benefit; not universally accepted).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 5: ACUTE MEDICAL EMERGENCIES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+STATUS EPILEPTICUS: See neurology section.
+
+DIABETIC KETOACIDOSIS (DKA): See diabetes section.
+
+HYPERTENSIVE EMERGENCY: See cardiovascular section.
+
+ACUTE RESPIRATORY FAILURE:
+Type 1: PaO2 <8 kPa, PaCO2 normal or low (hypoxaemia without CO2 retention). Causes: pneumonia, PE, pulmonary oedema, ARDS, pneumothorax, V/Q mismatch. Management: supplemental O2 (target SpO2 94-98%), treat underlying cause.
+Type 2: PaO2 <8 kPa, PaCO2 >6.0 kPa (hypoxaemia with CO2 retention). Causes: COPD exacerbation, severe asthma, neuromuscular disease, obesity hypoventilation, central respiratory depression. Management: controlled oxygen (target SpO2 88-92% in COPD to avoid hypercapnic respiratory drive suppression), NIV (BiPAP) for COPD with pH <7.35, treat underlying cause.
+ARDS (Acute Respiratory Distress Syndrome): bilateral inflammatory pulmonary oedema without cardiac cause. Causes: pneumonia, sepsis (most common), aspiration, trauma/fat embolism, blood transfusion (TRALI), pancreatitis. Berlin definition: acute onset within 7 days, bilateral opacities on CXR/CT, not explained by cardiac failure/fluid overload, PaO2/FiO2 (P/F ratio): mild 200-300, moderate 100-200, severe <100. Management: lung-protective ventilation (tidal volume 6mL/kg IBW — ARMA trial; PEEP titration; permissive hypercapnia), prone positioning (≥16h/day — PROSEVA trial — reduces mortality severe ARDS), conservative fluid strategy, neuromuscular blockade (ACURASYS — short-course cisatracurium — reduces mortality in moderate-severe), corticosteroids (dexamethasone 20mg/day × 5 days then 10mg/day × 5 days — DEXA-ARDS trial — reduces ventilator days, improves survival), VV-ECMO (for refractory hypoxaemia — rescue therapy — CESAR, EOLIA trials).
+
+ACUTE CORONARY SYNDROME: See cardiovascular section.
+
+AORTIC DISSECTION: See cardiovascular section.
+
+ACUTE ABDOMEN:
+Systematic approach to abdominal pain assessment: site, onset, character, radiation, associated symptoms, timing, exacerbating/relieving factors, previous episodes.
+Peritonism: tenderness, guarding (voluntary or involuntary), rebound tenderness (Blumberg sign), rigidity (board-like abdomen), absent bowel sounds. Indicates peritoneal inflammation — usually surgical emergency.
+Key diagnoses:
+Appendicitis: central abdominal pain migrating to RIF (McBurney's point — 1/3 from ASIS to umbilicus), anorexia, nausea, fever (low-grade), leukocytosis, CRP elevated. Rovsing's sign (LIF pressure → RIF pain). CT appendix (sensitivity >94%, specificity >95%) — gold standard — avoids negative appendicectomy. Laparoscopic appendicectomy (standard) or open. Perforated appendicitis → peritonitis, abscess, sepsis. Conservative antibiotics (amoxicillin/metronidazole/gentamicin) selected cases — PRESERVE, DIAMOND trials — reduces need for immediate surgery, recurrence rate 25%.
+Intestinal obstruction: small bowel (SBO — colicky central pain, vomiting, distension, tinkling bowel sounds) vs large bowel (LBO — absolute constipation, distension, pain, later vomiting — usually from colorectal cancer or volvulus). AXR (dilated loops — SBO central, ladder pattern; LBO peripheral, haustra visible) + CT abdomen. Conservative (NG decompression, IV fluids, nasogastric drainage, NBM — 80% SBO settle conservatively) vs surgical (emergency if strangulation suspected — peritonism, systemic toxicity). Water-soluble contrast study (Gastrografin): confirms resolution AND therapeutic (stimulates peristalsis). Strangulation (obstructed + ischaemic): emergency — rapid deterioration, peritonism, metabolic acidosis.
+Bowel ischaemia (mesenteric ischaemia): severe central abdominal pain disproportionate to examination findings (early — "pain out of proportion"). History: AF, atherosclerosis, low flow state. Arterial (SMA embolus — sudden, severe; SMA thrombosis — pre-existing atherosclerosis) vs venous (MVT — hypercoagulable states, cirrhosis). Later: peritonism, bloody diarrhoea, sepsis, metabolic acidosis. CT angiography (diagnostic). Treatment: revascularisation (embolectomy, catheter-directed thrombolysis, stenting) and/or bowel resection. High mortality (60-80% arterial) — outcomes poor despite intervention.
+Sigmoid volvulus: elderly, institutionalised, psychiatric, African patients. Coffee bean/omega loop sign on AXR. Sigmoidoscopic decompression (initial — pass flatus tube through sigmoid loop). High recurrence → elective sigmoid resection.
+Caecal volvulus: less common — CXR/AXR (right-sided kidney-shaped loop). Surgical management.
+Ruptured AAA: sudden severe back/abdominal pain, hypotension, pulsatile abdominal mass. Haemodynamically unstable → emergency EVAR or open repair without delay. CT if stable (confirms diagnosis, guides procedure). Permissive hypotension (target SBP 50-70mmHg until clamping/stenting). High mortality (90% overall, 40-50% in hospital).
+Perforated viscus: sudden onset severe diffuse abdominal pain, peritonism, pneumoperitoneum (free air under diaphragm on erect CXR — 80% sensitivity; CT more sensitive). Emergency surgery (Hartmann's procedure for perforated sigmoid diverticular disease; Graham patch for perforated peptic ulcer; bowel resection for ischaemia/perforation).
+Cholecystitis: RUQ pain, fever, Murphy's sign (arrest of inspiration on deep RUQ palpation), leukocytosis. USS (gallstones, gallbladder wall thickening, pericholecystic fluid, sonographic Murphy's). IV antibiotics (co-amoxiclav ± metronidazole), analgesia. Laparoscopic cholecystectomy (acute within 72h — TLC within 1 week preferred to conservative → interval cholecystectomy which delays treatment and risks further complications). Complications: empyema, gangrenous cholecystitis, perforation, Mirizzi syndrome, cholecystoenteric fistula, gallstone ileus.
+Acute pancreatitis: see gastroenterology section.
+Ectopic pregnancy: missed period + abdominal pain + vaginal bleeding in reproductive-age woman = ectopic until proven otherwise. β-hCG + transvaginal USS. Ruptured ectopic: haemodynamic instability → immediate surgery. Unruptured: medical (methotrexate — single dose IM — if β-hCG <3000, no fetal cardiac activity, no free fluid; follow β-hCG to zero) or laparoscopic surgery (salpingotomy vs salpingectomy).
+Testicular torsion: sudden severe scrotal pain, nausea/vomiting, high-riding tender testicle. Unilateral. Most common 12-18 years. Absent cremasteric reflex (ipsilateral). Surgical emergency — if clinical suspicion → scrotal exploration IMMEDIATELY (do NOT wait for USS if delay likely). Doppler USS (absent/reduced flow) — only if diagnosis uncertain AND can be done quickly. Testicular viability: 100% if detorsion within 6h, 50% at 12h, <10% at 24h. Bilateral exploration and bilateral orchidopexy (torsion may be bilateral anatomical predisposition).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 6: ENVIRONMENTAL EMERGENCIES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+HEAT EMERGENCIES:
+Heat cramps: painful muscle spasms during/after exercise in heat. Electrolyte depletion (sodium loss in sweat). Treat with oral salt and fluid replacement.
+Heat exhaustion: core temp <40°C, volume depletion + heat stress. Weakness, headache, nausea, dizziness, heavy sweating, pale/cool/clammy skin, fainting. Treatment: move to cool environment, remove excess clothing, oral fluids, IV crystalloid if severe, cooling measures.
+Heat stroke: core temp ≥40°C + CNS dysfunction (confusion, agitation, ataxia, seizures, coma). Medical emergency. Exertional (young athletes) vs classic (elderly, chronically ill, sedentary during heat wave). Anhidrosis may be present (classic type) — but sweating may continue in exertional type. Immediate treatment: evaporative cooling (wet skin + fan — removes heat via convection/evaporation — most effective in field), ice packs (groin, axillae, neck), cold IV fluids, cold gastric lavage, CVVH with cold dialysate. Target temp <38.5°C within 30-60 minutes. Monitor for rhabdomyolysis, DIC, AKI, hepatic failure, ARDS. Dantrolene ineffective (not true malignant hyperthermia).
+
+HYPOTHERMIA:
+Core temperature <35°C. Mild (32-35°C): shivering, vasoconstriction, tachycardia. Moderate (28-32°C): shivering stops (muscles fail), confusion, paradoxical undressing, bradycardia, hypotension, AF, J-waves on ECG (Osborn waves — notched QRS-ST junction), decreased reflexes. Severe (<28°C): coma, VF/asystole risk, apparent death.
+"Not dead until warm and dead": resuscitation until core temp >32-35°C — remarkable recoveries possible (Tveita et al — highest survivor after hypothermic cardiac arrest rewarmed from 13.7°C — ECMO rewarming). Continue CPR during rewarming. Adrenaline less effective at low temperatures — consider withholding until >30°C. Defibrillation: 3 attempts at <30°C — no benefit at very low temps; defer further shocks until >30°C. Rewarming: passive (insulation, warm environment — mild), active external (warm packs to core — warmed IV fluids — moderate), active internal (warm humidified O2, warm IV fluids, warm body cavity irrigation, ECMO — preferred for cardiac arrest/severe hypothermia). Serum potassium: >12 mmol/L in hypothermic cardiac arrest → futility threshold for ECMO rewarming decision.
+
+DROWNING:
+Drowning: process of respiratory impairment from submersion in liquid. Wet drowning: aspiration of water. Previously "dry drowning" is a misnomer. Primary injury: hypoxaemia → secondary cardiac arrest (bradyarrhythmia → PEA → asystole). Saltwater vs freshwater: clinically insignificant — both cause hypoxaemia.
+Management: in-water rescue (trained rescuers only). Initial rescue breaths (5 rescue breaths even before chest compressions if trained — drowning is hypoxic arrest). Standard CPR. Cervical spine immobilisation usually not necessary unless specific trauma mechanism. Hypothermia coexists — manage accordingly. All patients who suffered drowning should receive hospital evaluation even if initially well (secondary drowning = delayed pulmonary oedema).
+
+LIGHTNING AND ELECTRICAL INJURIES:
+Electrical: AC more dangerous than DC (tetanic muscle contraction → can't let go). Entry + exit wounds (may underestimate deep tissue damage). Cardiac: VF/arrest, arrhythmias. Myonecrosis → rhabdomyolysis → AKI. Neurological: confusion, paralysis. Ocular: cataracts (delayed). IV fluids aggressively (myoglobinuria — target urine output 1-1.5 mL/kg/h). Monitor ECG. Fasciotomy if compartment syndrome.
+Lightning: single massive DC discharge. Keraunoparalysis (temporary motor and sensory paralysis — resolves). Feathering/Lichtenberg figures (pathognomonic — ferning pattern on skin from electron shower — superficial, resolve). Cardiac arrest (VF/asystole from direct current depolarisation) — cardiopulmonary resuscitation has high success rate (unlike other cardiac arrests — heart often young and healthy). Reverse triage: "treat those who appear dead first" (lightning victims — those appearing dead may survive with CPR; those who appear uninjured may deteriorate less).
+
+ALTITUDE ILLNESS:
+Acute Mountain Sickness (AMS): headache + at least one of nausea, fatigue, dizziness, sleep disturbance at altitude above 2500m. Caused by hypobaric hypoxia → cerebral vasodilation, blood-brain barrier disruption. Lake Louise Score ≥3 = AMS. Treatment: acclimatise, descend if severe, acetazolamide (250mg BD — carbonic anhydrase inhibitor → mild metabolic acidosis → increased ventilation; both prophylactic and therapeutic). Ibuprofen/paracetamol for headache.
+High-altitude cerebral oedema (HACE): severe AMS + ataxia ± altered consciousness. Life-threatening. Immediate descent, dexamethasone 8mg loading then 4mg 6-hourly, supplemental O2, portable hyperbaric chamber (Gamow bag).
+High-altitude pulmonary oedema (HAPE): most common cause of altitude death. Non-cardiogenic pulmonary oedema — hypoxic pulmonary vasoconstriction → high-pressure oedema. Presentation: dyspnoea at rest, cough, crackles, cyanosis. Immediate descent mandatory. O2, nifedipine 30mg SR (reduces pulmonary artery pressure), sildenafil, tadalafil. Portable hyperbaric chamber.
+
+END OF EMERGENCY MEDICINE TRAINING DATA
+Total: ~10,800 words | Sections: 6 | Estimated chunks: ~88

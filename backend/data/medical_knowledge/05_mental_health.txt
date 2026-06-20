@@ -1,0 +1,404 @@
+MENTAL HEALTH & PSYCHIATRY — COMPREHENSIVE MEDICAL REFERENCE
+==============================================================
+Source: Medical Training Data for AIVARA Healthcare AI
+Category: Psychiatry | Version: 1.0
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 1: DEPRESSION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DEFINITION AND EPIDEMIOLOGY:
+Major depressive disorder (MDD) is a common, serious, and treatable medical illness characterised by persistent low mood, loss of interest, and a cluster of associated symptoms causing significant functional impairment. Lifetime prevalence: 15-20%. Point prevalence: 5-7% globally. Leading cause of disability worldwide (WHO). Female:male 2:1. Peak onset 25-45 years but occurs at any age. High recurrence rate: 50% after first episode, 70% after second, 90% after third.
+
+DIAGNOSTIC CRITERIA (DSM-5):
+Five or more of the following symptoms during the same 2-week period, representing a change from previous functioning, with at least one being either depressed mood OR loss of interest/pleasure:
+
+Core symptoms:
+1. Depressed mood most of the day, nearly every day (subjective or observed)
+2. Markedly diminished interest or pleasure in all/almost all activities (anhedonia)
+
+Additional symptoms (need ≥3 more for total of ≥5):
+3. Significant weight loss/gain (>5% in 1 month) or decreased/increased appetite
+4. Insomnia or hypersomnia (early morning waking classic — wakes 2-3am unable to return to sleep)
+5. Psychomotor agitation or retardation (observable, not just subjective)
+6. Fatigue or loss of energy nearly every day
+7. Feelings of worthlessness or excessive/inappropriate guilt (not just about being ill)
+8. Diminished ability to think, concentrate, or make decisions
+9. Recurrent thoughts of death, suicidal ideation, or suicide attempt
+
+ICD-11 criteria: mild (2-3 symptoms), moderate (4 symptoms), severe (5+ symptoms with psychomotor changes, usually unable to continue social/occupational activities), with or without psychotic features.
+
+SUBTYPES:
+Melancholic depression: severe, biological features predominant. Loss of pleasure in all activities, distinct quality of depressed mood (different from grief), worse in morning (diurnal variation), early morning awakening, marked psychomotor changes, excessive guilt, significant anorexia/weight loss. Responds better to TCAs and ECT than SSRIs.
+
+Atypical depression: mood reactivity (brightens in response to positive events — distinguishes from melancholia), increased sleep (hypersomnia), increased appetite (carbohydrate craving), leaden paralysis (heavy sensation in limbs), rejection sensitivity. More common in bipolar depression. MAOIs historically most effective.
+
+Psychotic depression: mood-congruent psychotic features (delusions of guilt, poverty, nihilism, persecution; auditory hallucinations of accusatory voices). Requires antidepressant + antipsychotic combination. ECT highly effective.
+
+Seasonal affective disorder (SAD): recurrent depressive episodes with seasonal pattern (typically winter — low light exposure → altered circadian rhythms, melatonin, serotonin). Light therapy (10,000 lux for 30 minutes each morning) effective. SSRIs, CBT also useful.
+
+Postpartum depression: onset within 4 weeks of delivery (DSM-5) or 6 weeks (ICD). Prevalence 10-15%. Distinguish from: baby blues (days 3-5, transient tearfulness, normal), postpartum psychosis (1-2/1000, medical emergency — confusion, hallucinations, rapid mood fluctuation, requires inpatient admission and mood stabiliser/antipsychotic ± ECT).
+
+Treatment-resistant depression (TRD): failure of ≥2 adequate antidepressant trials (adequate dose for ≥4 weeks). Affects 30% of MDD patients.
+
+BIOLOGICAL THEORIES:
+Monoamine hypothesis: depletion of serotonin, noradrenaline, dopamine. Explains mechanism of antidepressants but oversimplified (antidepressants take 2-4 weeks despite immediate monoamine effects).
+Neuroplasticity hypothesis: chronic stress → glucocorticoid excess → hippocampal atrophy (reduced BDNF). Antidepressants restore BDNF and neurogenesis.
+Inflammatory hypothesis: elevated CRP, IL-6, TNF-alpha in depression. Depression as immune-mediated condition. May explain treatment resistance in some patients.
+HPA axis dysregulation: hypercortisolaemia, dexamethasone non-suppression (DEX test positive in 50% severe depression).
+Gut-brain axis: microbiome alterations in depression; emerging evidence for probiotics and dietary intervention.
+
+ASSESSMENT:
+PHQ-9 (Patient Health Questionnaire-9): 9 items scored 0-3 each. Mild 5-9, moderate 10-14, moderately severe 15-19, severe 20-27. Used for screening and monitoring.
+Beck Depression Inventory (BDI): 21 items, detailed cognitive symptoms.
+Hamilton Depression Rating Scale (HAM-D): clinician-rated, gold standard for trials.
+Montreal Cognitive Assessment (MoCA): assess cognitive impairment (depression causes pseudodementia).
+Suicide risk assessment: must assess systematically. Risk factors: previous attempt (strongest predictor), hopelessness, intent, plan, means, lethality of previous attempts, male sex, older age, isolated, alcohol/substance use, chronic pain, recent loss, family history.
+Columbia Suicide Severity Rating Scale (C-SSRS): structured assessment tool.
+
+PHARMACOLOGICAL TREATMENT:
+Selective Serotonin Reuptake Inhibitors (SSRIs):
+First-line for MDD, anxiety disorders, OCD, PTSD, eating disorders.
+Mechanism: block serotonin (5-HT) reuptake transporter → increased synaptic serotonin.
+Class members: fluoxetine (20-60mg; longest half-life — safest in pregnancy/breastfeeding, least withdrawal syndrome; activating, useful for atypical/seasonal depression; inhibits CYP2D6 — drug interactions), sertraline (50-200mg; safest in cardiac disease, pregnancy; fewer interactions), escitalopram (10-20mg; clean pharmacology, fewest interactions, very tolerable), citalopram (20-40mg; similar to escitalopram but QTc prolongation — avoid >40mg or >20mg in elderly/CYP2C19 inhibitors), paroxetine (20-60mg; most anticholinergic, short half-life → worst withdrawal, sedating, CYP2D6 inhibitor; avoid in pregnancy — small cardiac risk), fluvoxamine (OCD, social phobia).
+Onset: 2-4 weeks for mood (some sleep/anxiety improvement earlier). Full response: 6-8 weeks.
+Side effects: nausea/GI (first 1-2 weeks, take with food), headache (transient), sexual dysfunction (30-40% — anorgasmia, delayed ejaculation, reduced libido — major adherence issue; switch to mirtazapine/bupropion or add bupropion/buspirone), insomnia/agitation (activating SSRIs early on — add short-term hypnotic), weight gain (long-term, less than TCAs), hyponatraemia (SIADH — especially elderly — check sodium at 4 weeks), bleeding risk (platelet serotonin depletion — GI bleeding — caution with NSAIDs, add PPI if necessary), QTc prolongation (citalopram, escitalopram especially), serotonin syndrome (with MAOIs, tramadol, triptans, linezolid — fever, agitation, clonus, hyperthermia, autonomic instability — medical emergency, discontinue all serotonergic agents).
+Discontinuation syndrome: dizziness, flu-like symptoms, electric shock sensations ("brain zaps"), irritability, rebound anxiety. Especially paroxetine and venlafaxine. Taper slowly. Not addiction — physiological adaptation.
+
+Serotonin-Noradrenaline Reuptake Inhibitors (SNRIs):
+Venlafaxine (75-375mg): dual reuptake inhibitor. More effective than SSRIs in severe depression (meta-analyses). Also effective for anxiety, chronic pain (neuropathic), hot flushes. Side effects: dose-dependent hypertension (monitor BP), nausea, withdrawal syndrome (taper slowly). Desvenlafaxine (active metabolite — fewer interactions).
+Duloxetine (60-120mg): SNRI, also approved for diabetic neuropathy, fibromyalgia, stress urinary incontinence. Hepatotoxicity (avoid heavy alcohol use, liver disease).
+Mirtazapine (15-45mg): noradrenergic and specific serotonergic antidepressant (NaSSA). Blocks α2-autoreceptors → increases NA and 5-HT release; blocks 5-HT2 and 5-HT3 receptors (less GI side effects and sexual dysfunction). Sedating (antihistamine — blocks H1), appetite-stimulating, weight-gaining. Very useful if insomnia, anorexia/weight loss, or SSRI sexual side effects intolerable. Paradoxically less sedating at higher doses.
+Bupropion (150-300mg): dopamine-noradrenaline reuptake inhibitor. Activating, minimal sexual side effects, weight loss (useful in obese patients), smoking cessation. Lowers seizure threshold — avoid in eating disorders (electrolyte imbalance/purging → seizure risk), epilepsy, alcohol withdrawal. Not available in UK (Zyban for smoking, not licensed for MDD).
+Tricyclic Antidepressants (TCAs):
+Amitriptyline (75-200mg), nortriptyline, imipramine, clomipramine (OCD), doxepin.
+Mechanism: inhibit serotonin and noradrenaline reuptake. Additional antihistaminic, anticholinergic, alpha-blocking effects.
+Efficacy: equal or superior to SSRIs in severe/melancholic depression.
+Limitations: side effects (anticholinergic — dry mouth, constipation, urinary retention, blurred vision, cognitive impairment; antihistaminic — sedation, weight gain; alpha-blocking — orthostatic hypotension; cardiac — QTc prolongation, arrhythmias; dangerous in overdose — 2g amitriptyline can be fatal). Not suitable for suicidal patients without supervision. Routine ECG recommended in elderly.
+Uses in non-depression: neuropathic pain (amitriptyline/nortriptyline — NNT ~3), migraine prevention, irritable bowel syndrome (low-dose), interstitial cystitis, fibromyalgia.
+Monoamine Oxidase Inhibitors (MAOIs):
+Phenelzine, tranylcypromine (irreversible MAO-A and B inhibitors); moclobemide (reversible MAO-A inhibitor — RIMA).
+Effective for atypical, treatment-resistant, phobic depression.
+Irreversible MAOIs: tyramine-free diet essential (no aged cheese, cured meats, fermented products — tyramine not broken down → hypertensive crisis). Numerous drug interactions (serotonin syndrome risk with serotonergic drugs, sympathomimetics). Limited use in current practice. 2-week washout before starting other agents.
+Moclobemide: fewer dietary restrictions, safer, weaker efficacy.
+Newer agents:
+Agomelatine (25-50mg): melatonin agonist (MT1/MT2) + 5-HT2C antagonist. Normalises circadian rhythms. Useful for anxiety-depression with sleep disturbance. Hepatotoxic — monitor LFTs.
+Vortioxetine (5-20mg): serotonin modulator and stimulator. Positive effects on cognition (meta-analysis). Useful if cognitive symptoms prominent.
+Ketamine/esketamine: rapid-acting antidepressant (hours, vs weeks for conventional). NMDA receptor antagonist. IV ketamine (off-label) or intranasal esketamine (Spravato — licensed for TRD and MDD with suicidal ideation). Dissociative effects — administer in supervised setting. Antidepressant effect maintained 1-4 weeks; repeated dosing may extend. Mechanism: glutamate surge → AMPA activation → BDNF release → synaptogenesis.
+
+DURATION OF ANTIDEPRESSANT TREATMENT:
+First episode: continue for 6-12 months after remission (then taper slowly).
+Second episode: 2 years after remission.
+Third or more episodes/severe/chronic: consider indefinite maintenance.
+Stopping: never abruptly. Taper over 4-8 weeks (longer for paroxetine/venlafaxine — known withdrawal).
+
+PSYCHOLOGICAL TREATMENTS:
+Cognitive Behavioural Therapy (CBT): most evidence-based psychotherapy for depression. Identifies and challenges negative automatic thoughts and core beliefs. Behavioural activation (increasing pleasant activities). 12-20 sessions. Equivalent to antidepressants for mild-moderate depression; combined superior to either alone for moderate-severe. Durability advantage over antidepressants (lower relapse rate when stopped).
+Behavioural Activation (BA): simpler version of CBT, focuses on increasing rewarding behaviours. Effective for mild-moderate, accessible by non-specialists.
+Interpersonal Therapy (IPT): focuses on interpersonal role disputes, grief, role transitions, interpersonal deficits. 12-16 sessions. Effective especially in women, perinatal depression.
+Mindfulness-Based Cognitive Therapy (MBCT): group-based mindfulness + CBT. Reduces relapse in recurrent depression (≥3 episodes) — equivalent to maintenance antidepressants.
+Problem-Solving Therapy: structured problem-solving, useful primary care.
+Psychodynamic psychotherapy: longer-term, explores unconscious conflicts and early relationships. Less evidence than CBT but useful for personality-based vulnerabilities.
+EMDR (Eye Movement Desensitisation and Reprocessing): primarily PTSD but evidence growing for depression with trauma.
+Digital/computerised CBT (cCBT): Beating the Blues, MoodGym, SilverCloud — accessible, cost-effective for mild-moderate.
+
+SOMATIC/NEUROSTIMULATION TREATMENTS:
+Electroconvulsive Therapy (ECT): most effective treatment for severe depression (response rate 70-90%). Induces generalised tonic-clonic seizure via electrical stimulus under anaesthesia. Typically 6-12 sessions (3/week). Most effective for melancholic, psychotic, catatonic, and treatment-resistant depression. Side effects: acute cognitive impairment, anterograde and retrograde amnesia (usually temporary, rarely persistent — right unilateral electrode placement reduces cognitive side effects vs bilateral), headache, muscle aches.
+Repetitive Transcranial Magnetic Stimulation (rTMS): non-invasive, focal magnetic stimulation. High-frequency (10Hz) rTMS over left DLPFC increases cortical activity. Approved for TRD. Response rate 30-50% (lower than ECT). No anaesthesia, minimal side effects (headache, scalp discomfort). Accelerated TMS protocols (iTBS — intermittent theta-burst stimulation): 3-minute treatment sessions.
+Transcranial Direct Current Stimulation (tDCS): weak electrical current modulates cortical excitability. Less established than rTMS.
+Deep Brain Stimulation (DBS): subcallosal cingulate (Cg25) target. Emerging for refractory depression.
+Vagus Nerve Stimulation (VNS): implanted device stimulates vagus nerve. Long-term response in TRD, slow onset. Approved in USA for TRD.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 2: ANXIETY DISORDERS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+OVERVIEW:
+Most common mental health condition globally. Lifetime prevalence 28-33%. Female:male 2:1. Anxiety disorders are characterised by excessive fear (emotional response to perceived threat) and anxiety (anticipation of future threat), causing distress and functional impairment.
+
+GENERALISED ANXIETY DISORDER (GAD):
+Excessive, uncontrollable worry about multiple topics (health, finances, work, family) for ≥6 months. Associated with: restlessness/feeling on edge, fatigue, difficulty concentrating, irritability, muscle tension, sleep disturbance.
+Prevalence: 3-5% lifetime. F:M 2:1.
+GAD-7 score: 0-21. Mild 5-9, moderate 10-14, severe 15-21.
+Treatment: SSRI (sertraline, escitalopram — first-line), SNRI (venlafaxine, duloxetine), buspirone (5-HT1A partial agonist — slow onset, no dependence, useful long-term, weak for acute anxiety), pregabalin (licensed for GAD, rapid onset — caution dependence potential), mirtazapine. TCA (imipramine) for refractory.
+Psychological: CBT (worry postponement, thought challenging, behavioural experiments, relaxation), mindfulness, acceptance and commitment therapy (ACT).
+Avoid: benzodiazepines for long-term (dependence, tolerance, cognitive impairment, falls, rebound anxiety). Short-term acceptable for acute severe anxiety or bridge to SSRI.
+
+PANIC DISORDER:
+Recurrent unexpected panic attacks + persistent worry about recurrence or consequences, or significant behavioural change. Panic attack: abrupt surge of intense fear/discomfort reaching peak within minutes, with ≥4 of: palpitations, sweating, trembling, shortness of breath, choking, chest pain, nausea, dizziness, chills/hot flushes, paraesthesiae, derealisation/depersonalisation, fear of losing control, fear of dying.
+Agoraphobia: fear/avoidance of situations where escape might be difficult or help unavailable if panic occurs (public transport, open spaces, crowds, outside home alone). Severe agoraphobia: patient housebound.
+Treatment: SSRIs (paroxetine, sertraline, escitalopram), SNRIs (venlafaxine), CBT (panic-focused CBT — most effective, teaches that panic symptoms are benign, reduces catastrophic misinterpretation, interoceptive exposure to feared sensations). Combination superior to either alone. High-dose SSRIs often needed. Benzodiazepines provide rapid relief but foster avoidance and dependence — avoid for maintenance.
+
+SOCIAL ANXIETY DISORDER (SOCIAL PHOBIA):
+Intense fear of scrutiny, embarrassment, or humiliation in social/performance situations. Leads to avoidance of social situations. Most common anxiety disorder in adolescents. Lifetime prevalence 12%. Often begins in childhood, undiagnosed for decades.
+Treatment: SSRIs (paroxetine, sertraline, escitalopram — first-line), SNRIs (venlafaxine), CBT (with exposure to feared social situations, video feedback, attention training, cognitive restructuring), group CBT, interpersonal effectiveness. MAOI (phenelzine) for refractory. Beta-blockers (propranolol) for performance-specific anxiety (presentations, music — reduces adrenergic symptoms but not anticipatory anxiety).
+
+SPECIFIC PHOBIAS:
+Intense, excessive fear of specific objects/situations (animals, blood/injection/injury, natural environment, situational). Immediate anxiety response on exposure, out of proportion to actual danger.
+Treatment: exposure therapy (graduated exposure — most effective, 85-95% response). Virtual reality therapy. In vivo desensitisation. Applied tension technique for blood-injection-injury phobia (counteracts vasovagal syncope).
+
+OBSESSIVE-COMPULSIVE DISORDER (OCD):
+Characterised by obsessions (intrusive, unwanted thoughts, images, or urges causing marked anxiety) and/or compulsions (repetitive behaviours/mental acts performed to reduce anxiety or prevent feared outcome). Time-consuming (>1 hour/day) and functionally impairing.
+Prevalence: 1-3% lifetime. Equal sex distribution. Onset: bimodal (late childhood/adolescence and early adulthood).
+Common OCD themes: contamination/washing, checking, ordering/symmetry, harm/intrusive aggressive thoughts, sexual/religious obsessions (egodystonic).
+Y-BOCS (Yale-Brown Obsessive Compulsive Scale): measures severity 0-40.
+Treatment: SSRI (higher doses than depression required — fluoxetine 60mg, sertraline 200mg, fluvoxamine 300mg, escitalopram 30mg; response rate 40-60%; 8-12 weeks for onset). ERP (Exposure and Response Prevention) — gold standard psychological treatment (exposure to feared stimulus without compulsion performance; habituation). Combined ERP + SSRI superior to either alone. Clomipramine (TCA — most potent anti-obsessional agent but poorly tolerated). Augmentation: antipsychotic (aripiprazole, risperidone, quetiapine) for partial SSRI responders. Neurosurgery (anterior capsulotomy, DBS of internal capsule) for severe refractory.
+
+POST-TRAUMATIC STRESS DISORDER (PTSD):
+Develops after exposure to actual or threatened death, serious injury, or sexual violence. Prevalence lifetime: 6-9%. F:M 2:1.
+
+Criterion A: exposure to traumatic event (directly, witnessing, learning of occurrence in close associate, repeated exposure).
+Criterion B: Intrusion symptoms — flashbacks (reliving experience), nightmares, psychological/physiological distress on exposure to cues.
+Criterion C: Avoidance — avoiding distressing memories/thoughts, external reminders.
+Criterion D: Negative alterations in cognition/mood — persistent negative beliefs, distorted blame, persistent negative emotions, diminished interest, detachment, inability to experience positive emotions (emotional numbing).
+Criterion E: Alterations in arousal and reactivity — hypervigilance, exaggerated startle, sleep disturbance, irritability/aggression, concentration difficulties, reckless behaviour.
+Duration >1 month.
+Complex PTSD (ICD-11): additional disturbances of self-organisation — affect dysregulation, negative self-concept, interpersonal difficulties. Typically from childhood abuse, prolonged/repeated trauma.
+
+Treatment:
+Trauma-focused CBT (tf-CBT): exposure therapy (imaginal and in vivo to traumatic memories and cues), cognitive processing therapy (challenging unhelpful beliefs about trauma — "it was my fault"), narrative exposure therapy. First-line, most evidence.
+EMDR (Eye Movement Desensitisation and Reprocessing): bilateral eye movements (or tapping/tones) while recalling trauma. Reduces emotional distress attached to memories. Equal efficacy to trauma-focused CBT. Fewer sessions often required.
+SSRIs (sertraline, paroxetine — only FDA-approved for PTSD; venlafaxine also effective): reduces all symptom clusters but psychotherapy superior long-term. Useful for comorbid depression, can't engage in psychotherapy.
+Prazosin (alpha-1 blocker): specifically for PTSD-related nightmares. Reduces noradrenergic hyperarousal during sleep. Typically 1-16mg at bedtime.
+Avoid: benzodiazepines (do not reduce core symptoms, may impair fear extinction learning, dependence risk). Not recommended for PTSD.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 3: BIPOLAR DISORDER
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DEFINITION:
+Bipolar disorder is a chronic episodic mood disorder characterised by manic or hypomanic episodes, often with depressive episodes. Lifetime prevalence: Bipolar I 1%, Bipolar II 1-5%, cyclothymia 3-5%. Equal sex distribution (though bipolar II more common in women). Average diagnostic delay: 6-10 years (often initially misdiagnosed as unipolar depression).
+
+TYPES:
+Bipolar I: ≥1 manic episode (sufficient for diagnosis regardless of depressive episodes).
+Bipolar II: ≥1 hypomanic episode + ≥1 major depressive episode; no manic episodes.
+Cyclothymia: numerous hypomanic and depressive symptoms (below threshold) for ≥2 years.
+Bipolar spectrum disorder: broader concept including patients with antidepressant-induced hypomania, bipolar features with mixed states.
+
+MANIC EPISODE (DSM-5):
+Distinct period of abnormally elevated, expansive, or irritable mood + increased goal-directed activity or energy, lasting ≥1 week (or any duration if hospitalisation required).
+≥3 of (4 if mood only irritable): Grandiosity, Decreased need for sleep (feels rested after 3 hours), More talkative/pressured speech, Racing thoughts/flight of ideas, Distractibility, Increased goal-directed activity or psychomotor agitation, Excessive risky behaviour (sexual indiscretions, reckless spending, poor business decisions).
+Mnemonic: DIG FAST (Distractibility, Insomnia, Grandiosity, Flight of ideas, Activity, Speech, Thoughtlessness/risky behaviour).
+Severe manic episode may include psychotic features (mood-congruent: grandiose delusions, auditory hallucinations supporting grandiosity; or mood-incongruent).
+Hypomanic episode: same criteria but less severe, <4 days minimum, no marked functional impairment, no psychosis, no hospitalisation.
+
+DEPRESSIVE EPISODES IN BIPOLAR:
+Indistinguishable clinically from MDD. However, bipolar depression features more often: atypical features (hypersomnia, hyperphagia, leaden paralysis, mood reactivity), psychomotor retardation (vs agitation), psychotic features, more severe/rapid onset, brief duration per episode, higher suicide risk.
+Risk of switch to mania/hypomania with antidepressants: controversial. Risk increased with tricyclics and SNRIs. If antidepressant used in bipolar depression, always add mood stabiliser.
+
+MIXED FEATURES:
+Simultaneous presence of manic and depressive features. High risk of suicide. Antidepressants may worsen. Mood stabilisers and antipsychotics preferred.
+
+RAPID CYCLING:
+≥4 mood episodes in 12 months. Often related to antidepressant use, thyroid disease. Harder to treat.
+
+PATHOPHYSIOLOGY:
+Dysregulation of circadian rhythms (lithium effects on circadian clocks, sleep disruption triggers episodes). Abnormalities in intracellular signalling pathways (GSK-3beta, PI3K, PKC). Mitochondrial dysfunction. Neuroinflammation. Serotonergic, dopaminergic, noradrenergic dysregulation.
+
+ACUTE MANAGEMENT:
+Manic episode: antipsychotics (olanzapine, risperidone, quetiapine, aripiprazole, asenapine — all effective), sodium valproate (most evidence), lithium (slower onset — days to weeks). Benzodiazepine (lorazepam/diazepam) for acute sedation when behavioural emergency. Avoid antidepressants (may worsen mania). If severe/dangerous: hospitalisation, often involuntary (Mental Health Act detention). Haloperidol IV/IM for acute behavioural emergency.
+Bipolar depression: quetiapine (Seroquel XR — licensed for bipolar depression, most evidence, effective for both depressive and mixed episodes), olanzapine-fluoxetine combination (OFC — Symbyax, licensed USA), lurasidone (licensed USA and Europe for bipolar depression — weight-neutral, metabolically favourable), lithium, lamotrigine (gradually titrated — prevents depressive recurrence, less effective for acute episode), cariprazine (licensed for bipolar I depression). SSRIs controversial — may precipitate switch to mania, rapid cycling. If used: always co-prescribe mood stabiliser.
+
+LONG-TERM MOOD STABILISATION:
+Lithium (carbonate or citrate): gold-standard mood stabiliser. Reduces manic and depressive recurrences. Only medication proven to reduce suicide in bipolar disorder (50% reduction). Also used for augmentation in TRD.
+Mechanism: multiple (GSK-3beta inhibition, inositol depletion, circadian rhythm stabilisation, neuroprotective).
+Dose: 400-1200mg/day divided doses. Target serum level 0.6-1.0 mmol/L (acute mania: up to 1.2 mmol/L; elderly/renal impairment lower). Check level 12 hours post-dose.
+Monitoring: baseline TFTs, U&E, eGFR, calcium, ECG; then TFTs and renal function every 6 months; lithium level 3-monthly until stable then every 6 months.
+Side effects: fine tremor (beta-blockers, reducing dose), polyuria/polydipsia (nephrogenic DI — amiloride 5-10mg), weight gain, acne, cognitive dulling. Long-term: hypothyroidism (20-40% — treat with levothyroxine, continue lithium), chronic kidney disease (slowly progressive nephrotoxicity — monitor eGFR; risk ↑ with age, dehydration, NSAIDs).
+Toxicity: therapeutic index narrow. Early toxicity (level 1.0-1.5): nausea, diarrhoea, coarse tremor, drowsiness. Serious toxicity (level >1.5): confusion, ataxia, dysarthria, myoclonus. Severe toxicity (>2.0): seizures, arrhythmias, coma, permanent neurological damage. Treatment: hydration, haemodialysis if severe.
+Risk of toxicity: dehydration (diarrhoea, vomiting, fever, excessive sweating), NSAIDs (reduce renal lithium clearance — avoid), thiazide diuretics (reduce lithium excretion — dose reduction needed), ACE inhibitors/ARBs (same mechanism), low-sodium diet, renal impairment.
+Teratogenicity: Ebstein's anomaly (tricuspid valve malformation — relative risk increased but absolute risk low, ~0.05-0.1%). Risk-benefit discussion in pregnancy. Can continue with fetal echocardiography at 16-18 weeks if essential. High relapse risk with stopping.
+
+Sodium Valproate: effective for mania (FDA-approved) and rapid cycling. Also anticonvulsant.
+Mechanism: GABA enhancement, sodium channel blockade.
+ABSOLUTELY CONTRAINDICATED in women of childbearing potential (neural tube defects 1-2%, fetal valproate syndrome — facial dysmorphia, low IQ, autism spectrum disorder). MHRA/NICE: Valproate Prevent programme mandatory in UK. Do NOT prescribe to women <55 without pregnancy prevention programme and annual review.
+Side effects: weight gain, hair loss (reversible), tremor, hepatotoxicity (monitor LFTs especially in children and first 6 months), pancreatitis (rare), thrombocytopenia, polycystic ovarian syndrome.
+Monitoring: LFTs, FBC, valproate level (therapeutic 50-100 mg/L or 350-700 μmol/L for epilepsy; psychiatric use often empirical).
+
+Lamotrigine: excellent for preventing bipolar depression. Less effective for mania. Generally well tolerated.
+Risk: Stevens-Johnson syndrome (0.1% — higher with rapid titration or valproate coadministration — valproate doubles lamotrigine levels). Very slow titration essential (start 25mg, increase by 25mg every 2 weeks). If rash develops — STOP immediately.
+No weight gain, no cognitive impairment, safe in pregnancy (relative to valproate/carbamazepine).
+Drug interactions: valproate doubles levels (halve dose); carbamazepine, oral contraceptives, rifampicin reduce levels (may need higher dose).
+
+Atypical antipsychotics as mood stabilisers: quetiapine (best evidence both polarities), olanzapine (mania and prevention, weight gain/metabolic side effects significant), aripiprazole (mania, weight neutral), risperidone, asenapine.
+
+Carbamazepine: effective for mania, less for depression. Enzyme inducer (reduces efficacy of OCP, many medications). Agranulocytosis risk (warn re sore throat/fever). Teratogenic (neural tube defects). Less used now but useful for lithium-refractory and mixed states.
+
+PSYCHOLOGICAL TREATMENTS:
+Psychoeducation: understanding disorder, triggers, early warning signs, sleep hygiene, medication adherence — strongly evidence-based for reducing recurrence.
+Interpersonal and Social Rhythm Therapy (IPSRT): stabilises circadian rhythms and social zeitgebers (social cues that entrain rhythms). Reduces relapse.
+CBT for bipolar: adapted CBT, reduces depressive episodes and hospitalisation.
+Family-focused therapy: improves family communication, reduces expressed emotion, reduces relapse.
+
+SUICIDE RISK IN BIPOLAR:
+Lifetime suicide attempt rate: 25-50%. Completed suicide: 15-20× general population risk. Bipolar II may have higher risk than Bipolar I (more time depressed, more mixed states, less dramatic impairment → less treatment). Lithium reduces suicide risk most strongly.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 4: SCHIZOPHRENIA AND PSYCHOTIC DISORDERS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DEFINITION:
+Schizophrenia is a severe psychiatric disorder characterised by disturbances in thinking, perception, affect, and behaviour. Lifetime prevalence: 0.5-1%. Equal sex distribution but earlier onset in men (typically early 20s vs late 20s in women). Chronic and disabling in majority. Average life expectancy reduced by 15-25 years (cardiovascular disease, suicide, lifestyle factors).
+
+SYMPTOMS:
+Positive symptoms (presence of abnormal experiences):
+Hallucinations: false perceptions without external stimulus. Auditory most common in schizophrenia — third-person (voices discussing patient), running commentary, command hallucinations. Considered first-rank symptoms (Schneider). Also visual, olfactory, somatic.
+Delusions: fixed false beliefs held with certainty, not culturally sanctioned, not amendable to reason. Persecutory (most common), grandiose, referential (events/objects have special personal meaning), passivity (thought insertion, withdrawal, broadcast; made feelings/actions/impulses — first-rank symptoms), somatic, erotomanic.
+Formal thought disorder: disorganised thinking expressed in speech — loosening of associations, derailment, tangentiality, word salad, perseveration, neologisms.
+Disorganised behaviour: agitation, purposeless activity, inappropriate affect, bizarre behaviour.
+
+Negative symptoms (diminution of normal function):
+Affective blunting/flattening: reduced emotional expression.
+Alogia: poverty of speech (reduced verbal output, monosyllabic answers).
+Avolition: reduced motivation/goal-directed activity.
+Anhedonia: inability to experience pleasure.
+Asociality: social withdrawal, reduced relationships.
+Attention impairment.
+
+Cognitive symptoms: impaired working memory, processing speed, executive function, attention — major determinant of functional outcome. Largely unresponsive to antipsychotics.
+
+DIAGNOSIS (DSM-5):
+≥2 of (at least one must be 1, 2, or 3):
+1. Delusions
+2. Hallucinations
+3. Disorganised speech
+4. Grossly disorganised or catatonic behaviour
+5. Negative symptoms
+Duration: ≥6 months (including prodrome and residual); active phase ≥1 month.
+Social/occupational dysfunction.
+Exclusion: schizoaffective disorder, mood disorder with psychotic features, substances, medical condition.
+
+Schizophreniform disorder: same criteria but duration 1-6 months.
+Brief psychotic disorder: duration <1 month with full remission.
+Schizoaffective disorder: schizophrenia + significant mood episode (depressive or manic) concurrent with psychotic symptoms. Requires ≥2 weeks psychosis without mood symptoms.
+Delusional disorder: non-bizarre delusions (plausible real-life situations), without other schizophrenia symptoms.
+Psychosis secondary to substances/medical: exclude before diagnosing primary psychotic disorder.
+
+FIRST-RANK SYMPTOMS (Schneider):
+Auditory hallucinations (third-person, running commentary), thought insertion/withdrawal/broadcast, made volitions/actions/feelings, delusional perception (normal perception + sudden delusional interpretation). Pathognomonic of schizophrenia historically — now considered non-specific.
+
+AETIOLOGY:
+Genetic: heritability 80%. Polygenic. Risk: monozygotic twin concordance 48% (not 100% → environmental factors). Copy number variants (22q11.2 deletion — DiGeorge syndrome: 30× increased schizophrenia risk). GWAS: hundreds of common variants (complement C4, DRD2, GRIN2A, NRXN1).
+Neurodevelopmental hypothesis: insults during brain development → structural/functional abnormalities. Risk factors: maternal infection (influenza, rubella, toxoplasmosis in second trimester), obstetric complications (hypoxia), winter/spring birth, urban birth, migration (2-4× increased risk in first/second generation migrants), childhood trauma.
+Dopamine hypothesis: excess dopaminergic activity in mesolimbic pathway (positive symptoms) + hypodopaminergia in mesocortical pathway (negative/cognitive symptoms). Evidence: antipsychotics block D2 receptors; amphetamines (release dopamine) cause psychosis.
+Glutamate hypothesis: NMDA receptor hypofunction (phencyclidine, ketamine cause schizophrenia-like positive AND negative symptoms). Convergence with dopamine hypothesis.
+Structural brain changes: ventricular enlargement, reduced grey matter (prefrontal cortex, temporal lobe, hippocampus), reduced neuropil, abnormal cortical gyrification — suggests neurodevelopmental origin.
+
+ANTIPSYCHOTIC MEDICATIONS:
+Mechanism: primarily D2 receptor blockade (all first-generation and most second-generation). Threshold for antipsychotic effect: ~65% D2 occupancy. Side effects increase with >80% occupancy.
+
+First-generation antipsychotics (FGAs/typicals):
+Haloperidol (1-20mg): potent D2 blocker. Effective for positive symptoms. High EPS (extrapyramidal side effects) — akathisia (most distressing — subjective restlessness, often mistaken for anxiety/agitation; propranolol/benzodiazepines for treatment), Parkinsonism, dystonia (acute muscle spasms — eyes, neck, tongue — treat with procyclidine IM), tardive dyskinesia (late onset, often irreversible — orofacial choreiform movements, reduce/switch antipsychotic, clonazepam, tetrabenazine, valbenazine/deutetrabenazine).
+Chlorpromazine (100-1000mg): sedating, more anticholinergic, less EPS than haloperidol.
+Depot injections: zuclopenthixol decanoate, flupentixol decanoate — for adherence.
+Neuroleptic malignant syndrome (NMS): medical emergency. Hyperthermia, muscle rigidity ("lead-pipe"), altered consciousness, autonomic instability (labile BP, tachycardia, diaphoresis). Can occur with any antipsychotic. Mortality 10-20% untreated. Stop antipsychotic immediately. Supportive care (cooling, IV fluids, monitoring). Dantrolene (muscle relaxant), bromocriptine (dopamine agonist) — controversial evidence.
+
+Second-generation antipsychotics (SGAs/atypicals):
+Lower EPS risk. Additional serotonin antagonism (5-HT2A) releases dopamine in nigrostriatum (reduces EPS) and prefrontal cortex (may improve negative/cognitive symptoms).
+Olanzapine (5-20mg): highly effective for positive and negative symptoms. Major risk: metabolic syndrome — significant weight gain (average 4kg in 1 year), dyslipidaemia, new-onset diabetes. Monitor BMI, fasting glucose/lipids. Sedating.
+Risperidone (2-8mg): effective, least metabolic effects among SGAs. Higher D2 occupancy than others → more EPS at higher doses, more prolactin elevation than other SGAs (galactorrhoea, amenorrhoea, sexual dysfunction, reduced bone density). Paliperidone (active metabolite, sustained-release formulation).
+Quetiapine (150-750mg): broad receptor profile, least EPS and prolactin elevation, very sedating (used for insomnia/anxiety off-label), moderate metabolic risk. Effective for bipolar disorder.
+Aripiprazole (10-30mg): partial D2 agonist + 5-HT1A agonist. Weight-neutral, metabolically most favourable. Activating (avoid in agitated patients), akathisia can occur.
+Ziprasidone (80-160mg): with food (doubles absorption), QTc prolongation. Weight-neutral.
+Amisulpride (400-800mg): selective D2/D3 blocker. Effective, low metabolic risk, high prolactin elevation. Low-dose (50-300mg) for negative symptoms.
+Lurasidone: weight-neutral, effective for bipolar depression.
+Asenapine: sublingual administration (liver first-pass avoidance).
+Brexpiprazole, cariprazine: newer partial D2 agonists.
+
+Clozapine: treatment-resistant schizophrenia (TRS) — defined as failure of ≥2 antipsychotics at adequate dose and duration. 30-60% of TRS patients respond to clozapine. Only antipsychotic shown to reduce suicide (suicide risk reduction 86% vs olanzapine). Considered vastly underused.
+Mechanism: relatively low D2 affinity, high 5-HT2A antagonism + numerous other receptors.
+Absolute requirement: mandatory haematological monitoring (weekly bloods for 18 weeks, then fortnightly for 1 year, then 4-weekly lifelong via CPMS — Clozapine Patient Monitoring Service). MUST NOT be dispensed without current satisfactory blood count.
+Agranulocytosis: life-threatening (absolute neutrophil count <500/μL) — occurs in 1% within first year. STOP immediately. Do not rechallenge.
+Other side effects: sedation, hypersalivation (sialorrhoea — hyoscine patches, amisulpride mouthwash), constipation/ileus (life-threatening — monitor bowel function, lactulose), myocarditis (1-2% in first month — CRP and troponin weekly first month), cardiomyopathy, seizures (dose-related, lamotrigine prophylaxis), metabolic syndrome (weight gain, diabetes), orthostatic hypotension (especially early), tachycardia.
+
+LONG-ACTING INJECTABLE ANTIPSYCHOTICS (LAIs/depots):
+Significant adherence advantage. Avoid peak/trough plasma levels. Multiple options: aripiprazole monohydrate (Abilify Maintena — monthly IM), aripiprazole lauroxil (Aristada — 4-8 weekly), paliperidone palmitate (Invega Sustenna — monthly; Invega Trinza — 3-monthly), risperidone ISM (Byannli), olanzapine pamoate (Zyprexa Relprevv — monthly IM, post-injection delirium sedation syndrome risk — observe 3 hours post-injection), flupentixol decanoate, zuclopenthixol decanoate (FGAs — older, cheaper). NICE: LAIs preferred for patients who prefer them or adherence is concern.
+
+PSYCHOLOGICAL AND SOCIAL TREATMENTS:
+CBT for psychosis (CBTp): challenges distressing beliefs about hallucinations and delusions, tests evidence for delusions, coping strategies, reduces distress. NICE-recommended for all schizophrenia patients. Reduces relapse 20-40%.
+Family interventions: psychoeducation, communication skills, reducing expressed emotion (hostility, over-involvement, critical comments — predicts relapse). NICE-recommended if in significant contact with family.
+Assertive Community Treatment (ACT): intensive community multidisciplinary team approach for most severely ill, reduces hospitalisation.
+Social skills training, vocational rehabilitation, cognitive remediation (improves cognition and functioning).
+Early Intervention in Psychosis (EIP): specialist services for first episode psychosis within 2 weeks. Focus on rapid diagnosis, low-dose antipsychotic, psychoeducation, CBT, family work. Reduces duration of untreated psychosis (DUP — longer DUP associated with worse outcome). IRIS guidelines.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 5: EATING DISORDERS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ANOREXIA NERVOSA (AN):
+Restriction of energy intake leading to significantly low body weight, intense fear of gaining weight/becoming fat, disturbed body image/denial of severity of low weight.
+Restricting type (AN-R): restriction, fasting, excessive exercise.
+Binge-purge type (AN-BP): binge eating and/or purging behaviours.
+Epidemiology: Lifetime prevalence 0.5-1% in women, 0.1-0.3% in men. Peak onset 14-18 years. Highest mortality of any psychiatric disorder (5-10% mortality per decade — malnutrition, suicide, electrolyte disturbances).
+Physical complications: Cardiovascular — bradycardia, hypotension, QTc prolongation, arrhythmias (risk of sudden death), mitral valve prolapse. Bone — osteoporosis (oestrogen deficiency, low calcium/vitamin D, chronically low BMI). Endocrine — hypothalamic amenorrhoea, low LH/FSH, low oestradiol, elevated cortisol, low IGF-1, euthyroid sick syndrome, hypoglycaemia. GI — delayed gastric emptying, constipation, superior mesenteric artery syndrome (SMA compression of duodenum with weight loss). Neurological — cerebral atrophy, peripheral neuropathy. Haematological — anaemia, leukopenia, thrombocytopenia. Renal — pre-renal uraemia, electrolyte disturbances (if purging). Skin — lanugo hair, dry skin, hair loss, carotenoderma.
+Refeeding syndrome: life-threatening during refeeding after severe malnutrition. Hypophosphataemia (cells rapidly take up phosphate during anabolism) → cardiac failure, respiratory failure, rhabdomyolysis, seizures. Prevention: start slowly (10 kcal/kg/day), supplement phosphate/thiamine/electrolytes, monitor.
+Treatment: family-based treatment (Maudsley method — most evidence in adolescents), individual CBT-E (enhanced CBT — for adults), adolescent-focused therapy. Weight restoration primary goal (BMI target 18.5+ in adults). Inpatient admission for BMI <13-14, rapid weight loss, severe physical compromise, treatment failure. No medications approved for AN specifically; olanzapine may assist weight gain; SSRIs not effective in underweight state. Dietitian essential.
+
+BULIMIA NERVOSA (BN):
+Recurrent binge eating (eating large amounts in discrete period + sense of loss of control) + compensatory behaviours (self-induced vomiting, laxatives, diuretics, fasting, excessive exercise). ≥1×/week for ≥3 months. Self-worth unduly influenced by body shape/weight. Normal or above-normal weight.
+Complications of purging: Hypokalaemia (dangerous arrhythmias), hypochloraemia, metabolic alkalosis, dental enamel erosion (acid from vomiting), parotid gland hypertrophy, calluses on dorsum of hand (Russell's sign), oesophageal tears, aspiration.
+Treatment: CBT-E (first-line, most evidence — targets binge-purge cycle, normalises eating, reduces shape/weight overvaluation), IPT, self-help (CBT-based guided self-help — first step in stepped care). Fluoxetine 60mg (only medication licensed for BN — reduces binge frequency ~50%, regardless of depression). Combined CBT + fluoxetine slightly superior to either alone.
+
+BINGE EATING DISORDER (BED):
+Recurrent binge episodes without compensatory behaviours. Associated with obesity, depression, poor quality of life. Most common eating disorder (prevalence 2-3%). Treatment: CBT, IPT, DBT, lisdexamfetamine (Vyvanse/Elvanse — licensed for moderate-severe BED in adults; reduces binge frequency; risk of drug misuse).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 6: PERSONALITY DISORDERS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DEFINITION:
+Enduring patterns of inner experience and behaviour that deviate markedly from cultural expectations, are pervasive and inflexible, onset in adolescence or early adulthood, stable over time, and cause distress or functional impairment. Prevalence: 10-13% of general population.
+
+CLUSTER A (Odd/Eccentric):
+Paranoid PD: pervasive distrust and suspicion. Interprets motives as malevolent.
+Schizoid PD: detachment from social relationships, restricted emotional expression, prefers solitude.
+Schizotypal PD: magical thinking, odd beliefs, peculiar speech, ideas of reference, social anxiety. Genetically related to schizophrenia.
+
+CLUSTER B (Dramatic/Emotional/Erratic):
+Borderline Personality Disorder (BPD/EUPD — Emotionally Unstable PD): instability of interpersonal relationships, self-image, affect, and impulsivity. Features: frantic efforts to avoid abandonment (real or imagined), unstable intense relationships (idealisation/devaluation — "splitting"), identity disturbance, impulsivity (spending, sex, substance use, binge eating, reckless driving), recurrent suicidal/self-harm behaviours, affective instability (chronic emptiness, dysphoria), inappropriate intense anger, transient paranoid ideation or dissociation. Prevalence 1-3%, F:M 3:1 (in clinical settings; possibly equal in community). Strong association with childhood trauma/abuse.
+Treatment: Dialectical Behaviour Therapy (DBT — Linehan, gold standard — combines CBT with acceptance strategies, four modules: mindfulness, interpersonal effectiveness, distress tolerance, emotion regulation; weekly individual therapy + skills groups + phone coaching). Mentalisation-Based Treatment (MBT). Schema-focused therapy. No medications licensed for BPD — but medication may address specific symptoms (mood instability — mood stabilisers; psychotic-like symptoms — low-dose antipsychotics; impulsivity — lamotrigine, topiramate; comorbid depression — SSRIs). Avoid benzodiazepines (misuse risk, paradoxical disinhibition). Avoid polypharmacy. Safety planning for self-harm.
+
+Antisocial PD (ASPD): pervasive disregard and violation of rights of others, deceitfulness, impulsivity, irritability/aggression, reckless disregard for safety, irresponsibility, lack of remorse. ≥18 years (conduct disorder before 15). M>>F. Association with substance misuse, incarceration.
+Narcissistic PD: grandiosity, need for admiration, lack of empathy.
+Histrionic PD: excessive emotionality, attention seeking.
+
+CLUSTER C (Anxious/Fearful):
+Avoidant PD: social inhibition, feelings of inadequacy, hypersensitivity to criticism.
+Dependent PD: need to be taken care of, submissiveness, clinging.
+Obsessive-Compulsive PD (OCPD): preoccupation with orderliness, perfectionism, control. Ego-syntonic (unlike OCD).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 7: SUBSTANCE USE AND ADDICTION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ALCOHOL USE DISORDER:
+Safe limits: UK — 14 units/week (men and women), no more than 6 units on any single day, with alcohol-free days. 1 unit = 10mL pure ethanol (1 standard glass wine = 2 units; 1 pint 5% beer = 2.8 units).
+AUDIT (Alcohol Use Disorders Identification Test): 10-item screening tool. Score ≥8 hazardous use, ≥16 harmful, ≥20 dependence probable.
+CAGE questionnaire: Cut down, Annoyed by criticism, Guilty, Eye-opener. ≥2 positive = likely dependence.
+Dependence features (ICD-11): strong desire/craving, impaired control, withdrawal syndrome, tolerance, neglect of activities, continued use despite harm.
+Withdrawal syndrome: begins 6-8 hours after last drink, peaks 24-48 hours, may last 5-7 days. Symptoms: tremor, sweating, tachycardia, hypertension, nausea, anxiety, seizures (12-48h), Wernicke's encephalopathy. Delirium tremens (DTs): severe withdrawal — hallucinations (visual, tactile), disorientation, agitation, autonomic instability, seizures. Onset 48-96 hours. Mortality 5-15% untreated.
+CIWA-Ar scale: monitors alcohol withdrawal severity, guides benzodiazepine dosing.
+Management of withdrawal: chlordiazepoxide (benzodiazepine — fixed reducing schedule or symptom-triggered CIWA). Lorazepam if hepatic impairment. Carbamazepine alternative. THIAMINE IS ESSENTIAL — ALL alcohol-dependent patients require IV/IM Pabrinex (B vitamins) to prevent Wernicke's encephalopathy (confusion, ataxia, ophthalmoplegia — give even if only encephalopathy present; never give glucose before thiamine).
+Wernicke-Korsakoff syndrome: Wernicke's (acute, thiamine deficiency, reversible with treatment) → Korsakoff's (chronic, anterograde amnesia, confabulation, relatively preserved intellect — partially reversible). High-dose IV thiamine (Pabrinex 2 pairs TDS for 5 days minimum, then oral thiamine).
+Pharmacological relapse prevention: disulfiram (Antabuse — inhibits ALDH → acetaldehyde accumulation if alcohol consumed → flushing, nausea, vomiting, headache, hypotension — aversion therapy, requires motivation), naltrexone (opioid antagonist — reduces craving and rewarding properties of alcohol; contraindicated in opioid use; hepatotoxicity monitoring; also acamprosate alternative if opioid use), acamprosate (GABA/glutamate modulator — reduces cravings, craving-free days; multiple daily doses; avoid if severe renal impairment). Nalmefene (opioid receptor modulator — reduces heavy drinking days without requiring abstinence; licensed for alcohol harm reduction).
+
+OPIOID USE DISORDER:
+Opioids: heroin, morphine, codeine, oxycodone, fentanyl, methadone.
+Overdose: respiratory depression, constricted pupils (miosis), coma. Treatment: naloxone IV/IM/intranasal (opioid antagonist) — titrate to restore breathing without precipitating acute withdrawal. Repeat doses may be needed (naloxone shorter acting than most opioids).
+Withdrawal: not life-threatening (unlike alcohol/benzodiazepine withdrawal). Symptoms: craving, yawning, lacrimation, rhinorrhoea, piloerection ("goose flesh"), diaphoresis, myalgia, GI cramps, diarrhoea, insomnia, anxiety, agitation.
+Treatment: opioid agonist therapy (OAT):
+Methadone (full opioid agonist): daily supervised consumption. Reduces heroin use, criminality, blood-borne virus transmission, mortality (40% reduction). QTc prolongation (ECG monitoring). Interactions (QTc-prolonging drugs, CYP3A4 inducers/inhibitors).
+Buprenorphine/naloxone (Suboxone): partial opioid agonist + naloxone (sublingual naloxone poorly absorbed, deters IV misuse). Extended-release buprenorphine injectable (Sublocade, Buvidal) — monthly injection, eliminates daily supervised consumption.
+Naltrexone: for motivated patients after detoxification. Blocks opioid effects. Injectable monthly formulation (Vivitrol) improves adherence.
+Lofexidine/clonidine: alpha-2 agonists — manage autonomic withdrawal symptoms without euphoria. Used for detoxification.
+
+NICOTINE/TOBACCO:
+Most preventable cause of premature death. Tobacco responsible for ~50% of cancer deaths, majority of COPD deaths, significant cardiovascular mortality.
+Pharmacotherapy (doubles/triples quit rates vs placebo):
+Nicotine replacement therapy (NRT): patches, gum, lozenges, inhaler, nasal spray. Reduces withdrawal symptoms. Combining patch (background) + fast-acting NRT most effective. Safe in cardiovascular disease.
+Varenicline (Champix/Chantix): partial nicotinic acetylcholine receptor agonist — reduces craving and reward from smoking. Most effective single pharmacotherapy (2× more effective than NRT or bupropion). Side effects: nausea (take with food), abnormal dreams, neuropsychiatric events (controversial — FDA black box warning removed after EAGLES trial showed no excess risk vs NRT/placebo in stable psychiatric populations; caution in unstable serious mental illness).
+Bupropion (Zyban): dopamine-noradrenaline reuptake inhibitor. Reduces craving. Lowers seizure threshold — avoid in epilepsy, eating disorders, alcohol withdrawal.
+Intensive behavioural support: doubles pharmacotherapy efficacy. Brief advice from GP increases quit attempts. Stop Smoking Services: group or one-to-one. Motivational interviewing.
+
+END OF MENTAL HEALTH TRAINING DATA
+Total: ~12,200 words | Sections: 7 | Estimated chunks: ~100

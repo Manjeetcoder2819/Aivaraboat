@@ -1,0 +1,285 @@
+NEPHROLOGY & UROLOGY — COMPREHENSIVE MEDICAL REFERENCE
+=========================================================
+Source: Medical Training Data for AIVARA Healthcare AI
+Category: Nephrology & Urology | Version: 1.0
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 1: KIDNEY ANATOMY AND PHYSIOLOGY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+KIDNEY STRUCTURE:
+The kidneys are paired retroperitoneal organs, each weighing approximately 150g and measuring 10-12 cm in length. Each kidney contains approximately 1 million nephrons — the functional unit of filtration. The nephron consists of the glomerulus (filtration), proximal convoluted tubule (PCT — reabsorption of 65% of filtered sodium, glucose, amino acids, bicarbonate), loop of Henle (concentration gradient), distal convoluted tubule (DCT — fine-tuning of sodium/potassium under aldosterone control), and collecting duct (final water reabsorption under ADH control).
+
+KIDNEY FUNCTIONS:
+Filtration: glomerular filtration rate (GFR) approximately 125 mL/min or 180 L/day. Of 180 L filtered, 178.5 L is reabsorbed, leaving 1.5 L urine/day. Renal plasma flow approximately 660 mL/min, renal blood flow 1200 mL/min (25% of cardiac output).
+Regulation: blood pressure (renin-angiotensin-aldosterone system), fluid and electrolyte balance, acid-base balance, erythropoietin production (stimulates red blood cell production — EPO produced by peritubular cells in response to hypoxia), vitamin D activation (25-hydroxyvitamin D → 1,25-dihydroxyvitamin D/calcitriol by 1-alpha-hydroxylase).
+Excretion: metabolic waste products (urea, creatinine, uric acid), drugs and toxins.
+
+ASSESSMENT OF KIDNEY FUNCTION:
+Serum creatinine: produced by muscle metabolism at constant rate. Inversely proportional to GFR. Normal: 55-120 μmol/L (varies with muscle mass, age, sex, ethnicity). Unreliable in: extremes of muscle mass (bodybuilders vs cachexia), elderly.
+eGFR (estimated GFR): calculated from creatinine using equations incorporating age, sex, ethnicity. CKD-EPI equation (preferred): more accurate than MDRD especially at higher GFR. Normal >90 mL/min/1.73m². Race modifier in CKD-EPI controversial — some equations now race-free.
+Cystatin C: alternative filtration marker, less affected by muscle mass. Useful in elderly, amputees, pregnancy. CKD-EPI Cystatin C or combined creatinine-cystatin C equations.
+Creatinine clearance (Cockcroft-Gault): useful for drug dosing (estimates absolute GFR). CrCl = (140-age) × weight / (72 × serum Cr) × 0.85 (if female).
+Urine dipstick: protein (albumin ≥30 mg/L positive), blood (haemoglobin ≥0.1 mg/dL positive — haematuria or haemoglobinuria/myoglobinuria), leucocytes (pyuria), nitrites (gram-negative bacterial infection), glucose (≥10 mmol/L in blood or reduced tubular threshold).
+Urine albumin-creatinine ratio (ACR): spot urine — more accurate than dipstick for quantifying proteinuria. Normal <3 mg/mmol. Microalbuminuria 3-30 mg/mmol. Macroalbuminuria >30 mg/mmol. Morning first void preferred to avoid orthostatic proteinuria.
+24-hour urine collection: gold standard for proteinuria quantification. Adequacy assessed by creatinine excretion (expected ~10 mmol/kg/day in men, 8 mmol/kg/day in women). Also used for urine oxalate, calcium, uric acid in stone formers.
+Renal biopsy: definitive diagnosis of glomerulonephritis, unexplained nephrotic syndrome, unexplained rapidly progressive renal failure, renal transplant dysfunction/rejection. USS-guided percutaneous (most common). Complications: haematuria (80% minor), significant haemorrhage requiring transfusion (1%), arteriovenous fistula, need for intervention (1%), nephrectomy (<0.01%), death (<0.01%). Contraindications: single kidney (relative), uncontrolled hypertension, coagulopathy, small kidneys (irreversible disease).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 2: ACUTE KIDNEY INJURY (AKI)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DEFINITION (KDIGO 2012):
+AKI is defined by any of:
+- Rise in serum creatinine ≥26.5 μmol/L (0.3 mg/dL) within 48 hours
+- Rise in serum creatinine ≥1.5× baseline within 7 days
+- Urine output <0.5 mL/kg/hour for >6 hours
+
+STAGING:
+Stage 1: creatinine 1.5-1.9× baseline OR ≥26.5 μmol/L rise; urine output <0.5 mL/kg/h for 6-12h
+Stage 2: creatinine 2.0-2.9× baseline; urine output <0.5 mL/kg/h for ≥12h
+Stage 3: creatinine ≥3× baseline OR ≥353.6 μmol/L (≥4 mg/dL) OR renal replacement therapy; urine output <0.3 mL/kg/h for ≥24h or anuria for ≥12h
+
+CAUSES:
+Pre-renal (60-70%): reduced renal perfusion. Causes: hypovolaemia (haemorrhage, diarrhoea/vomiting, burns, third-spacing), reduced cardiac output (heart failure, cardiogenic shock, cardiac tamponade), vasodilation (sepsis, anaphylaxis, cirrhosis), renal vasoconstriction (NSAIDs — inhibit prostaglandin-mediated afferent arteriolar dilation; ACE inhibitors/ARBs — reduce efferent constriction maintaining GFR; radiocontrast agents; calcineurin inhibitors — cyclosporin, tacrolimus). Key: renal parenchyma intact, responds to volume resuscitation. Urine sodium <20 mmol/L, FENa <1%, high urine osmolality >500 mOsm/kg. Hepatorenal syndrome: extreme pre-renal AKI in cirrhosis.
+
+Intrinsic renal (20-30%): parenchymal damage.
+Acute tubular necrosis (ATN): most common intrinsic cause. Ischaemic (sustained pre-renal state progresses to ATN) or nephrotoxic. Nephrotoxins: aminoglycosides (gentamicin — cumulative, monitor trough levels; proximal tubule), vancomycin (with piperacillin-tazobactam synergistically nephrotoxic), radiocontrast (CI-AKI — risk with eGFR <60, diabetes, dehydration, multiple myeloma; N-acetylcysteine, IV hydration ± sodium bicarbonate; use minimum contrast volume, low-osmolarity agents), cisplatin, amphotericin B, tenofovir, methotrexate, aciclovir (crystalluria). Also haemoglobin (haemolysis), myoglobin (rhabdomyolysis — dark "tea-coloured" urine, elevated CK >1000 IU/L, positive dipstick blood but no RBCs on microscopy; treat with aggressive IV fluids targeting urine output 200-300 mL/hour).
+Glomerulonephritis: rapidly progressive GN (RPGN) can present as acute nephritis with AKI. Causes: anti-GBM disease (Goodpasture's), ANCA vasculitis (GPA, MPA), immune-complex GN (IgA nephropathy, lupus nephritis, post-streptococcal).
+Acute interstitial nephritis (AIN): immune-mediated tubulointerstitial inflammation. Drugs (most common — beta-lactam antibiotics, NSAIDs, PPIs, allopurinol, rifampicin, sulfonamides, checkpoint inhibitors), infections (legionella, hantavirus, CMV), autoimmune (SLE, Sjögren's). Classic triad: fever, rash, eosinophilia (present in <30% — absence does not exclude). Urine: eosinophiluria (Hansel stain), WBC casts. Treatment: stop offending drug, corticosteroids (reduce duration but not always improve outcome — controversial; Prednisone 1 mg/kg if no recovery after 1-2 weeks).
+Thrombotic microangiopathy (TMA): haemolytic uraemic syndrome (HUS — Shiga toxin from E. coli O157:H7 — diarrhoeal prodrome, microangiopathic haemolytic anaemia, thrombocytopenia, AKI; complement-mediated aHUS — eculizumab), thrombotic thrombocytopenic purpura (TTP — ADAMTS13 deficiency; plasma exchange).
+Vascular: renal artery stenosis/thrombosis, renal vein thrombosis (nephrotic syndrome), atheroembolic disease (post-angiography; livedo reticularis, eosinophilia, "blue toe" syndrome, complement consumption).
+Myeloma cast nephropathy: Bence-Jones proteins precipitate in tubules → obstruction. Treat with chemotherapy, hydration, possibly plasmapheresis.
+
+Post-renal/obstructive (10%): urinary tract obstruction causing raised collecting system pressure → reduced GFR. Must be bilateral to cause significant AKI (unless single functioning kidney). Causes: BPH (most common in men), prostate cancer, bladder cancer, cervical cancer, retroperitoneal fibrosis, bilateral ureteric stones, urethral stricture, neurogenic bladder. Investigation: USS kidneys (hydronephrosis — note absent in early obstruction, volume-depleted patients, retroperitoneal fibrosis). Treatment: catheterisation (BPH), nephrostomy (ureteric obstruction), JJ stent.
+
+COMPLICATIONS OF AKI:
+Hyperkalaemia (life-threatening): ECG changes — peaked T waves, PR prolongation, wide QRS, sine wave, VF. Treatment: calcium gluconate (stabilises cardiac membrane, immediate — 10 mL 10% IV), insulin/dextrose (drives K into cells — 10 units actrapid + 50 mL 50% glucose, onset 15 minutes), salbutamol (nebulised 10-20 mg, onset 30 min), sodium bicarbonate (if acidosis), calcium resonium/patiromer (removes K from gut — slow, hours to days), dialysis (definitive for severe refractory).
+Pulmonary oedema: fluid overload — IV furosemide (if some urine output), dialysis/haemofiltration.
+Metabolic acidosis: bicarbonate replacement, dialysis.
+Uraemic complications: pericarditis, encephalopathy, bleeding (platelet dysfunction — desmopressin DDAVP, cryoprecipitate), nausea/vomiting.
+
+INDICATIONS FOR DIALYSIS IN AKI (AEIOU):
+A — Acidosis (refractory metabolic acidosis pH <7.1)
+E — Electrolytes (hyperkalaemia refractory to medical management)
+I — Intoxication (dialyzable toxins: salicylates, methanol, ethylene glycol, lithium, valproate)
+O — Overload (volume overload refractory to diuretics)
+U — Uraemia (symptomatic — encephalopathy, pericarditis, bleeding)
+
+MODALITIES OF RENAL REPLACEMENT THERAPY:
+Intermittent haemodialysis (IHD): efficient, requires haemodynamic stability. 3-4 hours, 3-4×/week.
+Continuous venovenous haemofiltration (CVVH) / haemodiafiltration (CVVHDF): slower, gentler — preferred for haemodynamically unstable patients (ICU). Continuous, 24 hours/day.
+Sustained low-efficiency dialysis (SLED): compromise between IHD and CVVH. 8-12 hours.
+Peritoneal dialysis (PD): less commonly used for AKI in adults.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 3: CHRONIC KIDNEY DISEASE (CKD)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DEFINITION AND STAGING:
+CKD is defined as abnormalities of kidney structure or function, present for >3 months, with implications for health. Affects approximately 10-13% of the global population (approximately 850 million people). UK prevalence approximately 6-8%.
+
+GFR categories (G1-G5):
+G1: eGFR ≥90 (normal or high, with other evidence of kidney disease)
+G2: eGFR 60-89 (mildly decreased)
+G3a: eGFR 45-59 (mildly to moderately decreased)
+G3b: eGFR 30-44 (moderately to severely decreased)
+G4: eGFR 15-29 (severely decreased)
+G5: eGFR <15 (kidney failure)
+
+Albuminuria categories (A1-A3):
+A1: ACR <3 mg/mmol (normal to mildly increased)
+A2: ACR 3-30 mg/mmol (moderately increased)
+A3: ACR >30 mg/mmol (severely increased)
+
+Combined CGA staging guides prognosis and management intensity.
+
+CAUSES:
+Diabetic nephropathy (most common in developed world — 30-40%): glomerular hyperfiltration → microalbuminuria → macroalbuminuria → declining GFR → ESRD over 15-25 years. RAAS blockade (ACE inhibitor/ARB) reduces proteinuria and slows progression (renoprotective independent of BP effect). SGLT2 inhibitors markedly slow CKD progression (CREDENCE, DAPA-CKD, EMPA-KIDNEY trials).
+Hypertensive nephrosclerosis (20-30%): chronic hypertension → afferent arteriolar hyalinosis → glomerulosclerosis → ischaemia. Target BP <130/80.
+Glomerulonephritis (10-15%): IgA nephropathy (most common worldwide), membranous nephropathy, FSGS, lupus nephritis, ANCA vasculitis.
+Polycystic kidney disease (PKD): ADPKD (autosomal dominant, PKD1/PKD2 mutations, most common inherited CKD — affects 1/500-1000). Multiple bilateral renal cysts, hepatic cysts, intracranial aneurysms (8-12% — rupture risk — screen in family history). Tolvaptan (vasopressin V2 antagonist — TEMPO trial — slows cyst growth and GFR decline in selected patients). ARPKD (rare, childhood).
+Renovascular disease: renal artery stenosis — atherosclerotic (elderly, risk factors) or fibromuscular dysplasia (young women).
+Reflux nephropathy: childhood vesico-ureteric reflux → recurrent infections → scarring.
+Obstructive nephropathy: chronic partial obstruction.
+Hereditary nephritis (Alport syndrome): X-linked or AR, mutations in collagen IV (type IV collagen in GBM). Haematuria (persistent), sensorineural deafness, ocular abnormalities (lens dislocation, macular flecks). ESRD typically in men by 20-30 years. ACE inhibitors delay progression.
+
+COMPLICATIONS OF CKD:
+Anaemia of CKD: multifactorial — reduced erythropoietin (EPO) production (main cause), iron deficiency, inflammation (reduced iron availability), shortened RBC survival. Target Hb 100-120 g/L. Treat underlying causes. Iron supplementation (IV iron preferred in dialysis patients — oral poorly absorbed). Erythropoiesis-stimulating agents (ESAs — darbepoetin, epoetin alfa): when Hb <100 g/L despite adequate iron. Target Hb 100-120 g/L (not normalise — TREAT trial: normalisation increases stroke risk). Roxadustat (HIF-PH inhibitor — oral — stimulates EPO production, improves iron utilisation): new agent approved for CKD anaemia.
+CKD-MBD (mineral and bone disorder): reduced 1-alpha-hydroxylase → reduced active vitamin D (calcitriol) → impaired calcium absorption → hypocalcaemia → PTH rise (secondary hyperparathyroidism). Reduced phosphate excretion → hyperphosphataemia → FGF23 rise → further reduced calcitriol → worsened secondary hyperparathyroidism. Consequences: renal osteodystrophy (osteitis fibrosa cystica from excess PTH, osteomalacia from vitamin D deficiency, adynamic bone), vascular calcification (major contributor to cardiovascular mortality in CKD). Management: dietary phosphate restriction, phosphate binders (calcium carbonate with meals, sevelamer — carbonate or hydrochloride — non-calcium, preferred if hypercalcaemia risk; lanthanum carbonate), calcitriol/alfacalcidol (active vitamin D — suppresses PTH, caution hypercalcaemia), cinacalcet (calcimimetic — sensitises calcium-sensing receptor on parathyroid gland → reduces PTH release — for secondary and tertiary hyperparathyroidism).
+Cardiovascular disease: leading cause of death in CKD. Risk 10-20× higher than general population. Accelerated atherosclerosis, cardiac hypertrophy, heart failure. Treat all modifiable CV risk factors aggressively.
+Fluid and electrolyte disturbances: sodium and water retention (hypertension, oedema), hyperkalaemia (reduced excretion, RAAS blockade — potassium binders: patiromer, sodium zirconium cyclosilicate — allow continued RAAS blockade), metabolic acidosis (reduced bicarbonate excretion/generation — sodium bicarbonate supplementation slows CKD progression — NICE recommends bicarbonate if serum bicarbonate <22 mmol/L).
+Uraemic symptoms: nausea, vomiting, anorexia, pruritus (uraemic pruritis — difelikefalin, NalBuphine, gabapentin, UVB light therapy), fatigue, restless legs, peripheral neuropathy, cognitive impairment, encephalopathy, pericarditis. These generally appear when eGFR <10-15 mL/min/1.73m².
+Malnutrition: protein-energy wasting (PEW) common in advanced CKD. Dietary advice to balance adequate protein intake vs phosphate/potassium restriction.
+
+SLOWING CKD PROGRESSION:
+Blood pressure control: target <130/80. RAAS blockade first-line (ACE inhibitor or ARB — additive renoprotection beyond BP effect; never combine ACE + ARB — ONTARGET trial showed harm).
+Proteinuria reduction: target ACR <30 mg/mmol ideally. RAAS blockade reduces proteinuria 30-40%.
+SGLT2 inhibitors: dapagliflozin (DAPA-CKD — 39% reduction in composite CKD progression/death in patients with ACR ≥200 mg/g, not requiring diabetes), empagliflozin (EMPA-KIDNEY — 28% reduction across broader CKD population). Now recommended for CKD with ACR ≥200 regardless of diabetes status.
+Finerenone (non-steroidal MRA): FIDELIO-DKA and FIGARO-DKD trials — reduces CKD progression and CV events in diabetic CKD with significant albuminuria.
+Glycaemic control in diabetes: HbA1c target 7-7.5% (individualised).
+Smoking cessation.
+Dietary protein restriction (0.6-0.8 g/kg/day in advanced CKD): may slow progression but nutritional risk.
+Avoid nephrotoxins: NSAIDs, radiocontrast (pre-hydration, minimise dose), aminoglycosides (therapeutic drug monitoring), dehydration.
+
+RENAL REPLACEMENT THERAPY (RRT) — END-STAGE KIDNEY DISEASE:
+Preparation: refer to nephrology when eGFR <30 (G4) or earlier if rapid decline. Educate patient re RRT options. Vascular access creation (arteriovenous fistula/graft for HD — at least 6 months before anticipated HD start). Hepatitis B vaccination when CKD G3b or earlier (immune response better with higher GFR). Phosphate binders, ESAs, bicarbonate as above.
+Timing of dialysis initiation: symptoms, not eGFR alone. eGFR 5-10 mL/min typical start. Earlier start no survival benefit (IDEAL trial).
+
+Haemodialysis (HD): most common RRT modality (UK: 60% of dialysis patients). Blood pumped through dialyser (semipermeable membrane) against dialysate → diffusion of urea/creatinine/potassium → returned to patient. Access: arteriovenous fistula (AVF — preferred, lowest infection risk, longest lasting; placed in non-dominant arm radiocephalic or brachiocephalic), AV graft (polytetrafluoroethylene — higher thrombosis/infection than AVF), tunnelled central venous catheter (highest infection risk — last resort). Frequency: standard 3×/week 4-hour sessions. Complications: hypotension (most common), cramps, dialysis disequilibrium syndrome (rapid urea removal → cerebral oedema — headache, nausea, seizures in first HD), access complications (infection — Staphylococcus aureus septicaemia — thrombosis, aneurysm), cardiovascular events, amyloidosis (β2-microglobulin accumulation after >10 years).
+
+Peritoneal dialysis (PD): peritoneal membrane used as dialyser. Dialysate infused via permanent peritoneal catheter (Tenckhoff), dwells 4-6 hours, drained. CAPD (continuous ambulatory PD): 4 manual exchanges/day. APEPD (automated PD): machine performs exchanges overnight. Access: permanent Tenckhoff catheter (placed 2-4 weeks before use). Complications: peritonitis (most serious — cloudiness of effluent, abdominal pain, fever; send PD fluid for cell count and culture; intraperitoneal antibiotics — vancomycin + ceftazidime empirically), exit site/tunnel infection, catheter malfunction, inadequate dialysis, ultrafiltration failure, hernia, encapsulating peritoneal sclerosis (rare, devastating — PD>5 years). Advantages: home-based, more continuous, better preservation of residual renal function, no vascular access needed. Disadvantages: peritonitis risk, protein loss, glucose absorption.
+
+Kidney transplantation: best treatment for ESRD — superior survival and quality of life vs dialysis. Living donor (related or unrelated — living unrelated increasingly performed): better outcomes. Deceased donor (brain-dead — highest quality; donation after circulatory death DCD — increased delayed graft function). Evaluation: recipient (infection screen, cardiovascular assessment, HLA typing, PRA/DSA — panel reactive antibody to detect sensitisation); donor (ABO compatibility, HLA matching, crossmatch). Immunosuppression: induction (anti-thymocyte globulin ATG, basiliximab — IL-2 receptor antagonist), maintenance (calcineurin inhibitor — tacrolimus or ciclosporin + mycophenolate mofetil/MMF + prednisolone). Complications: acute rejection (cellular — T-cell mediated, antibody-mediated AMR), delayed graft function, infection (opportunistic — CMV, BK virus nephropathy, PCP — prophylaxis with co-trimoxazole and valganciclovir), malignancy (skin cancer, lymphoma — PTLD post-transplant lymphoproliferative disorder), drug toxicities (calcineurin inhibitor nephrotoxicity, metabolic syndrome). 5-year graft survival: living donor 90%, deceased donor 85%.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 4: GLOMERULONEPHRITIS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PRESENTATION PATTERNS:
+Nephrotic syndrome: heavy proteinuria (>3.5 g/day or ACR >300 mg/mmol), hypoalbuminaemia (<25 g/L), oedema (periorbital, peripheral, ascites), hyperlipidaemia (liver compensates → increased VLDL), lipiduria (oval fat bodies, Maltese crosses in urine). Complications: thromboembolism (renal vein thrombosis, DVT/PE — anticoagulate if albumin <20 g/L or nephrotic syndrome + additional VTE risk factors), infection (IgG loss → bacterial infections, Pneumococcus — vaccinate), hypovolaemia despite oedema.
+Nephritic syndrome: haematuria (dysmorphic RBCs, red cell casts in urine), proteinuria (usually <3.5 g/day), hypertension, oliguria, AKI, oedema. Reflects active glomerular inflammation.
+Rapidly progressive GN (RPGN): nephritic syndrome with AKI progressing to ESRD within weeks. Crescents on biopsy (>50% glomeruli). Emergency — requires urgent diagnosis and treatment. Types: Type I anti-GBM (Goodpasture's), Type II immune-complex, Type III pauci-immune (ANCA vasculitis).
+
+SPECIFIC CONDITIONS:
+IgA Nephropathy (Berger's disease): most common primary GN worldwide. IgA immune complexes deposit in mesangium → complement activation → inflammation. Presentation: recurrent visible haematuria (synpharyngitic — coinciding with upper respiratory tract infection, unlike post-streptococcal which follows 2-3 weeks later), persistent microscopic haematuria ± proteinuria, slowly progressive. 20-40% reach ESRD over 20-25 years. Treatment: RAAS blockade (ACE inhibitor/ARB) for proteinuria >0.5-1 g/day. Immunosuppression (corticosteroids ± MMF) for high-risk patients (proteinuria >1-2 g/day despite RAAS blockade). Sparsentan (dual endothelin-1 receptor and RAAS antagonist — PROTECT trial, reduces proteinuria significantly). Targeted-release budesonide (Nefecon/TRF — delivered to Peyer's patches, reduces IgA production — NefIgArd trial, approved). Avacopan and other complement inhibitors (clinical trials).
+
+Membranous Nephropathy (MN): most common cause of nephrotic syndrome in non-diabetic adults (>40 years). Immune complexes in sub-epithelial space → thickening of GBM. Primary (idiopathic): anti-PLA2R antibody (M-type phospholipase A2 receptor) positive in 70-75% — pathogenic antibody, useful for diagnosis and monitoring. Anti-THSD7A in 5%. Secondary: malignancy (especially solid tumours >60 years), SLE (class V lupus nephritis), infections (HBV, HCV), drugs (NSAIDs, penicillamine, gold, captopril). Treatment: RAAS blockade, diuretics for oedema. Immunosuppression for high-risk (anti-PLA2R titre, proteinuria >8 g/day, eGFR decline): Ponticelli protocol (cyclophosphamide alternating with steroids monthly for 6 months), rituximab (increasingly first-line — reduces anti-PLA2R and induces remission), calcineurin inhibitors (tacrolimus or ciclosporin). Spontaneous remission 25-30% over 5 years. Obinutuzumab, iscalimab (anti-CD40) in trials.
+
+Focal Segmental Glomerulosclerosis (FSGS): sclerosis of some (focal) glomeruli, in part of tuft (segmental). Commonest cause of nephrotic syndrome in Black Americans (6× higher incidence vs whites). Causes: primary (idiopathic — circulating permeability factor — suPAR?), secondary (heroin nephropathy, HIV — HIVAN, analgesic nephropathy, hypertensive — secondary FSGS, obesity, reduced nephron mass, reflux nephropathy, sickle cell). Genetic (podocin NPHS2 mutation — early onset, familial). Collapsing FSGS: severe variant, rapid progression (particularly HIV, COVID-19 — APOL1 risk variants in Black patients). Treatment: RAAS blockade (all), immunosuppression only for primary podocyte injury (high-dose steroids — response rate 30-40%; if steroid-resistant: calcineurin inhibitors, MMF, rituximab).
+
+Minimal Change Disease (MCD): most common nephrotic syndrome in children (90%), but also adults (25%). Normal light microscopy, normal IF, foot process effacement on EM. Causes: idiopathic (most), drugs (NSAIDs, lithium), lymphoma (Hodgkin's). Treatment: high-dose oral prednisolone (1 mg/kg/day up to 80 mg) — 90% remission in children within 8 weeks, ~75% in adults within 16 weeks. Frequent relapsers: steroid-sparing agents (cyclophosphamide, ciclosporin, MMF, rituximab).
+
+Anti-GBM Disease (Goodpasture's syndrome): autoantibodies against α3 chain of type IV collagen in GBM and alveolar basement membrane → RPGN + pulmonary haemorrhage (Goodpasture's syndrome; anti-GBM disease without lung involvement also occurs). Young men and older women bimodal distribution. Triggers: smoking, hydrocarbon exposure, influenza, ANCA vasculitis overlap (dual positivity). Linear IgG on IF (pathognomonic). Anti-GBM antibodies in blood (ELISA — 95% sensitive). Crescent formation in >90% of glomeruli. Urgent treatment (before dialysis dependence): plasma exchange (removes pathogenic antibodies — daily for 2 weeks), immunosuppression (cyclophosphamide + prednisolone). If already dialysis-dependent and no pulmonary haemorrhage — immunosuppression may not improve renal outcome but treat for pulmonary involvement. Relapse rare (unlike ANCA vasculitis).
+
+ANCA-associated Vasculitis (AAV): systemic small vessel vasculitis. Three main forms:
+Granulomatosis with polyangiitis (GPA, formerly Wegener's): upper/lower respiratory tract + kidneys. Nasal/sinus involvement (saddle-nose deformity, bloody rhinorrhoea, nasal crusting), pulmonary nodules/infiltrates (cavitate), glomerulonephritis. PR3-ANCA (c-ANCA pattern) positive in 85%.
+Microscopic polyangiitis (MPA): predominantly renal ± pulmonary involvement, no granulomas. MPO-ANCA (p-ANCA) positive in 70%.
+Eosinophilic granulomatosis with polyangiitis (EGPA, Churg-Strauss): asthma + eosinophilia + systemic vasculitis. MPO-ANCA positive in 40%.
+Induction: cyclophosphamide IV pulses (CYCLOPS trial — equivalent to oral, less leukopenia) or rituximab (RAVE, RITUXVAS trials — non-inferior, preferred if relapsing or cyclophosphamide CI; also first-line in many centres) + high-dose glucocorticoids. Plasma exchange for dialysis-dependent or severe pulmonary haemorrhage (PEXIVAS trial — no survival benefit but reduces ESRD, now more selective use). Avacopan (selective C5a receptor blocker — replaces high-dose steroids, reduces side effects — ADVOCATE trial — superior to steroids for vasculitis response).
+Maintenance: rituximab (preferred — MAINRITSAN trials) or azathioprine or MMF. Minimum 24 months.
+Monitoring: ANCA titres, CRP, renal function, urinalysis.
+Relapse: PR3-ANCA higher relapse rate than MPO-ANCA.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 5: URINARY TRACT INFECTIONS (UTIs)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DEFINITIONS:
+Uncomplicated UTI: healthy non-pregnant premenopausal woman with no structural/functional abnormality or relevant comorbidity.
+Complicated UTI: all other patients — men, pregnant women, catheterised patients, structural/functional abnormality, immunocompromised, hospitalised, indwelling devices.
+Asymptomatic bacteriuria (ASB): significant bacteriuria (≥10⁵ CFU/mL on clean-catch MSU) without UTI symptoms. Treat only in: pregnant women (GBS and E. coli reduce preterm birth risk), before urological procedures causing mucosal bleeding. Do NOT treat in: elderly, catheterised patients, diabetics (no benefit, increases resistance).
+Lower UTI (cystitis): symptoms of dysuria, frequency, urgency, suprapubic discomfort. No upper tract features.
+Upper UTI (pyelonephritis): fever, rigors, loin/flank pain, nausea/vomiting ± lower tract symptoms. Complicated by bacteraemia in 30%.
+
+MICROBIOLOGY:
+E. coli: 75-80% of community UTIs. Virulence factors: type 1 and P fimbriae (adherence), haemolysin, aerobactin, serum resistance.
+Staphylococcus saprophyticus: 10-15% in young sexually active women.
+Klebsiella pneumoniae, Proteus mirabilis (splits urea → alkaline urine → struvite stones), Enterococcus faecalis: less common.
+Hospital-acquired (catheter-associated): E. coli, Klebsiella, Pseudomonas, Enterococcus, Candida.
+Uropathogenic organisms: ESBL-producing Enterobacteriaceae (extended-spectrum beta-lactamase — resistant to most penicillins and cephalosporins — increasing prevalence, risk factors: prior antibiotics, travel, healthcare exposure, nursing home residence).
+
+DIAGNOSIS:
+Dipstick: leucocyte esterase (pyuria, sensitivity 75%, specificity 82%), nitrites (gram-negative bacteria convert nitrate → nitrite, sensitivity 50%, specificity 98%). Combined: good negative predictive value (if both negative, UTI unlikely). Not reliable in: elderly (false positives), catheterised patients.
+MSU (midstream urine): for culture/sensitivity. Not always necessary for uncomplicated cystitis in young women (treat empirically). Always send before antibiotics in: pyelonephritis, men, children, pregnancy, recurrent UTI, catheterised, hospitalised, immunocompromised, failed empirical treatment.
+Microscopy: pyuria >10 WBCs/mL. Haematuria (common in cystitis). Bacteria. Casts (WBC casts — pyelonephritis/AIN; red cell casts — GN).
+Imaging: USS renal tract — for recurrent UTI (men, children, structural abnormality suspected), pyelonephritis not responding to treatment (obstruction, abscess). CT KUB — stones, obstruction.
+
+TREATMENT:
+Uncomplicated cystitis (women): 3-day course empirical antibiotics. UK: nitrofurantoin 100mg MR BD (avoid if eGFR <30 — risk of pulmonary toxicity with prolonged use, but effective for 3-7 day course at eGFR 30-45); trimethoprim 200mg BD (avoid if high local resistance >20%); pivmecillinam 400mg TDS. Single dose fosfomycin (3g) alternative. Avoid fluoroquinolones (ciprofloxacin) for uncomplicated UTI (reserve for pyelonephritis; risk of Clostridioides difficile, tendinopathy, aortic aneurysm).
+Pyelonephritis (outpatient): 7-10 days oral ciprofloxacin (500mg BD) or co-amoxiclav (if sensitivity confirmed). If travel/healthcare exposure or known ESBL risk: send culture, tailor therapy. IV antibiotics for severe illness, vomiting (co-amoxiclav IV, gentamicin IV, meropenem for ESBL). Switch oral when improving.
+Catheter-associated UTI (CAUTI): do not treat asymptomatic — change catheter if present >7 days and treat if symptomatic (fever, rigors, new offensive urine). Remove catheter if possible. 7-day course.
+Recurrent UTI (women): defined as ≥2 episodes in 6 months or ≥3 in 12 months. Management: identify triggers (sexual intercourse — post-coital antibiotic), voiding advice (void before/after intercourse, hydration, avoid irritants). Self-start/standby antibiotics. Low-dose prophylaxis (trimethoprim 100mg nocte, nitrofurantoin 50-100mg nocte — for 6-12 months). Vaginal oestrogen (postmenopausal — restores vaginal flora). Cranberry (proanthocyanidins — prevents E. coli adherence; evidence modest). Methenamine hippurate (urinary antiseptic — alternative to antibiotic prophylaxis). Vaccines (MV-140 — multi-strain inactivated bacterial vaccine, sublingual).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 6: UROLOGICAL CONDITIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+BENIGN PROSTATIC HYPERPLASIA (BPH):
+Enlargement of transitional zone of prostate → bladder outlet obstruction. Prevalence: 50% at 60 years, 90% at 85 years. Symptoms (LUTS — lower urinary tract symptoms): storage (frequency, nocturia, urgency, urge incontinence) and voiding (hesitancy, poor stream, intermittency, straining, incomplete emptying, post-micturition dribble). Score with IPSS (International Prostate Symptom Score).
+Complications: urinary retention (acute: painful bladder; chronic: painless, often with overflow incontinence and renal impairment), recurrent UTIs, haematuria, bladder stones, renal impairment (bilateral hydronephrosis from chronic retention).
+Investigation: IPSS, DRE (enlarged rubbery prostate), PSA (to exclude prostate cancer — elevated in BPH, UTI, prostatitis, malignancy), urinalysis, creatinine, uroflowmetry (peak flow rate <10 mL/sec), post-void residual (USS or bladder scan), flexible cystoscopy if haematuria or diagnostic uncertainty.
+Treatment: watchful waiting (mild LUTS, IPSS <8). Alpha-1 blockers (tamsulosin, alfuzosin, doxazosin, silodosin): relax smooth muscle of prostate and bladder neck → improve flow, reduce LUTS. Rapid onset (days). Side effects: orthostatic hypotension, retrograde ejaculation (especially tamsulosin/silodosin), nasal congestion. 5-alpha reductase inhibitors (5-ARIs — finasteride, dutasteride): inhibit conversion of testosterone to DHT (potent androgen) → glandular atrophy → prostate volume reduction 20-25%. Slow onset (months). Reduce PSA by 50% (account for this in cancer screening). Side effects: sexual dysfunction (erectile dysfunction, reduced libido, ejaculatory disorder), gynaecomastia. Most effective for large prostates (>40 mL). Combination (alpha-blocker + 5-ARI): MTOPS trial — superior to monotherapy for preventing progression. PDE5 inhibitors (tadalafil 5mg daily): approved for LUTS/BPH, also treats concurrent erectile dysfunction. Anticholinergics / beta-3 agonists (mirabegron): add for storage symptoms if predominant after voiding symptoms treated.
+Surgical: TURP (transurethral resection of prostate — gold standard; TURP syndrome — hyponatraemia from irrigation fluid absorption — use bipolar TURP or Holmium laser to avoid). Holmium laser enucleation (HoLEP — prostate enucleation, bleeding risk lower than TURP, suitable for large glands). GreenLight laser photoselective vaporisation (PVP). Prostatic urethral lift (Urolift — UroLift device, implants stent-like structure to open urethra). Rezūm (water vapour therapy — steam destroys prostatic tissue). Open/laparoscopic prostatectomy for very large glands.
+
+PROSTATE CANCER:
+Most common cancer in men in UK (>47,000 diagnoses/year). Second commonest cause of male cancer death. Adenocarcinoma (98%), arising in peripheral zone. Risk factors: age (rare <50, common >70), family history (2× risk first-degree relative), ethnicity (Black men 2× higher risk, Afro-Caribbean men highest risk globally), BRCA1/BRCA2 mutations (particularly BRCA2 — 8× risk, higher Gleason scores, worse prognosis).
+Grading: Gleason score (1-5 for each of the two most predominant patterns, summed 2-10) → Grade Group (GG1 = Gleason 3+3=6, GG2 = 3+4=7, GG3 = 4+3=7, GG4 = 4+4=8, GG5 = 9-10). Higher grade = worse prognosis.
+PSA (prostate-specific antigen): glycoprotein produced by prostate epithelium. Not cancer-specific — elevated in BPH, prostatitis, urinary retention, trauma, instrumentation, vigorous exercise, ejaculation (24h avoidance). Free/total PSA ratio: lower ratio (<10%) more likely cancer. PSA density (PSA/prostate volume): >0.15 ng/mL/mL suspicious. PSA velocity (rate of rise). Normal age-specific ranges: <50 years <2.5 ng/mL; 50-70 <4.0 ng/mL; >70 <5.0 ng/mL (variable by guideline).
+Symptoms: often asymptomatic. LUTS (large central tumour), haematuria, haematospermia, erectile dysfunction, bone pain (metastases — predilection for vertebrae, pelvis, ribs, skull; osteoblastic lesions), neurological (spinal cord compression — emergency).
+Diagnosis: prostate biopsy (transperineal preferred — lower infection risk; transrectal TRUS — higher infection risk, antibiotic prophylaxis). MRI prostate (multi-parametric mpMRI — T2, DWI, DCE): performed before biopsy (PRECISION, PROMIS trials) — identifies significant cancer, reduces unnecessary biopsy, guides targeted biopsy (PI-RADS score 1-5). Targeted + systematic biopsy recommended.
+Staging: TNM, PSA, Gleason grade. Bone scan (bone metastases), CT chest/abdomen/pelvis (lymph node/visceral metastases), PSMA PET-CT (most sensitive for lymph node and metastatic staging — now preferred over bone scan + CT in many centres).
+Risk stratification (localised disease): NICE — low risk (PSA <10, GG1, T1-T2a), intermediate risk (PSA 10-20, GG2-3, T2b-T2c), high risk (PSA >20, GG4-5, T3-T4).
+
+Treatment:
+Localised (low risk): active surveillance (AS) — PSA every 3-6 months, repeat MRI and biopsy at 1 year, annual MRI. Appropriate for GG1 and selected GG2. Avoids overtreatment. PRIAS protocol. Vigilant monitoring for reclassification (triggers treatment).
+Localised (curative intent — intermediate/high risk): radical prostatectomy (open, laparoscopic, robotic-assisted — daVinci — most common in USA; complications: erectile dysfunction 30-70%, urinary incontinence 5-30%, rectal injury <1%); radical radiotherapy (external beam 78 Gy — image-guided IMRT; stereotactic body RT/SABR — 5 fractions; brachytherapy — LDR seeds or HDR); combination RT + ADT (androgen deprivation therapy) for intermediate/high risk.
+Locally advanced/metastatic: ADT (LHRH agonists — goserelin, leuprorelin — pituitary desensitisation → testosterone suppression; testosterone flare with initial dose → add anti-androgen for first 2-4 weeks. LHRH antagonists — degarelix, relugolix — no flare, immediate testosterone suppression). Anti-androgens (bicalutamide, enzalutamide, apalutamide, darolutamide — second-generation, block androgen receptor; abiraterone — inhibits CYP17 → blocks androgen biosynthesis in adrenal, testicular, tumour). Metastatic hormone-sensitive PC (mHSPC): ADT + docetaxel (CHAARTED, STAMPEDE) OR ADT + abiraterone (LATITUDE) OR ADT + enzalutamide/apalutamide/darolutamide — triplet (ADT + docetaxel + darolutamide — ARASENS) superior in high-volume disease. Metastatic castrate-resistant PC (mCRPC): enzalutamide, abiraterone, cabazitaxel, radium-223 (bone mets, prolongs OS), PARP inhibitors (olaparib, rucaparib — for BRCA1/2 or HRR gene mutations — 20-25% mCRPC; PROfound trial), pembrolizumab (MSI-H/dMMR, TMB-high). Lu-177 PSMA: PSMA-targeted radioligand therapy — VISION trial — improves OS in mCRPC. Bone protection: zoledronic acid or denosumab (reduce skeletal-related events).
+
+BLADDER CANCER:
+Second most common urological malignancy. M:F 3:1. Risk factors: smoking (most important — 50% of cases), occupational exposure (aromatic amines — rubber, dye, leather workers), cyclophosphamide (haemorrhagic cystitis → urothelial cancer), chronic schistosomiasis (squamous cell), pelvic irradiation, chronic indwelling catheter. Urothelial carcinoma (transitional cell — 90%), squamous cell, adenocarcinoma.
+Presentation: painless visible haematuria (until proven otherwise — urgent 2WW referral). Irritative symptoms (frequency, urgency) with haematuria — suspect CIS (carcinoma in situ). Obstructive symptoms, pelvic pain — locally advanced.
+Investigation: flexible cystoscopy (diagnosis, biopsy), CT urogram (upper tract assessment, staging), MRI pelvis (muscle invasion).
+Staging: non-muscle invasive bladder cancer (NMIBC) — Ta (papillary, confined to mucosa), T1 (invades lamina propria), CIS (flat high-grade); muscle invasive (MIBC) — T2 (muscularis propria), T3 (perivesical fat), T4 (adjacent structures).
+Treatment:
+NMIBC: TURBT (transurethral resection of bladder tumour) — single immediate instillation of mitomycin C post-TURBT. Risk stratification → surveillance (flexible cystoscopy intervals) ± intravesical treatment. High-risk (T1 HG, CIS, multifocal HG): BCG (Bacillus Calmette-Guérin) immunotherapy — instilled intravesically, activates local immune response. BCG shortage: MMC (mitomycin C), gemcitabine. Radical cystectomy for BCG-unresponsive high-risk NMIBC. Pembrolizumab (KEYNOTE-057) for BCG-unresponsive CIS.
+MIBC: radical cystectomy (standard of care for fit patients — neoadjuvant cisplatin-based chemotherapy — ddMVAC or GC — improves survival) or radical radiotherapy with concurrent chemotherapy (equivalent for bladder preservation in selected). Ileal conduit or neobladder (orthotopic ileal neobladder — continent, micturates per urethra) after cystectomy. Metastatic: cisplatin-based chemotherapy (GC, ddMVAC). Enfortumab vedotin + pembrolizumab (EV-302 trial — superior to chemotherapy in cisplatin-eligible metastatic UC, now first-line preferred). Erdafitinib (FGFR3 inhibitor — for FGFR3/2 mutations), sacituzumab govitecan, avelumab maintenance.
+
+KIDNEY CANCER (RENAL CELL CARCINOMA — RCC):
+90% of renal malignancies in adults. Most common: clear cell RCC (80% — VHL gene mutation/loss in 75%; sporadic or in von Hippel-Lindau syndrome). Others: papillary type I (MET), papillary type II (FH mutation — hereditary leiomyomatosis RCC), chromophobe (BHD syndrome — Birt-Hogg-Dubé), oncocytoma (benign). Incidence 3× higher in men; risk factors: smoking, obesity, hypertension, von Hippel-Lindau disease, ADPKD, occupational exposure (cadmium, asbestos).
+Presentation: classic triad (haematuria, flank pain, palpable mass) — present in <10%, indicates advanced disease. Haematuria most common. Incidental finding on abdominal USS/CT (most common now). Paraneoplastic: polycythaemia (EPO production), hypercalcaemia (PTHrP), hypertension (renin), Stauffer's syndrome (non-metastatic hepatic dysfunction), fever, weight loss.
+Staging: CT chest/abdomen/pelvis. MRI renal vein/IVC assessment (tumour thrombus). Bone scan if bone pain/elevated ALP. PET-CT (selected).
+Treatment localised: nephron-sparing surgery (partial nephrectomy — for T1a <4cm; laparoscopic or robotic preferred). Radical nephrectomy (T2+; laparoscopic). Ablation (radiofrequency, cryotherapy — for small tumours in elderly/comorbid). Surveillance for very small (<2cm) incidentally detected tumours in elderly. Active surveillance (biopsy-proven RCC <3cm — low growth rate, low risk of metastasis).
+Adjuvant (high-risk localised): sunitinib (ASSURE trial — no benefit), pembrolizumab (KEYNOTE-564 — reduces recurrence in high-risk), sunitinib alternative second-line.
+Metastatic: immune checkpoint inhibitors ± TKI:
+First-line: nivolumab + ipilimumab (CheckMate 214 — favourable and intermediate/poor IMDC risk — CR rate 11%), cabozantinib + nivolumab (CheckMate 9ER), lenvatinib + pembrolizumab (CLEAR — highest ORR), axitinib + pembrolizumab (JAVELIN — axitinib + avelumab).
+Sunitinib, pazopanib (VEGFR TKI monotherapy — still used in selected): anti-VEGFR TKIs.
+Second-line: cabozantinib (METEOR), nivolumab (CheckMate 025), axitinib, lenvatinib + everolimus.
+Belzutifan (HIF-2α inhibitor) for VHL disease or VHL-mutated sporadic RCC.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 7: RENAL STONES (NEPHROLITHIASIS)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+EPIDEMIOLOGY:
+Lifetime risk 10-15% in developed countries (M:F 2:1). Recurrence 50% at 5 years without prevention. Peak age 30-60 years.
+
+TYPES:
+Calcium oxalate (75-80%): most common. Radiopaque on plain film. Causes: hypercalciuria (absorptive — increased intestinal Ca absorption; renal leak — impaired tubular reabsorption; resorptive — primary hyperparathyroidism), hyperoxaluria (primary — rare enzyme deficiency; enteric — oxalate absorption increased in IBD/short bowel from fat malabsorption and bile salt diarrhea; dietary — nuts, spinach, chocolate, tea; low oxalate diet, calcium supplementation at meals to bind intestinal oxalate), hypocitraturia (citrate inhibits stone formation; low in distal RTA, chronic diarrhoea, metabolic acidosis — treat with potassium citrate), low urine volume (concentration of lithogenic substances).
+Calcium phosphate (15%): radiopaque. Associated with distal renal tubular acidosis (incomplete — subclinical), primary hyperparathyroidism, alkaline urine.
+Uric acid (5-10%): radiolucent (not seen on plain film, visible on CT). Causes: gout, purine-rich diet, low urine volume, persistently acidic urine (pH <5.5 — uric acid insoluble; occurs in metabolic syndrome, T2DM, gout, chronic diarrhoea). Treatment: alkalinise urine (potassium citrate or sodium bicarbonate — target urine pH 6.5-7.0), reduce uric acid (allopurinol), hydration. Existing stones can dissolve with urinary alkalinisation — unique among stone types.
+Struvite/infection stones (5-10%): magnesium ammonium phosphate + calcium carbonate. Caused by urea-splitting organisms (Proteus, Pseudomonas, Klebsiella, Staphylococcus — not E. coli which does not split urea). Alkaline urine (pH >7). Often staghorn calculi filling renal pelvis. Require complete stone removal + long-term antibiotics. Acetohydroxamic acid (urease inhibitor) to prevent recurrence.
+Cystine stones (1%): autosomal recessive cystinuria — defective renal tubular transport of cystine, ornithine, lysine, arginine → cystine crystalluria. Hexagonal crystals on microscopy. Present in childhood/early adulthood, recurrent. Radiopaque (faintly). Treatment: high fluid intake (>3L/day), urinary alkalinisation (target pH >7.5), D-penicillamine or tiopronin (forms soluble complexes with cystine).
+
+PRESENTATION:
+Renal colic: sudden severe loin pain radiating to groin/genitalia (as stone tracks ureter), colicky (spasmodic), patient unable to get comfortable (writhes — contrast with peritonitis where lies still). Nausea, vomiting, haematuria (microscopic in 85%, macroscopic in 50%).
+Ureteral colic: flank → iliac fossa → groin. Lower ureteric stone (vesico-ureteric junction) → urinary urgency/frequency (mimics cystitis), referred pain to ipsilateral testicle/labia.
+Silent obstruction: hydronephrosis without pain (complete obstruction — pain decreases once hydrostatic pressure equilibrates).
+
+INVESTIGATION:
+Urine dipstick: haematuria (85% but absence does not exclude).
+CT KUB (non-contrast): gold standard — 96-98% sensitive for all stone types including uric acid (radiolucent). Identifies stone position, size, degree of obstruction, alternative diagnoses. Low dose protocol available.
+USS renal tract: preferred in pregnancy, children, follow-up. Less sensitive than CT for ureteric stones. Shows hydronephrosis.
+Plain abdominal X-ray (KUB): detects radiopaque stones (calcium oxalate/phosphate, struvite, cystine). 50-60% sensitive. Useful for follow-up.
+Metabolic evaluation (for recurrent/high-risk stones): 24-hour urine (calcium, oxalate, citrate, uric acid, sodium, volume, pH, creatinine), serum calcium, phosphate, uric acid, bicarbonate, PTH (if hypercalcaemia). Stone analysis (infrared spectroscopy/X-ray diffraction) — send stone if available.
+
+MANAGEMENT:
+Acute renal colic: analgesia (NSAIDs first-line — diclofenac IM/PR superior to opioids for ureteric colic; opiates for breakthrough — titrated IV morphine; avoid ketorolac in renal impairment), antiemetics. Hydration. Medical expulsive therapy (MET): alpha-blockers (tamsulosin 0.4mg OD — relaxes smooth muscle of distal ureter → facilitates stone passage) for stones <10mm; NNT ~4 to avoid intervention.
+Indications for urgent intervention: obstructed infected kidney (sepsis + obstruction = emergency — urgent drainage: nephrostomy or JJ stent + antibiotics — septic shock risk), AKI from bilateral obstruction, uncontrollable pain, single functioning kidney.
+Definitive stone management:
+Observation (expectant): stones <10mm (pass spontaneously 70% for distal ureter; 25% for proximal). Review 4-6 weeks.
+Extracorporeal shock wave lithotripsy (ESWL): focussed shock waves fragment stones. First-line for renal and proximal ureteric stones <2cm. Non-invasive. Multiple sessions may be needed. Contraindications: pregnancy, coagulopathy, aortic aneurysm, pacemaker, distal obstruction.
+Ureteroscopy + laser lithotripsy (URS): rigid or flexible ureteroscope passed up ureter; Holmium laser fragments stone; fragments retrieved or passed. First-line for ureteric stones (any size), lower pole renal stones, stones <2cm where ESWL failed.
+Percutaneous nephrolithotomy (PCNL): nephroscope inserted via percutaneous track through back into renal collecting system. First-line for complex/large (>2cm) renal stones. Higher complications: bleeding (transfusion 5-10%), sepsis, adjacent organ injury.
+Laparoscopic/open surgery: rare, reserved for complex anatomy, failed other approaches.
+
+PREVENTION:
+All patients: high fluid intake (target urine output >2-2.5 L/day; dilute urine; water is best — citrus drinks also useful — orange, lemon juice adds urinary citrate). Dietary advice: moderate protein (not restriction), sodium restriction (reduces urinary calcium), avoid high oxalate foods (calcium oxalate stones), low-fat diet (enteric hyperoxaluria).
+Calcium oxalate with hypercalciuria: thiazide diuretics (hydrochlorothiazide, indapamide — reduce renal calcium excretion by 30-40%), reduce dietary sodium and animal protein.
+Hypocitraturia: potassium citrate (raises urinary citrate and pH).
+Hyperuricosuria: allopurinol, potassium citrate, purine restriction.
+Uric acid stones: potassium citrate, allopurinol.
+Struvite: complete stone removal, treat underlying infection.
+
+END OF NEPHROLOGY AND UROLOGY TRAINING DATA
+Total: ~12,000 words | Sections: 7 | Estimated chunks: ~95

@@ -1,0 +1,472 @@
+NEUROLOGY — COMPREHENSIVE MEDICAL REFERENCE
+============================================
+Source: Medical Training Data for AIVARA Healthcare AI
+Category: Neurology | Version: 1.0
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 1: STROKE AND CEREBROVASCULAR DISEASE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DEFINITION:
+Stroke is defined by the WHO as a clinical syndrome of rapidly developing focal or global disturbance of cerebral function lasting more than 24 hours or leading to death, with no apparent cause other than a vascular one. TIA (transient ischaemic attack) is a transient episode of neurological dysfunction caused by focal brain, spinal cord, or retinal ischaemia without acute infarction, typically lasting <1 hour.
+
+EPIDEMIOLOGY:
+Stroke is the second leading cause of death globally and the leading cause of adult acquired disability. Approximately 13.7 million new strokes occur each year worldwide. UK incidence: approximately 100,000 strokes per year. Lifetime risk: 1 in 4. Mortality: 20-25% at 1 month, 40% at 1 year. 50% of survivors have some permanent disability.
+
+CLASSIFICATION:
+Ischaemic stroke (85%): thrombotic or embolic occlusion of cerebral arteries.
+Haemorrhagic stroke (15%):
+- Intracerebral haemorrhage (ICH): 10-15%, bleeding into brain parenchyma.
+- Subarachnoid haemorrhage (SAH): 5%, bleeding into subarachnoid space.
+
+ISCHAEMIC STROKE — CAUSES:
+TOAST classification:
+1. Large artery atherosclerosis (25%): thrombotic occlusion or artery-to-artery embolism from carotid/vertebral/basilar stenosis. Features: previous TIA, carotid bruit, stenosis >50% on imaging.
+2. Cardioembolism (25%): AF (most common cardiac source), mitral stenosis, dilated cardiomyopathy, mural thrombus post-MI, patent foramen ovale (controversial in young stroke), prosthetic valves, endocarditis. Features: cortical infarcts, multiple territory infarcts, haemorrhagic transformation.
+3. Small vessel occlusion/lacunar (25%): occlusion of penetrating arteries (lenticulostriate, basilar perforators) from lipohyalinosis in hypertension/diabetes. Pure motor, pure sensory, sensorimotor, ataxic-hemiparesis, dysarthria-clumsy hand syndromes. No cortical features. Better prognosis.
+4. Other determined aetiology (5%): dissection (young patients — neck trauma, chiropractic manipulation, spontaneous in connective tissue disorders), vasculitis (PAN, GCA, CNS vasculitis), hypercoagulable states (antiphospholipid syndrome, Factor V Leiden, malignancy), sickle cell disease, moyamoya.
+5. Undetermined/cryptogenic (20%): despite full investigation, no cause found. Often young patients. Consider prolonged cardiac monitoring (AF paroxysmal).
+
+VASCULAR TERRITORIES:
+Middle cerebral artery (MCA — most common): contralateral hemiplegia (arm > leg in cortical, face + arm + leg in capsular), contralateral hemisensory loss, contralateral homonymous hemianopia, gaze deviation towards lesion. Dominant hemisphere (usually left): aphasia (expressive/Broca's if anterior, receptive/Wernicke's if posterior, global if total MCA). Non-dominant hemisphere: hemineglect, visuospatial difficulties, anosognosia, dressing apraxia.
+
+Anterior cerebral artery (ACA): contralateral leg > arm weakness, personality change (frontal lobe), incontinence, grasp reflex.
+
+Posterior cerebral artery (PCA): contralateral homonymous hemianopia (with macular sparing), visual agnosia, alexia without agraphia (left PCA), memory impairment (bilateral PCA — anterograde amnesia), thalamic pain syndrome.
+
+Vertebrobasilar (posterior circulation): brainstem and cerebellar features — vertigo, diplopia, dysphagia, dysarthria, ataxia, crossed signs (ipsilateral CN palsies + contralateral motor/sensory), Horner's syndrome, nystagmus. Specific syndromes:
+Lateral medullary syndrome (Wallenberg): PICA occlusion. Ipsilateral: facial pain/temperature loss, Horner's, palatal/vocal cord palsy (hoarseness, dysphagia), limb ataxia, hiccups. Contralateral: body pain/temperature loss. Preserved motor power.
+Weber syndrome (midbrain): CN III palsy + contralateral hemiplegia.
+Locked-in syndrome: basilar artery occlusion at pons. Quadriplegia + anarthria + preserved consciousness + vertical eye movements only. Not a stroke syndrome strictly — patient is conscious but unable to move.
+
+LACUNAR SYNDROMES:
+Pure motor hemiparesis: internal capsule or basis pontis. Contralateral face/arm/leg weakness, no sensory/visual/cortical features.
+Pure sensory stroke: thalamus. Contralateral hemisensory loss.
+Sensorimotor stroke: thalamocapsular. Both motor and sensory.
+Ataxic hemiparesis: basis pontis or posterior internal capsule. Limb weakness + ipsilateral limb ataxia (disproportionate to motor deficit).
+Dysarthria-clumsy hand: basis pontis or genu of internal capsule.
+
+DIAGNOSIS AND IMAGING:
+Non-contrast CT head: immediate (within 25 minutes of arrival), excludes haemorrhage (haemorrhage bright white), early ischaemic changes (ASPECTS score for MCA territory). CT cannot reliably detect ischaemia in first 6-24 hours.
+CT angiography (CTA): identifies large vessel occlusion (LVO) — basilar artery, internal carotid artery, proximal MCA. Essential to guide thrombectomy decision.
+CT perfusion: identifies ischaemic core (irreversibly damaged) vs penumbra (salvageable tissue). Extends the window for thrombectomy.
+MRI/DWI (diffusion-weighted imaging): most sensitive for acute ischaemia (minutes of onset). Restricted diffusion = acute infarction. ADC map confirms acute DWI lesion. MRI preferred if posterior circulation/posterior fossa (CT less sensitive).
+Carotid Doppler/CTA: assess for carotid stenosis (large artery source).
+Echocardiography: assess for cardiac source. TOE if PFO suspected.
+Prolonged cardiac monitoring (7-30 days): AF detection in cryptogenic stroke (detected in 15-25% with prolonged monitoring vs 5% on standard Holter).
+Blood tests: FBC (polycythaemia, thrombocytopenia), coagulation (anticoagulant effect, DIC), lipids, glucose (hyperglycaemia worsens outcome), CRP, ESR, vasculitis screen in young patients, thrombophilia screen.
+
+ACUTE STROKE MANAGEMENT — "TIME IS BRAIN":
+Every 1 minute of LVO stroke = 1.9 million neurons lost. Rapid treatment is paramount.
+
+Immediate assessment: ABC, blood glucose (hypoglycaemia mimics stroke — treat immediately), BP (do not lower acutely unless >220/120 or thrombolysis planned), CT head.
+
+IV thrombolysis (alteplase): 0.9 mg/kg IV (max 90mg, 10% bolus, rest over 60 min) for ischaemic stroke.
+Indication: within 4.5 hours of known symptom onset (or last-seen-well if uncertain onset).
+Contraindications: haemorrhage on CT, anticoagulation with therapeutic effect, BP >185/110 (treat first), glucose <2.7 or >22.2, previous haemorrhagic stroke, major surgery/trauma <3 months, GI/urinary haemorrhage <3 weeks, platelets <100, seizure at onset with residual postictal deficit, active bleeding.
+Number needed to treat: 1 in 8 benefit from independent outcome at 3 months (NNT 7-8 for disability reduction). Benefit diminishes rapidly with time.
+Tenecteplase (0.25 mg/kg IV bolus): increasingly used — simpler administration, similar or better efficacy, may be superior for LVO.
+
+Mechanical thrombectomy (EVT/MT): for large vessel occlusion (LVO) — MCA M1/M2, ICA, basilar artery.
+Within 6 hours of symptom onset: all eligible LVO patients regardless of thrombolysis status.
+6-24 hours with favourable penumbra (DAWN/DEFUSE-3 trials): selected patients with small core + large penumbra. Extended to 24 hours in basilar artery occlusion.
+Devices: stent retrievers (Solitaire, Trevo) and/or aspiration catheters. Achieves recanalisation in 60-80%. NNT 2.6 for improved functional outcome. Can be combined with alteplase (bridging therapy) or used alone.
+Outcomes: thrombectomy dramatically changed stroke outcomes — previously untreatable large strokes now frequently treatable.
+
+Aspirin 300mg: if haemorrhage excluded on CT and thrombolysis not given — start within 24-48 hours (delayed by 24h if thrombolysis given). Reduces early recurrence 7/1000 treated.
+Blood pressure: avoid hypotension (impairs penumbra perfusion). If not thrombolysing: tolerate up to 220/120. After thrombolysis: keep <180/105 for 24h.
+Blood glucose: maintain 4-11 mmol/L. Both hypo and hyperglycaemia worsen outcomes. IV insulin if >11 mmol/L.
+Temperature: treat fever (antipyretics). Each 1°C increase in temperature worsens neurological outcome.
+Swallowing assessment: BEFORE oral intake (nil by mouth until assessed — aspiration risk).
+DVT prophylaxis: TED stockings immediately; LMWH after 24-48 hours (CT confirms no haemorrhagic transformation).
+
+STROKE UNIT CARE:
+Dedicated stroke unit care reduces death or disability by 20% compared to general medical wards (equivalent to giving thrombolysis to an extra 5 patients per 100 treated). Multidisciplinary team: neurologist, stroke nurse, physiotherapist, occupational therapist, speech and language therapist, dietitian, psychologist, social worker.
+
+SECONDARY PREVENTION:
+Antiplatelet: aspirin 75mg + clopidogrel 75mg for 3 weeks (CHANCE/POINT trials — dual antiplatelet for high-risk TIA/minor stroke reduces 90-day stroke by 30-40%), then clopidogrel 75mg long-term (superior to aspirin alone). Or aspirin/dipyridamole (Aggrenox) as alternative.
+Anticoagulation: for cardioembolic stroke (AF — DOAC superior to aspirin, start 4-14 days post-stroke depending on size). Do not use antiplatelet + anticoagulant routinely.
+Carotid endarterectomy (CEA): for symptomatic carotid stenosis >70% (or 50-69% in selected cases). Ideally within 14 days of TIA/minor stroke (highest benefit when risk highest). Reduces 5-year ipsilateral stroke risk from 26% to 9%. CREST trial: carotid stenting alternative, higher periprocedural stroke risk, lower MI risk.
+Statin: high-intensity statin (atorvastatin 80mg) regardless of baseline LDL.
+Blood pressure: target <130/80. Start or intensify treatment after acute phase (24-48h).
+HbA1c optimisation in diabetes.
+Lifestyle: smoking cessation, Mediterranean diet, exercise, alcohol reduction.
+AF management: rhythm vs rate control, anticoagulation.
+
+INTRACEREBRAL HAEMORRHAGE (ICH):
+Bleeding into brain parenchyma. Causes: hypertension (most common — basal ganglia, thalamus, pons, cerebellum), cerebral amyloid angiopathy (CAA — elderly, lobar haemorrhages, recurrent), anticoagulants/thrombolytics, arteriovenous malformations (AVMs — younger patients, any location), cavernomas, haemorrhagic transformation of ischaemic stroke, vasculitis, coagulopathy.
+Presentation: sudden onset headache, vomiting, altered consciousness (more common than ischaemic), focal deficits.
+CT: hyperdense (bright) lesion with potential surrounding oedema and mass effect. Spot sign on CTA (active contrast extravasation = haematoma expansion risk).
+Management: reversal of anticoagulation urgently (PCC/FFP for warfarin; idarucizumab for dabigatran; andexanet alfa for factor Xa inhibitors; protamine for heparin). Blood pressure control: target SBP <140 within 1 hour (INTERACT-2 trial). Avoid aggressive over-lowering. Surgical evacuation: controversy — STICH trial showed no benefit for supratentorial ICH; may benefit cerebellar haematoma >3cm causing brainstem compression. Rehabilitation in stroke unit. Prognosis worse than ischaemic stroke — 30-day mortality 35-40%.
+
+SUBARACHNOID HAEMORRHAGE (SAH):
+Bleeding into subarachnoid space. Incidence: 9 per 100,000/year. Peak age 40-60. Female predominance. 50% caused by rupture of intracranial aneurysm (saccular/"berry" aneurysm — most common at anterior communicating artery, posterior communicating artery, MCA bifurcation). Risk factors: smoking, hypertension, alcohol, family history, polycystic kidney disease, connective tissue disorders (Ehlers-Danlos, Marfan), coarctation of aorta.
+Classic presentation: "thunderclap headache" — sudden onset, severe headache (worst of life), "like being hit over the head with a bat." May be associated with neck stiffness, photophobia (meningism), vomiting, brief LOC, focal deficits (CN III palsy — posterior communicating artery aneurysm).
+Diagnosis:
+CT head (non-contrast): 98% sensitive within 6 hours of onset. Hyperdense blood in subarachnoid spaces, basal cisterns, sylvian fissures. Sensitivity falls to 85-90% at 24h and <50% at 1 week.
+Lumbar puncture: if CT negative and <6h from onset — check for xanthochromia (yellow discolouration of CSF from haemoglobin breakdown, present 2h-2 weeks after SAH) and raised red cell count. Also spectrophotometry for oxyhaemoglobin and bilirubin.
+CT angiography: identifies aneurysm (sensitivity >95% for aneurysms >5mm). Digital subtraction angiography (DSA): gold standard, used if CTA inconclusive and planning intervention.
+Grading: WFNS (World Federation of Neurological Surgeons — GCS + motor deficit) or Hunt and Hess (clinical), Fisher scale (CT blood burden — predicts vasospasm risk).
+Management: neurosurgical ITU, nimodipine (60mg 4-hourly for 21 days — reduces vasospasm and improves neurological outcome), maintain euvolaemia (avoid dehydration — vasospasm risk), avoid NSAIDs, aneurysm securing (coiling via endovascular route preferred over surgical clipping — ISAT trial; clipping for complex geometry or middle cerebral aneurysms).
+Complications: re-bleeding (highest risk first 24h, 4% per day — major preventable complication), cerebral vasospasm (Days 4-14, peaks Day 7, 30-70%, causes delayed ischaemic neurological deficit — DCI), hydrocephalus (acute — blood in CSF outflow pathways; treat with external ventricular drain; chronic communicating hydrocephalus — VP shunt), hyponatraemia (SIADH or cerebral salt wasting — treat differently), seizures, cardiac arrhythmias (troponin elevation, neurogenic pulmonary oedema).
+Prognosis: overall mortality 30-40%. Of survivors, 30% have significant disability.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 2: HEADACHE DISORDERS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+MIGRAINE:
+Most common neurological disorder. Prevalence 12-18% of population (3:1 female predominance). Annual cost to UK economy >£2 billion. Familial tendency. Classified: without aura (common migraine, 75%), with aura (classic migraine, 25%).
+
+PATHOPHYSIOLOGY:
+Cortical spreading depression (CSD): wave of neuronal depolarisation spreading from occipital to frontal cortex at 3-5 mm/min — correlates with migraine aura. CSD activates trigeminal nerve endings in meninges → neurogenic inflammation → pain via trigeminocervical complex → thalamus → cortex. Calcitonin gene-related peptide (CGRP) released during migraine — plays key role in pain sensitisation. Central and peripheral sensitisation contribute to allodynia.
+
+PHASES:
+Prodrome (24-48h before): mood change, yawning, food cravings, neck stiffness — hypothalamic involvement.
+Aura (20-60 min): reversible focal neurological symptoms. Visual (most common — fortification spectra/scintillating scotoma, spreading from centre to periphery), sensory (tingling/numbness spreading up arm), motor (rare — hemiplegic migraine, CACNA1A gene mutation), speech. Aura spreads gradually (distinguishes from TIA — which is sudden onset).
+Headache phase (4-72 hours): unilateral throbbing headache (bilateral in 40%), moderate-severe intensity, worsened by movement, nausea/vomiting, photophobia, phonophobia, osmophobia.
+Postdrome: fatigue, cognitive impairment, mood change.
+
+MIGRAINE SUBTYPES:
+Migraine with brainstem aura (basilar migraine): vertigo, dysarthria, diplopia, tinnitus, bilateral paraesthesiae. Rare, avoid triptans/ergots (theoretical vasospasm risk in basilar artery — though debated).
+Hemiplegic migraine: motor aura (reversible hemiplegia). Familial (CACNA1A, ATP1A2, SCN1A mutations) or sporadic.
+Chronic migraine: ≥15 headache days/month for >3 months, of which ≥8 are migraine. Often related to medication overuse (MOH).
+Medication overuse headache (MOH): opioids and triptans used >10 days/month, NSAIDs >15 days/month → transformation to daily headache. Treatment: complete withdrawal (rebound headache 2-4 weeks), bridging therapy (naproxen, prednisolone), preventive therapy.
+Menstrual migraine: attacks in perimenstrual window (2 days before to 3 days after onset), oestrogen withdrawal triggers. Oral contraceptives may worsen (combined pill — oestrogen fluctuation) or improve (progesterone-only — continuous). Perimenstrual prophylaxis: frovatriptan (long half-life) or naproxen.
+
+ACUTE TREATMENT:
+Step 1: Paracetamol 1g ± domperidone (anti-emetic, prokinetic — improves gastric absorption) or naproxen/ibuprofen ± anti-emetic. Aspirin 900mg effervescent (rapidly absorbed) effective.
+Step 2: Triptans (5-HT1B/1D agonists): sumatriptan (most evidence, SC injection fastest), rizatriptan, eletriptan (fewer recurrences), zolmitriptan (nasal spray useful if vomiting). Take early (during headache phase, not aura). Contraindications: ischaemic heart disease, uncontrolled hypertension, hemiplegic/basilar migraine, pregnancy (caution). Up to 2 doses/attack. Avoid >10 days/month.
+Step 3: Anti-emetics alone (domperidone, metoclopramide, prochlorperazine) — may abort mild attack.
+Rescue: IV dihydroergotamine (ED), IV prochlorperazine, dexamethasone (reduces recurrence), IV valproate, IV ketorolac.
+
+PREVENTIVE TREATMENT:
+Indicated: ≥4 migraine days/month significantly impacting quality of life, or <4 days but prolonged/severe/unresponsive to acute treatment, hemiplegic migraine, MOH.
+First-line: beta-blockers (propranolol 40-120mg BD, metoprolol, atenolol), topiramate (25-100mg OD, effective, weight loss, cognitive side effects "dopia"), amitriptyline (10-75mg at night, good if concurrent tension headache/poor sleep), sodium valproate (weight gain, teratogenic — NEVER in women of childbearing potential without PREVENT programme). Candesartan, lisinopril.
+Second-line: venlafaxine, flunarizine (calcium channel blocker), gabapentin, magnesium (150-600mg), riboflavin (400mg — cofactor in mitochondrial energy production), CoQ10.
+CGRP-targeted therapies (game-changing):
+Anti-CGRP monoclonal antibodies: erenumab (blocks CGRP receptor), fremanezumab, galcanezumab, eptinezumab (IV). Monthly or quarterly injections. 50% reduction in migraine days in 50% of patients. Excellent safety profile. Approved for chronic and episodic migraine. Cost-limited access (NICE criteria: ≥4 migraine days/month failing 3 preventives).
+CGRP receptor antagonists (gepants): ubrogepant, rimegepant (acute AND preventive, taken every other day), atogepant (preventive). Oral. No triptans' cardiac contraindication. Lasmiditan (5-HT1F agonist, ditan class) — acute treatment, no vasoconstriction, useful in cardiovascular risk.
+OnabotulinumtoxinA (Botox): PREEMPT protocol — 31 injections every 12 weeks. Approved for chronic migraine (≥15 headache days/month). NNT ~5 for 50% responder rate.
+
+RED FLAGS IN HEADACHE — "SNOOP4":
+Systemic symptoms (fever, weight loss, night sweats): infection, malignancy.
+Neurological signs/symptoms: intracranial pathology.
+Onset sudden (thunderclap): SAH until proven otherwise.
+Onset after 50 years: temporal arteritis, intracranial malignancy.
+Positional: worse lying down (raised ICP), worse standing (low pressure/CSF leak).
+Progressive/worsening pattern: raised ICP, malignancy, chronic subdural.
+Precipitated by Valsalva: Chiari malformation, cough headache.
+Papilloedema: raised ICP.
+Prior headache history change: new sinister cause.
+
+CLUSTER HEADACHE:
+Severe, unilateral, periorbital/temporal pain, excruciating (10/10), 15-180 min duration, 1-8 times/day during cluster period (weeks-months), then remission months-years. Autonomic features ipsilateral to pain: lacrimation, conjunctival injection, rhinorrhoea, nasal congestion, miosis/ptosis (partial Horner's), forehead sweating, eyelid oedema. Agitation (patient paces/rocks — contrast with migraine where lies still). Male:Female 3:1, strongly associated with smoking, triggered by alcohol during cluster.
+Treatment:
+Acute: high-flow oxygen 100% 15L/min for 15-20 min (effective in 70-80%). Subcutaneous sumatriptan 6mg (fastest triptan onset). Intranasal sumatriptan or zolmitriptan.
+Preventive: verapamil 80-360mg TDS (first-line, baseline ECG required). Short-term bridging: oral prednisolone 60mg reducing over 21 days (rapid onset). Lithium (chronic cluster). Suboccipital steroid injection.
+Neurostimulation: sphenopalatine ganglion (SPG) stimulation device (Pulsante), non-invasive vagus nerve stimulation (gammaCore), occipital nerve stimulation — for refractory cases.
+
+TENSION-TYPE HEADACHE:
+Most common headache disorder (40-80% lifetime prevalence). Bilateral, pressing/tightening, non-pulsating, mild-moderate intensity, no aggravation with physical activity. No nausea (or mild), no phonophobia (or mild), possibly photophobia.
+Episodic (<15 days/month) vs chronic (≥15 days/month).
+Treatment: episodic — paracetamol, NSAIDs, aspirin. Caffeine augments analgesic effect. Physiotherapy, relaxation. Chronic: amitriptyline 10-75mg at night.
+
+IDIOPATHIC INTRACRANIAL HYPERTENSION (IIH):
+Raised intracranial pressure (ICP) without identifiable structural cause. Predominantly obese women of childbearing age (15-44). Incidence increased with obesity epidemic.
+Symptoms: daily headache (worse lying flat, coughing, straining), pulsatile tinnitus (synchronous with pulse — pathognomonic), visual obscurations (brief visual loss with posture changes), diplopia (CN VI palsy), visual loss (progressive — major complication).
+Signs: papilloedema (swollen optic discs — bilateral, may be asymmetric), enlarged blind spot on visual field testing, CN VI palsy (false localising sign from raised ICP).
+Diagnosis: MRI brain and venogram (exclude venous sinus thrombosis, Chiari, mass lesion). Empty sella, slit ventricles, transverse sinus stenosis (may be cause or effect). LP: opening pressure >25 cmH2O (in lateral decubitus position, legs extended), normal CSF constituents.
+Modified Dandy criteria: symptoms of ICP, papilloedema, normal neurological exam (except CN VI), neuroimaging showing no cause, LP opening pressure >25 cmH2O, normal CSF analysis.
+Treatment: weight loss (most effective — 10% weight loss normalises ICP in many). Acetazolamide (carbonic anhydrase inhibitor, reduces CSF production) 250mg-2g/day — teratogenic. Furosemide. Topiramate (weight loss + reduces CSF production). Repeated LPs (temporary). Surgical: optic nerve sheath fenestration (for visual loss refractory to medical), LP shunt or VP shunt (for persistent headache/visual loss), venous sinus stenting (bilateral transverse sinus stenosis — emerging evidence).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 3: EPILEPSY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DEFINITION:
+Epilepsy is a disorder characterised by enduring predisposition to generate epileptic seizures and by the neurobiological, cognitive, psychological, and social consequences of this condition (ILAE 2014). Diagnosis requires either ≥2 unprovoked seizures >24h apart, OR one unprovoked seizure with high risk of recurrence (>60% over next 10 years), OR diagnosis of an epilepsy syndrome.
+
+EPIDEMIOLOGY:
+Prevalence: 0.5-1% of population. Incidence: 50/100,000/year (bimodal — infancy and elderly). 50 million people affected globally.
+
+SEIZURE CLASSIFICATION (ILAE 2017):
+Focal onset: arise from networks limited to one hemisphere.
+Focal aware (previously simple partial): conscious throughout.
+Focal impaired awareness (previously complex partial): altered consciousness. Common: temporal lobe — déjà vu, jamais vu, fear, automatisms (lip smacking, hand rubbing).
+Focal to bilateral tonic-clonic: focal onset → generalises.
+
+Generalised onset: arise from bilateral networks at onset.
+Absence: brief 5-30s, staring, eyelid fluttering, abrupt onset and offset. No postictal confusion. Child returns immediately to activity. 3Hz spike-wave on EEG. Childhood absence epilepsy (CAE) vs juvenile absence epilepsy (JAE).
+Myoclonic: brief muscle jerks. Morning jerks in juvenile myoclonic epilepsy (JME) — classic scenario: dropping cup/toothbrush in morning, family history.
+Tonic: sudden stiffening.
+Atonic (drop attacks): sudden loss of tone → falls (dangerous).
+Tonic-clonic (generalised): loss of consciousness, tonic phase (stiffening, apnoea, cyanosis), clonic phase (rhythmic jerking), postictal (confusion, drowsiness, headache, myalgia 30-60 min). Tongue biting (lateral — distinguishes from syncope, where central or no bite). Incontinence.
+
+Unknown onset.
+
+EPILEPSY SYNDROMES:
+Childhood absence epilepsy (CAE): girls 6-12, absence seizures, spontaneous remission puberty, valproate or ethosuximide.
+Juvenile myoclonic epilepsy (JME): adolescence, myoclonic jerks (morning), absence, tonic-clonic, photosensitive. Lifelong treatment often needed. Valproate most effective but teratogenic.
+Temporal lobe epilepsy (TLE): most common focal epilepsy in adults. Hippocampal sclerosis (50%), tumours, malformations. Characteristic: aura (epigastric rising sensation, déjà vu, fear), staring, automatisms. MRI: hippocampal atrophy/signal change.
+Frontal lobe epilepsy: nocturnal clusters, bizarre hypermotor movements, brief duration, minimal postictal.
+Dravet syndrome: SCN1A mutation, febrile seizures progressing to refractory epilepsy, intellectual disability, movement disorder. Avoid sodium channel blockers (worsen). Stiripentol, clobazam, valproate, fenfluramine, cannabidiol.
+Lennox-Gastaut syndrome: multiple seizure types, slow spike-wave EEG, intellectual disability.
+West syndrome (infantile spasms): clusters of flexor spasms, hypsarrhythmia EEG, developmental regression. Treat urgently with ACTH or prednisolone ± vigabatrin (for TSC). Poor outcome unless treated rapidly.
+
+DIAGNOSIS:
+History (most important): detailed description of events from patient and witness. Onset, duration, triggers, postictal phase, incontinence, tongue biting, previous episodes, family history, perinatal history.
+EEG: abnormal in 50% of epileptics between seizures. Normal EEG does not exclude epilepsy. Sleep EEG, prolonged EEG, video-EEG monitoring improve yield. Specific patterns: 3Hz spike-wave (absence), hypsarrhythmia (West), 4-6Hz polyspike-wave (JME), temporal spikes (TLE).
+MRI brain: structural cause, hippocampal sclerosis. Protocol: high-resolution 3T MRI with epilepsy-specific sequences (FLAIR, coronal T2 perpendicular to hippocampus).
+Blood tests: glucose, sodium, calcium, magnesium (acute symptomatic causes). Prolactin (elevated 20-30min post-generalised/complex partial seizure — not reliable enough for diagnosis). Anti-epileptic drug (AED) levels if non-compliance suspected.
+Cardiac monitoring: QTc, prolonged Holter if syncope in differential.
+Differential: syncope (most important — pallor, trigger, brief twitching from cerebral hypoperfusion, rapid recovery), psychogenic non-epileptic attacks (PNEA/dissociative seizures — prolonged, eyes closed, pelvic thrusting, waxing-waning, triggered by stress, normal EEG during event — gold standard diagnosis with video-EEG during typical event), hypoglycaemia, TIA, migraine, sleep disorders (REM behaviour disorder, parasomnias).
+
+ANTIEPILEPTIC DRUGS:
+Mechanism classes:
+Sodium channel blockers: carbamazepine, lamotrigine, phenytoin, oxcarbazepine, lacosamide.
+GABA enhancers: valproate (multiple mechanisms), benzodiazepines, barbiturates, vigabatrin, tiagabine, clobazam.
+Calcium channel blockers: ethosuximide (T-type), gabapentin/pregabalin (α2δ subunit).
+SV2A ligand: levetiracetam.
+AMPA antagonist: perampanel.
+
+Broad spectrum (generalised + focal): valproate, lamotrigine, levetiracetam, topiramate, clobazam, perampanel.
+Narrow spectrum (focal mainly): carbamazepine, oxcarbazepine, phenytoin, lacosamide. Do NOT use for absence/myoclonic seizures (may worsen).
+
+Key AED selection considerations:
+Valproate: most effective for generalised epilepsies. ABSOLUTELY CONTRAINDICATED in women of childbearing potential (teratogen — neural tube defects 1-2%, fetal valproate syndrome, autism, neurodevelopmental delay). Valproate Prevent programme required. Weight gain, polycystic ovaries, hair loss, tremor, hepatotoxicity.
+Lamotrigine: well-tolerated, effective focal and generalised. Safe in pregnancy (folate supplementation). Stevens-Johnson syndrome risk (0.1%) — slow titration essential. Interacts with valproate (reduce lamotrigine dose).
+Levetiracetam: broad spectrum, no hepatic metabolism, few drug interactions. Side effects: irritability, mood disturbance, psychosis. Safe in pregnancy.
+Carbamazepine: narrow spectrum, first-line focal. Enzyme inducer (reduces efficacy of OCP, warfarin, HIV antiretrovirals). HLA-B*1502 genotype → Stevens-Johnson (screen Asian patients). Side effects: diplopia, ataxia, hyponatraemia (SIADH), aplastic anaemia (rare).
+Phenytoin: narrow therapeutic window, zero-order kinetics (small dose increase → disproportionate level rise). IV for status epilepticus. Side effects: gingival hyperplasia, hirsutism, coarsening of facial features, osteoporosis, folate deficiency.
+Topiramate: broad spectrum, useful adjunct. Cognitive side effects ("topiramate stupidity"), weight loss, kidney stones, closed angle glaucoma, oligohydrosis, teratogenic.
+Sodium valproate pregnancy: AVOID. If unavoidable (refractory JME): high-dose folate (5mg), specialist counselling, lowest effective dose.
+
+DRUG INTERACTIONS (enzyme inducers reduce levels of many drugs):
+Strong inducers: carbamazepine, phenytoin, phenobarbital, primidone, rifampicin.
+Affect: OCP (risk of pregnancy), warfarin (reduce anticoagulation), ciclosporin, HIV ARVs, many others.
+Inhibitor: valproate (increases lamotrigine and phenobarbital levels).
+
+STATUS EPILEPTICUS:
+Definition: seizure lasting >5 minutes OR recurrent seizures without recovery between them.
+Refractory status epilepticus: fails to respond to two appropriately dosed AEDs.
+Super-refractory: >24h including time on anaesthetic agents.
+
+Management (based on time from onset):
+0-5 min: basic life support, ABC, O2, IV/IO access, glucose, monitoring.
+5-10 min (early status): Lorazepam IV 0.1 mg/kg (max 4mg per dose, repeat once) — first-line. Or diazepam IV/PR or buccal midazolam (prehospital or no IV access) or intranasal midazolam.
+10-30 min (established status): second-line AED. Levetiracetam 60 mg/kg IV (max 4.5g), phenytoin 20 mg/kg IV (max 2g, cardiac monitoring required — risk of arrhythmia), fosphenytoin (safer, faster infusion), sodium valproate 40 mg/kg IV, lacosamide 400mg IV.
+30-60 min (refractory status): third-line — general anaesthesia with intubation. Propofol, midazolam infusion, thiopental, ketamine. ITU, continuous EEG monitoring.
+Investigations: glucose (hypoglycaemia — thiamine + dextrose if alcohol/malnutrition), electrolytes, AED levels, CT head, LP, autoimmune encephalitis screen (anti-NMDAR, anti-LGI1, anti-CASPR2, anti-GABA-B), MRI.
+Causes: known epilepsy (missed medication most common), acute symptomatic (stroke, encephalitis, metabolic, tumour), febrile status (children).
+
+Convulsive status epilepticus mortality: 20% (treated); untreated mortality much higher.
+
+DRIVING AND EPILEPSY (UK):
+Can drive after seizure-free period: 12 months for car/motorbike (ordinary licence). HGV/bus: 10 years seizure-free, off AEDs, specialist assessment. Must inform DVLA. Sleep-only seizures: 1 year seizure-free in sleep only. Provoked seizures: case-by-case.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 4: PARKINSON'S DISEASE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DEFINITION:
+Parkinson's disease (PD) is a progressive neurodegenerative disorder characterised pathologically by loss of dopaminergic neurons in the substantia nigra pars compacta and presence of Lewy bodies (abnormal alpha-synuclein aggregates). It is the second most common neurodegenerative disease after Alzheimer's.
+
+EPIDEMIOLOGY:
+Prevalence: 1-2% over 65, 3-5% over 85. Annual incidence 10-20/100,000. UK: 145,000 affected. Male:female 3:2. Mean age of diagnosis 65.
+
+PATHOPHYSIOLOGY:
+Loss of dopaminergic neurons in substantia nigra → depleted striatal dopamine → imbalance of direct (facilitate movement) and indirect (suppress movement) pathways in basal ganglia. Symptoms emerge when ~50-80% of dopaminergic neurons lost. Lewy bodies: cytoplasmic inclusions containing alpha-synuclein + ubiquitin. Braak staging: pathology begins in lower brainstem/olfactory system (explains non-motor prodrome — anosmia, constipation, REM sleep behaviour disorder) → substantia nigra → cortex.
+
+CARDINAL MOTOR FEATURES (TRAP):
+Tremor: resting tremor (3-6 Hz), "pill-rolling" motion of thumb and forefinger, suppressed by movement, worsened by stress. Asymmetric onset.
+Rigidity: lead-pipe (uniform resistance throughout range) or cogwheel (rigidity with superimposed tremor giving ratcheting sensation). Detected by passive movement of wrist/elbow/neck.
+Akinesia/Bradykinesia: slowness of movement initiation and execution. Reduced arm swing, hypomimia (masked facies), micrographia (small handwriting), hypophonia (soft voice), festination (shuffling gait with shortened steps), freezing of gait (sudden inability to initiate movement, especially doorways, turning), difficulty rising from chair.
+Postural instability: impaired righting reflexes, balance problems, falls — develops later in disease (early postural instability suggests alternative diagnosis like PSP).
+
+NON-MOTOR FEATURES (often more disabling long-term):
+Autonomic: constipation (early, often predates diagnosis), orthostatic hypotension, urinary urgency/frequency, seborrhea, hyperhidrosis.
+Neuropsychiatric: depression (40%), anxiety, apathy, psychosis (hallucinations — often visual, dopaminergic drug-induced), impulse control disorders (ICDs — pathological gambling, hypersexuality, binge eating, compulsive shopping — related to dopaminergic therapy especially dopamine agonists).
+Cognitive: mild cognitive impairment (MCI) then Parkinson's disease dementia (PDD) — occurs in up to 80% over time. Fluctuating attention, visuospatial difficulties, executive dysfunction, hallucinations. Dementia present from onset → consider DLB.
+Sleep: REM sleep behaviour disorder (RBD — acting out dreams, may predate diagnosis by years, high specificity for alpha-synucleinopathy), excessive daytime somnolence, insomnia, restless legs.
+Sensory: anosmia (early, often predates diagnosis), pain, Pisa syndrome, camptocormia.
+Other: fatigue, sialorrhoea (drooling from reduced swallowing), weight loss, dysphagia.
+
+DIAGNOSIS:
+Clinical diagnosis — no definitive biomarker. UK Parkinson's Disease Society Brain Bank criteria:
+Step 1: Bradykinesia + ≥1 of: rigidity, 4-6Hz rest tremor, postural instability (not explained by visual/cerebellar/proprioceptive deficit, or primary orthostatic hypotension).
+Step 2: Exclusion criteria: repeated strokes/head injury, antipsychotic use, negative levodopa response.
+Step 3: Supportive criteria (≥3 required): unilateral onset, rest tremor, progressive, asymmetric, excellent levodopa response (>70%), levodopa-induced dyskinesia, ≥10 year disease course.
+
+DAT scan (dopamine transporter SPECT): reduced striatal DAT in PD and other parkinsonian syndromes (NOT essential tremor or drug-induced parkinsonism — distinguishes these). Cannot distinguish PD from PSP, MSA.
+MRI brain: normal in PD (useful to exclude structural causes and atypical features suggesting PSP/MSA). Substantia nigra neuromelanin MRI: reduced neuromelanin signal — promising research tool.
+
+DIFFERENTIAL DIAGNOSIS:
+Drug-induced parkinsonism: dopamine-blocking drugs (antipsychotics, metoclopramide, prochlorperazine, domperidone) — symmetrical, no tremor typically, reversible on drug withdrawal. DAT scan normal.
+Essential tremor: action tremor (worse with movement), no bradykinesia/rigidity, family history, relieved by alcohol.
+Progressive Supranuclear Palsy (PSP): falls backwards (early), vertical gaze palsy (downgaze first), symmetrical onset, little response to levodopa, axial > limb rigidity, "surprised" facies, cognitive change.
+Multiple System Atrophy (MSA): autonomic failure early and prominent (MSA-A/P: Shy-Drager), cerebellar features (MSA-C), rapid progression, poor levodopa response, inspiratory stridor (characteristic).
+Dementia with Lewy Bodies (DLB): dementia occurs within 1 year of motor features, prominent hallucinations, fluctuations in cognition, REM sleep behaviour disorder. Dopamine medications poorly tolerated (precipitate psychosis).
+Corticobasal syndrome (CBS): asymmetric apraxia, cortical sensory loss, alien limb phenomenon, myoclonus, dystonia.
+Vascular parkinsonism: lower body predominance, gait disorder (marche à petits pas), pyramidal signs, widespread cerebrovascular disease on MRI.
+
+MANAGEMENT:
+PHARMACOLOGICAL:
+Levodopa (L-DOPA): most effective treatment — gold standard. Precursor of dopamine, crosses blood-brain barrier. Always combined with peripheral dopa-decarboxylase inhibitor (carbidopa or benserazide — Sinemet or Madopar) to reduce peripheral side effects and improve CNS delivery.
+Side effects: nausea (give with food initially, domperidone if severe), orthostatic hypotension, hallucinations (especially in elderly/dementia), dyskinesias (peak-dose — involuntary writhing movements — develops with duration of treatment).
+Motor complications (wearing-off and dyskinesias): develop in 50% at 5 years, 80% at 10 years. Wearing-off: reduced duration of levodopa effect between doses (OFF state — tremor, rigidity, freezing, anxiety, pain). Strategies: more frequent dosing, add COMT inhibitor (entacapone, tolcapone — prolong levodopa half-life), add MAO-B inhibitor, use long-acting formulations (Madopar CR), continuous dopaminergic stimulation (apomorphine, LCIG).
+
+Dopamine agonists (DAs): pramipexole, ropinirole, rotigotine (patch), cabergoline, bromocriptine.
+Mechanism: directly stimulate D2/D3 receptors. Longer duration of action than levodopa, less wearing-off. Used as monotherapy in younger patients to delay levodopa (delaying dyskinesia onset controversial).
+Side effects: nausea, somnolence (sleep attacks — caution driving), hallucinations (more than levodopa), orthostatic hypotension, leg oedema. Critically: impulse control disorders (ICDs) — pathological gambling, hypersexuality, binge eating (5-15%). WARN patients specifically. Reduce or switch DA if ICDs develop.
+
+MAO-B inhibitors (rasagiline, selegiline, safinamide): inhibit MAO-B → increased dopamine availability. Mild symptomatic and possible neuroprotective effect. Low side effect profile. Safinamide: dual mechanism (MAO-B + glutamate). Useful early or as add-on.
+
+COMT inhibitors (entacapone, tolcapone, opicapone): inhibit COMT enzyme which breaks down levodopa → prolong levodopa effect. Always used with levodopa. Reduce OFF time. Entacapone: diarrhoea, urine discolouration. Tolcapone: hepatotoxicity (LFT monitoring).
+
+Amantadine: reduces dyskinesias (50%), modest antiparkinsonian effect, anticholinergic. Side effects: livedo reticularis, ankle oedema, hallucinations.
+
+Anticholinergics (procyclidine, trihexyphenidyl): useful for tremor-predominant in younger patients. Side effects: cognitive impairment, urinary retention, dry mouth, constipation — AVOID in elderly and those with cognitive impairment.
+
+DEVICE-AIDED THERAPIES (for advanced PD with motor complications):
+Deep brain stimulation (DBS): bilateral electrodes implanted in STN (subthalamic nucleus — most common) or GPi (globus pallidus interna). Highly effective for levodopa-responsive motor features (OFF states, dyskinesias, tremor). Not effective for non-levodopa-responsive features (freezing, falls, speech, dementia, autonomic). Requires careful patient selection.
+Continuous subcutaneous apomorphine infusion: dopamine agonist pump, continuous stimulation, reduces OFF time and dyskinesias.
+Levodopa-carbidopa intestinal gel (LCIG/Duodopa): levodopa gel infused directly into jejunum via percutaneous gastrojejunostomy tube (PEG-J). Very stable plasma levels → minimal motor fluctuations. Procedure risk: tube displacement, infection.
+
+NON-PHARMACOLOGICAL:
+Physiotherapy: gait rehabilitation, balance training, falls prevention (evidence-based — reduces falls).
+Occupational therapy: adaptive equipment, home modifications, activities of daily living.
+Speech and language therapy: voice exercises (Lee Silverman Voice Treatment — LSVT Loud), swallowing assessment, augmentative communication.
+Multidisciplinary PD nurse specialist: medication optimisation, patient education, advance care planning.
+Exercise: aerobic exercise, cycling, dance, boxing (Rock Steady Boxing) — growing evidence for neuroplasticity and symptom improvement.
+Cognitive and psychiatric management: cognitive rehabilitation, antidepressants (SSRIs — caution serotonin syndrome with MAO-B inhibitors), quetiapine/clozapine for psychosis (only antipsychotics safe in PD — avoid others as worsen parkinsonism). Rivastigmine for PDD.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 5: MULTIPLE SCLEROSIS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DEFINITION:
+Multiple sclerosis is a chronic immune-mediated demyelinating disease of the central nervous system, characterised by inflammation, demyelination, and axonal loss. The most common cause of neurological disability in young adults in developed countries.
+
+EPIDEMIOLOGY:
+2.8 million people worldwide. Prevalence higher in temperate climates (latitude gradient). UK: 130,000. Scotland highest rate in world. Female:male 2-3:1. Onset typically 20-40 years. Increasing incidence (better diagnosis + environmental factors).
+
+PATHOPHYSIOLOGY:
+Autoreactive T cells (Th1 and Th17) breach blood-brain barrier → attack myelin sheath → demyelination → impaired saltatory conduction → symptoms. B cells also play key role (anti-B cell therapy highly effective). Complement, macrophages, microglia contribute. Axonal transection occurs from early disease — underlies progressive disability. Remyelination occurs (incomplete) → recovery from relapses. Astrocytic scar = sclerotic plaque.
+
+CLINICAL FEATURES:
+Dissemination in space (DIS): lesions in ≥2 different CNS locations.
+Dissemination in time (DIT): ≥2 separate attacks >30 days apart, OR new enhancing lesion (active inflammation) on MRI, OR progression.
+
+Common presentations:
+Optic neuritis: inflammation of optic nerve. Painful eye movement, subacute loss of vision (central scotoma), dyschromatopsia (reduced colour saturation — red desaturation), relative afferent pupillary defect (RAPD — Marcus Gunn pupil). 50% risk of developing MS within 15 years.
+Transverse myelitis: spinal cord inflammation. Bilateral lower limb weakness/sensory loss, bladder dysfunction (urgency, retention), Lhermitte's sign (electric shock sensation in limbs/back on neck flexion — posterior column demyelination).
+Brainstem/cerebellar: internuclear ophthalmoplegia (INO — adduction failure on lateral gaze with nystagmus in abducting eye, MLF lesion), vertigo, dysarthria, dysphagia, tremor, ataxia, diplopia.
+Others: trigeminal neuralgia (young patient — atypical TN suggests MS), facial palsy, Uhthoff's phenomenon (worsening of symptoms with heat — exercise, hot bath, fever), fatigue (most common symptom, 90%).
+
+DISEASE COURSE TYPES:
+Relapsing-remitting MS (RRMS): 85% at onset. Discrete relapses with partial or complete recovery. After each relapse, may have residual deficit. Mean relapse rate: 0.5-2/year untreated.
+Secondary progressive MS (SPMS): develops from RRMS, gradual worsening ± relapses. 50% at 10 years, 65-70% at 15 years untreated (lower with modern DMTs).
+Primary progressive MS (PPMS): 15% at onset. Gradual worsening from onset, no discrete relapses, older age of onset, equal sex distribution.
+Progressive-relapsing MS (PRMS): rare, progressive from onset with superimposed relapses.
+Clinically isolated syndrome (CIS): first demyelinating event. High-risk for MS if ≥1 paraclinical abnormality. Starting DMT at CIS reduces conversion to MS.
+
+DIAGNOSIS (McDonald criteria 2017):
+DIS + DIT demonstrated clinically OR by MRI criteria.
+MRI criteria for DIS: ≥1 T2 lesion in ≥2 of 4 locations: periventricular, cortical/juxtacortical, infratentorial, spinal cord.
+MRI criteria for DIT: simultaneous presence of gadolinium-enhancing (active) and non-enhancing lesions, OR new T2 lesion/enhancing lesion compared to baseline.
+CSF: oligoclonal bands (OCBs) in CSF but not serum — present in 90-95% of MS. Confirms inflammatory process. May substitute for DIT criterion.
+Typical MRI: "dawson's fingers" (periventricular ovoid lesions perpendicular to ventricles), juxtacortical lesions, infratentorial (brainstem/cerebellum), spinal cord lesions (typically <2 vertebral levels in MS vs. >3 in NMOSD). Active lesions enhance with gadolinium.
+Evoked potentials: visual evoked potentials (VEPs) — prolonged P100 latency in optic neuritis even if clinically recovered, provides evidence of past demyelination.
+
+DISEASE-MODIFYING THERAPY (DMT):
+Platform therapies (moderate efficacy):
+Beta-interferons (IFN-β1a Avonex, Rebif; IFN-β1b Betaferon): reduce relapse rate 30%, reduce new MRI lesions. Injected SC/IM. Side effects: flu-like symptoms (fever, myalgia — premedicate with paracetamol), injection site reactions, depression, hepatotoxicity.
+Glatiramer acetate (Copaxone): mimics myelin basic protein, immune tolerance. Similar efficacy to interferons. SC injection. Well tolerated.
+
+Moderate-high efficacy:
+Dimethyl fumarate (DMF/Tecfidera): oral. Reduces relapse rate ~49%, MRI activity ~72%. Side effects: flushing, GI upset, lymphopenia (risk of PML if severe).
+Teriflunomide (Aubagio): oral. Inhibits pyrimidine synthesis (blocks activated lymphocytes). Reduces relapse rate ~36%. Teratogenic — washout with cholestyramine required before pregnancy.
+Cladribine (Mavenclad): oral, 2-year dosing cycles. Significant reduction in relapses (~58%) and disability progression (~47%). Lymphodepletion — infection and malignancy risk.
+
+High efficacy:
+Natalizumab (Tysabri): anti-α4-integrin monoclonal antibody, prevents lymphocyte trafficking across BBB. Reduces relapses ~68%, disability progression ~42%. Monthly IV infusion. Risk of PML (progressive multifocal leukoencephalopathy — JC virus reactivation) — risk stratified by JC antibody status (stratify by index, stop if JCV+ with extended interval treatment >24 months, especially if prior immunosuppression).
+Ocrelizumab (Ocrevus): anti-CD20, depletes B cells. Monthly x2 doses then every 6 months IV. Reduces relapses ~46% vs interferon. Only approved DMT for PPMS (reduces disability progression ~25%). Side effects: infusion reactions, infections, slightly increased malignancy risk (especially breast cancer — breast cancer screening).
+Ofatumumab (Kesimpta): anti-CD20, monthly SC injection.
+Alemtuzumab (Lemtrada): anti-CD52, depletes T and B cells. Two annual infusion courses. Highly effective but serious side effects: secondary autoimmunity (thyroid disease 40%, ITP, nephropathy — monthly bloods for 4 years post-treatment), infections. Monitoring programme essential.
+Rituximab: off-label but widely used in RRMS/PPMS, highly effective, relatively inexpensive.
+
+Treatment in PPMS: ocrelizumab (only approved), siponimod (for active SPMS).
+Approach: "treat to target" — high-efficacy first for aggressive disease; escalation for persistent activity. Individualised based on disease activity, patient preference, safety profile, fertility plans.
+
+SYMPTOM MANAGEMENT:
+Spasticity: baclofen (oral/intrathecal pump), tizanidine, nabiximols (Sativex — cannabis-based oromucosal spray), physiotherapy.
+Fatigue: energy conservation, amantadine, modafinil, exercise.
+Bladder: anticholinergics (oxybutynin, solifenacin) for overactive bladder, ISC (intermittent self-catheterisation) for incomplete emptying.
+Neuropathic pain: amitriptyline, gabapentin, pregabalin, duloxetine.
+Depression: SSRIs, CBT.
+Tremor: clonazepam, propranolol, isoniazid (mild benefit), thalamic DBS for severe disability.
+Cognitive impairment: cognitive rehabilitation, treat fatigue and depression.
+Optic neuritis acute: IV methylprednisolone 1g/day x3 days — speeds recovery but does not affect long-term outcome.
+Relapse management: IV methylprednisolone 1g/day x3-5 days. Only if relapse causing functional disability.
+
+NEUROMYELITIS OPTICA SPECTRUM DISORDER (NMOSD):
+Distinguished from MS by AQP4-IgG antibody (aquaporin-4, expressed on astrocytes). MOG-IgG: distinct syndrome, better prognosis. Clinical: severe optic neuritis (often bilateral, poor recovery), longitudinally extensive transverse myelitis (≥3 vertebral segments), area postrema syndrome (intractable hiccups/nausea/vomiting — pathognomonic, attacks area postrema on floor of 4th ventricle). Spinal cord lesions span >3 segments (central, bright T2). Treatment: high-dose steroids for acute attacks; preventive — azathioprine, mycophenolate, rituximab, inebilizumab, satralizumab, eculizumab (anti-C5, highly effective). MS DMTs may worsen NMOSD (especially natalizumab, fingolimod, interferon).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 6: DEMENTIA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DEFINITION:
+Dementia is an acquired clinical syndrome of progressive cognitive decline severe enough to interfere with daily function. Not a normal part of aging. Multiple types: Alzheimer's disease (60-70%), vascular dementia (15-20%), Lewy body dementia (5-10%), frontotemporal dementia (5-10%), and rarer causes.
+
+ALZHEIMER'S DISEASE (AD):
+Pathology: amyloid-beta (Aβ) plaques (extracellular deposits) + neurofibrillary tangles (intracellular tau protein) → synaptic dysfunction, neurodegeneration. Cholinergic neurons particularly affected (basis for pharmacotherapy). ApoE ε4 allele: most important genetic risk factor (3-4× increased risk per allele for late-onset AD). Early-onset familial AD (<65): APP, PSEN1, PSEN2 mutations — autosomal dominant, 100% penetrance.
+
+Clinical: amnestic presentation (episodic memory loss — difficulty remembering recent events, word-finding problems), language difficulties, visuospatial problems, executive dysfunction, mood changes. Insight often initially preserved then lost. Activities of daily living (ADLs) progressively impaired.
+
+MRI: hippocampal and temporal/parietal atrophy, medial temporal lobe atrophy (MTA) score.
+CSF biomarkers: low Aβ42 (deposited in plaques), elevated phospho-tau and total tau. Useful for early/uncertain diagnosis.
+PET: amyloid PET (florbetapir, florbetaben — shows amyloid burden), tau PET (spreading tau correlates with clinical stage), FDG-PET (hypometabolism temporal/parietal).
+Blood biomarkers: plasma Aβ42/40 ratio, phospho-tau 217/181 — increasingly available, high sensitivity/specificity for amyloid pathology.
+Genetics: APOE ε4 testing not routinely recommended (not diagnostic, complex psychological implications). Consider genetic counselling for early-onset or strong family history.
+
+Treatment:
+Cholinesterase inhibitors (donepezil, rivastigmine, galantamine): inhibit acetylcholinesterase → increased synaptic ACh. Modest symptomatic benefit (improve/stabilise cognition and function for 12-24 months). All stages (mild-severe). Donepezil: once daily, minimal CYP interactions. Rivastigmine: patch preparation, useful in PDD and DLB. Galantamine: nicotinic ACh receptor modulation also. Side effects (all): GI (nausea, diarrhoea, anorexia — take with food), bradycardia (ask about syncope/dizziness).
+Memantine (NMDA receptor antagonist): approved for moderate-severe AD. Blocks excess glutamate (excitotoxicity). Modest benefit in moderate-severe disease. Well tolerated. Combination with donepezil has additive benefit.
+Disease-modifying (amyloid-targeting): Lecanemab (Leqembi), Donanemab — anti-amyloid monoclonal antibodies that clear amyloid plaques. Approved in USA (2023). Slow progression by ~35% in early AD. Side effects: ARIA (amyloid-related imaging abnormalities — oedema and microhaemorrhages on MRI — monitor with 6-monthly MRI). Greatest benefit in early disease (MCI-AD, mild AD). Access limited, expensive.
+
+VASCULAR DEMENTIA (VaD):
+Second most common. Caused by cerebrovascular disease (small vessel disease, multiple strokes, strategic infarcts). Often stepwise deterioration with partial recovery. Frontal-subcortical features: executive dysfunction, slowed processing, gait disorder, urinary incontinence, personality change. Memory less impaired than AD. MRI: white matter hyperintensities, lacunar infarcts, cortical infarcts.
+Treatment: secondary prevention (BP control, antiplatelet/anticoagulant as appropriate). No licensed pharmacological treatment for VaD. Cholinesterase inhibitors/memantine may help if significant AD co-pathology (mixed dementia common).
+
+LEWY BODY DEMENTIA (DLB):
+Core features: fluctuating cognition (marked day-to-day variation), visual hallucinations (recurrent, well-formed, typically people/animals), parkinsonism (motor features), REM sleep behaviour disorder.
+Supportive features: severe neuroleptic sensitivity (even atypical antipsychotics can cause severe rigidity, sedation, irreversible parkinsonism — avoid haloperidol absolutely, caution with any antipsychotic), autonomic instability, repeated falls, syncope, hypersomnia.
+Indicative biomarkers: low dopamine transporter on DAT scan, reduced myocardial I-123 MIBG uptake, polysomnography-confirmed REM sleep behaviour disorder.
+Treatment: rivastigmine (most evidence among cholinesterase inhibitors in DLB), memantine. Levodopa (low dose — improves motor features but worsens hallucinations). Treat REM sleep behaviour disorder (clonazepam, melatonin). Neuroleptic sensitivity warning card.
+
+FRONTOTEMPORAL DEMENTIA (FTD):
+Third most common in <65. Selective frontal/temporal lobe degeneration.
+Behavioural variant bvFTD: personality change, disinhibition, apathy, loss of empathy, compulsive behaviour, dietary changes (sweet foods), impaired executive function. Memory relatively preserved early. Difficult to diagnose — may be misdiagnosed as depression, personality disorder, psychiatric illness.
+Primary progressive aphasia (PPA): language-predominant presentation.
+- Non-fluent/agrammatic: effortful, halting speech, agrammatism.
+- Semantic: fluent speech but loss of word meaning, anomia, surface dyslexia.
+- Logopenic (often AD pathology): impaired word retrieval, phonological errors, sentence repetition.
+Genetics: C9orf72 hexanucleotide repeat expansion (most common genetic cause — FTD + ALS overlap), GRN (progranulin), MAPT (tau) mutations.
+Treatment: no disease-modifying treatment. SSRIs for behavioural symptoms. Memanantine/donepezil have limited benefit.
+
+REVERSIBLE CAUSES OF DEMENTIA (screen all new dementia):
+Metabolic: hypothyroidism (TFTs), vitamin B12 deficiency (B12 level), folate deficiency, thiamine deficiency (Wernicke-Korsakoff in alcoholism — Wernicke's triad: confusion, ataxia, ophthalmoplegia — treat urgently with high-dose IV Pabrinex), electrolyte disturbance.
+Structural: normal pressure hydrocephalus (NPH — triad: "wet, wobbly, and wacky" — urinary incontinence, gait apraxia, cognitive impairment; MRI: ventriculomegaly out of proportion to atrophy; LP test with gait improvement; treat with VP shunt), chronic subdural haematoma, brain tumour.
+Infectious: syphilis (tertiary neurosyphilis — TPHA, VDRL), HIV, prion disease (CJD — rapid progression, myoclonus, periodic EEG changes, DWI MRI cortical ribboning).
+Inflammatory/autoimmune: autoimmune encephalitis (anti-NMDAR especially in young women — psychiatric features, seizures, movement disorders, autonomic instability — treat with immunotherapy), vasculitis.
+
+ASSESSMENT TOOLS:
+Mini-Mental State Examination (MMSE): 30-point global screen. Sensitive but not specific for dementia type. Education-dependent.
+Montreal Cognitive Assessment (MoCA): more sensitive than MMSE for MCI. Tests multiple domains.
+Addenbrooke's Cognitive Examination (ACE-III): detailed 100-point test, useful for FTD vs AD differentiation.
+Clock drawing test: executive function and visuospatial ability.
+
+END OF NEUROLOGY TRAINING DATA
+Total: ~11,800 words | Sections: 6 | Estimated chunks: ~95

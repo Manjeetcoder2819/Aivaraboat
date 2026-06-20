@@ -1,0 +1,619 @@
+CARDIOVASCULAR SYSTEM — COMPREHENSIVE MEDICAL REFERENCE
+========================================================
+Source: Medical Training Data for AIVARA Healthcare AI
+Category: Cardiology | Version: 1.0
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 1: ANATOMY AND PHYSIOLOGY OF THE HEART
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+The heart is a hollow muscular organ approximately the size of an adult fist, weighing 250–350 grams in women and 300–400 grams in men. It is located in the mediastinum, slightly left of the midline, between the second and fifth intercostal spaces.
+
+CHAMBERS:
+The heart has four chambers: two atria (upper) and two ventricles (lower). The right atrium receives deoxygenated blood from the superior and inferior vena cava. The right ventricle pumps this blood through the pulmonary artery to the lungs. The left atrium receives oxygenated blood from the four pulmonary veins. The left ventricle, the most muscular chamber, pumps oxygenated blood through the aorta to the entire body. The left ventricular wall is approximately 8–12 mm thick, three times the thickness of the right ventricular wall, reflecting its higher pressure workload.
+
+VALVES:
+Four valves prevent backflow of blood. The tricuspid valve (3 leaflets) sits between the right atrium and right ventricle. The pulmonary valve (3 leaflets) sits at the right ventricular outflow tract. The mitral valve (bicuspid, 2 leaflets) sits between the left atrium and left ventricle. The aortic valve (3 leaflets) sits at the left ventricular outflow tract. The atrioventricular valves (tricuspid and mitral) are supported by chordae tendineae attached to papillary muscles, preventing valve prolapse during ventricular systole.
+
+CORONARY CIRCULATION:
+The heart receives its blood supply from two main coronary arteries arising from the aortic sinuses just above the aortic valve. The left main coronary artery divides into the left anterior descending (LAD) artery, supplying the anterior wall and septum, and the left circumflex artery, supplying the lateral and posterior walls. The right coronary artery (RCA) supplies the right ventricle, inferior wall, and sinoatrial (SA) node in 60% of people. Coronary venous drainage occurs primarily through the coronary sinus into the right atrium.
+
+CONDUCTION SYSTEM:
+The sinoatrial (SA) node in the right atrial wall initiates each heartbeat at 60–100 beats per minute. The impulse travels through atrial pathways to the atrioventricular (AV) node, where it is delayed 0.1–0.2 seconds allowing atrial emptying. The impulse then travels down the bundle of His, splits into left and right bundle branches, and spreads throughout the ventricular myocardium via Purkinje fibres, causing coordinated ventricular contraction.
+
+CARDIAC CYCLE:
+Systole (contraction) lasts approximately 0.3 seconds; diastole (relaxation) lasts approximately 0.5 seconds at rest. During systole, the aortic valve opens when left ventricular pressure exceeds 80 mmHg. Stroke volume (volume ejected per beat) is typically 60–100 mL. Cardiac output = stroke volume × heart rate; normally 4–8 litres per minute at rest.
+
+EJECTION FRACTION:
+Ejection fraction (EF) is the percentage of blood ejected from the left ventricle with each beat. Normal EF is 55–70%. EF 40–54% indicates mildly reduced function. EF below 40% indicates heart failure with reduced ejection fraction (HFrEF). EF above 70% may indicate hypertrophic cardiomyopathy.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 2: HYPERTENSION (HIGH BLOOD PRESSURE)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DEFINITION AND CLASSIFICATION:
+Blood pressure is expressed as systolic/diastolic in mmHg. The 2017 ACC/AHA guidelines classify blood pressure as:
+- Normal: systolic <120 AND diastolic <80
+- Elevated: systolic 120–129 AND diastolic <80
+- Stage 1 Hypertension: systolic 130–139 OR diastolic 80–89
+- Stage 2 Hypertension: systolic ≥140 OR diastolic ≥90
+- Hypertensive Crisis: systolic >180 AND/OR diastolic >120
+
+The WHO/JNC 7 guidelines use a simpler classification:
+- Normal: <120/<80
+- Prehypertension: 120–139/80–89
+- Stage 1 Hypertension: 140–159/90–99
+- Stage 2 Hypertension: ≥160/≥100
+- Isolated Systolic Hypertension: systolic ≥140, diastolic <90 (common in elderly)
+
+EPIDEMIOLOGY:
+Hypertension affects approximately 1.28 billion adults worldwide (WHO 2023). It is the leading cause of premature death globally. Prevalence increases with age: affects 70% of people over 65. African-Americans have higher prevalence, earlier onset, and more severe hypertension than other groups. Only 21% of hypertensive adults have their blood pressure under control globally.
+
+PRIMARY (ESSENTIAL) HYPERTENSION:
+Accounts for 90–95% of cases. No single identifiable cause. Risk factors include:
+- Age (risk increases progressively after 30)
+- Family history (genetic predisposition)
+- Obesity (BMI >30 increases risk 2–6 fold)
+- High sodium diet (>2.3g/day increases risk)
+- Physical inactivity
+- Excessive alcohol consumption (>2 drinks/day)
+- Smoking (acute vasoconstrictive effect)
+- Chronic stress (activates sympathetic nervous system)
+- Sleep apnoea (affects 30–50% of hypertensive patients)
+- Diabetes mellitus
+- Chronic kidney disease
+
+SECONDARY HYPERTENSION:
+Accounts for 5–10% of cases. Identifiable underlying cause:
+- Renovascular hypertension (renal artery stenosis): most common secondary cause, consider in young women (fibromuscular dysplasia) or elderly with atherosclerosis. Presents with resistant hypertension, abdominal bruit, flash pulmonary oedema.
+- Primary hyperaldosteronism (Conn's syndrome): excess aldosterone, hypokalaemia, adrenal adenoma or bilateral hyperplasia. Account for 5–10% of hypertension. Screen with aldosterone:renin ratio.
+- Phaeochromocytoma: catecholamine-secreting adrenal tumour. Classic triad: episodic headache, sweating, palpitations. Screen with plasma metanephrines.
+- Cushing's syndrome: excess cortisol. Features: central obesity, striae, easy bruising, proximal myopathy. Screen with 24-hour urinary cortisol.
+- Obstructive sleep apnoea: treat with CPAP reduces BP 2–10 mmHg.
+- Coarctation of the aorta: congenital narrowing, radio-femoral delay, rib notching on CXR.
+- Hypothyroidism and hyperthyroidism: both can cause hypertension.
+- Medications: NSAIDs, oral contraceptives, corticosteroids, sympathomimetics.
+
+PATHOPHYSIOLOGY:
+Sustained hypertension is maintained by increased cardiac output, increased peripheral vascular resistance, or both. Key mechanisms include:
+Renin-Angiotensin-Aldosterone System (RAAS): renin converts angiotensinogen to angiotensin I, which ACE converts to angiotensin II. Angiotensin II causes vasoconstriction, aldosterone release (sodium retention), and sympathetic activation. This system is the target of ACE inhibitors and ARBs.
+Sympathetic Nervous System: increased noradrenaline causes vasoconstriction and increased heart rate. Alpha-blockers and beta-blockers target this pathway.
+Endothelial Dysfunction: reduced nitric oxide production impairs vasodilation. Oxidative stress and inflammation contribute.
+Structural Changes (Vascular Remodelling): chronic hypertension causes arterial wall thickening, reduced compliance, increased resistance.
+
+ORGAN DAMAGE FROM HYPERTENSION:
+Brain: stroke (ischaemic and haemorrhagic), transient ischaemic attack, vascular dementia, hypertensive encephalopathy. Hypertension is the most important modifiable risk factor for stroke.
+Heart: left ventricular hypertrophy (LVH), coronary artery disease, heart failure, atrial fibrillation. LVH detected by ECG or echocardiography.
+Kidneys: hypertensive nephrosclerosis, proteinuria, reduced GFR, end-stage renal disease. Hypertension is the second most common cause of chronic kidney disease after diabetes.
+Eyes: hypertensive retinopathy (arteriolar narrowing, AV nicking, flame haemorrhages, cotton wool spots, papilloedema in severe disease). Keith-Wagener-Barker classification grades I–IV.
+Arteries: accelerated atherosclerosis, aortic aneurysm, peripheral arterial disease.
+
+SYMPTOMS:
+Hypertension is largely asymptomatic — the "silent killer." When symptoms occur, they may include headache (typically morning occipital), dizziness, visual disturbances, chest pain, or shortness of breath. Severe hypertension (>180/120) may cause severe headache, confusion, vision loss, chest pain, or neurological symptoms.
+
+DIAGNOSIS:
+Confirmed by two or more readings on two or more occasions. Blood pressure should be measured:
+- After 5 minutes rest
+- Patient seated, back supported, feet flat on floor
+- Arm at heart level, unsupported
+- Cuff covering 80% of arm circumference
+- Average of 2–3 readings
+Ambulatory blood pressure monitoring (ABPM) or home blood pressure monitoring (HBPM) preferred for diagnosis to exclude white-coat hypertension. White-coat hypertension (elevated in clinic, normal at home) affects 15–30% of people.
+
+EVALUATION:
+History: duration, family history, medications, symptoms of end-organ damage.
+Physical examination: weight, BMI, fundoscopy, cardiac auscultation, peripheral pulses, bruits.
+Investigations: urinalysis (protein, blood), eGFR, serum electrolytes, fasting glucose, lipid profile, ECG (LVH), echocardiogram if indicated. Aldosterone:renin ratio if secondary cause suspected.
+
+NON-PHARMACOLOGICAL TREATMENT:
+Lifestyle modifications can reduce systolic BP by:
+- DASH diet: 8–14 mmHg reduction
+- Weight loss: 5–20 mmHg per 10kg lost
+- Sodium restriction (<2g/day): 2–8 mmHg reduction
+- Physical activity (150 min/week moderate exercise): 4–9 mmHg reduction
+- Limiting alcohol: 2–4 mmHg reduction
+- Smoking cessation: does not directly lower resting BP but reduces cardiovascular risk
+- Stress reduction (mindfulness, relaxation techniques): modest benefit
+
+PHARMACOLOGICAL TREATMENT:
+First-line agents:
+1. ACE Inhibitors (e.g., ramipril, enalapril, lisinopril): block angiotensin II formation. Reduce BP, protect kidneys (especially in diabetic nephropathy), reduce cardiac remodelling. Side effects: dry cough (10–15%, due to bradykinin accumulation), hyperkalaemia, angioedema (rare but potentially fatal), teratogenic. Contraindicated in pregnancy and bilateral renal artery stenosis.
+
+2. Angiotensin Receptor Blockers / ARBs (e.g., losartan, valsartan, candesartan): block angiotensin II receptors. Similar efficacy to ACE inhibitors. No cough. Also teratogenic. Use when ACE inhibitor not tolerated.
+
+3. Calcium Channel Blockers / CCBs:
+   - Dihydropyridines (e.g., amlodipine, nifedipine): peripheral vasodilation. Side effects: ankle oedema, flushing, reflex tachycardia. First choice in elderly and isolated systolic hypertension.
+   - Non-dihydropyridines (diltiazem, verapamil): also slow heart rate. Avoid with beta-blockers (risk of heart block).
+
+4. Thiazide/Thiazide-like Diuretics (e.g., hydrochlorothiazide, chlorthalidone, indapamide): reduce sodium reabsorption. Side effects: hypokalaemia, hyponatraemia, hyperuricaemia, glucose intolerance, erectile dysfunction. Chlorthalidone preferred over hydrochlorothiazide (longer duration, better evidence).
+
+Second-line agents:
+5. Beta-blockers (e.g., atenolol, metoprolol, bisoprolol, carvedilol): reduce heart rate and cardiac output. Indicated if concurrent angina, heart failure, or post-MI. Side effects: fatigue, cold extremities, erectile dysfunction, masking hypoglycaemia. Avoid in asthma (use cardioselective if essential). Not recommended as first-line for uncomplicated hypertension (inferior to other agents for stroke prevention).
+
+6. Loop diuretics (furosemide): used in hypertension with heart failure or renal impairment when thiazides ineffective.
+
+7. Aldosterone antagonists (spironolactone, eplerenone): effective in resistant hypertension, primary hyperaldosteronism. Side effects: gynaecomastia (spironolactone), hyperkalaemia.
+
+8. Alpha-blockers (doxazosin, prazosin): useful in men with concurrent BPH. First dose hypotension risk.
+
+9. Vasodilators (hydralazine, minoxidil): used in resistant hypertension.
+
+10. Centrally acting agents (methyldopa): first choice in pregnancy.
+
+TARGET BLOOD PRESSURE:
+General population: <130/80 mmHg (ACC/AHA 2017) or <140/90 mmHg (ESH/ESC 2018).
+Diabetes: <130/80 mmHg.
+Chronic kidney disease: <130/80 mmHg.
+Elderly (>65): systolic 130–139 mmHg (individualised based on frailty).
+High cardiovascular risk (post-MI, stroke): <130/80 mmHg.
+
+RESISTANT HYPERTENSION:
+Defined as BP above target despite three optimal-dose antihypertensive agents of different classes including a diuretic. Pseudoresistance (poor adherence, white-coat effect, incorrect technique) must be excluded. True resistant hypertension: add spironolactone 25–50 mg (strongest evidence), alpha-blocker, or beta-blocker. Refer to specialist.
+
+HYPERTENSIVE EMERGENCY vs. URGENCY:
+Hypertensive urgency: severe BP elevation (>180/120) without evidence of acute end-organ damage. Can be managed with oral medications and outpatient follow-up within 24–48 hours. Avoid rapid reduction.
+Hypertensive emergency: severe elevation with evidence of acute end-organ damage (hypertensive encephalopathy, acute coronary syndrome, acute heart failure, aortic dissection, eclampsia, acute renal failure, hypertensive retinopathy grade III/IV). Requires immediate IV treatment with close monitoring. Goal: reduce MAP by 10–20% in first hour, further 5–15% over next 23 hours. Avoid excessive reduction (risk of ischaemia). Agents: IV labetalol, nicardipine, sodium nitroprusside, esmolol (depending on presentation).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 3: CORONARY ARTERY DISEASE (CAD)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DEFINITION:
+Coronary artery disease refers to narrowing or blockage of the coronary arteries due to atherosclerosis, reducing blood supply to the myocardium. It encompasses stable angina, acute coronary syndromes (ACS), and silent ischaemia.
+
+EPIDEMIOLOGY:
+CAD is the leading cause of death globally, responsible for approximately 17.9 million deaths per year (WHO 2019). Prevalence in developed countries: approximately 6–8% of adults. Men are affected earlier (risk rises after age 45) than women (risk rises after age 55 or menopause). Lifetime risk of CAD for a 40-year-old: approximately 50% for men, 33% for women.
+
+ATHEROSCLEROSIS — PATHOPHYSIOLOGY:
+Atherosclerosis is a chronic inflammatory disease of the arterial wall:
+1. Endothelial injury: caused by hypertension, smoking, diabetes, oxidised LDL, homocysteine. This allows lipoproteins to penetrate the intima.
+2. Foam cell formation: LDL oxidises in the intima; macrophages engulf oxidised LDL to form foam cells.
+3. Fatty streak: earliest lesion, appears in aorta by age 10, coronary arteries by 20s.
+4. Fibrous plaque: smooth muscle cell migration and proliferation, collagen deposition forms fibrous cap over lipid core.
+5. Advanced/vulnerable plaque: thin fibrous cap, large lipid core, high macrophage content. Prone to rupture.
+6. Plaque rupture: exposes thrombogenic subendothelial material, triggers platelet aggregation and thrombus formation — the mechanism of most acute coronary syndromes.
+
+RISK FACTORS:
+Non-modifiable: age, male sex, family history of premature CAD (first-degree relative <55 in men, <65 in women), ethnicity (South Asian highest risk).
+Modifiable major: hypertension, dyslipidaemia, smoking, diabetes mellitus, obesity (particularly central/abdominal).
+Modifiable minor: physical inactivity, unhealthy diet, chronic psychosocial stress, depression, sleep apnoea, chronic inflammation (CRP, periodontitis, psoriasis).
+Novel risk factors: high Lp(a) lipoprotein, elevated homocysteine, chronic kidney disease, HIV infection, autoimmune diseases.
+
+STABLE ANGINA:
+Chest pain or discomfort caused by myocardial ischaemia during increased oxygen demand (exercise, emotion, cold, large meals), relieved by rest or nitrates within minutes.
+Character: pressure, tightness, heaviness, squeezing — the classic "elephant on chest." May radiate to left arm, jaw, neck, shoulder, or back. Often described as indigestion.
+Atypical presentations: more common in women, elderly, diabetics. May present as breathlessness, fatigue, or epigastric discomfort without chest pain.
+Classification by Canadian Cardiovascular Society (CCS):
+- Class I: angina only with strenuous exertion
+- Class II: angina walking rapidly, walking uphill, or in cold/wind
+- Class III: angina walking 1–2 blocks on level ground at normal pace
+- Class IV: angina at rest or minimal exertion
+
+Investigation: Resting ECG (may be normal), exercise stress test (sensitivity 68%, specificity 77%), stress echocardiography, myocardial perfusion scan (SPECT/PET), CT coronary angiography (calcium score, CT angiography), invasive coronary angiography (gold standard, defines anatomy for revascularisation).
+
+Management:
+Lifestyle: smoking cessation, Mediterranean diet, exercise, weight management.
+Medications:
+- Aspirin 75mg daily (antiplatelet): reduces MI risk ~33%
+- Statin (e.g., atorvastatin 40–80mg): LDL target <1.8 mmol/L (70 mg/dL) for high risk
+- Beta-blocker: reduces heart rate, myocardial oxygen demand, first-line anti-anginal
+- Sublingual nitrate (GTN): rapid vasodilation for acute anginal episodes
+- Long-acting nitrates (isosorbide mononitrate): maintenance, avoid nitrate tolerance with nitrate-free interval
+- Calcium channel blockers: amlodipine for stable angina, useful if beta-blockers not tolerated
+- Ivabradine: reduces heart rate (acts on funny channels in SA node), use if intolerant to beta-blockers in sinus rhythm
+- Ranolazine: reduces late sodium current, useful add-on in refractory angina
+- ACE inhibitor/ARB: indicated if concurrent diabetes, heart failure, or hypertension
+
+Revascularisation:
+Percutaneous Coronary Intervention (PCI): balloon angioplasty and stent insertion. Drug-eluting stents (DES) reduce restenosis to <5% at 1 year. Requires dual antiplatelet therapy (aspirin + P2Y12 inhibitor) for 6–12 months.
+Coronary Artery Bypass Grafting (CABG): superior to PCI for left main disease, three-vessel disease, and diabetes. Internal mammary artery grafts have >90% patency at 10 years. Cardiopulmonary bypass required. 30-day mortality ~1% elective.
+
+ACUTE CORONARY SYNDROMES (ACS):
+ACS spectrum includes unstable angina, NSTEMI, and STEMI. The distinction depends on ECG changes and biomarkers.
+
+UNSTABLE ANGINA:
+New onset, worsening, or rest angina. No myocardial necrosis (negative troponin). Usually caused by plaque rupture with partial thrombotic occlusion.
+
+NON-ST-ELEVATION MYOCARDIAL INFARCTION (NSTEMI):
+Plaque rupture with partial coronary occlusion causing myocardial necrosis. ECG: ST depression or T-wave inversion (or normal). Troponin elevated. Often involves a non-culprit vessel or has good collateral flow.
+
+ST-ELEVATION MYOCARDIAL INFARCTION (STEMI):
+Complete coronary occlusion causing transmural ischaemia. ECG: ST elevation in ≥2 contiguous leads (≥2mm in V1–V3, ≥1mm in other leads) or new left bundle branch block. Troponin markedly elevated. Medical emergency requiring immediate reperfusion.
+
+STEMI MANAGEMENT:
+Time is myocardium — "time to balloon" target <90 minutes from first medical contact.
+Immediate treatment: aspirin 300mg (chewed), P2Y12 inhibitor (ticagrelor 180mg preferred, or clopidogrel 600mg), anticoagulation (unfractionated heparin or enoxaparin), oxygen if saturation <94%, GTN (avoid if hypotensive or right ventricular infarction), morphine for pain.
+Primary PCI: treatment of choice for STEMI, achieves mechanical reperfusion. Preferred over thrombolysis if PCI centre available within 120 minutes of diagnosis.
+Thrombolysis: if PCI not available within 120 minutes. Alteplase (tPA), tenecteplase, streptokinase. Absolute contraindications: prior haemorrhagic stroke, ischaemic stroke within 3 months, intracranial neoplasm, active internal bleeding, aortic dissection, severe uncontrolled hypertension.
+Post-MI management:
+- Dual antiplatelet: aspirin + ticagrelor (or prasugrel) for 12 months
+- Beta-blocker: reduces mortality 25% in post-MI (all patients without contraindication)
+- ACE inhibitor: reduces mortality, prevents remodelling, especially with anterior MI or reduced EF
+- Statin: high-intensity (atorvastatin 80mg), target LDL <1.8 mmol/L
+- Cardiac rehabilitation: reduces mortality 25–30%, improves functional capacity and quality of life
+- Aldosterone antagonist (eplerenone): indicated if EF <40% with symptoms of heart failure or diabetes after MI
+
+Complications of MI:
+Immediate (<24 hours): ventricular fibrillation (most common cause of death in first hour), ventricular tachycardia, heart block.
+Early (24h–1 week): acute heart failure, cardiogenic shock, right ventricular infarction, pericarditis (Dressler's syndrome later), mechanical complications.
+Mechanical complications (3–7 days): free wall rupture (sudden death, haemopericardium), ventricular septal defect (new pansystolic murmur, acute heart failure), papillary muscle rupture (acute severe mitral regurgitation, pulmonary oedema).
+Late (>1 week): left ventricular aneurysm (persistent ST elevation, systemic embolism), Dressler's syndrome (fever, pericarditis 2–10 weeks post-MI, treat with NSAIDs), heart failure, arrhythmias.
+
+CARDIOGENIC SHOCK:
+Defined as hypotension (SBP <90 mmHg) with evidence of inadequate tissue perfusion despite adequate intravascular volume. Complicates 5–10% of STEMIs with in-hospital mortality 40–50%. Management: immediate revascularisation (primary PCI), vasopressors (noradrenaline first choice), inotropes (dobutamine), consider intra-aortic balloon pump, ventricular assist device.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 4: HEART FAILURE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DEFINITION:
+Heart failure is a clinical syndrome in which the heart is unable to pump sufficient blood to meet the body's metabolic demands, or can only do so at elevated filling pressures. Affects approximately 64 million people worldwide. Prevalence is 1–2% of the adult population, rising to >10% in those over 70 years.
+
+CLASSIFICATION:
+By ejection fraction:
+- HFrEF (Heart Failure with Reduced Ejection Fraction): EF <40%. Also called systolic heart failure. Mortality benefit shown with multiple pharmacological agents.
+- HFmrEF (Heart Failure with Mildly Reduced EF): EF 41–49%.
+- HFpEF (Heart Failure with Preserved EF): EF ≥50%. Also called diastolic heart failure. Impaired relaxation and filling despite normal contractility. Fewer evidence-based treatments.
+
+By NYHA functional class:
+- Class I: No limitation; ordinary physical activity does not cause symptoms
+- Class II: Slight limitation; comfortable at rest, symptomatic with moderate exertion
+- Class III: Marked limitation; comfortable at rest, symptomatic with minimal exertion
+- Class IV: Unable to carry out any activity without discomfort; symptoms at rest
+
+CAUSES:
+Ischaemic heart disease: most common cause in developed countries (60–70% of HFrEF).
+Hypertension: major cause of HFpEF; also contributes to HFrEF.
+Dilated cardiomyopathy: genetic (25–30%), viral myocarditis, alcohol, peripartum, idiopathic.
+Valvular heart disease: aortic stenosis (pressure overload), mitral regurgitation (volume overload).
+Arrhythmias: tachycardia-mediated cardiomyopathy (AF, persistent SVT).
+Other: haemochromatosis, sarcoidosis, amyloidosis, thyroid disease, chemotherapy (anthracyclines, trastuzumab).
+
+PRECIPITANTS (triggering acute decompensation in previously stable HF):
+Infection (especially pneumonia), AF or other arrhythmia, medication non-compliance or iatrogenic (NSAIDs, steroids, negative inotropes), anaemia, hypertension, ischaemia, pulmonary embolism, thyroid disease, excessive sodium/fluid intake.
+
+SYMPTOMS:
+Left heart failure: dyspnoea on exertion, orthopnoea (use of extra pillows, graded 1–4 pillows), paroxysmal nocturnal dyspnoea (woken from sleep breathless, relieved by sitting upright), cough (especially lying flat, may be frothy pink in acute pulmonary oedema), fatigue, reduced exercise tolerance, wheeze ("cardiac asthma").
+Right heart failure: peripheral oedema (bilateral, pitting, gravitational), abdominal distension (ascites), right upper quadrant discomfort (hepatic congestion), nausea, anorexia, weight gain (fluid retention), scrotal oedema.
+
+SIGNS:
+Raised JVP, third heart sound (S3 gallop — pathological in adults, indicates high filling pressure), displaced apex beat (cardiomegaly), murmurs (underlying valvular disease), bibasal crackles (pulmonary oedema), pleural effusion (stony dull, reduced breath sounds — usually right > left), peripheral oedema, hepatomegaly, ascites, cool peripheries (low cardiac output), tachycardia, hypo- or hypertension.
+
+INVESTIGATIONS:
+BNP (B-type natriuretic peptide) or NT-proBNP: released by ventricular myocytes in response to stretch/increased filling pressure. NT-proBNP >125 pg/mL or BNP >35 pg/mL: supports diagnosis. NT-proBNP >2000 pg/mL: high probability. Useful to exclude HF (negative predictive value >98%) and monitor response to treatment.
+ECG: may show AF, LVH, bundle branch block, Q waves (prior MI), sinus tachycardia.
+Chest X-ray (CXR): cardiomegaly (cardiothoracic ratio >0.5 on PA film), upper lobe blood diversion, interstitial oedema (Kerley B lines — short horizontal lines at lung bases), alveolar oedema ("bat wing" shadowing), pleural effusions.
+Echocardiogram: key investigation — assesses EF, wall motion, valve function, pericardium. Defines HFrEF vs HFpEF.
+Bloods: FBC (anaemia), U&E (electrolytes, renal function), LFTs (hepatic congestion), TFTs (thyroid disease), fasting glucose, lipids.
+Coronary angiography: if ischaemic aetiology suspected.
+Cardiac MRI: superior for assessing myocardial fibrosis, infiltrative disease, cardiomyopathy.
+Endomyocardial biopsy: for suspected myocarditis, amyloidosis, sarcoidosis.
+
+PHARMACOLOGICAL TREATMENT OF HFrEF:
+Four pillars of treatment (each reduces mortality):
+
+1. ACE Inhibitor/ARB (e.g., ramipril, enalapril, lisinopril, losartan): reduces afterload and preload, prevents remodelling. Start low, titrate up. Monitor renal function and potassium. Reduce mortality by ~25%.
+
+2. Beta-blocker (bisoprolol, carvedilol, metoprolol succinate): reduces heart rate, oxygen demand, prevents sudden cardiac death, reverses remodelling. Only start when patient is stable (not during decompensation). Reduce mortality by ~34%. Start low, titrate slowly.
+
+3. Mineralocorticoid Receptor Antagonist/MRA (spironolactone, eplerenone): reduces fibrosis and remodelling. Indicated if EF <35% on ACEI/ARB + beta-blocker. Monitor potassium closely (hyperkalaemia risk). Reduce mortality by ~30%.
+
+4. SGLT2 Inhibitor (dapagliflozin, empagliflozin): originally developed for diabetes, proven to reduce hospitalisation and mortality in HFrEF regardless of diabetes status. Now recommended as a fourth pillar of therapy. Mechanism in HF: osmotic diuresis, reduced preload, improved cardiac energetics, anti-inflammatory.
+
+5. ARNI — Sacubitril/Valsartan (Entresto): superior to ACE inhibitor alone. Neprilysin inhibitor + ARB. Reduce mortality ~20% compared to enalapril. Indicated if EF <40%, symptomatic despite ACEI + beta-blocker + MRA. Cannot use with ACE inhibitor (angioedema risk — wash-out 36 hours required).
+
+6. Ivabradine: reduces heart rate, indicated if HR >70 bpm in sinus rhythm despite optimal beta-blocker therapy.
+
+7. Diuretics: furosemide (loop diuretic) for symptom relief of fluid congestion. Does not improve mortality. Dose titrated to achieve euvolaemia (dry weight). Monitor electrolytes.
+
+8. Digoxin: reduces hospitalisation, no mortality benefit. Consider for refractory symptoms or rate control in AF. Narrow therapeutic window. Monitor levels (0.5–0.8 ng/mL optimal in HF).
+
+DEVICE THERAPY:
+Implantable Cardioverter Defibrillator (ICD): reduces sudden cardiac death. Indicated in EF <35% on optimal medical therapy for >3 months with NYHA II–III and life expectancy >1 year.
+Cardiac Resynchronisation Therapy (CRT) / biventricular pacemaker: synchronises ventricular contraction. Indicated if EF <35%, QRS >150ms (especially LBBB morphology), sinus rhythm. Improves symptoms, reduces mortality.
+CRT-D (CRT with defibrillator): combines both benefits.
+
+ACUTE HEART FAILURE (ACUTE PULMONARY OEDEMA):
+Medical emergency. Presents with severe dyspnoea, orthopnoea, pink frothy sputum, diaphoresis, anxiety, cyanosis.
+LMNOP mnemonic: Leg dangling (reduces preload), Morphine (cautious use, reduces anxiety and preload), Nitrates (IV GTN — vasodilation), Oxygen, Positive pressure ventilation (CPAP/BiPAP first line), Diuretics (IV furosemide 40–80mg).
+Identify and treat precipitant. Continuous monitoring of BP, sats, urine output.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 5: ATRIAL FIBRILLATION (AF)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DEFINITION:
+AF is a supraventricular tachyarrhythmia characterised by uncoordinated atrial activation, resulting in irregular ventricular response and loss of effective atrial contraction. It is the most common sustained cardiac arrhythmia, affecting approximately 33.5 million people worldwide.
+
+TYPES:
+- Paroxysmal: episodes terminate spontaneously within 7 days (usually <48 hours)
+- Persistent: sustained >7 days, requires cardioversion to restore sinus rhythm
+- Long-standing persistent: continuous AF >12 months
+- Permanent: accepted by patient and clinician, no further attempts at rhythm control
+
+SYMPTOMS:
+Palpitations, irregular heartbeat, breathlessness, fatigue, reduced exercise tolerance, dizziness, presyncope, chest discomfort. Up to 25% is asymptomatic (detected incidentally on pulse check or ECG). Symptoms correlate poorly with ventricular rate.
+
+ECG FEATURES:
+Absent P waves (irregular fibrillatory baseline), irregularly irregular RR intervals, normal or abnormal QRS morphology. Ventricular rate typically 100–160 bpm in uncontrolled AF.
+
+RISK FACTORS:
+Age (most important — prevalence doubles each decade after 40), hypertension (most common modifiable risk factor), structural heart disease (valvular, cardiomyopathy), heart failure, coronary artery disease, diabetes, obesity (BMI >30 increases risk 50%), sleep apnoea, hyperthyroidism, excessive alcohol ("holiday heart"), caffeine (minor risk), smoking, chronic kidney disease, genetic predisposition.
+
+COMPLICATIONS:
+Stroke: 5-fold increased risk of ischaemic stroke. AF-related strokes are often more severe than non-AF strokes. Annual stroke risk in non-anticoagulated AF with risk factors: 3–5%.
+Heart failure: loss of atrial kick reduces cardiac output 15–20%; tachycardia-mediated cardiomyopathy if rate uncontrolled.
+Systemic embolism: mesenteric, peripheral arterial.
+Cognitive impairment and dementia.
+Quality of life impairment.
+
+STROKE RISK ASSESSMENT — CHA₂DS₂-VASc Score:
+C — Congestive heart failure or LV dysfunction (1 point)
+H — Hypertension (1 point)
+A₂ — Age ≥75 years (2 points)
+D — Diabetes mellitus (1 point)
+S₂ — Stroke, TIA, or systemic embolism (2 points)
+V — Vascular disease (prior MI, peripheral artery disease, aortic plaque) (1 point)
+A — Age 65–74 years (1 point)
+Sc — Sex category female (1 point)
+Maximum score: 9 points.
+Score 0 (male) or 1 (female): low risk, anticoagulation not recommended.
+Score ≥2 (male) or ≥3 (female): anticoagulation recommended.
+Score 1 (male): consider anticoagulation (individual patient factors).
+
+BLEEDING RISK ASSESSMENT — HAS-BLED Score:
+H — Hypertension uncontrolled (1)
+A — Abnormal renal/liver function (1 each)
+S — Stroke history (1)
+B — Bleeding history or predisposition (1)
+L — Labile INR if on warfarin (1)
+E — Elderly (>65) (1)
+D — Drugs (antiplatelets, NSAIDs) or alcohol (1 each)
+Score ≥3 = high bleeding risk. Note: high HAS-BLED does not necessarily contraindicate anticoagulation; instead correct modifiable bleeding risk factors (control hypertension, stop NSAIDs, reduce alcohol).
+
+ANTICOAGULATION:
+Warfarin: vitamin K antagonist, target INR 2.0–3.0. Requires regular INR monitoring. Narrow therapeutic window, multiple drug and food interactions (vitamin K-containing foods). Time in therapeutic range (TTR) target >70%.
+Direct Oral Anticoagulants (DOACs): dabigatran (direct thrombin inhibitor), rivaroxaban, apixaban, edoxaban (factor Xa inhibitors). Advantages over warfarin: predictable effect, no routine monitoring, fewer interactions, lower intracranial haemorrhage risk. Preferred over warfarin for non-valvular AF. Apixaban has best evidence for balance of stroke prevention vs. bleeding. Avoid in mechanical heart valves and moderate-severe mitral stenosis (valvular AF — warfarin only).
+Antiplatelet agents: aspirin NOT recommended for stroke prevention in AF (ineffective, similar bleeding risk to anticoagulation).
+
+RATE vs. RHYTHM CONTROL:
+Rate control: allows AF to persist but controls ventricular rate. Target: resting HR 60–80 bpm (lenient <110 bpm acceptable if asymptomatic). Agents: beta-blockers (first choice), rate-limiting CCBs (diltiazem, verapamil — not in HFrEF), digoxin (poor rate control with exercise, useful in sedentary patients), amiodarone (last resort for rate control).
+Rhythm control: restores and maintains sinus rhythm. Preferred in younger patients, symptomatic patients, or those with reversible cause. No proven mortality benefit over rate control (AFFIRM and RACE trials) except in heart failure (EAST-AFNET 4 trial showed mortality benefit of early rhythm control).
+
+CARDIOVERSION:
+Electrical: DC cardioversion (DCCV) — synchronised shock. Effective 80–90%. Requires adequate anticoagulation (therapeutic for ≥3 weeks before if AF >48 hours, or TOE to exclude left atrial thrombus).
+Pharmacological: flecainide or propafenone ("pill-in-the-pocket" for paroxysmal AF); amiodarone IV for persistent AF or when structural heart disease present.
+
+ANTIARRHYTHMIC DRUGS:
+Class Ic (flecainide, propafenone): very effective, but contraindicated in structural heart disease (risk of proarrhythmia — avoid if CAD, LVH, or reduced EF).
+Class III (amiodarone): most effective antiarrhythmic but significant side effect profile (thyroid — both hypo- and hyperthyroidism; pulmonary toxicity; hepatotoxicity; corneal deposits; photosensitivity; peripheral neuropathy). Requires annual TFTs, LFTs, CXR. Multiple drug interactions.
+Sotalol: beta-blocker + Class III. QTc monitoring required.
+Dronedarone: less effective than amiodarone, safer profile, but contraindicated in HF and permanent AF.
+
+CATHETER ABLATION:
+Pulmonary vein isolation (PVI): cauterises or freezes (cryoablation) tissue at pulmonary vein-left atrial junction to electrically isolate pulmonary veins (primary trigger for AF). Success rate 70–80% single procedure for paroxysmal AF (lower for persistent). Recommended for symptomatic paroxysmal or persistent AF failing antiarrhythmic drugs, or as first-line in highly symptomatic patients. Complications (<2%): stroke, cardiac tamponade, pulmonary vein stenosis, oesophageal fistula (rare, fatal).
+Left atrial appendage (LAA) occlusion: Watchman device or surgical ligation for patients who cannot tolerate anticoagulation. LAA is site of >90% of thrombus formation in non-valvular AF.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 6: VALVULAR HEART DISEASE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+AORTIC STENOSIS (AS):
+Most common valvular disease requiring surgery in developed countries. Prevalence: 2–5% of adults >65.
+Causes: calcific/degenerative (most common in elderly), congenital bicuspid aortic valve (most common in <65, 1–2% of population), rheumatic (rare in developed countries).
+Pathophysiology: obstruction to left ventricular outflow → pressure overload → concentric LVH → diastolic dysfunction → ultimately systolic dysfunction and heart failure.
+Symptoms (classic triad): angina (50% 5-year survival without surgery), syncope (50% 3-year survival), dyspnoea/heart failure (50% 2-year survival). Symptoms indicate critical stenosis requiring intervention.
+Signs: slow-rising, plateau pulse (pulsus parvus et tardus), heaving undisplaced apex beat (LVH), ejection systolic murmur loudest at aortic area (right 2nd intercostal space), radiating to carotids, soft or absent S2.
+Severity grading by echocardiography:
+- Mild: Vmax 2.0–2.9 m/s, AVA >1.5 cm²
+- Moderate: Vmax 3.0–3.9 m/s, AVA 1.0–1.5 cm²
+- Severe: Vmax ≥4.0 m/s, AVA ≤1.0 cm², mean gradient ≥40 mmHg
+- Very severe: Vmax >5.0 m/s
+Treatment: no effective medical therapy to slow progression. Intervention indicated for symptomatic severe AS or asymptomatic severe AS with EF <50%.
+Surgical Aortic Valve Replacement (SAVR): open-heart surgery. Excellent long-term results. Preferred in lower-risk patients <65.
+Transcatheter Aortic Valve Replacement (TAVR/TAVI): catheter-based, via femoral artery (most common), less invasive. Now recommended for most patients with severe symptomatic AS including intermediate and low surgical risk. Valve choice: bioprosthetic (tissue — no anticoagulation but limited durability ~15–20 years) vs. mechanical (requires lifelong warfarin, more durable).
+
+AORTIC REGURGITATION (AR):
+Backflow of blood from aorta into left ventricle during diastole → volume overload → eccentric LVH.
+Causes: acute (aortic dissection — emergency, infective endocarditis, trauma) vs. chronic (bicuspid aortic valve, rheumatic disease, Marfan syndrome, ankylosing spondylitis, systemic hypertension).
+Acute severe AR: medical emergency — cardiogenic shock with pulmonary oedema. Surgical emergency.
+Chronic AR: often asymptomatic for years. When symptoms develop (dyspnoea, angina, heart failure), prognosis worsens rapidly.
+Signs: wide pulse pressure, collapsing/waterhammer pulse, visible carotid pulsation, head nodding (de Musset's sign), pistol-shot femoral sounds (Traube's sign), early diastolic murmur at left sternal edge (sitting forward, breath held in expiration).
+Treatment: medical (vasodilators — nifedipine, ACE inhibitor — to reduce afterload and delay surgery in asymptomatic patients). Surgical AVR indicated for: symptomatic severe AR, asymptomatic severe AR with LV dilatation (LVESD >50mm or LVEDD >70mm) or EF <50%.
+
+MITRAL STENOSIS (MS):
+Obstruction to flow from left atrium to left ventricle during diastole → raised left atrial pressure → pulmonary hypertension, AF, right heart failure.
+Causes: almost always rheumatic (streptococcal throat infection → molecular mimicry → mitral valve leaflet thickening and fusion). Rare: congenital, drug-induced (methysergide), carcinoid.
+Symptoms: progressive dyspnoea, orthopnoea, haemoptysis (pulmonary hypertension, rupture of pulmonary veins), AF with systemic embolism, hoarseness (enlarged left atrium compressing recurrent laryngeal nerve — Ortner's syndrome), dysphagia.
+Signs: malar flush (mitral facies — chronic low cardiac output), low-volume pulse, irregular pulse if AF, undisplaced apex beat, loud S1, opening snap (pliable leaflets — shortly after S2), rumbling mid-diastolic murmur with pre-systolic accentuation (if sinus rhythm), loud P2 (pulmonary hypertension).
+Severity (by echocardiography): MVA (mitral valve area) — mild >1.5 cm², moderate 1.0–1.5 cm², severe <1.0 cm².
+Treatment: anticoagulation for all with AF. Beta-blockers or rate-limiting CCBs for rate control. Diuretics for symptoms. Percutaneous Mitral Balloon Commissurotomy (PMBC/PMBV): preferred intervention for pliable non-calcified valve without significant MR — separates fused leaflets. Surgical valve repair or replacement for unsuitable valves.
+
+MITRAL REGURGITATION (MR):
+Backflow of blood from left ventricle to left atrium during systole → volume overload.
+Causes:
+- Degenerative/myxomatous (most common in developed countries): mitral valve prolapse, Barlow's disease
+- Functional/secondary: LV dilatation → papillary muscle displacement → failure of leaflet coaptation (ischaemic MR, dilated cardiomyopathy)
+- Rheumatic
+- Infective endocarditis
+- Connective tissue disease (Marfan, Ehlers-Danlos)
+Signs: displaced apex beat (volume overload), pansystolic murmur loudest at apex radiating to axilla, soft S1, S3.
+Acute severe MR (papillary muscle rupture post-MI): medical emergency — acute pulmonary oedema, cardiogenic shock, new pansystolic murmur. Requires urgent surgery.
+Treatment: medical (vasodilators in acute setting, ACE inhibitors/ARBs for chronic). Surgical mitral valve repair (preferred over replacement — better outcomes, preserves subvalvular apparatus) or replacement. Transcatheter edge-to-edge repair (MitraClip) for secondary MR or high surgical risk patients.
+
+INFECTIVE ENDOCARDITIS:
+Infection of endocardium, most commonly involving heart valves. Annual incidence ~3–10/100,000.
+Risk factors: structural heart disease (congenital, valvular disease), prosthetic valves (highest risk), intravenous drug use (tricuspid valve), poor dentition, recent dental/surgical procedures, immunosuppression.
+Causative organisms: Staphylococcus aureus (most common, especially IV drug use and healthcare-associated); Streptococcus viridans (oral streptococci, dental source — commonest in native valve endocarditis); Enterococcus; Coagulase-negative staphylococci (prosthetic valves); HACEK organisms; Fungi (Candida — IV drug use, immunosuppressed).
+Clinical features: fever, new or changing murmur, embolic phenomena (stroke, renal infarct, splenic infarct, Osler's nodes — tender nodules on fingertips, Janeway lesions — non-tender haemorrhagic lesions on palms/soles), immunological phenomena (Roth spots — retinal haemorrhages, glomerulonephritis, positive rheumatoid factor), splenomegaly, microscopic haematuria.
+Duke Criteria (diagnosis):
+Major criteria: positive blood cultures (typical organisms ×2, persistent bacteraemia, or Coxiella burnetii serology), echocardiographic evidence (vegetation, abscess, new dehiscence of prosthetic valve, new regurgitation).
+Minor criteria: predisposing condition, fever, vascular phenomena, immunological phenomena, microbiological evidence (single positive culture for organisms that can cause endocarditis).
+Definite IE: 2 major, or 1 major + 3 minor, or 5 minor.
+Investigations: blood cultures ×3 (before antibiotics), echocardiography (transthoracic TTE first, then transoesophageal TOE if TTE inconclusive or prosthetic valve — superior sensitivity), FBC, CRP/ESR, renal function, urinalysis, dental/cardiac imaging as appropriate.
+Treatment: prolonged IV antibiotics (4–6 weeks). Native valve streptococcal: benzylpenicillin ± gentamicin. Staphylococcal: flucloxacillin (or vancomycin if MRSA). Prosthetic valve: vancomycin + rifampicin + gentamicin. Surgery indicated for: heart failure despite medical treatment, uncontrolled infection (abscess, persistently positive cultures), high embolic risk (large mobile vegetation >10mm).
+Prophylaxis: NICE guidelines (2008) no longer recommend routine antibiotic prophylaxis before dental procedures for structural heart disease. Maintain good oral hygiene. Still recommended by some guidelines for highest-risk patients.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 7: DYSLIPIDAEMIA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+LIPID PHYSIOLOGY:
+Lipoproteins transport lipids in the aqueous bloodstream. Key fractions:
+LDL-cholesterol (low-density lipoprotein): primary atherogenic lipoprotein. Carries cholesterol to peripheral tissues. Oxidised LDL triggers atherosclerosis. "Bad cholesterol."
+HDL-cholesterol (high-density lipoprotein): removes cholesterol from tissues and arterial walls for hepatic clearance. "Good cholesterol." Low HDL is an independent risk factor for cardiovascular disease.
+VLDL (very low-density lipoprotein): carries triglycerides from liver to tissues. Precursor of LDL.
+Triglycerides: energy storage lipids. High levels (>4 mmol/L) associated with pancreatitis risk and atherogenic dyslipidaemia.
+Non-HDL cholesterol: total cholesterol minus HDL cholesterol. Includes all atherogenic lipoproteins. Better predictor of CVD risk than LDL alone. Target <3.4 mmol/L for high-risk patients.
+Lipoprotein(a) [Lp(a)]: independent risk factor for atherosclerosis and aortic stenosis. Largely genetically determined. Cannot be lowered by statins. Elevated in 20% of population.
+ApoB: structural protein of all atherogenic lipoprotein particles. One ApoB per LDL particle. Best measure of total atherogenic particle burden.
+
+LIPID TARGETS (ESC 2019 guidelines):
+Very high risk (established CVD, severe CKD, diabetes with organ damage, score ≥10%):
+- LDL <1.4 mmol/L (<55 mg/dL) AND ≥50% reduction from baseline
+High risk (markedly elevated risk factors, diabetes without organ damage, score 5–10%):
+- LDL <1.8 mmol/L (<70 mg/dL) AND ≥50% reduction
+Moderate risk (score 1–5%):
+- LDL <2.6 mmol/L (<100 mg/dL)
+Low risk (score <1%):
+- LDL <3.0 mmol/L (<116 mg/dL)
+
+STATINS:
+Mechanism: inhibit HMG-CoA reductase, rate-limiting enzyme in cholesterol synthesis. This upregulates hepatic LDL receptors, increasing clearance of LDL from circulation.
+Intensity:
+High-intensity (>50% LDL reduction): atorvastatin 40–80mg, rosuvastatin 20–40mg.
+Moderate-intensity (30–50% reduction): atorvastatin 10–20mg, rosuvastatin 5–10mg, simvastatin 20–40mg.
+Low-intensity (<30% reduction): pravastatin 10–20mg.
+Benefits beyond LDL: plaque stabilisation, anti-inflammatory, improved endothelial function ("pleiotropic effects").
+Side effects:
+- Myopathy: muscle pain (myalgia) 5–10%, elevated CK. Rhabdomyolysis (<0.01%) — potentially fatal, muscle cell breakdown causing acute kidney injury. Risk increased by renal/hepatic impairment, hypothyroidism, drug interactions (fibrates, amiodarone, ciclosporin, CYP3A4 inhibitors for simvastatin/lovastatin).
+- Hepatotoxicity: transaminase elevation (1–3%), rarely significant. Monitoring: baseline LFTs; repeat only if symptomatic.
+- New-onset diabetes: modest increase risk (10–12%). Benefit far outweighs risk in most patients.
+- Cognitive effects: reported but not proven causally. Not supported by large trial data.
+Interactions: simvastatin and lovastatin metabolised by CYP3A4 — avoid with strong inhibitors (itraconazole, HIV protease inhibitors). Pravastatin and rosuvastatin have fewer interactions.
+
+OTHER LIPID-LOWERING AGENTS:
+Ezetimibe: inhibits intestinal cholesterol absorption (NPC1L1 transporter). Reduces LDL ~15–20% as monotherapy, additive with statins. IMPROVE-IT trial showed modest mortality benefit when added to statin post-ACS. Generally well tolerated.
+PCSK9 inhibitors (evolocumab, alirocumab): monoclonal antibodies inhibiting PCSK9, which degrades LDL receptors. Cause 50–60% additional LDL reduction when added to maximum statin therapy. Reduce cardiovascular events significantly (FOURIER, ODYSSEY OUTCOMES trials). Subcutaneous injection every 2–4 weeks. Very expensive — restricted to very high risk patients failing maximum tolerated statin + ezetimibe.
+Inclisiran: siRNA that silences PCSK9 gene expression. Given twice yearly by injection. Similar LDL lowering to PCSK9 antibodies.
+Fibrates (fenofibrate, bezafibrate): primarily lower triglycerides (50%), modestly raise HDL, little effect on LDL. Used for severe hypertriglyceridaemia. Caution with statins (myopathy risk).
+Omega-3 fatty acids: high-dose icosapentaenoic acid (icosapent ethyl/Vascepa) reduces cardiovascular events in high-risk patients with elevated triglycerides (REDUCE-IT trial). Standard fish oil supplements have not shown consistent cardiovascular benefit.
+Bile acid sequestrants (cholestyramine, colesevelam): reduce LDL ~15–20%, raise triglycerides, gastrointestinal side effects.
+Bempedoic acid: ATP citrate lyase inhibitor, reduces LDL ~15–17%, useful in statin-intolerant patients.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 8: CARDIOVASCULAR RISK ASSESSMENT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+FRAMINGHAM RISK SCORE:
+Developed from Framingham Heart Study (1948 onwards). Estimates 10-year risk of major cardiovascular events (MI, stroke, coronary death). Variables: age, sex, total cholesterol, HDL, systolic BP, diabetes, smoking, antihypertensive treatment. May underestimate risk in some populations.
+
+SCORE (Systematic COronary Risk Evaluation):
+European risk model. Estimates 10-year risk of fatal cardiovascular events. Two versions: for high-risk and low-risk European countries. Available as SCORE2 and SCORE2-OP (older patients).
+
+QRISK3 (UK):
+Widely used in UK primary care. Estimates 10-year CVD risk. Includes ethnicity, deprivation (Townsend score), chronic kidney disease, atrial fibrillation, systemic lupus erythematosus, rheumatoid arthritis, mental health disorders, erectile dysfunction, use of antipsychotic/corticosteroid medication, type 1 and type 2 diabetes with HbA1c, migration, variability of systolic BP.
+Score ≥10%: offer statin therapy.
+
+ADDITIONAL RISK MODIFIERS:
+Factors that may upgrade risk category:
+- Family history of premature CVD
+- Severe psychiatric disorders (schizophrenia, bipolar disorder)
+- HIV infection (increases CVD risk 50–100%)
+- Autoimmune conditions (rheumatoid arthritis, SLE, psoriasis)
+- Chronic kidney disease (eGFR <60)
+- Severe obstructive sleep apnoea
+- High lipoprotein(a) >50 mg/dL
+- High coronary artery calcium (CAC) score
+- High-sensitivity CRP >2 mg/L
+- ABI (ankle-brachial index) <0.9
+
+CORONARY ARTERY CALCIUM (CAC) SCORE:
+CT-based measure of coronary calcification. Calcium score = 0: very low risk, may defer statin therapy. CAC 1–99: statin reasonable. CAC ≥100 or ≥75th percentile for age/sex: high risk, statin recommended. Useful in intermediate-risk patients to guide decision whether to initiate statin therapy.
+
+ASPIRIN IN PRIMARY PREVENTION:
+Now NOT routinely recommended for primary prevention (risk of bleeding, especially GI and intracranial haemorrhage, outweighs modest benefits in low-moderate risk populations). Still recommended for secondary prevention (established CVD). ASPREE trial (2018): aspirin increased major bleeding in elderly without known CVD. Individual risk-benefit assessment required.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 9: PERIPHERAL ARTERIAL DISEASE (PAD)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PAD results from atherosclerosis of peripheral arteries, most commonly lower limb. Affects 200 million people worldwide. Strong predictor of systemic atherosclerosis (50% have concurrent CAD).
+
+SYMPTOMS:
+Intermittent claudication: cramping leg pain (usually calf, thigh, or buttock) on exertion, relieved within minutes of rest. Fontaine/Rutherford classification grades disease severity.
+Critical limb ischaemia: rest pain (pain in foot at rest, worse at night, relieved by hanging foot over edge of bed), tissue loss (non-healing ulcer, gangrene). Annual mortality 15–20%, amputation rate 10–40%.
+Acute limb ischaemia: sudden severe pain, pallor, pulselessness, paraesthesia, paralysis, perishing cold — the 6 P's. Requires emergency revascularisation within 6 hours.
+
+ANKLE-BRACHIAL INDEX (ABI):
+Ratio of ankle to brachial systolic blood pressure measured by Doppler.
+Normal: 0.9–1.4.
+Mild PAD: 0.7–0.9 (usually asymptomatic or mild claudication).
+Moderate PAD: 0.4–0.7 (claudication).
+Severe PAD / Critical ischaemia: <0.4.
+>1.4: calcified non-compressible vessels (diabetes, CKD) — perform toe-brachial index instead.
+
+MANAGEMENT:
+Risk factor modification: smoking cessation (most important — halves claudication progression rate), hypertension control, aggressive lipid lowering (statin), diabetes control, antiplatelet therapy (aspirin or clopidogrel).
+Exercise: supervised exercise programme 3×/week for 3 months — as effective as revascularisation for intermittent claudication.
+Medical: cilostazol (phosphodiesterase inhibitor) — increases walking distance 40–60%, improves quality of life.
+Revascularisation: angioplasty ± stent for focal disease; bypass surgery for longer occlusions or critical ischaemia.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 10: AORTIC DISEASE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ABDOMINAL AORTIC ANEURYSM (AAA):
+Defined as aortic diameter ≥3.0 cm. Affecting 5–8% of men over 65. Risk factors: male sex, age, smoking (strongest modifiable risk factor), hypertension, family history, atherosclerosis.
+Complications: rupture (catastrophic — 80% mortality), thrombosis, embolism.
+Rupture risk by size: <5.5 cm: 1% per year; 5.5–7.0 cm: 5–10% per year; >7.0 cm: 20–40% per year.
+Management: ultrasound surveillance (annually if 4.0–5.4 cm, 3-monthly if approaching threshold); repair if ≥5.5 cm, rapidly expanding (>1 cm/year), symptomatic, or ruptured.
+Repair: open surgical vs. endovascular aneurysm repair (EVAR) — EVAR has lower 30-day mortality but similar long-term outcomes, requires lifelong surveillance.
+UK screening programme: one-time ultrasound screening offered to all men at age 65.
+
+AORTIC DISSECTION:
+Tear in aortic intima allows blood to enter the media, creating a false lumen. Medical emergency. Incidence 3/100,000 per year. Peak: 50–70 years, male:female 3:1.
+Risk factors: hypertension (80%), Marfan syndrome, Turner syndrome, bicuspid aortic valve, cocaine use, trauma, pregnancy, aortitis.
+Stanford Classification:
+Type A: involves ascending aorta (regardless of extent) — surgical emergency. Complications: aortic regurgitation, coronary artery occlusion (MI), cardiac tamponade, stroke.
+Type B: involves only descending aorta — initially managed medically unless complicated.
+Symptoms: sudden severe tearing/ripping chest pain radiating to back (classic but not universal), migrating pain, syncope.
+Signs: blood pressure differential between arms (>20 mmHg), pulse deficit, aortic regurgitation murmur, neurological deficits.
+Investigations: CT aortography (imaging of choice — diagnostic accuracy >95%), CXR (widened mediastinum, aortic knuckle enlargement — present in 60–70%), TOE.
+Management:
+Type A: emergency cardiac surgery. Mortality increases 1–2% per hour. Anticoagulation contraindicated.
+Type B (uncomplicated): medical — IV beta-blockade (labetalol or esmolol) to reduce dP/dt and heart rate; target SBP 100–120 mmHg, HR <60 bpm. TEVAR (thoracic endovascular aortic repair) for complicated Type B (malperfusion, rupture, rapid expansion).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 11: CARDIAC ARRHYTHMIAS — OVERVIEW
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+BRADYARRHYTHMIAS:
+Sinus bradycardia: HR <60 bpm. Causes: physiological (athletes), vagotonia, hypothyroidism, hypothermia, inferior MI, drugs (beta-blockers, digoxin, ivabradine). Treatment only if symptomatic (atropine acutely, pacemaker if persistent).
+Sinus node dysfunction (sick sinus syndrome): alternating bradycardia and tachycardia (tachy-brady syndrome). Often associated with AF. Pacemaker required if symptomatic.
+AV block:
+- First degree: prolonged PR interval (>200ms), all impulses conducted. No treatment needed.
+- Second degree Mobitz I (Wenckebach): progressive PR prolongation until a P wave is not conducted. Usually benign, associated with inferior MI or vagotonia.
+- Second degree Mobitz II: sudden non-conducted P waves without prior PR prolongation. Associated with bundle branch disease. Risk of progression to complete heart block — pacemaker often required.
+- Third degree (complete heart block): no conduction between atria and ventricles. Ventricular escape rhythm (broad complex if infranodal, narrow if junctional). Causes: inferior MI (usually transient), anterior MI (poor prognosis), drugs, Lyme disease, congenital. Requires temporary then permanent pacemaker.
+Bundle branch block:
+- LBBB (Left Bundle Branch Block): QRS >120ms, LBBB morphology. Always pathological. Causes: hypertension, cardiomyopathy, acute anterior MI (new LBBB = STEMI equivalent requiring emergency PCI).
+- RBBB (Right Bundle Branch Block): QRS >120ms, RSR' in V1. May be normal variant in <5% of population or indicate structural disease.
+
+SUPRAVENTRICULAR TACHYARRHYTHMIAS:
+SVT (paroxysmal SVT): sudden onset palpitations, rate 150–250 bpm, narrow complex, regular. Most common: AVNRT (AV nodal re-entrant tachycardia — "slow-fast" circuit within AV node). Others: AVRT (accessory pathway, WPW), atrial tachycardia. Management: vagal manoeuvres (Valsalva, carotid sinus massage), adenosine 6mg IV (first-line pharmacological), beta-blocker or CCB. Ablation curative in >95%.
+Wolff-Parkinson-White (WPW): congenital accessory pathway (Bundle of Kent) bypassing AV node. Delta wave on ECG (slurred QRS upstroke), short PR, wide QRS. Risk of pre-excited AF (very fast ventricular rates — can degenerate to VF). Digoxin and CCBs contraindicated. Ablation recommended for symptomatic patients.
+Atrial flutter: regular atrial rate ~300 bpm, ventricular rate usually 150 bpm (2:1 block). Sawtooth flutter waves in II, III, aVF. Manage like AF. Ablation very effective (CTI ablation >95% success for typical flutter).
+
+VENTRICULAR ARRHYTHMIAS:
+Premature ventricular complexes (PVCs): common, often benign, may indicate underlying disease. Frequent PVCs (>15,000/day) can cause tachycardia-mediated cardiomyopathy.
+Ventricular tachycardia (VT): ≥3 consecutive ventricular beats at ≥120 bpm. Broad complex (QRS >120ms). Causes: structural heart disease (post-MI scar, cardiomyopathy), electrolyte imbalance, drugs (QT-prolonging).
+- Non-sustained VT (NSVT): <30 seconds, self-terminating. Assess for structural disease.
+- Sustained VT: ≥30 seconds or requires intervention. Haemodynamically stable: IV amiodarone or lidocaine. Unstable: immediate DCSYNCHRONISED cardioversion.
+Ventricular Fibrillation (VF): disorganised ventricular activity, no cardiac output. Cardiac arrest. Immediate CPR and defibrillation (unsynchronised shock). Reversible causes: 4Hs (Hypoxia, Hypovolaemia, Hypo/hyperkalaemia, Hypothermia) and 4Ts (Tamponade, Tension pneumothorax, Thrombosis, Toxins).
+Torsades de Pointes: polymorphic VT associated with prolonged QTc interval. Causes: drug-induced (Class Ia and III antiarrhythmics, macrolides, antipsychotics, antihistamines), hypokalaemia, hypomagnesaemia, congenital long QT syndrome. Treatment: magnesium sulphate IV, withdraw offending drug, temporary pacing for bradycardia-related TdP.
+Long QT Syndrome: QTc >440ms (men), >460ms (women). Congenital (LQTS 1–15 — channelopathies) or acquired. Triggers: LQT1 — exercise (especially swimming); LQT2 — sudden acoustic stimuli; LQT3 — sleep. Treatment: beta-blockers (LQT1/2), ICD for high-risk patients, sodium channel blockers for LQT3.
+Brugada Syndrome: SCN5A gene mutation, right bundle branch block pattern with ST elevation in V1–V3. Risk of sudden cardiac death. Triggered by fever, alcohol, large meals. ICD for high-risk patients.
+
+END OF CARDIOVASCULAR TRAINING DATA DOCUMENT
+Total: ~12,500 words | Sections: 11 | Chunks estimated: ~100

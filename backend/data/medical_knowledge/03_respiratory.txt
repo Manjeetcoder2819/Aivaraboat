@@ -1,0 +1,486 @@
+RESPIRATORY MEDICINE — COMPREHENSIVE MEDICAL REFERENCE
+========================================================
+Source: Medical Training Data for AIVARA Healthcare AI
+Category: Respiratory Medicine | Version: 1.0
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 1: RESPIRATORY ANATOMY AND PHYSIOLOGY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+UPPER AIRWAY:
+The respiratory tract begins at the nose and mouth. The nasal passages warm, humidify, and filter inspired air. The pharynx serves as a shared passage for air and food. The larynx contains the vocal cords and the epiglottis (prevents aspiration during swallowing). The trachea is approximately 10–12 cm long and divides at the carina (T4 level) into left and right main bronchi.
+
+LOWER AIRWAY:
+The bronchi divide progressively into smaller airways: main bronchi → lobar bronchi (3 right, 2 left) → segmental bronchi (10 right, 8–10 left) → subsegmental bronchi → terminal bronchioles (last purely conducting airway, generation 16) → respiratory bronchioles → alveolar ducts → alveoli. The total surface area of alveoli is approximately 70–140 m². Total alveoli: approximately 300–500 million.
+
+LUNG VOLUMES:
+Tidal volume (TV): volume breathed in and out per breath at rest (~500 mL).
+Inspiratory reserve volume (IRV): extra volume inhaled beyond tidal breath (~3000 mL).
+Expiratory reserve volume (ERV): extra volume exhaled beyond tidal expiration (~1100 mL).
+Residual volume (RV): air remaining after maximum exhalation (~1200 mL). Cannot be measured by spirometry.
+Total lung capacity (TLC): TV + IRV + ERV + RV (~6000 mL).
+Functional residual capacity (FRC): ERV + RV (~2300 mL) — volume at end-quiet-expiration.
+Vital capacity (VC): TV + IRV + ERV (~4600 mL) — maximum exhalation from maximum inhalation.
+Forced vital capacity (FVC): maximum volume exhaled forcefully from full inspiration.
+FEV1: forced expiratory volume in 1 second.
+FEV1/FVC ratio: normally >0.70–0.75. Reduced in obstructive, normal or increased in restrictive disease.
+DLCO (diffusing capacity for carbon monoxide): measures alveolar-capillary gas transfer. Reduced in emphysema, pulmonary fibrosis, pulmonary vascular disease, anaemia.
+
+SPIROMETRY PATTERNS:
+Obstructive: FEV1/FVC <0.70. FEV1 reduced proportionately more than FVC. Post-bronchodilator improvement in FEV1 ≥12% AND ≥200mL suggests reversibility (asthma). Causes: asthma, COPD, bronchiectasis, cystic fibrosis, obliterative bronchiolitis.
+Restrictive: FEV1/FVC normal or >0.70. Both FEV1 and FVC reduced. TLC reduced. Causes: pulmonary fibrosis, sarcoidosis, pleural disease, neuromuscular disease, obesity, kyphoscoliosis, effusion, pneumonectomy.
+Mixed obstructive-restrictive: FEV1/FVC reduced AND TLC reduced. Occurs in bronchiectasis with fibrosis, sarcoidosis with airway involvement.
+
+GAS EXCHANGE:
+Oxygen moves from alveoli to pulmonary capillary blood by passive diffusion (Fick's law). PO2 alveolar ~100 mmHg, venous blood ~40 mmHg. PCO2 venous ~46 mmHg, alveolar ~40 mmHg. Ventilation-perfusion (V/Q) matching is critical — V/Q mismatch is the most common cause of hypoxaemia. Dead space (V/Q = ∞): ventilated but not perfused. Shunt (V/Q = 0): perfused but not ventilated — causes hypoxaemia not corrected by supplemental oxygen.
+
+RESPIRATORY CONTROL:
+Central chemoreceptors (medulla): respond to CSF pH (reflects PaCO2). Primary drive to breathe. Peripheral chemoreceptors (carotid and aortic bodies): respond to PaO2 (<60 mmHg), PaCO2, pH. In severe COPD with chronic hypercapnia, central chemoreceptors become desensitised — hypoxic drive via peripheral chemoreceptors becomes primary drive (basis for cautious oxygen therapy in COPD).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 2: ASTHMA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DEFINITION:
+Asthma is a chronic inflammatory disease of the airways characterised by variable airflow obstruction and airway hyperresponsiveness. It affects approximately 300 million people worldwide (8–10% of children, 5–7% of adults in developed countries). Accounts for 250,000 deaths/year globally.
+
+PATHOPHYSIOLOGY:
+Allergen exposure in sensitised individuals → IgE-mediated mast cell degranulation → early-phase reaction (bronchospasm, minutes) → late-phase reaction (4–8 hours, eosinophilic inflammation). Chronic inflammation → airway remodelling (subepithelial fibrosis, smooth muscle hypertrophy, goblet cell hyperplasia, mucus hypersecretion). Airway hyperresponsiveness: exaggerated bronchoconstrictor response to various stimuli.
+
+TRIGGERS:
+Allergens (house dust mite most common in UK, cockroach in USA, pets, mould, grass pollen), exercise, cold air, viral upper respiratory tract infections (rhinovirus, RSV — most common precipitant of exacerbations), occupational sensitisers (isocyanates, flour, latex), smoke, irritants, stress, menstruation, drugs (NSAIDs — particularly aspirin in aspirin-exacerbated respiratory disease/Samter's triad; beta-blockers including eye drops), GORD (gastro-oesophageal reflux), obesity.
+
+PHENOTYPES AND ENDOTYPES:
+Allergic asthma: most common, onset in childhood, strong atopic background, eosinophilic inflammation, responds well to ICS.
+Non-allergic asthma: adult-onset, may be eosinophilic or neutrophilic (less steroid-responsive).
+Eosinophilic asthma: elevated blood eosinophils (>0.3 × 10⁹/L) and/or sputum eosinophils — responds to anti-IL-5 therapy.
+Severe eosinophilic asthma: frequently exacerbating, high-dose ICS-dependent — target for biologics.
+Exercise-induced bronchoconstriction: airway cooling and drying during exercise → bronchoconstriction 5–15 min post-exercise. Pre-treatment: SABA 15 min before, ICS regular use, LABA, montelukast.
+Occupational asthma: sensitiser-induced or irritant-induced. Symptoms worse on workdays, improve on weekends/holidays. Common occupations: bakers, painters, healthcare workers, laboratory workers, hairdressers.
+Aspirin-exacerbated respiratory disease (AERD / Samter's triad): asthma + chronic rhinosinusitis with nasal polyps + sensitivity to COX-1 inhibitors (aspirin, NSAIDs). Arachidonic acid diverted to leukotriene pathway when COX-1 inhibited. Treat with aspirin desensitisation, anti-leukotriene agents, nasal corticosteroids.
+
+DIAGNOSIS:
+Symptoms: recurrent wheeze, cough (especially nocturnal), breathlessness, chest tightness. Variable — worse at night and early morning, with triggers.
+Spirometry: normal between attacks or obstructive pattern (FEV1/FVC <0.70). Post-bronchodilator reversibility: improvement in FEV1 ≥12% AND ≥200mL.
+Peak flow monitoring: diurnal variability >20% (ideally with PEF diary over 2 weeks). Exercise test: fall in FEV1 ≥10% after 6 min run.
+Bronchial provocation testing (methacholine challenge): FEV1 fall ≥20% (PC20 <8 mg/mL diagnostic; 8–16 mg/mL borderline). Negative test effectively excludes asthma.
+Fractional exhaled nitric oxide (FeNO): ≥40 ppb indicates eosinophilic airway inflammation, predicts steroid response. Low FeNO (<25 ppb) makes eosinophilic asthma less likely.
+Blood eosinophils: elevated in eosinophilic asthma, guides biologic therapy selection.
+Skin prick tests / specific IgE: identifies allergic sensitisation.
+
+DIFFERENTIAL DIAGNOSIS:
+COPD (older smoker, fixed obstruction), vocal cord dysfunction (stridor, throat-based symptoms), hyperventilation/dysfunctional breathing, heart failure ("cardiac asthma"), bronchiectasis, endobronchial obstruction (tumour, foreign body), ACE inhibitor cough, post-nasal drip.
+
+GINA TREATMENT STEPS (Global Initiative for Asthma 2023):
+Step 1 (mild intermittent): PRN low-dose ICS-formoterol (preferred — reduces exacerbations) or PRN SABA (salbutamol/albuterol) alone if no risk factors for exacerbations.
+Step 2 (mild persistent): Regular low-dose ICS + PRN SABA or LABA. Alternatives: LTRA (montelukast), theophylline.
+Step 3 (moderate persistent): Low-dose ICS-LABA (combination inhaler) + PRN SABA. Or medium-dose ICS.
+Step 4 (moderate-severe): Medium/high-dose ICS-LABA. Consider LAMA (tiotropium), LTRA, theophylline. Refer to specialist.
+Step 5 (severe): High-dose ICS-LABA + LAMA. Assess for biologic therapy. Consider low-dose OCS (avoid if possible — Cushing's, osteoporosis, glucose intolerance).
+
+Biologics for severe eosinophilic asthma:
+Anti-IL-5 (mepolizumab, reslizumab): reduce blood and sputum eosinophils, reduce exacerbations 50%, allow OCS reduction.
+Anti-IL-5 receptor (benralizumab): depletes eosinophils via ADCC, 8-weekly injections after initial 3 doses.
+Anti-IL-4/IL-13 (dupilumab): targets type 2 inflammation broadly, effective in eosinophilic asthma AND atopic dermatitis.
+Anti-IgE (omalizumab): for allergic asthma with elevated total IgE. Binds free IgE, prevents mast cell activation.
+Anti-TSLP (tezepelumab): most upstream target — blocks thymic stromal lymphopoietin, effective across asthma phenotypes (allergic and non-allergic, eosinophilic and non-eosinophilic).
+
+ACUTE SEVERE ASTHMA:
+Assessment markers:
+Moderate attack: PEF >50-75%, no features of severe attack, SpO2 ≥92%.
+Severe attack: any of — PEF 33–50%, RR ≥25, HR ≥110, inability to complete sentences.
+Life-threatening: any of — PEF <33%, SpO2 <92%, PaO2 <8 kPa, normal or raised PaCO2, silent chest, cyanosis, bradycardia, hypotension, exhaustion, confusion, coma.
+Near-fatal: raised PaCO2 requiring mechanical ventilation.
+
+Treatment:
+High-flow oxygen (target SpO2 94–98%).
+Salbutamol nebuliser (2.5–5mg) — repeat every 15–20 minutes or continuous. IV if not responding.
+Ipratropium bromide nebuliser (0.5mg) — adds bronchodilation, reduces hospitalisation especially in severe cases.
+Systemic corticosteroids: prednisolone 40–50mg oral or hydrocortisone 100mg IV — reduces need for hospitalisation, prevents relapse.
+Magnesium sulphate IV (2g over 20 minutes): bronchosmolyitic — for life-threatening or failure to respond to initial treatment. NNT ~8 to prevent ICU admission.
+Heliox: helium-oxygen mixture reduces turbulent flow in severe obstruction — considered for refractory cases.
+IV aminophylline: narrow therapeutic window, adds little to inhaled bronchodilators plus magnesium — rarely used now.
+NIV/intubation: if deteriorating despite maximum therapy. Beware — intubation in asthma carries significant risks (air-trapping, barotrauma, haemodynamic compromise). Ketamine (bronchodilator) preferred for induction.
+Discharge: only when PEF >75% predicted, spirometry improving, SpO2 >94% on air, stable for ≥1 hour. Prescribe steroid course (40–50mg prednisolone ×5–7 days), increase ICS, review inhaler technique, written asthma action plan, close follow-up.
+
+ASTHMA MONITORING:
+Asthma Control Questionnaire (ACQ), Asthma Control Test (ACT): validated symptom scores. Annual review: symptom control, exacerbations, lung function, inhaler technique, adherence, triggers, smoking, side effects.
+Asthma deaths: annually approximately 1,200 in UK, mostly preventable. Risk factors: previous near-fatal attack, hospital admission in previous year, ≥3 classes of asthma medication, heavy SABA use (>1 canister/month), poor adherence, psychosocial factors (depression, alcohol, illicit drugs), failure to attend appointments.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 3: CHRONIC OBSTRUCTIVE PULMONARY DISEASE (COPD)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DEFINITION:
+COPD is a common, preventable, and treatable disease characterised by persistent respiratory symptoms and airflow limitation due to airway and/or alveolar abnormalities usually caused by significant exposure to noxious particles or gases (GOLD 2023). It encompasses chronic bronchitis (productive cough ≥3 months for ≥2 consecutive years) and emphysema (destruction of alveolar walls, enlarged airspaces).
+
+EPIDEMIOLOGY:
+251 million cases globally (WHO 2019). Third leading cause of death worldwide. Prevalence 10–15% of adults over 40 in developed countries. Significant underdiagnosis — only 25–30% diagnosed. UK: ~1.2 million diagnosed, estimated 2 million undiagnosed.
+
+AETIOLOGY:
+Cigarette smoking: most important cause (accounts for 85–90%). Dose-dependent (pack-years = packs/day × years). Only 15–20% of smokers develop COPD (genetic susceptibility). Passive smoking also increases risk.
+Alpha-1 antitrypsin (AAT) deficiency: most important genetic risk factor. Z allele (PiZZ genotype) — AAT level <35 mg/dL — unprotected neutrophil elastase damages alveoli. Causes emphysema (particularly lower lobe panacinar emphysema) in non-smokers, onset 30s–40s. Also causes liver cirrhosis. Screen all COPD patients <45 and non-smokers with COPD.
+Other causes: occupational dusts (coal, silica, cadmium), indoor air pollution (biomass fuel — global significance, affects women in developing countries), outdoor air pollution, childhood respiratory infections (impair lung development), asthma (ongoing risk for COPD), low birth weight.
+
+PATHOPHYSIOLOGY:
+Cigarette smoke → lung inflammation (neutrophils, macrophages, CD8+ T cells, oxidative stress) → protease-antiprotease imbalance (neutrophil elastase, MMPs unchecked by AAT) → destruction of alveolar walls (emphysema) → loss of elastic recoil → airway collapse during expiration (dynamic hyperinflation) → air-trapping → increased RV and FRC → barrel chest, diaphragm flattening.
+Airway inflammation → goblet cell metaplasia → mucus hypersecretion → chronic bronchitis → small airway disease (obliterative bronchiolitis) → increased airway resistance.
+Pulmonary hypertension: chronic hypoxia → vasoconstriction → vascular remodelling → elevated pulmonary artery pressure → right ventricular hypertrophy → cor pulmonale (right heart failure).
+
+TYPES OF EMPHYSEMA:
+Centriacinar (centrilobular): most common. Destruction of respiratory bronchioles at centre of acinus. Strongly associated with smoking. Upper lobe predominance.
+Panacinar: entire acinus destroyed. Associated with AAT deficiency. Lower lobe predominance.
+Paraseptal (distal acinar): adjacent to pleura and interlobular septa. Associated with spontaneous pneumothorax in young adults.
+
+SYMPTOMS AND SIGNS:
+Symptoms: progressive exertional dyspnoea (insidious onset, often attributed to aging), productive cough (morning especially), wheeze, reduced exercise tolerance. Presents typically age >40 with smoking history.
+Signs:
+Hyperinflation: barrel chest (increased AP diameter), use of accessory muscles, pursed-lip breathing (increases intrinsic PEEP), tracheal tug.
+Auscultation: reduced breath sounds globally, wheeze, prolonged expiration, coarse crackles if infection.
+Advanced disease: cyanosis (central), peripheral oedema (cor pulmonale), raised JVP, pulsatile liver.
+Body habitus: "pink puffer" (emphysema-dominant — thin, pursed lips, dyspnoeic but maintaining oxygenation) vs "blue bloater" (chronic bronchitis-dominant — obese/oedematous, cyanotic, less dyspnoeic but more hypoxaemic — oversimplification, most have mixed picture).
+
+INVESTIGATIONS:
+Spirometry (post-bronchodilator): FEV1/FVC <0.70 confirms airflow obstruction. GOLD staging by post-BD FEV1 % predicted:
+GOLD 1 (mild): FEV1 ≥80%
+GOLD 2 (moderate): FEV1 50–79%
+GOLD 3 (severe): FEV1 30–49%
+GOLD 4 (very severe): FEV1 <30%
+Note: fixed FEV1/FVC <0.70 threshold overdiagnoses COPD in elderly (normal aging reduces ratio) and underdiagnoses in young. LLN (lower limit of normal) approach more accurate but less widely used.
+ABG: assess for type 1 (PaO2 <8 kPa, normal/low PaCO2 — hypoxaemia without hypercapnia, early/mild) or type 2 (PaO2 <8 kPa, PaCO2 >6 kPa — hypercapnic respiratory failure, late/severe, chronic compensated by metabolic alkalosis).
+CXR: hyperinflation (>6 anterior ribs, flattened diaphragms, increased AP diameter, small heart), bullae, emphysema (dark lungs). Excludes pneumonia, malignancy, pneumothorax.
+CT chest (HRCT): defines emphysema pattern, distribution, bullae, airway wall thickening, identifies bronchiectasis, excludes malignancy.
+DLCO: reduced (more than FEV1 in emphysema-dominant COPD).
+6-minute walk test, CPET: exercise capacity assessment.
+Alpha-1 antitrypsin level: screen all COPD <45 or non-smokers.
+ABCDE assessment (GOLD): combines airflow limitation (GOLD grade 1–4), symptom burden (mMRC ≥2 or CAT score ≥10 = high symptom burden), and exacerbation history (≥2/year or ≥1 hospitalisation = high exacerbation risk) to guide treatment.
+
+MANAGEMENT OF STABLE COPD:
+Smoking cessation: most important intervention — reduces FEV1 decline rate from ~80 mL/year to 30 mL/year (= non-smoker). Pharmacotherapy: varenicline (most effective, NNT 5–7), combination NRT, bupropion. Intensive behavioural support doubles pharmacotherapy efficacy.
+Bronchodilators: backbone of treatment, relieve symptoms but do not modify decline.
+SABAs (short-acting beta-2 agonists): salbutamol (albuterol), terbutaline — PRN use for symptom relief.
+SAMAs (short-acting muscarinic antagonists): ipratropium — superior to SABAs for COPD.
+LABAs (long-acting beta-2 agonists): salmeterol, formoterol, indacaterol, olodaterol — once or twice daily. Reduce dyspnoea, exacerbations. Salmeterol/formoterol 12-hourly; indacaterol/vilanterol 24-hourly.
+LAMAs (long-acting muscarinic antagonists): tiotropium (HandiHaler or Respimat), glycopyrronium, umeclidinium, aclidinium. Superior to LABAs for COPD (reduces hyperinflation better, more bronchodilation). UPLIFT trial: tiotropium reduced exacerbations 14%, improved FEV1 (+87 mL at 1 year vs placebo).
+LABA+LAMA combination: superior to either alone — additive bronchodilation, greater FEV1 improvement, greater exacerbation reduction. Fixed-dose combinations: umeclidinium/vilanterol (Anoro), glycopyrronium/indacaterol (Ultibro), tiotropium/olodaterol (Spiolto), glycopyrronium/formoterol.
+Inhaled corticosteroids (ICS): do NOT slow FEV1 decline in COPD. Increase pneumonia risk (especially fluticasone). Indicated only for high exacerbation risk + blood eosinophils ≥0.3 × 10⁹/L (eosinophilic COPD — greater ICS response). Used as triple therapy ICS+LABA+LAMA.
+Triple therapy (ICS+LABA+LAMA): e.g., fluticasone furoate/vilanterol/umeclidinium (Trelegy), budesonide/formoterol/glycopyrronium (Breztri). IMPACT trial: triple therapy reduced exacerbations 25% vs LABA+LAMA. Greatest benefit in eosinophils ≥0.3.
+Roflumilast: phosphodiesterase-4 inhibitor, oral, anti-inflammatory. Reduces exacerbations in severe COPD with chronic bronchitis and ≥2 exacerbations/year. GI side effects (nausea, diarrhoea, weight loss), depression/psychiatric effects — not suitable for all.
+Azithromycin: 250mg 3×/week or 500mg 3×/week (prophylactic low-dose antibiotic) — reduces exacerbations in ex-smokers with frequent exacerbations. Risk: QT prolongation, antibiotic resistance, hearing loss (baseline audiometry). Avoid in current smokers (risk non-tuberculous mycobacteria).
+Pulmonary rehabilitation (PR): most important non-pharmacological intervention. 6–8 weeks programme of exercise + education. Reduces dyspnoea, increases exercise capacity and quality of life, reduces hospitalisation. Recommended for all symptomatic patients (mMRC ≥1). Under-utilised.
+Oxygen therapy: Long-term oxygen therapy (LTOT): PaO2 ≤7.3 kPa (≤55 mmHg) at rest on two occasions 3 weeks apart. Or PaO2 7.3–8.0 kPa with cor pulmonale, secondary polycythaemia, or nocturnal desaturation. Must be used ≥15 hours/day (ideally 16–18h). Reduces mortality in severe hypoxaemia. No benefit if PaO2 >8 kPa (LOTT trial). Assess after stopping smoking. Increases fire risk.
+NIV: for acute hypercapnic COPD exacerbation.
+Surgical interventions:
+Lung volume reduction surgery (LVRS): for upper-lobe emphysema with low exercise capacity. Removes most hyperinflated lung tissue, improves elastic recoil and diaphragm mechanics. Survival benefit in selected patients (NETT trial).
+Bronchoscopic lung volume reduction (BLVR): endobronchial valves or coils to achieve lung volume reduction. Valves: one-way valves placed bronchoscopically — deflate target lobe. Requires complete interlobar fissure (no collateral ventilation). Coils: nitinol coils compress hyperinflated lung.
+Bullectomy: for giant bullae (>1/3 of hemithorax) compressing surrounding lung.
+Lung transplant: selected patients with very severe COPD, age <65, abstinent from smoking.
+
+COPD EXACERBATIONS:
+Acute worsening of respiratory symptoms beyond normal day-to-day variation, requiring change in medication.
+Mild: treated with additional bronchodilators alone.
+Moderate: treated with additional short-acting bronchodilators + antibiotics and/or systemic corticosteroids.
+Severe: requires hospitalisation or A&E visit.
+Life-threatening: ICU admission, ventilatory support required.
+
+Causes: bacterial infection (50–70% — H. influenzae, S. pneumoniae, M. catarrhalis, Pseudomonas in severe COPD), viral (rhinovirus, influenza, parainfluenza, RSV — 30%), environmental pollutants. Precipitants: missed medication, PE, pneumothorax, cardiac failure.
+Assessment: pulse oximetry, ABG (critical — PaCO2 elevation indicates impending respiratory failure), CXR (exclude pneumonia, pneumothorax), ECG (cor pulmonale, arrhythmia), FBC, CRP, U&E, blood/sputum cultures.
+Purulent sputum strongly predicts bacterial infection (specificity >90%) — guide antibiotic decision.
+Treatment:
+Controlled oxygen (target SpO2 88–92%) — critical. Avoid excessive oxygen (hypercapnia worsens, Haldane effect: oxyhaemoglobin shifts O2 dissociation curve, CO2 released from blood).
+Bronchodilators: SABA + SAMA nebulised.
+Systemic corticosteroids: prednisolone 30–40mg oral for 5 days (no benefit beyond 5–7 days, excessive side effects including hyperglycaemia).
+Antibiotics: if purulent sputum or evidence of consolidation. 5–7 day course. Empirical: amoxicillin (mild), co-amoxiclav or doxycycline (moderate), or ciprofloxacin/IV if Pseudomonas risk.
+NIV (non-invasive ventilation): for pH <7.35 + PaCO2 >6 kPa + RR >23 despite controlled O2 and bronchodilators. Reduces mortality, reduces intubation rate by 50% (NICE/BTS evidence). Bilevel PAP (IPAP 12–20 cmH2O, EPAP 4–8 cmH2O typically). Check ABG 1 hour after starting.
+Intubation and invasive ventilation: if NIV fails, contraindicated, or patient too distressed. Decision based on reversibility, patient wishes, advance care planning.
+VTE prophylaxis: LMWH + compression stockings (high risk during exacerbation).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 4: PNEUMONIA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DEFINITION AND CLASSIFICATION:
+Pneumonia is infection and inflammation of the lung parenchyma. Community-acquired pneumonia (CAP): acquired outside hospital or within 48 hours of admission. Hospital-acquired pneumonia (HAP): ≥48 hours after hospital admission. Ventilator-associated pneumonia (VAP): ≥48–72 hours after endotracheal intubation. Aspiration pneumonia: inhalation of oropharyngeal secretions (especially right lower lobe due to anatomy of right main bronchus).
+
+EPIDEMIOLOGY:
+CAP affects approximately 5–11 per 1000 adults/year. Leading infectious cause of death. Mortality: outpatient <1%, hospitalised 5–15%, ICU 20–40%.
+
+MICROBIOLOGY — CAP:
+Typical bacteria: Streptococcus pneumoniae (pneumococcus) — most common identifiable cause (30–40%), lobar consolidation, rust-coloured sputum. Haemophilus influenzae — common in COPD. Moraxella catarrhalis — COPD/immunosuppressed. Staphylococcus aureus — post-influenza, cavitation.
+Atypical bacteria (intracellular, poor Gram stain): Mycoplasma pneumoniae — young adults, epidemics every 3–4 years, "walking pneumonia," bilateral patchy infiltrates, cold agglutinins, extrapulmonary features (rash — erythema multiforme, haemolytic anaemia, encephalitis). Chlamydophila pneumoniae — community epidemics. Legionella pneumophila — cooling towers, air conditioning, travel, severe pneumonia, hyponatraemia, diarrhoea, hepatitis, high fever, Legionella urinary antigen positive. Coxiella burnetii (Q fever) — animal contact.
+Viruses: influenza A/B, RSV, SARS-CoV-2 (COVID-19), adenovirus, parainfluenza. Increasing recognition of viral pneumonia (30–40% of CAP).
+Fungi: Pneumocystis jirovecii (PCP) — immunosuppressed/HIV (CD4 <200), bilateral perihilar ground-glass shadowing, desaturation with exercise ("ISat"), treat with co-trimoxazole.
+In 50% of CAP cases, no pathogen identified.
+
+SYMPTOMS AND SIGNS:
+Symptoms: fever, cough (productive in typical, dry/non-productive in atypical), pleuritic chest pain (lateral sharp pain on inspiration, friction rub), dyspnoea, rigors, malaise, anorexia. Atypical features (Mycoplasma, Legionella): headache, myalgia, diarrhoea, rash.
+Signs: fever, tachycardia, tachypnoea, hypoxia, reduced chest expansion, dullness to percussion (consolidation/effusion), bronchial breathing (harsh, hollow — heard over consolidated lung), aegophony (E → A sound change over consolidation), increased tactile vocal fremitus.
+Atypical presentations (elderly): confusion, falls, new incontinence, anorexia, functional decline — without classic respiratory symptoms.
+
+INVESTIGATIONS:
+CXR: lobar or segmental consolidation, bilateral patchy shadowing (atypical/viral), pleural effusion, cavitation (S. aureus, Klebsiella, anaerobes, TB). Always perform.
+ABG: type 1 respiratory failure common. Type 2 in severe or pre-existing lung disease.
+FBC: leukocytosis (neutrophilia — bacterial; lymphopenia — viral); leukopenia in severe sepsis.
+CRP, procalcitonin: elevated in bacterial infection. Procalcitonin useful to guide antibiotic stewardship.
+U&E: urea (used in CURB-65), hyponatraemia (Legionella, SIADH).
+Blood cultures: positive in 10–15% of hospitalised CAP. Most useful if taken before antibiotics. Low yield but guides targeted therapy.
+Sputum culture: routine in hospitalised, lower yield (contamination, prior antibiotics). BAL via bronchoscopy for severe/immunocompromised.
+Legionella urinary antigen (sensitivity 70–80%): best test for Legionella.
+Pneumococcal urinary antigen: sensitivity 60–80%, useful if antibiotics started.
+Serology (paired acute/convalescent): Mycoplasma complement fixation test — retrospective diagnosis.
+Nasopharyngeal swabs: PCR for influenza, COVID-19, RSV, atypical bacteria (rapid multiplex panels increasingly used).
+
+SEVERITY ASSESSMENT:
+CURB-65 score (each = 1 point):
+C: Confusion (new)
+U: Urea >7 mmol/L
+R: Respiratory rate ≥30/min
+B: Blood pressure systolic <90 or diastolic ≤60
+65: Age ≥65
+Score 0–1: low severity (mortality <3%) — consider outpatient treatment
+Score 2: moderate severity (mortality ~9%) — consider short stay hospital
+Score 3–5: high severity (mortality 15–40%) — urgent hospitalisation, consider ICU
+PSI (Pneumonia Severity Index): more complex, used predominantly in USA.
+
+ANTIBIOTIC TREATMENT:
+Low severity (CURB-65 0–1), outpatient:
+Amoxicillin 500mg–1g TDS for 5 days (covers S. pneumoniae).
+Penicillin allergy: doxycycline 200mg loading then 100mg BD or clarithromycin 500mg BD.
+Atypicals suspected (young, no comorbidities): doxycycline or clarithromycin monotherapy.
+
+Moderate severity (CURB-65 2), hospitalised:
+Co-amoxiclav (amoxicillin/clavulanate) + clarithromycin or doxycycline (covers typical + atypical).
+Or amoxicillin + clarithromycin.
+5–7 days.
+
+High severity (CURB-65 3–5), hospitalised:
+IV co-amoxiclav + IV clarithromycin.
+Or IV ceftriaxone + IV clarithromycin.
+If severe (ICU): piperacillin/tazobactam or cefotaxime + macrolide.
+If Legionella confirmed: IV levofloxacin or IV azithromycin.
+Duration: 5–7 days (switching to oral when clinically stable — apyrexial, HR <100, SpO2 >94%, tolerating oral fluids).
+
+COMPLICATIONS:
+Parapneumonic effusion and empyema: pleural fluid with pH <7.2, glucose <2.2, LDH >3× plasma upper limit, or frank pus — requires drainage (chest drain) ± fibrinolytics (alteplase + DNase MIST2 trial), surgical decortication if loculated.
+Lung abscess: cavity with air-fluid level. Prolonged antibiotics (4–6 weeks, IV initially, then oral amoxicillin-clavulanate or clindamycin). Percutaneous drainage if large/not responding.
+Sepsis and septic shock: manage per surviving sepsis guidelines.
+Respiratory failure: supplemental O2, NIV, intubation.
+ARDS: bilateral infiltrates + severe hypoxaemia (PaO2/FiO2 <200) + no cardiac cause. Supportive: low tidal volume ventilation (6 mL/kg ideal body weight), prone positioning (≥16h/day reduces mortality in severe ARDS), conservative fluid strategy, dexamethasone (reduces ventilator days in moderate-severe).
+
+PREVENTION:
+Pneumococcal vaccine: PCV13 conjugate (children, immunocompromised) and PPSV23 polysaccharide (adults ≥65, high-risk). New PCV15/PCV20 conjugate vaccines provide broader coverage.
+Influenza vaccine: annual, reduces influenza pneumonia and secondary bacterial pneumonia. Recommended for all ≥65, healthcare workers, and high-risk adults.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 5: PULMONARY EMBOLISM (PE)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PE is occlusion of pulmonary arteries by thrombus (usually from DVT). Annual incidence 60–70 per 100,000. Mortality: untreated 30%, treated 2–8%. Third most common cardiovascular cause of death.
+
+RISK FACTORS — VIRCHOW'S TRIAD:
+Stasis: prolonged immobility (bed rest, long-haul flights ≥8 hours), obesity, heart failure, previous VTE.
+Endothelial injury: surgery, trauma, central venous catheters, varicose veins.
+Hypercoagulability:
+Inherited thrombophilias: Factor V Leiden (most common, 5% Caucasians, 50% of familial VTE), Prothrombin G20210A, Protein C/S deficiency, Antithrombin III deficiency.
+Acquired: antiphospholipid syndrome (recurrent VTE, arterial thrombosis, pregnancy morbidity), malignancy (especially mucin-secreting adenocarcinomas — pancreas, lung, GI, ovary), pregnancy and puerperium (10× increased risk), oral contraceptive pill and HRT, inflammatory bowel disease, nephrotic syndrome (loss of anticoagulant proteins), PNH.
+Strong provoking factors: major surgery (VTE risk 80× if hip/knee replacement without prophylaxis), hip fracture, lower limb fracture.
+
+SYMPTOMS:
+Classic triad (uncommon all together): dyspnoea (most common, 80%), pleuritic chest pain (40–50%), haemoptysis (10–15%) with pulmonary infarction.
+Other: palpitations, cough, syncope (massive PE), apprehension, diaphoresis.
+Massive PE: sudden severe dyspnoea, hypotension, syncope, circulatory collapse — right heart failure from acute pressure overload.
+
+SIGNS:
+Tachycardia (most consistent), tachypnoea, hypoxia, pleural rub, signs of DVT (calf tenderness/swelling, Homan's sign unreliable), raised JVP (massive PE), RV heave, loud P2, TR murmur (acute cor pulmonale).
+ECG: sinus tachycardia (most common); "S1Q3T3" (S wave in lead I, Q wave and T-wave inversion in III) — suggestive but only present in 10%; right bundle branch block; new right axis deviation; T-wave inversion V1–V4.
+CXR: often normal (most valuable for excluding other diagnoses — pneumonia, pneumothorax, effusion, cardiac failure). Westermark sign (oligaemia distal to occlusion), Hampton's hump (wedge-shaped pleural-based opacity — infarction), focal atelectasis, elevated hemidiaphragm, unilateral effusion.
+
+DIAGNOSIS:
+Pre-test probability (Wells score or PERC rule):
+Geneva score: age >65, previous VTE, surgery/fracture in last month, active malignancy, unilateral lower limb pain, haemoptysis, heart rate, pain on deep vein palpation, unilateral oedema.
+Wells PE score: clinical signs of DVT (3 pts), alternative diagnosis less likely than PE (3 pts), HR >100 (1.5), immobilisation/surgery last 3/52 (1.5), previous DVT/PE (1.5), haemoptysis (1), malignancy (1). Low <2, moderate 2–6, high >6. Two-level: PE likely ≥5 vs PE unlikely <5.
+PERC rule (for very low pre-test probability): age <50, HR <100, SpO2 ≥95%, no unilateral leg swelling, no haemoptysis, no recent surgery/trauma, no prior VTE, no OCP/HRT → all 8 = very low risk, D-dimer not needed.
+
+D-dimer: highly sensitive (>95%) but low specificity (positive in many conditions — infection, cancer, pregnancy, surgery, age-related). Elevated D-dimer requires imaging. Negative D-dimer effectively excludes PE in low-moderate pre-test probability. Age-adjusted D-dimer threshold (age × 10 μg/L if >50 years) improves specificity in elderly.
+CTPA (CT pulmonary angiography): imaging of choice, sensitivity 94%, specificity 96%. Shows filling defects in pulmonary arteries. Incidental findings common. Contrast nephropathy risk.
+V/Q scan: alternative to CTPA — useful in renal impairment, contrast allergy, young women (radiation to breast tissue), pregnancy. Requires normal CXR for reliable interpretation. Result: normal (PE excluded), low/intermediate/high probability (requires clinical correlation).
+Echocardiography: useful in massive PE to assess RV dysfunction and haemodynamic effects. Not primary diagnostic tool but guides management. May show McConnell's sign (RV free wall akinesia with normal apical wall motion).
+Lower limb venous compression ultrasound: DVT found in 30–50% of PE. If CUS positive for DVT → anticoagulate (imaging for PE unnecessary in most cases).
+Troponin and BNP: prognostic markers — elevated indicates RV strain and worse prognosis.
+
+RISK STRATIFICATION:
+Massive (high-risk) PE: haemodynamic compromise (sustained hypotension SBP <90 mmHg or >40 mmHg fall, shock, cardiac arrest).
+Submassive (intermediate-high-risk): normal BP but RV dysfunction on echo/CT + myocardial injury (elevated troponin). PESI or sPESI score elevated.
+Low-risk PE: haemodynamically stable, no RV dysfunction or myocardial injury, low PESI.
+
+TREATMENT:
+Anticoagulation: mainstay, prevents thrombus extension and recurrence.
+DOACs: preferred over LMWH/warfarin for acute treatment (non-cancer PE):
+- Rivaroxaban: 15mg BD for 21 days, then 20mg OD
+- Apixaban: 10mg BD for 7 days, then 5mg BD
+- Dabigatran: LMWH for 5–10 days, then dabigatran 150mg BD
+- Edoxaban: LMWH for 5–10 days, then edoxaban 60mg OD
+All have similar efficacy and safety. Apixaban and rivaroxaban can start without initial LMWH (oral loading dose instead).
+LMWH (enoxaparin 1mg/kg BD, dalteparin 100 IU/kg BD): used in cancer-associated VTE (DOACs now also acceptable for most cancer types — avoid with GI/GU malignancy bleeding risk), pregnancy (DOACs contraindicated), obesity (>120 kg), renal impairment (accumulation risk with DOACs at eGFR <30).
+Warfarin: bridge with LMWH until INR therapeutic (2.0–3.0) for 2 consecutive days (INR takes 5 days to reach target — must overlap). Now rarely used for VTE with availability of DOACs.
+Duration of anticoagulation:
+Provoked (major reversible risk factor): 3 months.
+Unprovoked (idiopathic): minimum 3 months, consider extending indefinitely if low bleeding risk and high recurrence risk — recurrence risk 30% at 5 years without anticoagulation.
+Cancer-associated VTE: anticoagulate until cancer resolved or for ≥6 months.
+First unprovoked VTE in men: consider indefinite (recurrence risk higher than women).
+Recurrent unprovoked VTE: indefinite anticoagulation.
+Thrombophilia: varies by type — screen after first unprovoked PE in young patients.
+Systemic thrombolysis: for massive PE with haemodynamic compromise. Alteplase 10mg IV bolus + 90mg over 2 hours. Reduces mortality and haemodynamic deterioration. Significant bleeding risk (intracranial haemorrhage 2%). Contraindications: active bleeding, prior intracranial surgery/stroke in 3 months, intracranial neoplasm, head trauma in 3 months, suspected aortic dissection.
+Catheter-directed thrombolysis: lower dose thrombolysis via catheter directly into pulmonary artery — PERT (PE Response Team) approach for submassive PE. Reduces RV dysfunction faster than systemic therapy with lower bleeding risk.
+Surgical embolectomy: for massive PE where thrombolysis failed, contraindicated, or unavailable.
+Mechanical thrombectomy: catheter-based aspiration (FlowTriever, AngioVac) — growing evidence for massive/submassive PE.
+IVC filter: temporary or permanent. For PE when anticoagulation contraindicated or fails. Does not replace anticoagulation (reduces PE, increases DVT). Retrievable filters preferred.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 6: PLEURAL DISEASE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PLEURAL EFFUSION:
+Abnormal accumulation of fluid in pleural space. Normal pleural fluid volume 5–15 mL.
+Transudates (low protein, <25 g/L): due to altered Starling forces.
+Causes: cardiac failure (most common — bilateral, right > left), liver cirrhosis (hepatic hydrothorax — usually right), nephrotic syndrome, hypoalbuminaemia, hypothyroidism (rare), constrictive pericarditis, Meigs' syndrome (ovarian fibroma + right pleural effusion + ascites).
+Exudates (high protein, >35 g/L): due to increased capillary permeability or impaired lymphatic drainage.
+Causes: pneumonia (parapneumonic), malignancy (most common cause of recurrent exudate in adults — lung, breast, lymphoma, mesothelioma), PE, TB, rheumatoid arthritis, SLE, pancreatitis (left-sided, high amylase), drugs.
+Light's criteria (most accurate — exudate if ANY criterion met):
+1. Pleural protein/serum protein ratio >0.5
+2. Pleural LDH/serum LDH ratio >0.6
+3. Pleural LDH >2/3 upper limit of normal serum LDH
+
+Diagnosis: CXR (>200 mL to be seen on PA film — blunting of costophrenic angle, uniform opacification, contralateral mediastinal shift if massive, no shift if fixed mediastinum/malignant, ipsilateral shift if collapse), ultrasound (most sensitive, guides aspiration), CT (helps characterise and identify cause).
+Pleural fluid analysis: protein (Light's criteria), LDH, glucose, pH (low pH <7.2 in empyema, malignancy, rheumatoid), cytology (malignant cells — 60% sensitivity for malignant effusion, repeat increases yield), MC&S, AFB (TB), triglycerides (chylothorax if >1.24 mmol/L), cholesterol, amylase (pancreatitis, oesophageal rupture — high amylase).
+Treatment: depends on cause. Therapeutic aspiration (thoracocentesis) for symptomatic relief. Chest drain for empyema, large symptomatic effusion, or to facilitate drainage. Pleurodesis (talc via VATS or slurry via drain) for recurrent malignant effusion — scleroses pleural space. Indwelling pleural catheter (IPC) for malignant effusion — allows intermittent ambulatory drainage, reduces hospitalisations.
+
+MESOTHELIOMA:
+Malignant tumour of mesothelium (pleural, peritoneal, pericardial). Strongly associated with asbestos exposure (latency 20–50 years after exposure). Annual UK incidence ~2,500 (peak due to asbestos use 1950s–1980s). Prognosis: median survival 9–12 months.
+Symptoms: progressive breathlessness (effusion), dull chest pain (pleural involvement), weight loss.
+Diagnosis: CT, pleural biopsy (Abrams needle under USS or CT guidance, VATS).
+Treatment: chemotherapy (pemetrexed + cisplatin ± bevacizumab), immunotherapy (nivolumab + ipilimumab — CHECKMATE 743 trial showed survival benefit), surgery (pleurectomy/decortication or extrapleural pneumonectomy in selected patients, no survival benefit in trials), palliative care.
+Mesothelioma and compensation: asbestos-related disease = IIDB benefit, civil litigation possible.
+
+PNEUMOTHORAX:
+Air in pleural space.
+Primary spontaneous (PSP): tall thin young men (usually), apical bulla rupture, no underlying lung disease. Recurrence 25–54% for first pneumothorax, 50–80% for second.
+Secondary spontaneous (SSP): underlying lung disease (COPD most common — bullae rupture; asthma; cystic fibrosis; necrotising pneumonia; Marfan; lung cancer; PCP).
+Tension pneumothorax: air enters pleural space on inspiration but cannot exit — increasing positive pressure collapses ipsilateral lung, shifts mediastinum, compresses contralateral lung and SVC. Medical emergency. Tracheal deviation away, absent breath sounds, hypotension, raised JVP, tachycardia, cyanosis. Immediate large-bore needle decompression (2nd intercostal space, midclavicular line) — do NOT wait for CXR. Then chest drain.
+Traumatic: rib fracture, penetrating chest wound, iatrogenic (central line, lung biopsy, thoracocentesis, positive pressure ventilation).
+Management (BTS guidelines 2010):
+PSP, small (<2 cm rim on CXR), not breathless: observe, discharge, review in 2–4 weeks.
+PSP, large (≥2 cm) or breathless: aspiration first (16g cannula, 2nd ICS midclavicular line — draw off up to 2.5L). If successful (lung re-expands, no recurrence in 1 hour) — discharge with follow-up. If failed — small-bore drain (8–12F Seldinger technique).
+SSP: all require chest drain regardless of size. Admit, oxygen therapy (accelerates pneumothorax resolution ×3–4 by nitrogen absorption).
+Pleurodesis/surgery: for recurrent PSP or SSP (talc pleurodesis or VATS with stapling of bullae ± pleurectomy/abrasion).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 7: INTERSTITIAL LUNG DISEASE (ILD)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ILD is a heterogeneous group of >200 disorders characterised by inflammation and/or fibrosis of the lung interstitium.
+
+CLASSIFICATION:
+Known cause: occupational/environmental (hypersensitivity pneumonitis, pneumoconioses), drug-induced (amiodarone, nitrofurantoin, methotrexate, bleomycin, checkpoint inhibitors), connective tissue disease-associated ILD (RA, SSc, SLE, myositis, Sjögren's).
+Idiopathic interstitial pneumonias (IIPs): IPF, NSIP, COP, RB-ILD, DIP, AIP, LIP.
+Granulomatous: sarcoidosis, hypersensitivity pneumonitis, berylliosis.
+Other: LAM (lymphangioleiomyomatosis), PLCH (pulmonary Langerhans cell histiocytosis).
+
+IDIOPATHIC PULMONARY FIBROSIS (IPF):
+Most common IIP, accounts for >50% of ILD. Median age 65–70, predominantly male smokers. Median survival 3–5 years. Cause unknown — current hypothesis: aberrant wound healing response to repeated alveolar microinjury, leading to progressive fibrosis.
+UIP (Usual Interstitial Pneumonia) pattern: CT findings — basal-predominant subpleural honeycombing with or without peripheral traction bronchiectasis. Pathological UIP pattern on biopsy (if needed).
+Symptoms: insidious progressive dyspnoea on exertion, dry cough, fatigue.
+Signs: fine bibasal inspiratory crackles ("Velcro crackles"), clubbing (50%), cyanosis in advanced disease.
+Investigations: PFTs (restrictive pattern — reduced FVC, TLC, DLCO), HRCT (honeycombing, traction bronchiectasis, basal/subpleural), BAL (exclude infection/HP), TBLB or VATS biopsy if diagnosis uncertain. Blood for CTD screen (ANA, RF, anti-CCP, ANCA, anti-Jo-1, anti-Scl-70, anti-MDA5, anti-SSA/SSB).
+Treatment:
+Antifibrotics: pirfenidone (pyridone, mechanism unclear — anti-inflammatory, antifibrotic, anti-TGF-β) and nintedanib (triple kinase inhibitor — blocks PDGFR, VEGFR, FGFR) — both slow FVC decline by ~50%, do not reverse fibrosis, do not improve survival directly but reduce exacerbations. Both cause GI side effects.
+Lung transplant: only treatment proven to improve survival. Single or bilateral transplant. 5-year survival ~50%.
+Acute exacerbations of IPF: rapid worsening, new bilateral infiltrates, mortality >50%. IV methylprednisolone (controversial), supportive care, treatment of trigger.
+Supportive care: pulmonary rehabilitation, oxygen therapy, management of comorbidities (GORD, pulmonary hypertension, sleep apnoea), palliative care planning.
+
+SARCOIDOSIS:
+Multisystem granulomatous disease of unknown aetiology (abnormal immune response to unknown antigen, likely inhaled). Non-caseating granulomas in affected organs. Peak incidence 20–40 years, slight female predominance. Incidence 10–40 per 100,000. More common and severe in Afro-Caribbean populations.
+Pulmonary involvement in 90%: mediastinal lymphadenopathy, pulmonary infiltrates, progressive fibrosis (stage IV).
+Staging (Scadding CXR stages):
+Stage 0: normal
+Stage I: bilateral hilar lymphadenopathy (BHL) only — 90% spontaneous remission
+Stage II: BHL + pulmonary infiltrates
+Stage III: pulmonary infiltrates only (no BHL)
+Stage IV: pulmonary fibrosis
+Extrapulmonary:
+Skin: erythema nodosum (acute sarcoidosis, good prognosis — painful nodules on shins, bilateral, raised ESR, fever), lupus pernio (indurated violaceous skin plaques over nose, cheeks, ears — chronic sarcoidosis, poor prognosis), maculopapular skin lesions.
+Eyes: uveitis (anterior — blurred vision, red eye, photophobia; posterior — chorioretinitis, asymptomatic), lacrimal gland enlargement.
+Heart: cardiomyopathy, heart block (granulomas in conduction system — Holter monitoring, MRI), arrhythmias. Leading cause of death in Japan.
+Nervous system: neurosarcoidosis — CN palsies (especially CN VII facial palsy, bilateral in 50%), diabetes insipidus (hypothalamic involvement), aseptic meningitis, peripheral neuropathy.
+Renal: hypercalcaemia (granulomas produce 1-hydroxylase → excess 1,25(OH)2 vitamin D → hypercalcaemia → nephrocalcinosis, renal stones).
+Musculoskeletal: arthritis, bone cysts.
+Liver/spleen: hepatomegaly, splenomegaly.
+Löfgren syndrome (acute sarcoidosis): BHL + erythema nodosum + ankle periarthritis + fever + raised ESR. Excellent prognosis — >90% remission without treatment.
+Diagnosis: clinical picture + consistent imaging + histology (non-caseating granuloma excluding other causes). ACE: elevated in active sarcoid (sensitivity 60%, specificity 80%). Serum calcium, 24h urine calcium. BAL: CD4:CD8 ratio >3.5 highly suggestive. EBUS-TBNA (endobronchial ultrasound-guided transbronchial needle aspiration) of mediastinal nodes — high yield, safe.
+Treatment: many resolve spontaneously (especially Stage I/II). Indications for systemic corticosteroids: symptomatic pulmonary disease (dyspnoea, declining spirometry), cardiac sarcoid, neurosarcoid, hypercalcaemia, eye disease, skin disease (other than EN). Prednisolone 0.5 mg/kg/day for 4–8 weeks, taper over 12 months. Steroid-sparing: methotrexate, azathioprine, hydroxychloroquine. Infliximab: refractory sarcoid.
+
+HYPERSENSITIVITY PNEUMONITIS (HP):
+Inflammatory lung disease due to immune-mediated hypersensitivity to inhaled organic antigens.
+Causes: farmer's lung (Thermophilic actinomyces in mouldy hay), bird fancier's lung (avian serum proteins in bird droppings/feathers — most common cause of chronic HP in UK), hot tub lung (Mycobacterium avium), metalworking fluid HP, humidifier fever.
+Acute HP: hours after heavy exposure — flu-like illness, dyspnoea, fever, chills, wheeze. CXR: bilateral infiltrates. Resolves with antigen avoidance.
+Subacute/Chronic HP: months-years of exposure — progressive dyspnoea, weight loss, clubbing (chronic), irreversible fibrosis.
+Diagnosis: thorough exposure history (crucial), serum precipitins (IgG antibodies to relevant antigens — supports exposure, not diagnostic), HRCT (ground-glass, centrilobular nodules, mosaic attenuation), BAL lymphocytosis (>40%), biopsy in uncertain cases.
+Treatment: antigen avoidance (most important — complete avoidance required for acute, chronic may progress despite avoidance). Corticosteroids for acute/subacute symptomatic disease.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 8: LUNG CANCER
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+EPIDEMIOLOGY:
+Most common cause of cancer death in UK, USA, and worldwide. 2.2 million new cases globally/year. 5-year survival: 10–15% (UK/USA) — predominantly due to late-stage diagnosis. Smoking causes 85–90% of lung cancers. Latency 30–40 years between smoking onset and cancer.
+
+TYPES:
+Non-small cell lung cancer (NSCLC): 85% of lung cancers.
+Adenocarcinoma (40%): most common type in non-smokers and women. Peripheral tumour, glandular architecture. Molecular targets: EGFR mutations (15% Caucasian, 40–50% East Asian), ALK rearrangements (5%), ROS1 (2%), KRAS (30%), MET amplification/exon 14 skipping (3%), BRAF V600E (3%), NTRK fusions, RET fusions, ERBB2 (HER2) mutations.
+Squamous cell carcinoma (25–30%): central, cavitating, associated with smoking. Hypercalcaemia (PTHrP secretion). Less driver mutations. Responding to immunotherapy.
+Large cell carcinoma (10%): undifferentiated, poor prognosis.
+Small cell lung cancer (SCLC): 15%. Highly aggressive, central, neuroendocrine origin, virtually all smokers, early widespread metastasis. Paraneoplastic syndromes (SIADH, Eaton-Lambert, ACTH, cerebellar ataxia). Limited disease (confined to one hemithorax + ipsilateral nodes — fits radiation portal): treat with chemo-radiotherapy (etoposide + cisplatin + radiotherapy). Extensive disease: chemotherapy (etoposide + platinum ± atezolizumab), prophylactic cranial irradiation (reduces brain metastases, modest survival benefit).
+
+SYMPTOMS:
+Central tumour: cough (persistent, changing character), haemoptysis, post-obstructive pneumonia (recurrent lobar pneumonia), wheeze, stridor.
+Peripheral tumour: pleuritic pain, pleural effusion, cough, SOB.
+Metastatic: bone pain/fracture (10–30% at presentation), headache/seizures (brain mets), hepatomegaly, weight loss, fatigue, abdominal pain (adrenal mets), skin/soft tissue nodules.
+Locoregional spread:
+Superior vena cava (SVC) obstruction: right-sided central tumour, lymph node compression. Facial/arm swelling, dilated neck/chest wall veins, conjunctival injection, headache (worse bending forward). Emergency (if brain oedema). Treat with stent ± radiotherapy ± corticosteroids.
+Pancoast tumour: apex tumour invades brachial plexus (C8, T1) → Horner's syndrome (ptosis, miosis, anhidrosis — stellate ganglion involvement) + ipsilateral arm pain/weakness.
+Recurrent laryngeal nerve palsy: hoarseness (left side — longer intrathoracic course).
+Phrenic nerve palsy: raised hemidiaphragm on CXR.
+Pericardial involvement: pericardial effusion, tamponade.
+Oesophageal compression: dysphagia.
+
+Paraneoplastic syndromes:
+SCLC: SIADH (ADH excess → hyponatraemia), ectopic ACTH (Cushing's), Eaton-Lambert myasthenic syndrome (anti-VGCC antibodies), cerebellar ataxia, limbic encephalitis.
+NSCLC — squamous: hypercalcaemia (PTHrP), hypertrophic pulmonary osteoarthropathy (periosteal new bone formation → painful arthritis, clubbing on CXR).
+All types: clubbing, DVT (Trousseau's phenomenon — migratory thrombophlebitis), polymyositis, dermatomyositis, membranous nephropathy.
+
+DIAGNOSIS AND STAGING:
+Investigation: CXR (initial), CT chest/abdomen/pelvis with contrast (staging), PET-CT (lymph node assessment, distant metastasis — superior to CT alone for staging), MRI brain (mandatory before curative intent surgery), spirometry (operability assessment), lung function tests, EBUS (endobronchial ultrasound — mediastinal lymph node staging and diagnosis), bronchoscopy (central tumours — BAL, bronchial biopsy), CT-guided percutaneous biopsy (peripheral tumours), pleural aspiration/biopsy.
+Liquid biopsy: circulating tumour DNA (ctDNA) for EGFR mutations and resistance monitoring.
+Molecular testing: all non-squamous NSCLC → EGFR, ALK, ROS1, BRAF, KRAS, MET, RET, NTRK, PD-L1 (IHC, tumour proportion score).
+TNM staging: T (primary tumour size/extent), N (nodal involvement — N0: none, N1: ipsilateral peribronchial/hilar, N2: ipsilateral mediastinal/subcarinal, N3: contralateral or supraclavicular), M (distant metastasis). Stage I–II: localised; Stage III: locally advanced; Stage IV: metastatic.
+
+TREATMENT:
+Stage I–II NSCLC: surgery (lobectomy via VATS preferred or open thoracotomy, curative in 60–80% Stage I). Sublobar resection for poor respiratory reserve. Adjuvant chemotherapy (cisplatin-based) for Stage II. Adjuvant osimertinib for EGFR-mutant Stage I–III after resection (ADAURA trial). Stereotactic ablative body radiotherapy (SABR/SBRT) for medically inoperable patients — local control rates approaching surgery.
+Stage III NSCLC: concurrent chemoradiotherapy (cisplatin + etoposide/vinorelbine + radical radiotherapy 60–66 Gy). Consolidation durvalumab (PD-L1 inhibitor) for 12 months after chemoRT (PACIFIC trial — significant OS improvement). Selected Stage IIIA: surgery if downstaged after neoadjuvant chemotherapy or chemo-immunotherapy.
+Stage IV NSCLC:
+- EGFR-mutant (exon 19 del or exon 21 L858R): osimertinib (3rd generation EGFR TKI, FLAURA trial — superior to 1st gen TKIs, CNS penetration, PFS ~18 months). Resistant mechanisms: C797S mutation, MET amplification, histological transformation.
+- ALK-positive: alectinib or brigatinib (superior to crizotinib, excellent CNS activity, PFS 25–35 months). Lorlatinib: 3rd generation, for resistance.
+- ROS1: crizotinib, entrectinib.
+- BRAF V600E: dabrafenib + trametinib.
+- MET exon 14 skip: capmatinib, tepotinib.
+- KRAS G12C: sotorasib, adagrasib.
+- RET fusion: selpercatinib, pralsetinib.
+- NTRK: larotrectinib, entrectinib.
+- PD-L1 ≥50%, no driver mutation: pembrolizumab monotherapy (KEYNOTE-024).
+- PD-L1 1–49%: pembrolizumab + chemotherapy (KEYNOTE-189).
+- PD-L1 negative: chemotherapy + immunotherapy or chemotherapy alone.
+Pembrolizumab (anti-PD-1): check PD-L1 TPS (tumour proportion score). High TPS ≥50%: monotherapy superior to chemotherapy. All comers: chemo-immunotherapy combinations.
+Immune checkpoint inhibitor toxicities: pneumonitis (ground-glass opacities, treat with steroids), colitis, hepatitis, endocrinopathies (thyroiditis, adrenal insufficiency, T1DM, hypophysitis), dermatitis, nephritis, myocarditis (rare, life-threatening).
+
+END OF RESPIRATORY MEDICINE TRAINING DATA
+Total: ~11,000 words | Sections: 8 | Estimated chunks: ~90

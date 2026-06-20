@@ -1,0 +1,263 @@
+GASTROENTEROLOGY — COMPREHENSIVE MEDICAL REFERENCE
+====================================================
+Source: Medical Training Data for AIVARA Healthcare AI
+Category: Gastroenterology | Version: 1.0
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 1: GASTROINTESTINAL ANATOMY AND PHYSIOLOGY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+THE GI TRACT:
+The gastrointestinal (GI) tract extends from the mouth to the anus, approximately 9 metres in total length. Key organs: oesophagus (~25 cm), stomach (capacity 1-1.5L), small intestine (~6-7 m — duodenum 25 cm, jejunum ~2.5 m, ileum ~3.5 m), large intestine (~1.5 m — caecum, ascending, transverse, descending, sigmoid colon, rectum). The small intestine provides the vast majority of nutrient absorption via villi and microvilli (brush border enzymes), providing a total absorptive surface area of approximately 250-400 m².
+
+GASTRIC PHYSIOLOGY:
+The stomach secretes gastric acid (HCl) from parietal cells (stimulated by gastrin from G cells, acetylcholine, histamine via H2 receptors), intrinsic factor (parietal cells — essential for vitamin B12 absorption in terminal ileum), pepsinogen (chief cells — activated to pepsin by acid), and mucus (goblet cells — protective barrier).
+Gastric emptying: liquids empty faster than solids. Controlled by pyloric sphincter and intestinal feedback (fat delays emptying via cholecystokinin, GIP). Delayed gastric emptying = gastroparesis.
+
+INTESTINAL HORMONES:
+Gastrin: G cells of antrum → stimulates acid secretion, gastric motility.
+Cholecystokinin (CCK): I cells of duodenum/jejunum → stimulates pancreatic enzyme secretion, gallbladder contraction, delays gastric emptying.
+Secretin: S cells → stimulates pancreatic bicarbonate secretion, inhibits gastric acid.
+GIP (glucose-dependent insulinotropic peptide): K cells → incretin effect.
+GLP-1, GLP-2: L cells of ileum/colon.
+Motilin: Mo cells → stimulates migrating motor complex (MMC) during fasting.
+VIP (vasoactive intestinal peptide): inhibitory neurotransmitter, relaxes smooth muscle.
+
+LIVER FUNCTIONS:
+Metabolic: glucose metabolism (glycogen storage, gluconeogenesis), lipid metabolism (β-oxidation, lipoprotein synthesis, ketogenesis), protein synthesis (albumin, clotting factors II, V, VII, IX, X, XI — prothrombin time reflects synthetic function), amino acid metabolism (urea cycle — detoxifies ammonia).
+Detoxification: phase I (CYP450 oxidation, reduction, hydrolysis) and phase II (conjugation — glucuronidation, sulphation) reactions convert drugs and metabolites for excretion.
+Bile production: 600-1200 mL/day. Bile acids (cholic/chenodeoxycholic acid conjugated with taurine/glycine), bilirubin (breakdown product of haem → conjugated in liver → excreted in bile), phospholipids, cholesterol.
+Bilirubin metabolism: RBC breakdown → haemoglobin → haem → unconjugated (indirect) bilirubin (insoluble, protein-bound) → conjugated (direct) bilirubin in liver → excreted in bile → urobilinogen (in gut → absorbed → excreted in urine; remainder → stercobilin in stool — gives stool brown colour).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 2: GASTRO-OESOPHAGEAL REFLUX DISEASE (GORD)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DEFINITION AND EPIDEMIOLOGY:
+GORD occurs when gastric contents reflux into the oesophagus causing symptoms or mucosal injury. Prevalence 10-30% in Western countries. Leading GI condition in primary care. Annual cost in UK > £750 million.
+
+PATHOPHYSIOLOGY:
+Transient lower oesophageal sphincter relaxations (TLOSRs): most common mechanism — LOS relaxes inappropriately (triggered by gastric distension, fatty meals, smoking, alcohol, caffeine, chocolate, peppermint), allowing reflux. Less commonly: low basal LOS pressure (<6 mmHg), hiatus hernia (displaces LOS above diaphragm, losing crural diaphragm support, reducing acid clearance), impaired oesophageal peristalsis, delayed gastric emptying.
+Hiatus hernia: sliding hernia (95% — gastro-oesophageal junction and part of stomach herniate above diaphragm through oesophageal hiatus) vs para-oesophageal/rolling hernia (5% — fundus herniates alongside oesophagus with GEJ remaining below diaphragm; risk of volvulus/strangulation — surgical repair considered).
+
+SYMPTOMS:
+Typical: heartburn (burning retrosternal discomfort, worse after meals, lying flat, bending), regurgitation (effortless return of gastric contents to mouth — sour or bitter taste), waterbrash (excessive saliva production, not regurgitation).
+Atypical (extraoesophageal): chronic cough (nocturnal or post-prandial — reflux-induced vagal reflex or micro-aspiration), laryngitis (hoarseness, throat clearing — laryngopharyngeal reflux), dental erosion, non-cardiac chest pain, asthma (reflux may trigger bronchoconstriction), globus sensation (lump in throat).
+Alarm symptoms requiring urgent investigation: dysphagia, odynophagia, unintentional weight loss, haematemesis/melaena, persistent vomiting, iron-deficiency anaemia, epigastric mass, new onset >55 years.
+
+INVESTIGATIONS:
+Clinical diagnosis for typical uncomplicated symptoms. Empirical PPI trial confirms diagnosis if symptoms resolve.
+Upper GI endoscopy (OGD): for alarm symptoms, failure to respond to PPI, suspected Barrett's, surveillance. Grades oesophagitis: Los Angeles Classification A (isolated mucosal breaks ≤5mm) to D (circumferential mucosal break).
+Ambulatory pH monitoring (24-48 hours): gold standard for confirming reflux. DeMeester score. % time pH <4. Wireless pH capsule (Bravo) — 96-hour study, more comfortable.
+Combined pH-impedance monitoring: detects acid AND non-acid reflux (gas, weakly acidic liquid). Used when symptoms persist on PPI.
+High-resolution oesophageal manometry: assesses LOS pressure, oesophageal peristalsis, diagnoses achalasia/other motility disorders.
+Barium swallow: demonstrates hiatus hernia, strictures, dysmotility (less used now).
+
+MANAGEMENT:
+Lifestyle: weight loss (most effective intervention — BMI reduction directly reduces GORD), elevate head of bed 10-15 cm (particularly for nocturnal reflux), avoid eating within 3 hours of lying down, reduce alcohol/caffeine/spicy foods/chocolate/fatty meals (evidence limited for individual foods), stop smoking.
+
+Antacids (magnesium trisilicate, aluminium hydroxide): immediate symptom relief, neutralise acid. Calcium carbonate: short acting, possible rebound. Sodium alginate (Gaviscon): forms raft on gastric surface, reduces reflux volume. Safe in pregnancy.
+
+H2 receptor antagonists (H2RAs): ranitidine (now withdrawn — NDMA contamination concerns), famotidine, nizatidine. Reduce acid 60-70%. Onset <1 hour. Tolerance develops with regular use (downregulation of H2 receptors). PRN use preferable. Safe in pregnancy.
+
+Proton Pump Inhibitors (PPIs): most effective acid-suppression agents. 80-90% symptom relief in erosive oesophagitis.
+Mechanism: irreversibly block H+/K+-ATPase (proton pump) in parietal cell canaliculus. Must be activated in acid environment. Taken 30-60 minutes before first meal (maximum efficacy when proton pumps maximally stimulated at meal time).
+Members: omeprazole, lansoprazole, pantoprazole, rabeprazole, esomeprazole (S-enantiomer of omeprazole — slightly better pharmacokinetics).
+Duration: step-down approach after 4-8 weeks (PRN or lowest effective dose). Chronic use common.
+Long-term PPI risks: hypomagnesaemia (monitor in long-term users — magnesium supplementation), B12 deficiency (reduced absorption), increased risk C. difficile (↑ gastric pH allows survival), increased pneumonia risk, Clostridioides difficile-associated diarrhoea, bone fractures (possible — reduced calcium absorption), kidney disease (rare), increased gastric polyps (rebound acid hypersecretion), drug interactions (clopidogrel — CYP2C19 inhibition by omeprazole/esomeprazole reduces clopidogrel efficacy — use pantoprazole instead).
+Deprescribing: inappropriate long-term PPI use very common. Regularly review indication. Step down to PRN if lifestyle measures help.
+
+Surgical/procedural:
+Laparoscopic Nissen fundoplication: 360° wrap of gastric fundus around LOS. 85-90% symptom resolution. Suitable for: failed medical management, young patients wishing to avoid long-term PPIs, symptomatic hiatus hernia. Complications: dysphagia (temporary in 20%), gas-bloat syndrome (inability to belch/vomit — loosens over time), wrap slippage.
+Magnetic sphincter augmentation (LINX): ring of magnetic titanium beads placed laparoscopically around LOS — augments sphincter without fundoplication. Preserves belching/vomiting ability. Less dysphagia. Avoid MRI >1.5T.
+Endoscopic options: Stretta (radiofrequency ablation of LOS), transoral incisionless fundoplication (TIF) — less invasive, less effective than laparoscopic.
+
+BARRETT'S OESOPHAGUS:
+Metaplasia of distal oesophageal squamous epithelium to intestinal columnar epithelium (with goblet cells). Occurs in 10-15% of symptomatic GORD patients. Significant risk factor for oesophageal adenocarcinoma (annual risk 0.3-0.5%/year, 30-40× higher than general population but absolute risk still low).
+Diagnosis: endoscopy + biopsy (Prague criteria: C = circumferential extent, M = maximal extent of Barrett's above GEJ).
+Surveillance: endoscopy every 2-5 years depending on length (no dysplasia). Increase frequency if dysplasia detected.
+Treatment: PPIs (reduce risk of progression — not proven to reduce cancer risk). Endoscopic eradication therapy (EET) for high-grade dysplasia or early adenocarcinoma: radiofrequency ablation (RFA — most effective, uses thermal energy, eliminates Barrett's in 90%), endoscopic mucosal resection (EMR — removes raised lesions), endoscopic submucosal dissection (ESD — en-bloc resection of larger lesions).
+
+OESOPHAGEAL CANCER:
+Two main types:
+Squamous cell carcinoma (SCC): middle/upper oesophagus. Risk factors: smoking, alcohol (strongest), achalasia, tylosis, nitrosamine exposure, hot beverages (Plummer-Vinson syndrome: iron deficiency anaemia + oesophageal web + koilonychia → increased SCC risk).
+Adenocarcinoma (AC): lower oesophagus/GEJ. Increasingly common (risen dramatically in 30 years). Risk factors: GORD, Barrett's, obesity, smoking. Declining rates of SCC.
+Symptoms: progressive dysphagia (solids then liquids), weight loss, odynophagia, regurgitation, haematemesis, hoarseness (RLN involvement), bone pain (metastases).
+Investigation: endoscopy + biopsy, CT chest/abdomen/pelvis (staging), PET-CT (lymph node/distant metastasis), endoscopic ultrasound (EUS — local T and N staging, guides resectability assessment).
+Treatment: localised (T1-2 N0): curative intent — endoscopic resection (T1a), oesophagectomy (minimally invasive or open — Ivor-Lewis, McKeown three-stage), potentially neoadjuvant FLOT chemotherapy (fluorouracil, leucovorin, oxaliplatin, docetaxel) + surgery for T3/N+ SCC/AC. Perioperative chemotherapy (FLOT) improves survival vs surgery alone (FLOT4 trial). Locally advanced/unresectable: definitive chemoradiotherapy (cisplatin/5-FU + radiotherapy — standard for SCC; AC less responsive). Metastatic: palliative chemotherapy ± immunotherapy (nivolumab + chemotherapy — CheckMate 649), HER2-targeted (trastuzumab for HER2+ AC/GEJ), ramucirumab. Palliative: oesophageal stenting for dysphagia, radiotherapy for bone pain.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 3: PEPTIC ULCER DISEASE (PUD)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DEFINITION:
+Ulceration of the gastric or duodenal mucosa extending through the muscularis mucosae. Peptic ulcers affect approximately 10% of people during their lifetime. Duodenal ulcers (DU) are 4× more common than gastric ulcers (GU).
+
+AETIOLOGY:
+Helicobacter pylori (H. pylori): most important cause (present in 90-95% of DU, 70-80% of GU). Gram-negative spiral organism colonises gastric antrum. Urease produces ammonia (neutralises acid, allowing survival in acidic environment) + vacuolating cytotoxin (VacA) + CagA virulence factor → mucosal inflammation → disrupts mucus layer → exposes epithelium to acid attack. Transmitted faecal-oral (contaminated water, overcrowding). Prevalence: 70-90% in developing countries, 20-50% in developed. Major risk factor for gastric cancer, gastric MALToma.
+NSAIDs (including low-dose aspirin): second most common cause. Inhibit COX-1 → reduced prostaglandin synthesis → reduced mucus/bicarbonate secretion → reduced mucosal defence. Topical acid effect also. Risk increased with: age >60, prior PUD, H. pylori co-infection, high NSAID dose, corticosteroids, anticoagulants. Gastroprotection (PPI) mandatory with long-term NSAIDs in high-risk patients.
+Zollinger-Ellison syndrome (ZES): gastrin-secreting tumour (gastrinoma) → massive acid hypersecretion → multiple, atypical ulcers (second/third part duodenum, jejunum). Associated with MEN1 (multiple endocrine neoplasia type 1) in 25%. Suspect if recurrent PUD, failure to respond to standard therapy, jejunal ulcers, diarrhoea (acid inactivates pancreatic enzymes). Fasting gastrin >1000 pg/mL strongly suggests ZES. Secretin stimulation test (secretin normally inhibits gastrin — paradoxical rise in ZES). Treatment: high-dose PPIs, surgical resection if localised.
+Other causes: stress ulcers (critically ill patients — burns = Curling's, brain injury = Cushing's — ICU patients — prophylactic PPIs/H2RAs), CMV (immunocompromised), Crohn's disease, radiation.
+
+CLINICAL FEATURES:
+Duodenal ulcer: episodic epigastric pain — classically worse with hunger (2-3 hours post-meal), relieved by food/antacids, nocturnal pain (2-4am), periodic (months of symptoms with remissions). Weight gain (eat to relieve pain).
+Gastric ulcer: pain on eating (food stimulates acid), weight loss (fear of eating).
+Other: nausea, bloating, belching. Many asymptomatic (especially NSAID-induced).
+Alarm features (red flags — require urgent endoscopy): age ≥55 with new/worsening symptoms, dysphagia, unintentional weight loss, haematemesis/melaena, iron-deficiency anaemia, epigastric mass, previous gastric surgery.
+
+COMPLICATIONS:
+GI haemorrhage (most common complication): 15-20% of PUD. Haematemesis (bright red = arterial; coffee-ground = slower, partially digested blood), melaena (dark tarry stool — blood altered by gastric acid + gut transit), haematochezia (bright red PR bleeding — rapid haemorrhage). Forrest Classification (endoscopic assessment of bleeding stigmata):
+IA: Active arterial spurting (70-90% rebleed)
+IB: Active oozing (70% rebleed)
+IIA: Visible vessel (50% rebleed)
+IIB: Adherent clot (25-30% rebleed)
+IIC: Flat haematoma (7-10% rebleed)
+III: Clean base (<5% rebleed)
+Glasgow-Blatchford Score (GBS): pre-endoscopy risk stratification. Score 0 = can be managed safely as outpatient.
+Rockall Score: post-endoscopy risk stratification.
+Management of acute upper GI bleed: resuscitation (large-bore IV access ×2, fluid resuscitation, blood transfusion — restrictive strategy Hb target 70-80 g/L reduces mortality vs liberal), IV PPI (pantoprazole 80mg bolus then 8mg/h infusion — reduces rebleed in high-risk stigmata), urgent endoscopy (within 24 hours; within 12 hours if high risk), endoscopic haemostasis (dual therapy — injection of dilute adrenaline + thermal coagulation or haemoclip application — reduces rebleed and mortality), H. pylori testing and eradication, second-look endoscopy for high-risk lesions, interventional radiology (embolisation) or surgery (oversewing, gastrectomy) for failed endoscopic haemostasis.
+Perforation: peritonitis — sudden severe epigastric pain, board-like rigidity, absent bowel sounds. Air under diaphragm on erect CXR (or CT). Emergency surgery (laparoscopic Graham's patch repair) or conservative management (selected stable patients with sealed perforation — Morgan-Taylor criteria).
+Gastric outlet obstruction: pyloric channel/duodenal ulcer fibrosis → vomiting of undigested food, succussion splash, hypochloraemic metabolic alkalosis, hypokalaemia. Endoscopic balloon dilatation ± surgical pyloroplasty.
+Malignant transformation: gastric ulcer may be malignant — ALL gastric ulcers must be biopsied and followed up to ensure healing.
+
+H. PYLORI TESTING AND ERADICATION:
+Testing:
+Non-invasive: 13C-urea breath test (UBT — gold standard non-invasive, 95% sensitivity/specificity; must stop PPIs 2 weeks and antibiotics 4 weeks before), stool antigen test (HpSA — monoclonal, nearly as accurate as UBT, cheaper, can use in primary care), serology (IgG antibodies — detects past or current infection, cannot confirm eradication after treatment — not recommended for active infection diagnosis).
+Invasive (requires endoscopy): rapid urease test (CLO test — detects urease activity in biopsy), histology (gold standard, diagnoses and grades gastritis, detects metaplasia), culture (sensitivity/antibiotic susceptibility — useful for resistant strains).
+Eradication regimens (UK — local resistance patterns matter):
+First-line (clarithromycin-based triple therapy): PPI (standard dose BD) + clarithromycin 500mg BD + amoxicillin 1g BD × 7-14 days. Success rate 70-85% but falling (clarithromycin resistance increasing). Metronidazole 400mg BD instead of amoxicillin if penicillin allergy.
+First-line (where clarithromycin resistance >15%): bismuth-based quadruple therapy (BQBT): PPI + bismuth subcitrate + metronidazole + tetracycline × 10-14 days. Or concomitant therapy (PPI + clarithromycin + amoxicillin + metronidazole × 10 days). Success >90%.
+Second-line (failure of first-line): levofloxacin-based triple therapy (PPI + levofloxacin + amoxicillin × 10 days), bismuth quadruple, rifabutin-based triple.
+Confirm eradication: UBT or stool antigen ≥4 weeks after completing antibiotics (and ≥2 weeks after stopping PPI). Essential — eradication reduces recurrence from 80% to <10%/year.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 4: INFLAMMATORY BOWEL DISEASE (IBD)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+OVERVIEW:
+IBD comprises Crohn's disease (CD) and ulcerative colitis (UC). Affects approximately 3 million in the USA and 500,000 in the UK. Peak incidence 15-35 years (second peak 50-70 in UC). Increasing incidence globally — associated with Westernisation of diet/lifestyle, altered microbiome, hygiene hypothesis. Higher incidence in developed countries, Ashkenazi Jews, urban populations.
+
+PATHOGENESIS:
+Complex interaction between genetic susceptibility (>200 susceptibility loci identified — NOD2 for CD, HLA associations), dysregulated mucosal immunity (T helper cell imbalance — Th1/Th17 in CD, Th2 in UC), altered gut microbiome (reduced diversity, dysbiosis — Faecalibacterium prausnitzii depleted in CD), and environmental triggers (appendicectomy protective in UC, smoking paradox — protective in UC, major risk factor in CD). Repeated cycles of mucosal inflammation → injury → repair → fibrosis (in CD).
+
+ULCERATIVE COLITIS (UC):
+Continuous mucosal inflammation of the colon, always involves rectum (in 95%), extending proximally (proctitis, left-sided colitis, extensive/pancolitis). Does NOT involve small bowel (except backwash ileitis with pancolitis). Transmural thickness: superficial (mucosa and submucosa only).
+Symptoms: bloody diarrhoea (key feature — blood mixed with or coating stool), mucus PR, increased stool frequency (may be nocturnal), urgency (tenesmus), lower abdominal cramping, weight loss in severe disease.
+Signs in mild/moderate: minimal; in severe: fever, tachycardia, tender distended abdomen.
+Disease activity indices: Simple Clinical Colitis Activity Index (SCCAI) — stool frequency, urgency, blood, general wellbeing, extraintestinal manifestations; Mayo Clinic Score (incorporates endoscopy).
+Investigations: bloods (FBC — anaemia, leukocytosis; CRP/ESR — inflammation; albumin — malnutrition/disease severity; TFTs, B12, folate, iron studies), stool MC&S and Clostridioides difficile (exclude infection), stool calprotectin (faecal biomarker of colonic inflammation — >200 μg/g suggests active IBD, useful to differentiate from IBS), colonoscopy + biopsies (assessment of extent and severity; avoid in severe disease due to perforation risk — flexible sigmoidoscopy safer), CXR and AXR in severe disease (exclude toxic megacolon — transverse colon >6cm + systemic toxicity = emergency).
+Pathology: mucosal erythema, friability, contact bleeding, loss of haustral pattern, pseudopolyps (inflammatory). Histology: crypt abscesses, goblet cell depletion, chronic architectural distortion.
+
+CROHN'S DISEASE (CD):
+Transmural, granulomatous inflammation that can affect ANY part of GI tract from mouth to anus. Characteristically: skip lesions (normal bowel between affected segments), cobblestone appearance, rose-thorn ulcers, fissures. Most common location: terminal ileum ± caecum (ileocaecal — 40%), isolated colon (25%), small bowel alone (25%), upper GI (rare).
+Symptoms: abdominal pain (often right iliac fossa), diarrhoea (may not be bloody — small bowel disease), weight loss, malnutrition (fat, fat-soluble vitamins, B12 malabsorption — terminal ileum disease), fever, fatigue.
+Complications of CD: fistulae (entero-enteral, entero-cutaneous, entero-vesical, perianal — characteristic of CD), abscesses (perianal, intra-abdominal), strictures (fibrosis → small bowel obstruction), perianal disease (fissures, skin tags, fistulae, abscess — may precede luminal symptoms), short gut syndrome (multiple resections), micronutrient deficiencies.
+Harvey-Bradshaw Index (HBI): clinical disease activity score. Remission <5, mild 5-7, moderate 8-16, severe >16.
+Investigations: similar to UC. MRI enterography (MRE) — gold standard small bowel assessment in CD (no radiation, assesses transmural activity and complications). CT abdomen/pelvis: acute complications (obstruction, abscess, fistula). Small bowel capsule endoscopy: mucosal assessment when other imaging inconclusive (contraindicated if stricture — capsule retention risk, patency capsule first). Upper GI endoscopy if upper GI symptoms.
+
+EXTRAINTESTINAL MANIFESTATIONS (EIMs) OF IBD:
+Related to gut disease activity: peripheral arthropathy (large joint — type 1, parallels disease activity; small joint — type 2, independent), erythema nodosum (painful raised nodules on shins, parallels activity), uveitis/episcleritis/iritis.
+Independent of gut activity: axial arthropathy (ankylosing spondylitis, sacroiliitis — HLA-B27 — worse in smoking CD), pyoderma gangrenosum (rapidly enlarging painful necrotic skin ulcers — pathergy phenomenon — any site but particularly legs; treat with high-dose steroids, ciclosporin, infliximab), primary sclerosing cholangitis (PSC — UC strongly associated, CD rare; progressive biliary fibrosis → cirrhosis → cholangiocarcinoma; treat with ursodeoxycholic acid, liver transplantation if cirrhosis).
+
+MEDICAL MANAGEMENT OF IBD:
+5-Aminosalicylic acid (5-ASA/mesalazine): mainstay for mild-moderate UC. Topical (suppositories/enemas for proctitis/left-sided) or oral (extended-release formulations — MMX mesalazine Mezavant, Pentasa granules). Reduces mucosal inflammation, inhibits leukotrienes/prostaglandins. Maintenance: reduces relapse rate 70% in UC. Renal monitoring required (rare interstitial nephritis). Oral 5-ASA largely ineffective in CD.
+Corticosteroids: effective for inducing remission in moderate-severe flares. IV hydrocortisone (400mg/day) or oral prednisolone (40-60mg). Bridge therapy — NOT for maintenance (side effects, dependency, no mucosal healing). Budesonide (gut-specific — Entocort CR for ileal/ileocaecal CD; Budenofalk/Cortiment for colonic — 90% first-pass hepatic metabolism, fewer systemic effects). Steroid-dependent (unable to reduce without relapse) or steroid-refractory: escalate to biologics/immunomodulators.
+Immunomodulators (thiopurines): azathioprine (AZA) 2-2.5 mg/kg/day, 6-mercaptopurine (6-MP) 1-1.5 mg/kg/day. Mechanism: inhibit purine synthesis → antiproliferative effect on lymphocytes. Used for maintenance in both UC and CD. Onset: 3-4 months (slow — bridge with steroids). Check TPMT (thiopurine methyltransferase) activity before starting — low/absent TPMT → severe myelotoxicity risk. Side effects: bone marrow suppression (FBC monitoring — monthly initially), hepatotoxicity (LFTs), pancreatitis (3-5%, usually early — stop immediately), increased infection risk, skin malignancy (NMSC), lymphoma (small but real risk, especially EBV-positive patients — EBV serology before starting). Methotrexate (MTX) 25mg SC weekly: alternative in CD (not established in UC). Folate supplementation. Teratogenic (strict contraception required).
+Biologics:
+Anti-TNF agents: infliximab (IFX, Remicade — IV infusion 0, 2, 6 weeks then every 8 weeks; also given as SC — Renflexis for CD, PsA, RA; check ANA, dsDNA — drug-induced lupus possible), adalimumab (ADA, Humira — SC fortnightly injections; patient self-administration), certolizumab pegol (CD only), golimumab (UC only — SC monthly). Mechanism: bind and neutralise soluble and transmembrane TNF-α → reduce inflammation. Effective for induction and maintenance. Anti-TNF failure: immunogenicity (development of anti-drug antibodies — check drug levels and antibody levels), primary non-response, secondary loss of response. Combination with AZA/MTX reduces immunogenicity.
+Biosimilars: multiple approved biosimilars of infliximab (CT-P13/Inflectra/Remsima, SB2/Flixabi) and adalimumab. Lower cost — mandatory switching policies in many countries (non-medical switching from originator to biosimilar generally safe).
+Anti-integrin: vedolizumab (Entyvio — IV; Entyvio SC available) — anti-α4β7 integrin monoclonal antibody. Blocks lymphocyte trafficking to gut — gut-selective, safer immunosuppressive profile (no increased systemic infection or PML risk as natalizumab). Approved for moderate-severe UC and CD. Slower onset of action than anti-TNF. Preferred in older patients, comorbidities (infection risk), or anti-TNF failure.
+Anti-IL-12/23: ustekinumab (Stelara) — blocks p40 subunit of IL-12 and IL-23. IV loading dose then SC every 8-12 weeks. Approved for moderate-severe CD (UNIFI trial for UC). Excellent safety profile — no increased malignancy risk, minimal opportunistic infections.
+Anti-IL-23 (p19 subunit): risankizumab (Skyrizi — CD), mirikizumab (Omvoh — UC), guselkumab — selective blockade of IL-23, drives Th17 inflammation. No IL-12 blockade — possibly safer. Strong efficacy in CD and UC. Major addition to IBD armamentarium.
+JAK inhibitors (Janus kinase inhibitors): tofacitinib (Xeljanz — UC only; oral BD), upadacitinib (Rinvoq — UC and CD; oral OD), filgotinib (Jyseleca — UC; oral OD). Small molecule oral medications — rapidly on/off. Very effective but safety concerns: thromboembolism (VTE and arterial events — particularly with tofacitinib in cardiovascular risk patients), serious infections (herpes zoster — vaccinate before starting; TB; opportunistic infections), malignancy risk. Avoid in: age >65, smoking, cardiovascular disease, malignancy history (especially lymphoma). Varicella/zoster vaccination ideally before starting. DVT/PE prophylaxis consideration.
+S1P receptor modulators: ozanimod (Zeposia — UC; oral OD). Traps lymphocytes in lymph nodes. Cardiac effects (bradycardia, heart block — first dose monitoring).
+
+SURGICAL MANAGEMENT:
+UC: colectomy curative (UC limited to colon). Indications: acute severe UC failing IV therapy (Truelove-Witts criteria — 6+ bloody stools + any of: HR >90, temp >37.8°C, Hb <10.5, ESR >30, albumin <30), toxic megacolon (emergency — risk perforation), dysplasia/carcinoma, intractable chronic disease. Procedure: total proctocolectomy with ileal pouch-anal anastomosis (IPAA/"J-pouch") — preferred; or end ileostomy (permanent). Pouchitis (inflammation of J-pouch) — common, treat with ciprofloxacin/metronidazole, then maintenance with VSL#3 probiotic.
+CD: bowel-sparing approach (surgery not curative — disease recurs). Resections for: stricture (balloon dilatation if short fibrous stricture, resection for longer), fistula (surgical repair of complex fistulae, EUA), abscess (drainage), refractory disease. Structured post-operative prophylaxis: early endoscopy at 6-12 months, start biologic (adalimumab) post-operatively reduces recurrence.
+
+COLORECTAL CANCER (CRC) SURVEILLANCE IN IBD:
+Increased risk with: pancolitis, duration >8-10 years, PSC (highest risk — lifelong annual surveillance from diagnosis), family history CRC, inflammation severity.
+Colonoscopic surveillance: 3-5 yearly intervals depending on risk (ECCO/BSG guidelines). Chromoendoscopy (dye-spray — indigo carmine or methylene blue) improves dysplasia detection.
+
+MICROSCOPIC COLITIS:
+Collagenous colitis and lymphocytic colitis. Chronic, watery, non-bloody diarrhoea in middle-aged/elderly women. Normal colonoscopy but biopsies show collagen band (collagenous) or increased intraepithelial lymphocytes (lymphocytic). Associated with NSAIDs, PPIs, SSRIs. Treatment: stop offending drug, budesonide (most effective), bismuth, cholestyramine. Usually benign, may be relapsing.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 5: LIVER DISEASE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ACUTE LIVER FAILURE (ALF):
+Rapid onset hepatic dysfunction (jaundice + coagulopathy — INR >1.5) + encephalopathy in previously well person within 26 weeks of onset. Hyperacute (<7 days onset): paracetamol overdose (most common in UK), ischaemic hepatitis, Budd-Chiari. Acute (7-28 days): acute viral hepatitis (HAV, HBV), drug reactions, Wilson's. Subacute (5-26 weeks): drug reactions, viral hepatitis, cryptogenic.
+Paracetamol overdose: dose-dependent hepatotoxicity via toxic metabolite NAPQI (N-acetyl-p-benzoquinone imine) when glutathione depleted. Risk increased by: fasting, malnutrition, enzyme inducers (alcohol chronically, anticonvulsants), alcohol. King's College Criteria: INR >6.5, or any 3 of — pH <7.3 (24h post-ingestion), INR >6.5, creatinine >300, grade 3-4 encephalopathy → poor prognosis → transplant listing. N-acetylcysteine (NAC): antidote, repletes glutathione, effective up to 24h (some benefit beyond). IV regimen: 150 mg/kg over 1 hour, then 50 mg/kg over 4 hours, then 100 mg/kg over 16 hours. Oral activated charcoal within 1 hour of overdose.
+Management of ALF: specialist liver centre, monitoring neurological status and ICP, liver transplantation (only definitive treatment for irreversible ALF — excellent outcomes if transplanted promptly), N-acetylcysteine (benefit even in non-paracetamol ALF — improves transplant-free survival), treat underlying cause, complications management (encephalopathy, coagulopathy, renal failure, hypoglycaemia, infection).
+
+CHRONIC LIVER DISEASE AND CIRRHOSIS:
+Cirrhosis: irreversible architectural distortion with fibrosis and regenerative nodules. End-stage of many chronic liver diseases.
+Causes: alcohol (most common in UK — 60%), NAFLD/NASH (rapidly rising — metabolic disease), viral hepatitis (HBV, HCV), haemochromatosis, autoimmune hepatitis, PBC (primary biliary cholangitis), PSC, Wilson's disease, alpha-1 antitrypsin deficiency, cardiac cirrhosis.
+
+ALCOHOLIC LIVER DISEASE (ALD):
+Spectrum: fatty liver (steatosis — reversible with abstinence), alcoholic hepatitis (acute inflammation — acute-on-chronic liver failure), cirrhosis.
+Alcoholic hepatitis: acute presentation — jaundice, fever, hepatomegaly, tender, leukocytosis, elevated bilirubin, elevated AST:ALT ratio >2:1 (alcohol preferentially destroys mitochondria → reduces ALT synthesis). Maddrey's Discriminant Function (DF = 4.6 × PT + serum bilirubin — if DF >32 = severe): prednisolone 40mg/day for 28 days (reduces short-term mortality if Lille score favourable at day 7). Pentoxifylline no longer recommended (STOPAH trial). Liver transplantation for selected patients with severe alcoholic hepatitis not responding to steroids, even without prior 6-month abstinence (transplant centres increasingly considering early transplant).
+
+NON-ALCOHOLIC FATTY LIVER DISEASE (NAFLD)/METABOLIC DYSFUNCTION-ASSOCIATED STEATOTIC LIVER DISEASE (MASLD):
+New nomenclature (2023): MASLD replaces NAFLD (more precise, focuses on metabolic drivers). Simple steatosis → steatohepatitis (MASH — inflammation + ballooning → fibrosis) → cirrhosis → hepatocellular carcinoma. Affects 25-30% of Western adults. Strongly associated with metabolic syndrome (obesity, insulin resistance, diabetes, dyslipidaemia, hypertension).
+Diagnosis: liver ultrasound (steatosis), liver biopsy (gold standard — distinguishes steatosis from MASH and grades fibrosis), non-invasive markers (FIB-4 index = age × AST / [platelets × √ALT] — risk stratifies patients: <1.3 low risk, >2.67 high risk for advanced fibrosis; liver stiffness measurement by transient elastography/FibroScan — kPa correlates with fibrosis stage).
+Treatment: weight loss (7-10% body weight reduces inflammation, >10% may improve fibrosis), exercise, address metabolic comorbidities. No approved pharmacotherapy for MASH in UK (resmetirom — THR-β agonist — FDA-approved in USA 2024 for MASH with significant fibrosis). GLP-1 RAs (semaglutide), pioglitazone (reduces MASH but side effects), vitamin E (reduces MASH in non-diabetics — not fibrosis). Avoid hepatotoxic drugs, alcohol.
+
+VIRAL HEPATITIS:
+Hepatitis A (HAV): RNA picornavirus. Faecal-oral transmission. Self-limiting acute hepatitis. No chronic infection. Vaccination highly effective. Treatment supportive.
+Hepatitis B (HBV): DNA hepadnavirus. Blood/sexual/vertical transmission. Acute hepatitis → 90-95% of adults recover (5-10% chronic); 90% of neonates → chronic. Markers: HBsAg (surface antigen — present in acute and chronic), anti-HBs (immunity — post-infection or vaccination), HBeAg (e antigen — high replication, high infectivity), HBeAg seroconversion (loss of HBeAg, gain anti-HBe — lower replication), HBV DNA (viral load — monitors treatment). HBV genotypes: A-J (genotype affects treatment response). Complications: cirrhosis (25% of chronic HBV), hepatocellular carcinoma (HCC — significant risk even without cirrhosis). Treatment: entecavir or tenofovir (TDF/TAF) — first-line, potent, low resistance. Pegylated interferon alpha (Peg-IFN-α): 48-week course, induces immune-mediated viral control, 30% achieve HBeAg seroconversion (higher in genotype A), side effects (flu-like, depression, cytopenias). HBsAg loss (functional cure) achievable in small proportion. Vaccination: 3-dose schedule, >95% efficacy. Neonates born to HBsAg+ mothers: HBV immunoglobulin + vaccine within 12h of birth.
+Hepatitis C (HCV): RNA flavivirus. Blood-borne (IVDU primary route now; previously transfusions before 1991). 70-80% develop chronic infection. 20% cirrhosis in 20-30 years; 1-4% HCC per year in cirrhotics. No vaccine. Direct-Acting Antivirals (DAAs) — revolutionary treatment: pan-genotypic regimens achieve >95% sustained virological response (SVR = cure) in 8-12 weeks. First-line UK: sofosbuvir/velpatasvir (Epclusa) 12 weeks pan-genotypic; glecaprevir/pibrentasvir (Maviret) 8 weeks (treatment-naïve, no cirrhosis) pan-genotypic. Side effects minimal. Contraindications: decompensated cirrhosis (some regimens — hepatotoxicity of NS3 protease inhibitors), drug interactions (amiodarone + sofosbuvir — severe bradycardia).
+Hepatitis D (HDV): requires HBsAg to replicate. Co-infection with HBV. Superinfection → accelerated liver disease. Treatment: Peg-IFN-α (bulevirtide — new, approved in EU). Vaccination against HBV prevents HDV.
+Hepatitis E (HEV): RNA virus. Faecal-oral (contaminated water in developing countries, undercooked pork in developed countries). Usually self-limiting. Severe in pregnancy (maternal mortality 20-25% in third trimester). Chronic HEV in immunosuppressed (transplant recipients — treat with ribavirin, reduce immunosuppression). Vaccine available in China.
+Autoimmune hepatitis (AIH): elevated aminotransferases (often >10× ULN), elevated IgG, positive ANA (type 1), anti-LKM1 (type 2 — younger patients), anti-smooth muscle antibody (SMA, type 1). Biopsy: interface hepatitis, plasma cell infiltrate. Responds to immunosuppression: prednisolone + azathioprine (budesonide as steroid-sparing). Cirrhosis develops in 40% if untreated. 85% long-term remission with treatment.
+Primary Biliary Cholangitis (PBC): autoimmune disease of small intrahepatic bile ducts. Predominantly middle-aged women. Anti-mitochondrial antibody (AMA-M2) — 95% sensitive. Elevated ALP, GGT, IgM. Symptoms: fatigue (most common), pruritus (bile salt deposition in skin). Complications: fat-soluble vitamin deficiency (A, D, E, K), osteoporosis, cirrhosis, HCC. Treatment: ursodeoxycholic acid (UDCA 13-15 mg/kg/day — reduces rate of progression, improves liver tests, reduces transplant rates). Obeticholic acid (OCA — FXR agonist) for inadequate response to UDCA. Bezafibrate add-on. Pruritus: cholestyramine (first-line), rifampicin, naltrexone, SSRI. End-stage: liver transplantation.
+Wilson's Disease: autosomal recessive, ATP7B mutation → copper accumulation in liver, brain, eyes (Kayser-Fleischer rings — golden-brown pigment at corneal periphery — seen by slit lamp; virtually pathognomonic), kidneys. Liver disease ranges from fulminant hepatic failure to cirrhosis. Neuropsychiatric: dysarthria, tremor, choreoathetosis, psychiatric features. Diagnosis: serum caeruloplasmin (low in 85%), 24h urine copper (elevated), liver copper (biopsy — gold standard, >250 μg/g dry weight). Treatment: D-penicillamine (chelation — mobilises copper, side effects: proteinuria, haematuria, lupus-like, rash), trientine (better tolerated), zinc (prevents absorption). Liver transplantation for acute liver failure or decompensated cirrhosis.
+Haemochromatosis: autosomal recessive, HFE gene mutations (C282Y/H63D). Northern European ancestry. Iron accumulation in liver, heart, pancreas ("bronze diabetes"), joints (chondrocalcinosis, arthropathy), pituitary (hypogonadism), skin (hyperpigmentation). Serum ferritin + transferrin saturation (>45% = elevated). Confirm with liver biopsy or MRI liver (iron quantification). HFE genotyping. Treatment: therapeutic venesection (500mL blood = 250mg iron; weekly to ferritin <50 μg/L, then 3-monthly maintenance lifelong). Early treatment prevents progression. Liver transplantation for cirrhosis.
+Alpha-1 antitrypsin (A1AT) deficiency: autosomal recessive. PiZZ genotype. A1AT protein misfolds and accumulates in hepatocytes → liver disease (cirrhosis, HCC). Also causes emphysema (unchecked neutrophil elastase in lungs). Liver: liver biopsy shows PAS-positive diastase-resistant globules. Treatment: supportive. Liver transplantation corrects deficiency (donor liver produces normal A1AT). AAT augmentation therapy for lung disease.
+
+COMPLICATIONS OF CIRRHOSIS:
+Portal hypertension (portal pressure >12 mmHg = clinically significant): results from increased resistance at hepatic sinusoids + increased portal blood flow (splanchnic vasodilation).
+Varices: oesophageal and gastric — dilated portosystemic collaterals. Primary prophylaxis of variceal bleeding: non-selective beta-blockers (propranolol/carvedilol — reduce cardiac output AND portal pressure) for all patients with medium/large varices. Secondary prophylaxis: beta-blockers + endoscopic variceal ligation (EVL).
+Variceal haemorrhage: medical emergency, mortality 10-20% per episode. Management: ABC resuscitation, restrictive transfusion (Hb target 70-80 g/L), terlipressin IV (synthetic vasopressin analogue, reduces portal pressure — 2mg 4-hourly for 24-48h, then 1mg 4-hourly for up to 5 days) or somatostatin/octreotide, IV prophylactic antibiotics (norfloxacin or IV cefotaxime — reduces bacterial translocation and infection), emergency endoscopy (EVL ± injection sclerotherapy), Sengstaken-Blakemore tube if uncontrolled (bridge), TIPSS (transjugular intrahepatic portosystemic shunt — radiological creation of intrahepatic connection between portal and hepatic veins; reduces portal pressure; complications: hepatic encephalopathy, thrombosis).
+Ascites: fluid accumulation in peritoneal cavity. Serum-ascites albumin gradient (SAAG) ≥11 g/L = portal hypertension. Management: sodium restriction (<2g/day), spironolactone (100-400mg, first-line diuretic), furosemide (40-160mg, second-line, combine with spironolactone ratio 100:40). Therapeutic paracentesis for tense/diuretic-refractory ascites (5L removed safely if albumin infusion given — 6-8g human albumin solution per litre removed). Spontaneous bacterial peritonitis (SBP): acute infection of ascites. Suspect if: ascitic PMN >250/mm³ (even without obvious symptoms). Symptoms: fever, abdominal pain, confusion, worsening liver function. Diagnosis: diagnostic paracentesis (send ascites for MC&S, cell count, protein, LDH, glucose, amylase, cytology). Treatment: IV cefotaxime 2g TDS or piperacillin/tazobactam for 5 days; albumin 1.5 g/kg at diagnosis + 1 g/kg at day 3 (reduces hepatorenal syndrome and mortality — SORT trial). Secondary prophylaxis: norfloxacin or ciprofloxacin lifelong (or trimethoprim in penicillin allergy).
+Hepatic encephalopathy (HE): neuropsychiatric dysfunction due to liver failure + portosystemic shunting → ammonia + other neurotoxins reach brain. Precipitants: infection (most common), GI bleed, constipation, dehydration, sedatives/opioids, renal failure, dietary protein excess. Grades (West Haven criteria): I (mild confusion), II (drowsy, inappropriate), III (somnolent but rousable, gross confusion), IV (coma). Number connection test (NCT) for covert HE. Treatment: identify/treat precipitant, lactulose (laxative — reduces ammonia-producing bacteria, acidifies colon — target 2-3 soft stools/day), rifaximin (minimally absorbed antibiotic — reduces gut bacteria, reduces HE recurrence by 58% — add to lactulose for secondary prophylaxis), protein restriction no longer recommended (ensure adequate nutrition), L-ornithine L-aspartate (LOLA) — IV for acute HE.
+Hepatorenal syndrome (HRS): functional renal failure due to intense renal vasoconstriction in cirrhosis with portal hypertension. No intrinsic renal pathology. HRS-AKI (type 1 — rapidly progressive, worse prognosis) vs HRS-CKD (type 2 — slower). Diagnostic criteria: cirrhosis + ascites, AKI (creatinine rise ≥26 μmol/L or >50% in 48h), no improvement with 48h fluid resuscitation, no nephrotoxic drugs, no parenchymal renal disease. Treatment: vasoconstrictors (terlipressin + albumin IV — most effective, FDA-approved USA 2022; noradrenaline infusion alternative if terlipressin unavailable; midodrine + octreotide + albumin as oral outpatient regimen), liver transplantation (definitive — resolves HRS).
+Hepatopulmonary syndrome (HPS): hypoxaemia due to intrapulmonary vascular dilation in cirrhosis. Platypnoea (dyspnoea worse sitting, better lying) and orthodeoxia (SpO2 falls >5% sitting up). Bubble contrast echocardiography (late opacification of left heart — intrapulmonary shunting). Liver transplantation resolves HPS.
+Hepatocellular carcinoma (HCC): HCC 6-monthly ultrasound surveillance (± AFP) recommended for all cirrhotic patients and high-risk non-cirrhotic (HBV, advanced fibrosis). Diagnosis: LI-RADS criteria on CT or MRI (typical arterial enhancement + washout = HCC — biopsy not always needed). Barcelona Clinic Liver Cancer (BCLC) staging system guides treatment:
+Very early/early (0-A): curative intent — ablation (radiofrequency ablation/microwave ablation for ≤3cm), resection (Child-Pugh A, adequate future liver remnant), liver transplantation (Milan criteria: 1 nodule ≤5cm OR ≤3 nodules each ≤3cm — 5-year survival 70%).
+Intermediate (B): TACE (transarterial chemoembolisation — lipiodol + doxorubicin/drug-eluting beads into hepatic artery feeding tumour), TARE (selective internal radiotherapy with Y90 microspheres).
+Advanced (C — vascular invasion/extrahepatic spread): systemic therapy — sorafenib (SHARP trial — first targeted therapy, improved OS 3 months), lenvatinib (non-inferior to sorafenib, higher response rate), atezolizumab + bevacizumab (IMbrave150 trial — superior to sorafenib, now first-line for Child-Pugh A advanced HCC), tremelimumab + durvalumab (HIMALAYA trial — single dose tremelimumab + durvalumab). Second-line: regorafenib, cabozantinib, ramucirumab (AFP >400).
+Terminal (D): palliative/best supportive care.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 6: PANCREATITIS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ACUTE PANCREATITIS:
+Sudden onset abdominal pain due to pancreatic inflammation. Incidence: 30-40 per 100,000/year. Overall mortality: 3-5% (severe: 15-25%).
+Aetiology (GET SMASHED mnemonic): Gallstones (most common in UK, 40-50% — biliary sludge migrates through CBD causing transient obstruction of pancreatic duct/ampulla → enzyme activation), Ethanol (alcohol, 20-30%), Trauma, Steroids, Mumps (viral), Autoimmune (IgG4-related), Scorpion sting (rare), Hyperlipidaemia (severe hypertriglyceridaemia >11 mmol/L — 1-4%), Hypo/hypercalcaemia (hyperparathyroidism), Endoscopic (ERCP — 2-4%), Drugs (azathioprine, valproate, thiazides, didanosine, statins — rare).
+Presentation: acute severe epigastric pain radiating to back ("boring" through to back), nausea, vomiting, fever, tachycardia. Retroperitoneal haemorrhage signs (rare, severe): Grey-Turner's (flank bruising), Cullen's (periumbilical bruising).
+Investigation: serum amylase (elevated >3× ULN — sensitivity 80%, not specific for pancreas; normalises in 24-48h); serum lipase (more specific, elevated longer; preferred biomarker), CRP (rises to peak at 48-72h — CRP >150 at 48h predicts severe), FBC (leukocytosis), U&E (dehydration, renal impairment — poor prognostic sign), LFTs/bilirubin (gallstone aetiology — elevated ALP/bilirubin), calcium (hypocalcaemia — fat saponification, poor prognosis), triglycerides (if no other cause), glucose (hyperglycaemia — poor prognosis), USS abdomen (gallstones, CBD dilatation, gallbladder). CT abdomen with contrast (CECT) — NOT routinely at admission (normal early CT, contrast may worsen pancreatic necrosis); perform at 48-72h if severe to assess necrosis (Balthazar grade/CT severity index).
+Severity scoring:
+Modified Glasgow Criteria (IMRIE) at 48h — ≥3 predicts severe: PaO2 <60 mmHg, WBC >15, Urea >16 mmol/L, LDH >600, Glucose >10, Albumin <32, Calcium <2, Age >55.
+APACHE-II score: if ≥8, predicts severe.
+Bedside Index of Severity in Acute Pancreatitis (BISAP): 5 criteria (BUN >25, impaired mental status, SIRS, age >60, pleural effusion) at 24h.
+Management:
+Fluid resuscitation: aggressive early (first 12-24h) IV fluids (Hartmann's solution — lower risk acidosis vs normal saline; 250-500 mL/h initially; guided by clinical response). Aim urine output >0.5 mL/kg/h.
+Analgesia: IV morphine or fentanyl (no evidence against opioids in pancreatitis — old concern re Oddi's sphincter spasm with morphine not supported). PCA (patient-controlled analgesia) for severe.
+Antiemetics. Nil by mouth if severe initially (but early enteral nutrition superior to parenteral — feed via NG tube or NJ tube within 24-48h if unable to eat).
+Antibiotics: NOT prophylactically (does not prevent infection of necrosis — IMRIE guidance). Only if infection confirmed or suspected (infected necrosis — bacteraemia, clinical deterioration, CT showing air in necrosis). Carbapenems (meropenem) — penetrate pancreatic tissue.
+Gallstone pancreatitis: USS. If mild/settling with stones in CBD: ERCP within 72h. If severe or cholangitis: urgent ERCP within 24h. Cholecystectomy during same admission if mild (prevents recurrence — without cholecystectomy, 25-30% recurrence within 6 weeks).
+Complications: acute peripancreatic fluid collections (resolve spontaneously), acute necrotic collections (→ walled-off necrosis if persist >4 weeks), infected necrosis (best managed with "step-up" approach — antibiotic therapy → percutaneous drainage → minimally invasive retroperitoneal pancreatic necrosectomy/videoscopic endoscopic necrosectomy, avoid open surgery if possible), pseudocyst, splenic vein thrombosis, pseudoaneurysm, pleural effusion, ARDS, organ failure.
+
+CHRONIC PANCREATITIS:
+Irreversible structural damage to pancreas from chronic inflammation. Fibrosis, calcification, ductal changes → exocrine and endocrine insufficiency.
+Causes: alcohol (70-80%), smoking (independent risk factor and cofactor), hereditary (PRSS1 mutation — hereditary pancreatitis, autosomal dominant; CFTR, SPINK1, CTRC mutations), autoimmune pancreatitis type 1 (IgG4-related), tropical (malnutrition, cassava toxin), obstructive (pancreatic duct stricture, tumour), idiopathic.
+Symptoms: chronic/relapsing epigastric pain (often severe, worse after meals, radiates to back, improved by sitting forward), steatorrhoea (pancreatic exocrine insufficiency — fat malabsorption when lipase activity <10% of normal — pale/bulky/offensive stools, difficult to flush), diabetes mellitus (pancreatic/type 3c — insulin and glucagon deficiency — brittle diabetes), weight loss (pain, malabsorption, diabetes), fat-soluble vitamin deficiency.
+Investigation: serum amylase/lipase often normal in chronic disease. CT (calcifications — pathognomonic, atrophy, ductal dilatation), MRCP (ductal morphology, strictures), EUS (parenchymal + ductal changes — most sensitive for early disease), faecal elastase (exocrine insufficiency — <100 μg/g = severe insufficiency). 
+Management: lifestyle (abstinence from alcohol and smoking — most important, slows progression, reduces pain), analgesia (step-wise — paracetamol/NSAIDs → tramadol → strong opioids), pancreatic enzyme replacement therapy (PERT — Creon — with every meal and snack; titrate dose to response; fat-soluble vitamin supplementation), diabetes management (insulin required in advanced disease — hypoglycaemia risk due to concurrent glucagon deficiency), endoscopic therapy (duct decompression — ERCP with stenting for dominant stricture, lithotripsy for stones), extracorporeal shock wave lithotripsy (ESWL) for large calculi, EUS-guided procedures, surgery (drainage procedure — lateral pancreaticojejunostomy/Puestow; Whipple procedure for head-predominant disease with intractable pain). Total pancreatectomy with islet autotransplantation (TPIAT) — severe refractory hereditary pancreatitis in young patients.
+
+END OF GASTROENTEROLOGY TRAINING DATA
+Total: ~12,500 words | Sections: 6 | Estimated chunks: ~100
