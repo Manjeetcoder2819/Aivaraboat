@@ -13,7 +13,7 @@ function SettingsForm() {
   const [temperature, setTemperature] = useState(0.3);
   const [saving, setSaving] = useState(false);
 
-  const handleSave = (e) => {
+  const handleSave = (e: React.FormEvent) => {
     e.preventDefault();
     setSaving(true);
     setTimeout(() => {
