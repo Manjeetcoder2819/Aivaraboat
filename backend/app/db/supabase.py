@@ -1,4 +1,6 @@
 import uuid
+import json
+from pathlib import Path
 from datetime import datetime
 from typing import Optional, Any
 import logging
@@ -7,7 +9,10 @@ from app.core.config import get_settings
 
 logger = logging.getLogger(__name__)
 
-# In-memory storage fallback when offline
+# File path for local database persistence
+DB_FILE = Path(__file__).resolve().parents[2] / "data" / "local_db.json"
+
+# Fallback local data structure
 IN_MEMORY_DB = {
     "users": [],
     "conversations": [],
@@ -20,6 +25,34 @@ IN_MEMORY_DB = {
         }
     ]
 }
+
+def load_db():
+    global IN_MEMORY_DB
+    if DB_FILE.exists():
+        try:
+            with open(DB_FILE, "r") as f:
+                data = json.load(f)
+                # Keep hardcoded doc-diabetes as a default if missing
+                docs = data.setdefault("knowledge_documents", [])
+                if not any(d.get("id") == "doc-diabetes" for d in docs):
+                    docs.append({
+                        "id": "doc-diabetes",
+                        "filename": "diabetes_guidelines.pdf",
+                        "title": "Clinical Guidelines for Diabetes Care"
+                    })
+                IN_MEMORY_DB = data
+                logger.info(f"Loaded local database from {DB_FILE}")
+        except Exception as e:
+            logger.error(f"Failed to load local database: {e}")
+
+def save_db():
+    try:
+        DB_FILE.parent.mkdir(parents=True, exist_ok=True)
+        with open(DB_FILE, "w") as f:
+            json.dump(IN_MEMORY_DB, f, indent=2)
+            logger.debug(f"Saved local database to {DB_FILE}")
+    except Exception as e:
+        logger.error(f"Failed to save local database: {e}")
 
 class MockResponse:
     def __init__(self, data: Any):
@@ -87,6 +120,7 @@ class MockQuery:
                 if "created_at" not in row:
                     row["created_at"] = datetime.utcnow().isoformat()
                 table.append(row)
+                save_db()
                 return MockResponse([row])
             elif isinstance(data, list):
                 rows = []
@@ -98,6 +132,7 @@ class MockQuery:
                         row["created_at"] = datetime.utcnow().isoformat()
                     table.append(row)
                     rows.append(row)
+                save_db()
                 return MockResponse(rows)
                 
         elif self.action == "select":
@@ -146,6 +181,7 @@ class MockQuery:
             for idx in filtered_indices:
                 table[idx].update(self.action_data)
                 updated_rows.append(table[idx])
+            save_db()
             return MockResponse(updated_rows)
             
         elif self.action == "delete":
@@ -168,6 +204,7 @@ class MockQuery:
                 else:
                     kept_rows.append(row)
             IN_MEMORY_DB[self.table_name] = kept_rows
+            save_db()
             return MockResponse(deleted_rows)
 
         return MockResponse([])
@@ -344,6 +381,9 @@ class SupabaseQueryWrapper:
                 return mock_q.execute()
             else:
                 raise e
+
+# Initial DB load
+load_db()
 
 _supabase_client: Optional[SupabaseFallbackWrapper] = None
 
