@@ -7,7 +7,7 @@ import logging
 
 from app.core.config import get_settings
 from app.core.middleware import RequestLoggingMiddleware, GlobalExceptionMiddleware
-from app.api import chat, sessions, knowledge, auth, analytics, profile
+from app.api import chat, sessions, knowledge, auth, analytics, profile, finetune
 
 logging.basicConfig(
     level=logging.INFO,
@@ -42,6 +42,7 @@ app.include_router(chat.router)
 app.include_router(knowledge.router)
 app.include_router(analytics.router)
 app.include_router(profile.router)
+app.include_router(finetune.router)
 
 
 @app.get("/", tags=["root"])

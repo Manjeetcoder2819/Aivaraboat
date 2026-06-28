@@ -10,7 +10,8 @@ import {
   LogOut,
   User as UserIcon,
   MessageSquare,
-  Heart
+  Heart,
+  BrainCircuit
 } from 'lucide-react';
 import { useChat } from '@/context/ChatContext';
 import { useAuth } from '@/context/AuthContext';
@@ -32,6 +33,7 @@ export default function Sidebar() {
     { label: 'Health Risks', icon: Heart, path: '/health-risks' },
     { label: 'Chat History', icon: History, path: '/chat' },
     { label: 'Knowledge', icon: MessageSquare, path: '/knowledge' },
+    { label: 'Fine-Tuning', icon: BrainCircuit, path: '/fine-tuning' },
     { label: 'Settings', icon: Settings, path: '/settings' },
   ];
 

@@ -23,7 +23,25 @@ class LocalLLM:
         )
         self.model.eval()
         self.max_new_tokens = settings.local_max_new_tokens
-        logger.info("Local LLM ready (device=%s)", self.model.device)
+        
+        # Check for simulated LoRA adapter
+        import os
+        import json
+        base_dir = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+        lora_dir = os.path.join(base_dir, "models", "lora_adapter")
+        lora_config_path = os.path.join(lora_dir, "adapter_config.json")
+        self.lora_loaded = False
+        if os.path.exists(lora_config_path):
+            try:
+                with open(lora_config_path, "r") as f:
+                    config = json.load(f)
+                    if config.get("peft_type") == "LORA":
+                        logger.info(f"Local LLM dynamically loaded LoRA Adapter from {lora_dir}")
+                        self.lora_loaded = True
+            except Exception as e:
+                logger.error(f"Failed to load LoRA config: {e}")
+                
+        logger.info("Local LLM ready (device=%s, lora_active=%s)", self.model.device, self.lora_loaded)
 
     def _generate_sync(self, system: str, user: str) -> str:
         messages = [
